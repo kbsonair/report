@@ -42,12 +42,13 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     --border: #2a2a2a;
     --text: #eaeaea;
     --text-dim: #8a8a8a;
-    --accent: #ffffff;
+    --accent: #39ff88;       /* 포인트 컬러: 형광 초록 */
+    --accent-dim: #1f8f52;
     --home: #4a4a4a;
     --draw: #6b6b6b;
-    --away: #d9d9d9;
-    --hit: #eaeaea;
-    --miss: #5a5a5a;
+    --away: #6b6b6b;
+    --hit: #34d058;          /* 적중 = 초록 */
+    --miss: #ef4444;         /* 미적중 = 빨강 */
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -61,9 +62,9 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   header {{
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: flex-start;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 12px;
     border-bottom: 1px solid var(--border);
     padding-bottom: 16px;
     margin-bottom: 24px;
@@ -77,6 +78,23 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   .meta {{
     font-size: 12px;
     color: var(--text-dim);
+    margin-top: 4px;
+  }}
+  .header-right {{
+    text-align: right;
+  }}
+  .accuracy {{
+    font-size: 13px;
+    font-weight: 600;
+  }}
+  .accuracy .rate {{
+    color: var(--accent);
+    font-size: 18px;
+  }}
+  .accuracy-sub {{
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 2px;
   }}
   .filters {{
     display: flex;
@@ -94,8 +112,8 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     cursor: pointer;
   }}
   .filters button.active {{
-    color: var(--text);
-    border-color: var(--text);
+    color: var(--accent);
+    border-color: var(--accent);
   }}
   .section-title {{
     font-size: 12px;
@@ -103,6 +121,8 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     text-transform: uppercase;
     letter-spacing: 0.08em;
     margin: 28px 0 12px;
+    border-left: 2px solid var(--accent);
+    padding-left: 8px;
   }}
   .grid {{
     display: grid;
@@ -138,8 +158,9 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   }}
   .score {{
     font-variant-numeric: tabular-nums;
-    color: var(--text-dim);
-    font-weight: 400;
+    color: var(--text);
+    font-weight: 700;
+    padding: 0 8px;
   }}
   .prob-bar {{
     height: 5px;
@@ -152,7 +173,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   .prob-bar span {{ height: 100%; }}
   .prob-bar .home {{ background: var(--home); }}
   .prob-bar .draw {{ background: var(--draw); }}
-  .prob-bar .away {{ background: var(--away); }}
+  .prob-bar .away {{ background: var(--accent-dim); }}
   .prob-labels {{
     display: flex;
     justify-content: space-between;
@@ -167,26 +188,34 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   }}
   .ai-picks {{
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 600;
+    color: var(--accent);
   }}
   .badge {{
     font-size: 10px;
     padding: 2px 8px;
     border-radius: 999px;
     border: 1px solid var(--border);
+    color: var(--text-dim);
+    white-space: nowrap;
   }}
   .badge.hit {{ color: var(--hit); border-color: var(--hit); }}
-  .badge.miss {{ color: var(--miss); }}
+  .badge.miss {{ color: var(--miss); border-color: var(--miss); }}
   .badge.pending {{ color: var(--text-dim); }}
-  a.card-link {{ text-decoration: none; color: inherit; display: block; }}
-  .empty {{ color: var(--text-dim); font-size: 13px; padding: 40px 0; text-align: center; }}
+  .empty {{ color: var(--text-dim); font-size: 13px; padding: 40px 0; text-align: center; grid-column: 1 / -1; }}
 </style>
 </head>
 <body>
 <div class="wrap">
   <header>
-    <h1>프리미엄 분석 대시보드</h1>
-    <div class="meta">수집 시각: {scraped_at} · 총 {count}건</div>
+    <div>
+      <h1>프리미엄 분석 대시보드</h1>
+      <div class="meta">수집 시각: {scraped_at} · 총 {count}건</div>
+    </div>
+    <div class="header-right">
+      <div class="accuracy">당일 적중률 <span class="rate" id="accuracy-rate">-</span></div>
+      <div class="accuracy-sub" id="accuracy-sub"></div>
+    </div>
   </header>
 
   <div class="filters" id="filters">
@@ -201,7 +230,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   <div class="section-title">진행 / 예정</div>
   <div class="grid" id="upcoming-grid"></div>
 
-  <div class="section-title">종료</div>
+  <div class="section-title">완료됨</div>
   <div class="grid" id="finished-grid"></div>
 </div>
 
@@ -236,30 +265,46 @@ function cardHTML(m) {{
   if (m.status === "종료") {{
     if (m.result === "적중") badge = `<span class="badge hit">적중</span>`;
     else if (m.result === "미적중") badge = `<span class="badge miss">미적중</span>`;
-    else badge = `<span class="badge">종료</span>`;
+    else badge = `<span class="badge">완료</span>`;
   }}
 
+  // 클릭/이동 불가 - 순수 정보 카드로만 표시
   return `
-    <a class="card-link" href="${{m.url}}" target="_blank" rel="noopener">
-      <div class="card">
-        <div class="card-head">
-          <span>${{m.league || ""}}</span>
-          <span>${{m.date || ""}} ${{m.time || ""}}</span>
-        </div>
-        <div class="teams">
-          <span>${{m.team1 || "?"}}</span>
-          ${{scoreHTML}}
-          <span>${{m.team2 || "?"}}</span>
-        </div>
-        ${{probBarHTML(m.prob || {{}})}}
-        <div class="ai-line">${{m.ai_summary || ""}}</div>
-        <div style="display:flex; justify-content:space-between; align-items:center;">
-          <div class="ai-picks">${{(m.ai_picks || []).join(", ")}}</div>
-          ${{badge}}
-        </div>
+    <div class="card">
+      <div class="card-head">
+        <span>${{m.league || ""}}</span>
+        <span>${{m.date || ""}} ${{m.time || ""}}</span>
       </div>
-    </a>
+      <div class="teams">
+        <span>${{m.team1 || "?"}}</span>
+        ${{scoreHTML}}
+        <span>${{m.team2 || "?"}}</span>
+      </div>
+      ${{probBarHTML(m.prob || {{}})}}
+      <div class="ai-line">${{m.ai_summary || ""}}</div>
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+        <div class="ai-picks">${{(m.ai_picks || []).join(", ")}}</div>
+        ${{badge}}
+      </div>
+    </div>
   `;
+}}
+
+function updateAccuracy(sportFilter) {{
+  const finished = DATA.matches.filter(m => m.status === "종료" && (sportFilter === "all" || m.sport === sportFilter));
+  const hits = finished.filter(m => m.result === "적중").length;
+  const misses = finished.filter(m => m.result === "미적중").length;
+  const total = hits + misses;
+  const rateEl = document.getElementById("accuracy-rate");
+  const subEl = document.getElementById("accuracy-sub");
+  if (total === 0) {{
+    rateEl.textContent = "-";
+    subEl.textContent = "완료된 경기 없음";
+    return;
+  }}
+  const rate = ((hits / total) * 100).toFixed(1);
+  rateEl.textContent = `${{rate}}%`;
+  subEl.textContent = `${{hits}}적중 / ${{misses}}미적중 (${{total}}건)`;
 }}
 
 function render(sportFilter) {{
@@ -270,7 +315,9 @@ function render(sportFilter) {{
   const finEl = document.getElementById("finished-grid");
 
   upEl.innerHTML = upcoming.length ? upcoming.map(cardHTML).join("") : `<div class="empty">해당 종목의 예정 경기가 없습니다.</div>`;
-  finEl.innerHTML = finished.length ? finished.map(cardHTML).join("") : `<div class="empty">해당 종목의 종료 경기가 없습니다.</div>`;
+  finEl.innerHTML = finished.length ? finished.map(cardHTML).join("") : `<div class="empty">해당 종목의 완료된 경기가 없습니다.</div>`;
+
+  updateAccuracy(sportFilter);
 }}
 
 document.getElementById("filters").addEventListener("click", (e) => {{
