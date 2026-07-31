@@ -17,9 +17,10 @@ import json
 import logging
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,6 +28,17 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://bbongtv4.com"
 DEFAULT_URL = f"{BASE_URL}/premium"
 DATA_DIR = Path(__file__).parent / "data"
+KST = ZoneInfo("Asia/Seoul")
+
+
+def kst_today_str() -> str:
+    """사이트가 한국 서비스이므로, 실행 서버의 시간대(예: GitHub Actions=UTC)와 무관하게
+    항상 한국 시간(KST) 기준 오늘 날짜를 반환한다."""
+    return datetime.now(KST).strftime("%Y-%m-%d")
+
+
+def kst_yesterday_str() -> str:
+    return (datetime.now(KST) - timedelta(days=1)).strftime("%Y-%m-%d")
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -117,15 +129,6 @@ def parse_card(card, base_url: str) -> dict:
     sport = parts[1] if len(parts) >= 2 else None
     match_id = parts[2] if len(parts) >= 3 else (parts[-1] if parts else None)
 
-    # 상태 pin: "AI 추천"(예정) / "적중" / "미적중"(종료)
-    pin_text = _text(card.select_one(".pr-card__ai-pin"))
-    if pin_text in ("적중", "미적중"):
-        status = "종료"
-        result = pin_text
-    else:
-        status = "예정"
-        result = None
-
     league = _text(card.select_one(".pr-card__league-name"))
     date_str = _text(card.select_one(".pr-card__date"))
     time_str = _text(card.select_one(".pr-card__time"))
@@ -138,6 +141,21 @@ def parse_card(card, base_url: str) -> dict:
     team2 = team_names[1] if len(team_names) >= 2 else None
 
     score1, score2 = parse_score(teams_container) if teams_container else (None, None)
+    has_score = score1 is not None and score2 is not None
+
+    # 상태 판단: pin 요소(.pr-card__ai-pin)의 클래스/문구가 사이트마다 다를 수 있어
+    # 신뢰하지 않고, 1) 카드 전체 텍스트에서 "적중"/"미적중" 문구 검색, 2) 스코어 존재 여부로 판단.
+    # "미적중"이 "적중"을 포함하는 문자열이므로 반드시 먼저 검사한다.
+    full_text = card.get_text(" ", strip=True)
+    if "미적중" in full_text:
+        status, result = "종료", "미적중"
+    elif "적중" in full_text:
+        status, result = "종료", "적중"
+    elif has_score:
+        # 결과 문구는 못 찾았지만 스코어가 있으면 최소한 '종료'로는 분류
+        status, result = "종료", None
+    else:
+        status, result = "예정", None
 
     prob = parse_prob_labels(card)
 
@@ -203,6 +221,12 @@ def main():
         "--out-name",
         help="data/ 폴더에 저장할 파일명(확장자 제외). 미지정 시 날짜로 자동 생성",
     )
+    parser.add_argument(
+        "--skip-latest",
+        action="store_true",
+        help="data/latest.json은 건드리지 않고 날짜별 스냅샷 파일만 저장 "
+        "(여러 날짜를 순차 스크래핑한 뒤 merge_history.py로 합칠 때 사용)",
+    )
     args = parser.parse_args()
 
     if args.url:
@@ -220,17 +244,26 @@ def main():
 
     matches = parse_page(html, BASE_URL)
 
+    # 이 스냅샷이 어느 날짜(KST 기준) 데이터인지 명시적으로 태그.
+    # --date가 없으면(기본 /premium 페이지) 사이트의 "오늘"이므로 KST 오늘 날짜를 사용.
+    snapshot_date = args.date or kst_today_str()
+    for m in matches:
+        m["source_date"] = snapshot_date
+
     now = datetime.now(timezone.utc).astimezone()
     payload = {
         "source_url": target_url,
+        "source_date": snapshot_date,
         "scraped_at": now.isoformat(),
         "count": len(matches),
         "matches": matches,
     }
 
-    out_name = args.out_name or (args.date or now.strftime("%Y-%m-%d"))
+    out_name = args.out_name or snapshot_date
     save_json(payload, DATA_DIR / f"premium_{out_name}.json")
-    save_json(payload, DATA_DIR / "latest.json")
+
+    if not args.skip_latest:
+        save_json(payload, DATA_DIR / "latest.json")
 
     if not matches:
         log.warning(

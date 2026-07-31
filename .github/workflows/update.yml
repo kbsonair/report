@@ -24,8 +24,21 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper.py
+      - name: Run scraper (오늘)
+        run: python scraper.py --skip-latest
+
+      - name: Compute KST yesterday
+        id: ydate
+        run: |
+          Y=$(python3 -c "from datetime import datetime,timedelta; from zoneinfo import ZoneInfo; print((datetime.now(ZoneInfo('Asia/Seoul'))-timedelta(days=1)).strftime('%Y-%m-%d'))")
+          echo "date=$Y" >> "$GITHUB_OUTPUT"
+
+      - name: Run scraper (어제, 최종 결과 확정용)
+        continue-on-error: true
+        run: python scraper.py --date ${{ steps.ydate.outputs.date }} --skip-latest
+
+      - name: Merge recent snapshots into latest.json
+        run: python merge_history.py --days 2
 
       - name: Render HTML
         run: python render.py

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>프리미엄 분석 대시보드</title>
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --card-bg: #161616;
+    --border: #2a2a2a;
+    --text: #eaeaea;
+    --text-dim: #8a8a8a;
+    --accent: #ffffff;
+    --home: #4a4a4a;
+    --draw: #6b6b6b;
+    --away: #d9d9d9;
+    --hit: #eaeaea;
+    --miss: #5a5a5a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Pretendard", "Malgun Gothic", sans-serif;
+    padding: 32px 20px 80px;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+  }
+  h1 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin: 0;
+  }
+  .meta {
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+  .filters {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .filters button {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 6px 14px;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .filters button.active {
+    color: var(--text);
+    border-color: var(--text);
+  }
+  .section-title {
+    font-size: 12px;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 28px 0 12px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+  }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px;
+  }
+  .card-head {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-bottom: 10px;
+  }
+  .teams {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  .teams .vs {
+    font-size: 11px;
+    font-weight: 400;
+    color: var(--text-dim);
+    padding: 0 8px;
+  }
+  .score {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-dim);
+    font-weight: 400;
+  }
+  .prob-bar {
+    height: 5px;
+    border-radius: 3px;
+    overflow: hidden;
+    display: flex;
+    background: var(--border);
+    margin-bottom: 6px;
+  }
+  .prob-bar span { height: 100%; }
+  .prob-bar .home { background: var(--home); }
+  .prob-bar .draw { background: var(--draw); }
+  .prob-bar .away { background: var(--away); }
+  .prob-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+  }
+  .ai-line {
+    font-size: 12px;
+    color: var(--text-dim);
+    margin-bottom: 4px;
+  }
+  .ai-picks {
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .badge {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+  }
+  .badge.hit { color: var(--hit); border-color: var(--hit); }
+  .badge.miss { color: var(--miss); }
+  .badge.pending { color: var(--text-dim); }
+  a.card-link { text-decoration: none; color: inherit; display: block; }
+  .empty { color: var(--text-dim); font-size: 13px; padding: 40px 0; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>프리미엄 분석 대시보드</h1>
+    <div class="meta">수집 시각: 2026-07-30 23:29 UTC · 총 15건</div>
+  </header>
+
+  <div class="filters" id="filters">
+    <button data-sport="all" class="active">전체</button>
+    <button data-sport="soccer">축구</button>
+    <button data-sport="basket">농구</button>
+    <button data-sport="baseball">야구</button>
+    <button data-sport="hockey">하키</button>
+    <button data-sport="volley">배구</button>
+  </div>
+
+  <div class="section-title">진행 / 예정</div>
+  <div class="grid" id="upcoming-grid"></div>
+
+  <div class="section-title">종료</div>
+  <div class="grid" id="finished-grid"></div>
+</div>
+
+<script>
+const DATA = {"source_url": "https://bbongtv4.com/premium", "scraped_at": "2026-07-30T23:29:13.437649+00:00", "count": 15, "matches": [{"id": "16356776", "url": "https://bbongtv4.com/premium/basket/16356776", "sport": "basket", "league": "WNBA", "date": "7/31 (금)", "time": "08:00", "status": "예정", "result": null, "team1": "토론토", "team2": "미네소타", "score1": null, "score2": null, "prob": {"home": 20.0, "draw": 5.0, "away": 75.0}, "ai_summary": "미네소타 승리 + 언더", "ai_picks": ["미네소타 승"], "aria_label": "토론토 vs 미네소타 08:00 분석 상세"}, {"id": "16262400", "url": "https://bbongtv4.com/premium/baseball/16262400", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "08:10", "status": "예정", "result": null, "team1": "뉴욕메츠", "team2": "마이애미", "score1": null, "score2": null, "prob": {"home": 52.0, "away": 48.0}, "ai_summary": "뉴욕메츠 승리", "ai_picks": ["뉴욕메츠 승"], "aria_label": "뉴욕메츠 vs 마이애미 08:10 분석 상세"}, {"id": "16262401", "url": "https://bbongtv4.com/premium/baseball/16262401", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "08:10", "status": "예정", "result": null, "team1": "신시내티", "team2": "피츠버그", "score1": null, "score2": null, "prob": {"home": 35.0, "away": 65.0}, "ai_summary": "피츠버그 승리", "ai_picks": ["피츠버그 승"], "aria_label": "신시내티 vs 피츠버그 08:10 분석 상세"}, {"id": "16262402", "url": "https://bbongtv4.com/premium/baseball/16262402", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "08:15", "status": "예정", "result": null, "team1": "애틀랜타", "team2": "워싱턴", "score1": null, "score2": null, "prob": {"home": 55.0, "away": 45.0}, "ai_summary": "애틀랜타 승리", "ai_picks": ["애틀랜타 승"], "aria_label": "애틀랜타 vs 워싱턴 08:15 분석 상세"}, {"id": "16437837", "url": "https://bbongtv4.com/premium/soccer/16437837", "sport": "soccer", "league": "INT CF", "date": "7/31 (금)", "time": "08:30", "status": "예정", "result": null, "team1": "선덜랜드 AFC", "team2": "리즈 유나이티드 FC", "score1": null, "score2": null, "prob": {"home": 48.0, "draw": 24.0, "away": 28.0}, "ai_summary": "선덜랜드 AFC 승", "ai_picks": ["선덜랜드 AFC 승"], "aria_label": "선덜랜드 AFC vs 리즈 유나이티드 FC 08:30 분석 상세"}, {"id": "16356777", "url": "https://bbongtv4.com/premium/basket/16356777", "sport": "basket", "league": "WNBA", "date": "7/31 (금)", "time": "09:00", "status": "예정", "result": null, "team1": "시카고", "team2": "코네티컷", "score1": null, "score2": null, "prob": {"home": 55.0, "away": 45.0}, "ai_summary": "시카고 승", "ai_picks": ["시카고 승"], "aria_label": "시카고 vs 코네티컷 09:00 분석 상세"}, {"id": "16262403", "url": "https://bbongtv4.com/premium/baseball/16262403", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "10:40", "status": "예정", "result": null, "team1": "애슬레틱스", "team2": "보스턴", "score1": null, "score2": null, "prob": {"home": 30.0, "away": 70.0}, "ai_summary": "보스턴 승", "ai_picks": ["보스턴 승"], "aria_label": "애슬레틱스 vs 보스턴 10:40 분석 상세"}, {"id": "16262404", "url": "https://bbongtv4.com/premium/baseball/16262404", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "10:40", "status": "예정", "result": null, "team1": "샌디에이고", "team2": "샌프란시스코", "score1": null, "score2": null, "prob": {"home": 40.0, "draw": 5.0, "away": 55.0}, "ai_summary": "샌프란시스코 승", "ai_picks": ["샌프란시스코 승"], "aria_label": "샌디에이고 vs 샌프란시스코 10:40 분석 상세"}, {"id": "16356778", "url": "https://bbongtv4.com/premium/basket/16356778", "sport": "basket", "league": "WNBA", "date": "7/31 (금)", "time": "11:00", "status": "예정", "result": null, "team1": "라스베가스", "team2": "뉴욕", "score1": null, "score2": null, "prob": {"home": 40.0, "draw": 5.0, "away": 55.0}, "ai_summary": "뉴욕 승", "ai_picks": ["뉴욕 승"], "aria_label": "라스베가스 vs 뉴욕 11:00 분석 상세"}, {"id": "16262405", "url": "https://bbongtv4.com/premium/baseball/16262405", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "11:10", "status": "예정", "result": null, "team1": "LA다저스", "team2": "시애틀", "score1": null, "score2": null, "prob": {"home": 55.0, "away": 45.0}, "ai_summary": "LA다저스 승리, 합계 언더 유력", "ai_picks": ["LA다저스 승"], "aria_label": "LA다저스 vs 시애틀 11:10 분석 상세"}, {"id": "16435798", "url": "https://bbongtv4.com/premium/soccer/16435798", "sport": "soccer", "league": "AFF SC", "date": "7/31 (금)", "time": "22:00", "status": "예정", "result": null, "team1": "베트남", "team2": "싱가포르", "score1": null, "score2": null, "prob": {"home": 75.0, "draw": 15.0, "away": 10.0}, "ai_summary": "베트남 승 (2골 차 이상 대승 유력)", "ai_picks": ["베트남 승"], "aria_label": "베트남 vs 싱가포르 22:00 분석 상세"}, {"id": "16262396", "url": "https://bbongtv4.com/premium/baseball/16262396", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "01:10", "status": "예정", "result": null, "team1": "탬파베이", "team2": "텍사스", "score1": 3, "score2": 2, "prob": {"home": 58.0, "away": 42.0}, "ai_summary": "탬파베이 승리 (언더 7.5)", "ai_picks": ["탬파베이 승", "언더 7.5"], "aria_label": "탬파베이 vs 텍사스 01:10 분석 상세"}, {"id": "16262397", "url": "https://bbongtv4.com/premium/baseball/16262397", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "02:40", "status": "예정", "result": null, "team1": "미네소타", "team2": "캔자스시티", "score1": 0, "score2": 4, "prob": {"home": 52.0, "away": 48.0}, "ai_summary": "미네소타 승", "ai_picks": ["미네소타 승"], "aria_label": "미네소타 vs 캔자스시티 02:40 분석 상세"}, {"id": "16262398", "url": "https://bbongtv4.com/premium/baseball/16262398", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "03:10", "status": "예정", "result": null, "team1": "시카고화이트삭스", "team2": "뉴욕양키스", "score1": 2, "score2": 1, "prob": {"home": 40.0, "away": 60.0}, "ai_summary": "뉴욕양키스 승리, 언더 추천", "ai_picks": ["뉴욕양키스 승"], "aria_label": "시카고화이트삭스 vs 뉴욕양키스 03:10 분석 상세"}, {"id": "16262399", "url": "https://bbongtv4.com/premium/baseball/16262399", "sport": "baseball", "league": "MLB", "date": "7/31 (금)", "time": "03:15", "status": "예정", "result": null, "team1": "세인트루이스", "team2": "시카고컵스", "score1": 2, "score2": 4, "prob": {"home": 40.0, "away": 60.0}, "ai_summary": "시카고컵스 승 (언더 8.5 추천)", "ai_picks": ["시카고컵스 승", "언더 8.5"], "aria_label": "세인트루이스 vs 시카고컵스 03:15 분석 상세"}]};
+
+function pct(v) { return (v === undefined || v === null) ? 0 : v; }
+
+function probBarHTML(prob) {
+  const home = pct(prob.home), draw = pct(prob.draw), away = pct(prob.away);
+  return `
+    <div class="prob-bar">
+      ${home ? `<span class="home" style="width:${home}%"></span>` : ""}
+      ${draw ? `<span class="draw" style="width:${draw}%"></span>` : ""}
+      ${away ? `<span class="away" style="width:${away}%"></span>` : ""}
+    </div>
+    <div class="prob-labels">
+      <span>홈 ${home}%</span>
+      ${draw ? `<span>무 ${draw}%</span>` : ""}
+      <span>원정 ${away}%</span>
+    </div>
+  `;
+}
+
+function cardHTML(m) {
+  const hasScore = m.score1 !== null && m.score1 !== undefined;
+  const scoreHTML = hasScore
+    ? `<span class="score">${m.score1} : ${m.score2}</span>`
+    : `<span class="vs">VS</span>`;
+
+  let badge = `<span class="badge pending">예정</span>`;
+  if (m.status === "종료") {
+    if (m.result === "적중") badge = `<span class="badge hit">적중</span>`;
+    else if (m.result === "미적중") badge = `<span class="badge miss">미적중</span>`;
+    else badge = `<span class="badge">종료</span>`;
+  }
+
+  return `
+    <a class="card-link" href="${m.url}" target="_blank" rel="noopener">
+      <div class="card">
+        <div class="card-head">
+          <span>${m.league || ""}</span>
+          <span>${m.date || ""} ${m.time || ""}</span>
+        </div>
+        <div class="teams">
+          <span>${m.team1 || "?"}</span>
+          ${scoreHTML}
+          <span>${m.team2 || "?"}</span>
+        </div>
+        ${probBarHTML(m.prob || {})}
+        <div class="ai-line">${m.ai_summary || ""}</div>
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <div class="ai-picks">${(m.ai_picks || []).join(", ")}</div>
+          ${badge}
+        </div>
+      </div>
+    </a>
+  `;
+}
+
+function render(sportFilter) {
+  const upcoming = DATA.matches.filter(m => m.status !== "종료" && (sportFilter === "all" || m.sport === sportFilter));
+  const finished = DATA.matches.filter(m => m.status === "종료" && (sportFilter === "all" || m.sport === sportFilter));
+
+  const upEl = document.getElementById("upcoming-grid");
+  const finEl = document.getElementById("finished-grid");
+
+  upEl.innerHTML = upcoming.length ? upcoming.map(cardHTML).join("") : `<div class="empty">해당 종목의 예정 경기가 없습니다.</div>`;
+  finEl.innerHTML = finished.length ? finished.map(cardHTML).join("") : `<div class="empty">해당 종목의 종료 경기가 없습니다.</div>`;
+}
+
+document.getElementById("filters").addEventListener("click", (e) => {
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  document.querySelectorAll("#filters button").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  render(btn.dataset.sport);
+});
+
+render("all");
+</script>
+</body>
+</html>

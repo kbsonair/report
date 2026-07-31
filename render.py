@@ -129,6 +129,20 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 12px;
   }}
+  .date-group {{
+    margin-bottom: 20px;
+  }}
+  .date-label {{
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-dim);
+    margin: 4px 0 10px;
+  }}
+  .date-label .tag {{
+    color: var(--accent);
+    font-weight: 500;
+    margin-left: 4px;
+  }}
   .card {{
     background: var(--card-bg);
     border: 1px solid var(--border);
@@ -171,9 +185,6 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     margin-bottom: 6px;
   }}
   .prob-bar span {{ height: 100%; }}
-  .prob-bar .home {{ background: var(--home); }}
-  .prob-bar .draw {{ background: var(--draw); }}
-  .prob-bar .away {{ background: var(--accent-dim); }}
   .prob-labels {{
     display: flex;
     justify-content: space-between;
@@ -228,10 +239,10 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <div class="section-title">진행 / 예정</div>
-  <div class="grid" id="upcoming-grid"></div>
+  <div id="upcoming-grid"></div>
 
   <div class="section-title">완료됨</div>
-  <div class="grid" id="finished-grid"></div>
+  <div id="finished-grid"></div>
 </div>
 
 <script>
@@ -239,13 +250,24 @@ const DATA = {data_json};
 
 function pct(v) {{ return (v === undefined || v === null) ? 0 : v; }}
 
-function probBarHTML(prob) {{
+// 홈/무/원정 중 확률이 가장 높은 쪽을 찾는다 (동률이면 홈 > 무 > 원정 순으로 우선)
+function leaderOf(prob) {{
   const home = pct(prob.home), draw = pct(prob.draw), away = pct(prob.away);
+  let leader = "home", max = home;
+  if (draw > max) {{ leader = "draw"; max = draw; }}
+  if (away > max) {{ leader = "away"; max = away; }}
+  return leader;
+}}
+
+function probBarHTML(prob, leader) {{
+  const home = pct(prob.home), draw = pct(prob.draw), away = pct(prob.away);
+  const activeColor = "var(--accent-dim)";
+  const inactiveColor = "var(--home)";
   return `
     <div class="prob-bar">
-      ${{home ? `<span class="home" style="width:${{home}}%"></span>` : ""}}
-      ${{draw ? `<span class="draw" style="width:${{draw}}%"></span>` : ""}}
-      ${{away ? `<span class="away" style="width:${{away}}%"></span>` : ""}}
+      ${{home ? `<span style="width:${{home}}%; background:${{leader === "home" ? activeColor : inactiveColor}}"></span>` : ""}}
+      ${{draw ? `<span style="width:${{draw}}%; background:${{leader === "draw" ? activeColor : inactiveColor}}"></span>` : ""}}
+      ${{away ? `<span style="width:${{away}}%; background:${{leader === "away" ? activeColor : inactiveColor}}"></span>` : ""}}
     </div>
     <div class="prob-labels">
       <span>홈 ${{home}}%</span>
@@ -268,6 +290,11 @@ function cardHTML(m) {{
     else badge = `<span class="badge">완료</span>`;
   }}
 
+  const prob = m.prob || {{}};
+  const leader = leaderOf(prob);
+  const team1Color = leader === "home" ? "var(--accent)" : "var(--text)";
+  const team2Color = leader === "away" ? "var(--accent)" : "var(--text)";
+
   // 클릭/이동 불가 - 순수 정보 카드로만 표시
   return `
     <div class="card">
@@ -276,13 +303,12 @@ function cardHTML(m) {{
         <span>${{m.date || ""}} ${{m.time || ""}}</span>
       </div>
       <div class="teams">
-        <span>${{m.team1 || "?"}}</span>
+        <span style="color:${{team1Color}}">${{m.team1 || "?"}}</span>
         ${{scoreHTML}}
-        <span>${{m.team2 || "?"}}</span>
+        <span style="color:${{team2Color}}">${{m.team2 || "?"}}</span>
       </div>
-      ${{probBarHTML(m.prob || {{}})}}
-      <div class="ai-line">${{m.ai_summary || ""}}</div>
-      <div style="display:flex; justify-content:space-between; align-items:center; gap:8px;">
+      ${{probBarHTML(prob, leader)}}
+      <div style="display:flex; justify-content:space-between; align-items:center; gap:8px; margin-top: 4px;">
         <div class="ai-picks">${{(m.ai_picks || []).join(", ")}}</div>
         ${{badge}}
       </div>
@@ -290,8 +316,47 @@ function cardHTML(m) {{
   `;
 }}
 
+function dateLabel(d) {{
+  if (!d) return "";
+  if (d === DATA.kst_today) return "오늘";
+  if (d === DATA.kst_yesterday) return "어제";
+  return d;
+}}
+
+// source_date 기준으로 그룹핑해서 날짜 라벨 + 그리드를 순서대로 만든다.
+// matches는 이미 날짜 내림차순으로 정렬되어 들어온다고 가정.
+function buildGroupedHTML(matches, emptyText) {{
+  if (!matches.length) return `<div class="empty">${{emptyText}}</div>`;
+
+  const groups = [];
+  let currentDate = undefined;
+  let currentItems = null;
+  matches.forEach(m => {{
+    const d = m.source_date || "";
+    if (d !== currentDate) {{
+      currentDate = d;
+      currentItems = [];
+      groups.push({{ date: d, items: currentItems }});
+    }}
+    currentItems.push(m);
+  }});
+
+  return groups.map(g => `
+    <div class="date-group">
+      <div class="date-label">${{dateLabel(g.date)}}${{g.date ? `<span class="tag">${{g.date}}</span>` : ""}}</div>
+      <div class="grid">${{g.items.map(cardHTML).join("")}}</div>
+    </div>
+  `).join("");
+}}
+
 function updateAccuracy(sportFilter) {{
-  const finished = DATA.matches.filter(m => m.status === "종료" && (sportFilter === "all" || m.sport === sportFilter));
+  // "당일 적중률"이므로 오늘(KST) 날짜의 완료 경기만 집계한다.
+  // 옛 데이터(병합 전, source_date/kst_today 정보가 없는 경우)는 전체를 대상으로 폴백.
+  const finished = DATA.matches.filter(m =>
+    m.status === "종료" &&
+    (sportFilter === "all" || m.sport === sportFilter) &&
+    (!DATA.kst_today || !m.source_date || m.source_date === DATA.kst_today)
+  );
   const hits = finished.filter(m => m.result === "적중").length;
   const misses = finished.filter(m => m.result === "미적중").length;
   const total = hits + misses;
@@ -311,11 +376,10 @@ function render(sportFilter) {{
   const upcoming = DATA.matches.filter(m => m.status !== "종료" && (sportFilter === "all" || m.sport === sportFilter));
   const finished = DATA.matches.filter(m => m.status === "종료" && (sportFilter === "all" || m.sport === sportFilter));
 
-  const upEl = document.getElementById("upcoming-grid");
-  const finEl = document.getElementById("finished-grid");
-
-  upEl.innerHTML = upcoming.length ? upcoming.map(cardHTML).join("") : `<div class="empty">해당 종목의 예정 경기가 없습니다.</div>`;
-  finEl.innerHTML = finished.length ? finished.map(cardHTML).join("") : `<div class="empty">해당 종목의 완료된 경기가 없습니다.</div>`;
+  document.getElementById("upcoming-grid").innerHTML =
+    buildGroupedHTML(upcoming, "해당 종목의 예정 경기가 없습니다.");
+  document.getElementById("finished-grid").innerHTML =
+    buildGroupedHTML(finished, "해당 종목의 완료된 경기가 없습니다.");
 
   updateAccuracy(sportFilter);
 }}
