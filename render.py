@@ -42,11 +42,8 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     --border: #2a2a2a;
     --text: #eaeaea;
     --text-dim: #8a8a8a;
-    --accent: #39ff88;       /* 포인트 컬러: 형광 초록 */
-    --accent-dim: #1f8f52;
+    --accent: #39ff88;       /* 포인트 컬러 (기본값, 사용자가 피커로 바꾸면 JS가 덮어씀) */
     --home: #4a4a4a;
-    --draw: #6b6b6b;
-    --away: #6b6b6b;
     --hit: #34d058;          /* 적중 = 초록 */
     --miss: #ef4444;         /* 미적중 = 빨강 */
   }}
@@ -67,7 +64,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     gap: 12px;
     border-bottom: 1px solid var(--border);
     padding-bottom: 16px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
   }}
   h1 {{
     font-size: 20px;
@@ -81,11 +78,14 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     margin-top: 4px;
   }}
   .header-right {{
-    text-align: right;
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
   }}
   .accuracy {{
     font-size: 13px;
     font-weight: 600;
+    text-align: right;
   }}
   .accuracy .rate {{
     color: var(--accent);
@@ -93,6 +93,54 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   }}
   .accuracy-sub {{
     font-size: 11px;
+    color: var(--text-dim);
+    margin-top: 2px;
+    text-align: right;
+  }}
+  .color-picker {{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }}
+  .color-picker label {{
+    font-size: 10px;
+    color: var(--text-dim);
+  }}
+  .color-picker input[type="color"] {{
+    width: 28px;
+    height: 28px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+  }}
+  .tabs {{
+    display: flex;
+    gap: 4px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid var(--border);
+  }}
+  .tabs button {{
+    background: transparent;
+    border: none;
+    color: var(--text-dim);
+    padding: 10px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }}
+  .tabs button.active {{
+    color: var(--text);
+    border-bottom-color: var(--accent);
+  }}
+  .tabs .tab-date {{
+    display: block;
+    font-size: 10px;
+    font-weight: 400;
     color: var(--text-dim);
     margin-top: 2px;
   }}
@@ -128,20 +176,6 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 12px;
-  }}
-  .date-group {{
-    margin-bottom: 20px;
-  }}
-  .date-label {{
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--text-dim);
-    margin: 4px 0 10px;
-  }}
-  .date-label .tag {{
-    color: var(--accent);
-    font-weight: 500;
-    margin-left: 4px;
   }}
   .card {{
     background: var(--card-bg);
@@ -192,11 +226,6 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     color: var(--text-dim);
     margin-bottom: 12px;
   }}
-  .ai-line {{
-    font-size: 12px;
-    color: var(--text-dim);
-    margin-bottom: 4px;
-  }}
   .ai-picks {{
     font-size: 13px;
     font-weight: 600;
@@ -224,10 +253,22 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
       <div class="meta">수집 시각: {scraped_at} · 총 {count}건</div>
     </div>
     <div class="header-right">
-      <div class="accuracy">당일 적중률 <span class="rate" id="accuracy-rate">-</span></div>
-      <div class="accuracy-sub" id="accuracy-sub"></div>
+      <div>
+        <div class="accuracy"><span id="accuracy-label">적중률</span> <span class="rate" id="accuracy-rate">-</span></div>
+        <div class="accuracy-sub" id="accuracy-sub"></div>
+      </div>
+      <div class="color-picker">
+        <label for="accent-input">포인트 컬러</label>
+        <input type="color" id="accent-input" value="#39ff88">
+      </div>
     </div>
   </header>
+
+  <div class="tabs" id="tabs">
+    <button data-tab="yesterday">어제<span class="tab-date" id="tab-date-yesterday"></span></button>
+    <button data-tab="today" class="active">오늘<span class="tab-date" id="tab-date-today"></span></button>
+    <button data-tab="tomorrow">내일<span class="tab-date" id="tab-date-tomorrow"></span></button>
+  </div>
 
   <div class="filters" id="filters">
     <button data-sport="all" class="active">전체</button>
@@ -238,19 +279,53 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <button data-sport="volley">배구</button>
   </div>
 
-  <div class="section-title">진행 / 예정</div>
-  <div id="upcoming-grid"></div>
+  <div class="section-title" id="upcoming-title">경기 예측</div>
+  <div class="grid" id="upcoming-grid"></div>
 
-  <div class="section-title">완료됨</div>
-  <div id="finished-grid"></div>
+  <div class="section-title" id="finished-title">경기 결과</div>
+  <div class="grid" id="finished-grid"></div>
 </div>
 
 <script>
 const DATA = {data_json};
 
+// ---------- 포인트 컬러 (사용자 지정, 브라우저에 저장) ----------
+const ACCENT_STORAGE_KEY = "bbongtv_accent_color";
+const accentInput = document.getElementById("accent-input");
+
+function applyAccentColor(hex) {{
+  document.documentElement.style.setProperty("--accent", hex);
+  accentInput.value = hex;
+}}
+
+(function initAccentColor() {{
+  const saved = localStorage.getItem(ACCENT_STORAGE_KEY);
+  if (saved) applyAccentColor(saved);
+}})();
+
+accentInput.addEventListener("input", (e) => {{
+  const hex = e.target.value;
+  applyAccentColor(hex);
+  localStorage.setItem(ACCENT_STORAGE_KEY, hex);
+}});
+
+// ---------- 탭 (어제 / 오늘 / 내일) ----------
+const TAB_DATES = {{
+  yesterday: DATA.kst_yesterday || null,
+  today: DATA.kst_today || null,
+  tomorrow: DATA.kst_tomorrow || null,
+}};
+
+document.getElementById("tab-date-yesterday").textContent = TAB_DATES.yesterday || "";
+document.getElementById("tab-date-today").textContent = TAB_DATES.today || "";
+document.getElementById("tab-date-tomorrow").textContent = TAB_DATES.tomorrow || "";
+
+let currentTab = "today";
+let currentSport = "all";
+
+// ---------- 카드 렌더링 ----------
 function pct(v) {{ return (v === undefined || v === null) ? 0 : v; }}
 
-// 홈/무/원정 중 확률이 가장 높은 쪽을 찾는다 (동률이면 홈 > 무 > 원정 순으로 우선)
 function leaderOf(prob) {{
   const home = pct(prob.home), draw = pct(prob.draw), away = pct(prob.away);
   let leader = "home", max = home;
@@ -261,7 +336,7 @@ function leaderOf(prob) {{
 
 function probBarHTML(prob, leader) {{
   const home = pct(prob.home), draw = pct(prob.draw), away = pct(prob.away);
-  const activeColor = "var(--accent-dim)";
+  const activeColor = "var(--accent)";
   const inactiveColor = "var(--home)";
   return `
     <div class="prob-bar">
@@ -316,50 +391,16 @@ function cardHTML(m) {{
   `;
 }}
 
-function dateLabel(d) {{
-  if (!d) return "";
-  if (d === DATA.kst_today) return "오늘";
-  if (d === DATA.kst_yesterday) return "어제";
-  return d;
-}}
-
-// source_date 기준으로 그룹핑해서 날짜 라벨 + 그리드를 순서대로 만든다.
-// matches는 이미 날짜 내림차순으로 정렬되어 들어온다고 가정.
-function buildGroupedHTML(matches, emptyText) {{
-  if (!matches.length) return `<div class="empty">${{emptyText}}</div>`;
-
-  const groups = [];
-  let currentDate = undefined;
-  let currentItems = null;
-  matches.forEach(m => {{
-    const d = m.source_date || "";
-    if (d !== currentDate) {{
-      currentDate = d;
-      currentItems = [];
-      groups.push({{ date: d, items: currentItems }});
-    }}
-    currentItems.push(m);
-  }});
-
-  return groups.map(g => `
-    <div class="date-group">
-      <div class="date-label">${{dateLabel(g.date)}}${{g.date ? `<span class="tag">${{g.date}}</span>` : ""}}</div>
-      <div class="grid">${{g.items.map(cardHTML).join("")}}</div>
-    </div>
-  `).join("");
-}}
-
-function updateAccuracy(sportFilter) {{
-  // "당일 적중률"이므로 오늘(KST) 날짜의 완료 경기만 집계한다.
-  // 옛 데이터(병합 전, source_date/kst_today 정보가 없는 경우)는 전체를 대상으로 폴백.
-  const finished = DATA.matches.filter(m =>
-    m.status === "종료" &&
-    (sportFilter === "all" || m.sport === sportFilter) &&
-    (!DATA.kst_today || !m.source_date || m.source_date === DATA.kst_today)
-  );
+// ---------- 적중률 (현재 탭의 날짜 기준) ----------
+function updateAccuracy(dayMatches) {{
+  const finished = dayMatches.filter(m => m.status === "종료");
   const hits = finished.filter(m => m.result === "적중").length;
   const misses = finished.filter(m => m.result === "미적중").length;
   const total = hits + misses;
+
+  const label = currentTab === "today" ? "오늘 적중률" : currentTab === "yesterday" ? "어제 적중률" : "적중률";
+  document.getElementById("accuracy-label").textContent = label;
+
   const rateEl = document.getElementById("accuracy-rate");
   const subEl = document.getElementById("accuracy-sub");
   if (total === 0) {{
@@ -372,27 +413,78 @@ function updateAccuracy(sportFilter) {{
   subEl.textContent = `${{hits}}적중 / ${{misses}}미적중 (${{total}}건)`;
 }}
 
-function render(sportFilter) {{
-  const upcoming = DATA.matches.filter(m => m.status !== "종료" && (sportFilter === "all" || m.sport === sportFilter));
-  const finished = DATA.matches.filter(m => m.status === "종료" && (sportFilter === "all" || m.sport === sportFilter));
+// ---------- 메인 렌더 ----------
+function render() {{
+  const tabDate = TAB_DATES[currentTab];
 
-  document.getElementById("upcoming-grid").innerHTML =
-    buildGroupedHTML(upcoming, "해당 종목의 예정 경기가 없습니다.");
-  document.getElementById("finished-grid").innerHTML =
-    buildGroupedHTML(finished, "해당 종목의 완료된 경기가 없습니다.");
+  const dayMatches = DATA.matches.filter(m =>
+    (tabDate ? m.source_date === tabDate : false) &&
+    (currentSport === "all" || m.sport === currentSport)
+  );
 
-  updateAccuracy(sportFilter);
+  const upcoming = dayMatches.filter(m => m.status !== "종료");
+  const finished = dayMatches.filter(m => m.status === "종료");
+
+  const upTitle = document.getElementById("upcoming-title");
+  const finTitle = document.getElementById("finished-title");
+  const upGrid = document.getElementById("upcoming-grid");
+  const finGrid = document.getElementById("finished-grid");
+
+  if (currentTab === "yesterday") {{
+    // 어제: 결과 위주. 예정 섹션은 숨김.
+    upTitle.style.display = "none";
+    upGrid.style.display = "none";
+    finTitle.style.display = "block";
+    finTitle.textContent = "경기 결과";
+    finGrid.style.display = "grid";
+  }} else if (currentTab === "tomorrow") {{
+    // 내일: 예측만 있을 수 있음. 결과 섹션은 숨김.
+    upTitle.style.display = "block";
+    upTitle.textContent = "경기 예측";
+    upGrid.style.display = "grid";
+    finTitle.style.display = "none";
+    finGrid.style.display = "none";
+  }} else {{
+    // 오늘: 예측 + (진행 중이면) 결과 둘 다.
+    upTitle.style.display = "block";
+    upTitle.textContent = "경기 예측";
+    upGrid.style.display = "grid";
+    finTitle.style.display = "block";
+    finTitle.textContent = "경기 결과";
+    finGrid.style.display = "grid";
+  }}
+
+  if (upGrid.style.display !== "none") {{
+    upGrid.innerHTML = upcoming.length ? upcoming.map(cardHTML).join("") : `<div class="empty">예정된 경기가 없습니다.</div>`;
+  }}
+  if (finGrid.style.display !== "none") {{
+    finGrid.innerHTML = finished.length ? finished.map(cardHTML).join("") : `<div class="empty">${{
+      !tabDate ? "데이터가 없습니다." : (currentTab === "tomorrow" ? "" : "완료된 경기가 없습니다.")
+    }}</div>`;
+  }}
+
+  updateAccuracy(dayMatches);
 }}
+
+document.getElementById("tabs").addEventListener("click", (e) => {{
+  const btn = e.target.closest("button");
+  if (!btn) return;
+  document.querySelectorAll("#tabs button").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  currentTab = btn.dataset.tab;
+  render();
+}});
 
 document.getElementById("filters").addEventListener("click", (e) => {{
   const btn = e.target.closest("button");
   if (!btn) return;
   document.querySelectorAll("#filters button").forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
-  render(btn.dataset.sport);
+  currentSport = btn.dataset.sport;
+  render();
 }});
 
-render("all");
+render();
 </script>
 </body>
 </html>

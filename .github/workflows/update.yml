@@ -9,6 +9,12 @@ on:
 permissions:
   contents: write
 
+# 이전 실행이 아직 push 중이면 새 실행을 큐에 대기시켜서
+# 두 실행이 동시에 같은 브랜치에 커밋/push하다 충돌하는 것을 방지한다.
+concurrency:
+  group: update-premium-data
+  cancel-in-progress: false
+
 jobs:
   scrape-and-render:
     runs-on: ubuntu-latest
@@ -27,18 +33,24 @@ jobs:
       - name: Run scraper (오늘)
         run: python scraper.py --skip-latest
 
-      - name: Compute KST yesterday
-        id: ydate
+      - name: Compute KST yesterday/tomorrow
+        id: dates
         run: |
           Y=$(python3 -c "from datetime import datetime,timedelta; from zoneinfo import ZoneInfo; print((datetime.now(ZoneInfo('Asia/Seoul'))-timedelta(days=1)).strftime('%Y-%m-%d'))")
-          echo "date=$Y" >> "$GITHUB_OUTPUT"
+          T=$(python3 -c "from datetime import datetime,timedelta; from zoneinfo import ZoneInfo; print((datetime.now(ZoneInfo('Asia/Seoul'))+timedelta(days=1)).strftime('%Y-%m-%d'))")
+          echo "yesterday=$Y" >> "$GITHUB_OUTPUT"
+          echo "tomorrow=$T" >> "$GITHUB_OUTPUT"
 
       - name: Run scraper (어제, 최종 결과 확정용)
         continue-on-error: true
-        run: python scraper.py --date ${{ steps.ydate.outputs.date }} --skip-latest
+        run: python scraper.py --date ${{ steps.dates.outputs.yesterday }} --skip-latest
 
-      - name: Merge recent snapshots into latest.json
-        run: python merge_history.py --days 2
+      - name: Run scraper (내일, 있으면)
+        continue-on-error: true
+        run: python scraper.py --date ${{ steps.dates.outputs.tomorrow }} --skip-latest
+
+      - name: Merge yesterday/today/tomorrow snapshots into latest.json
+        run: python merge_history.py --back 1 --forward 1
 
       - name: Render HTML
         run: python render.py

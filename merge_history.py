@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-data/premium_<date>.json 스냅샷들 중 최근 N일치를 합쳐 data/latest.json을 만든다.
+data/premium_<date>.json 스냅샷들 중 어제/오늘/내일 스냅샷을 합쳐 data/latest.json을 만든다.
 
 각 날짜의 스냅샷 파일은 scraper.py가 실행될 때마다 계속 남아있으므로(덮어쓰지 않음),
-전체 히스토리는 항상 data/ 폴더에 보존된다. 이 스크립트는 그중 대시보드에 보여줄
-"최근 N일" 구간만 골라 latest.json으로 합쳐주는 역할만 한다.
+전체 히스토리는 항상 data/ 폴더에 보존된다. 이 스크립트는 그중 대시보드(어제/오늘/내일 탭)에
+보여줄 3일 구간만 골라 latest.json으로 합쳐주는 역할만 한다.
 
 사용법:
-    python merge_history.py            # 기본 최근 2일(오늘+어제)
-    python merge_history.py --days 3   # 최근 3일
+    python merge_history.py                       # 기본: 어제(-1) ~ 내일(+1)
+    python merge_history.py --back 2 --forward 0   # 그저께~오늘까지만
 """
 
 import argparse
@@ -56,27 +56,30 @@ def load_matches(path: Path, fallback_date: str) -> list:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="날짜별 스냅샷을 합쳐 latest.json 생성")
-    parser.add_argument(
-        "--days", type=int, default=2, help="오늘 포함 최근 며칠치를 합칠지 (기본 2 = 오늘+어제)"
-    )
+    parser = argparse.ArgumentParser(description="어제/오늘/내일 스냅샷을 합쳐 latest.json 생성")
+    parser.add_argument("--back", type=int, default=1, help="오늘 기준 며칠 전까지 포함할지 (기본 1 = 어제)")
+    parser.add_argument("--forward", type=int, default=1, help="오늘 기준 며칠 후까지 포함할지 (기본 1 = 내일)")
     args = parser.parse_args()
 
     today_kst = datetime.now(KST).date()
+    yesterday_kst = today_kst - timedelta(days=1)
+    tomorrow_kst = today_kst + timedelta(days=1)
+
     target_dates = [
-        (today_kst - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(args.days)
+        (today_kst + timedelta(days=offset)).strftime("%Y-%m-%d")
+        for offset in range(-args.back, args.forward + 1)
     ]
 
     available = find_snapshot_files()
     log.info(f"보유 스냅샷: {sorted(available.keys())}")
-    log.info(f"합칠 대상 날짜({args.days}일): {target_dates}")
+    log.info(f"합칠 대상 날짜: {target_dates}")
 
     included_dates = [d for d in target_dates if d in available]
     for d in included_dates:
         log.info(f"{d} 스냅샷 발견")
     for d in target_dates:
         if d not in available:
-            log.info(f"{d} 스냅샷 없음, 건너뜀")
+            log.info(f"{d} 스냅샷 없음, 건너뜀 (예: 내일 분석이 아직 사이트에 안 올라온 경우 정상)")
 
     # id 기준 중복 제거 (동일 id가 여러 스냅샷에 걸쳐 있으면 더 최근 날짜 것을 우선하도록
     # 오래된 날짜 -> 최신 날짜 순으로 넣어서 최신이 덮어쓰게 함)
@@ -90,16 +93,15 @@ def main():
     all_matches = list(dedup.values())
 
     # 정렬: 날짜는 최신이 먼저, 같은 날짜 안에서는 시간 오름차순.
-    # 파이썬 sort는 안정 정렬이므로 "시간 오름차순 정렬 -> 날짜 내림차순 정렬" 순으로 두 번 적용하면
-    # 날짜 그룹 내부의 시간 순서가 그대로 유지된다.
     all_matches.sort(key=lambda m: m.get("time") or "")
     all_matches.sort(key=lambda m: m.get("source_date") or "", reverse=True)
 
     now = datetime.now(timezone.utc).astimezone()
     payload = {
         "scraped_at": now.isoformat(),
+        "kst_yesterday": yesterday_kst.strftime("%Y-%m-%d"),
         "kst_today": today_kst.strftime("%Y-%m-%d"),
-        "kst_yesterday": (today_kst - timedelta(days=1)).strftime("%Y-%m-%d"),
+        "kst_tomorrow": tomorrow_kst.strftime("%Y-%m-%d"),
         "included_dates": included_dates,
         "count": len(all_matches),
         "matches": all_matches,
