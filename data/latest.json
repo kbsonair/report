@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T20:17:32.294217+00:00",
+  "scraped_at": "2026-08-03T21:35:02.067418+00:00",
   "kst_yesterday": "2026-08-03",
   "kst_today": "2026-08-04",
   "kst_tomorrow": "2026-08-05",
@@ -42,12 +42,12 @@
       "league": "SCO PR",
       "date": "8/4 (화)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "셀틱 FC",
       "team2": "던디 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 85.0,
         "draw": 10.0,
