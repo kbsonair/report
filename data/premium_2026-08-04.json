@@ -1,0 +1,110 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-04",
+  "source_date": "2026-08-04",
+  "scraped_at": "2026-08-03T03:24:10.569337+00:00",
+  "count": 4,
+  "matches": [
+    {
+      "id": "16439078",
+      "url": "https://bbongtv4.com/premium/soccer/16439078",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/4 (화)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "셀틱 FC",
+      "team2": "던디 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "홈팀 셀틱 FC 승 (핸디캡 -2.5 커버 및 오버 3.5 병행 추천)",
+      "ai_picks": [
+        "셀틱 FC 승",
+        "셀틱 FC -2.5",
+        "오버 3.5"
+      ],
+      "aria_label": "셀틱 FC vs 던디 FC 03:30 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16356788",
+      "url": "https://bbongtv4.com/premium/basket/16356788",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/4 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕",
+      "team2": "시애틀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "뉴욕 승",
+      "ai_picks": [
+        "뉴욕 승"
+      ],
+      "aria_label": "뉴욕 vs 시애틀 08:00 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16356789",
+      "url": "https://bbongtv4.com/premium/basket/16356789",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/4 (화)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타",
+      "team2": "라스베가스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "애틀랜타 승, 언더 183.5 추천",
+      "ai_picks": [
+        "애틀랜타 승",
+        "언더 183.5"
+      ],
+      "aria_label": "애틀랜타 vs 라스베가스 08:30 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16356790",
+      "url": "https://bbongtv4.com/premium/basket/16356790",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/4 (화)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고",
+      "team2": "피닉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "시카고 승 (언더 178.5)",
+      "ai_picks": [
+        "시카고 승",
+        "언더 178.5"
+      ],
+      "aria_label": "시카고 vs 피닉스 10:00 분석 상세",
+      "source_date": "2026-08-04"
+    }
+  ]
+}
