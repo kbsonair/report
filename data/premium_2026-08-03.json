@@ -1,32 +1,33 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-03",
-  "scraped_at": "2026-08-03T10:46:50.020700+00:00",
-  "count": 27,
+  "scraped_at": "2026-08-03T13:43:44.393426+00:00",
+  "count": 28,
   "matches": [
     {
-      "id": "16263857",
-      "url": "https://bbongtv4.com/premium/baseball/16263857",
-      "sport": "baseball",
-      "league": "NPB",
+      "id": "16439008",
+      "url": "https://bbongtv4.com/premium/soccer/16439008",
+      "sport": "soccer",
+      "league": "AFF SC",
       "date": "8/3 (월)",
-      "time": "18:00",
+      "time": "22:30",
       "status": "예정",
       "result": null,
-      "team1": "오릭스",
-      "team2": "라쿠텐",
+      "team1": "인도네시아",
+      "team2": "베트남",
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 52.0,
-        "draw": 5.0,
-        "away": 43.0
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
       },
-      "ai_summary": "오릭스 승리 (로스코어 투수전 양상, 언더 흐름 예상)",
+      "ai_summary": "인도네시아 승 (1골 차 박빙 승부, 언더 2.5골 유력)",
       "ai_picks": [
-        "오릭스 승"
+        "인도네시아 승",
+        "언더 2.5"
       ],
-      "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
+      "aria_label": "인도네시아 vs 베트남 22:30 분석 상세",
       "source_date": "2026-08-03"
     },
     {
@@ -674,6 +675,31 @@
         "골든스테이트 승"
       ],
       "aria_label": "골든스테이트 vs 토론토 09:30 분석 상세",
+      "source_date": "2026-08-03"
+    },
+    {
+      "id": "16263857",
+      "url": "https://bbongtv4.com/premium/baseball/16263857",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/3 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오릭스",
+      "team2": "라쿠텐",
+      "score1": 9,
+      "score2": 6,
+      "prob": {
+        "home": 52.0,
+        "draw": 5.0,
+        "away": 43.0
+      },
+      "ai_summary": "오릭스 승리 (로스코어 투수전 양상, 언더 흐름 예상)",
+      "ai_picks": [
+        "오릭스 승"
+      ],
+      "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
       "source_date": "2026-08-03"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T10:46:52.351101+00:00",
+  "scraped_at": "2026-08-03T13:43:47.254711+00:00",
   "kst_yesterday": "2026-08-02",
   "kst_today": "2026-08-03",
   "kst_tomorrow": "2026-08-04",
@@ -8,7 +8,7 @@
     "2026-08-03",
     "2026-08-04"
   ],
-  "count": 91,
+  "count": 94,
   "matches": [
     {
       "id": "16439078",
@@ -307,6 +307,56 @@
         "언더 8.5"
       ],
       "aria_label": "애리조나 vs 샌디에이고 10:40 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16439791",
+      "url": "https://bbongtv4.com/premium/soccer/16439791",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/4 (화)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "제주 SK FC",
+      "team2": "FC 바이에른 뮌헨",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "제주 SK FC 승"
+      ],
+      "aria_label": "제주 SK FC vs FC 바이에른 뮌헨 20:00 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16439792",
+      "url": "https://bbongtv4.com/premium/soccer/16439792",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/4 (화)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "필리핀",
+      "team2": "태국",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "태국 승",
+      "ai_picks": [
+        "태국 승"
+      ],
+      "aria_label": "필리핀 vs 태국 22:00 분석 상세",
       "source_date": "2026-08-04"
     },
     {
@@ -963,12 +1013,12 @@
       "league": "NPB",
       "date": "8/3 (월)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "오릭스",
       "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 6,
       "prob": {
         "home": 52.0,
         "draw": 5.0,
@@ -979,6 +1029,32 @@
         "오릭스 승"
       ],
       "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
+      "source_date": "2026-08-03"
+    },
+    {
+      "id": "16439008",
+      "url": "https://bbongtv4.com/premium/soccer/16439008",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/3 (월)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "인도네시아",
+      "team2": "베트남",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "인도네시아 승 (1골 차 박빙 승부, 언더 2.5골 유력)",
+      "ai_picks": [
+        "인도네시아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "인도네시아 vs 베트남 22:30 분석 상세",
       "source_date": "2026-08-03"
     },
     {
