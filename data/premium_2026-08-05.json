@@ -1,0 +1,33 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-05",
+  "source_date": "2026-08-05",
+  "scraped_at": "2026-08-03T16:29:35.735441+00:00",
+  "count": 1,
+  "matches": [
+    {
+      "id": "16440752",
+      "url": "https://bbongtv4.com/premium/soccer/16440752",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/5 (수)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "K리그 올스타",
+      "team2": "맨체스터 시티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "맨체스터 시티 승",
+      "ai_picks": [
+        "맨체스터 시티 승"
+      ],
+      "aria_label": "K리그 올스타 vs 맨체스터 시티 20:00 분석 상세",
+      "source_date": "2026-08-05"
+    }
+  ]
+}
