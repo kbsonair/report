@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-03",
-  "scraped_at": "2026-08-03T03:24:08.191103+00:00",
+  "scraped_at": "2026-08-03T06:46:49.256114+00:00",
   "count": 27,
   "matches": [
-    {
-      "id": "16356787",
-      "url": "https://bbongtv4.com/premium/basket/16356787",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/3 (월)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "골든스테이트",
-      "team2": "토론토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "골든스테이트 승리",
-      "ai_picks": [
-        "골든스테이트 승"
-      ],
-      "aria_label": "골든스테이트 vs 토론토 09:30 분석 상세",
-      "source_date": "2026-08-03"
-    },
     {
       "id": "16263857",
       "url": "https://bbongtv4.com/premium/baseball/16263857",
@@ -674,6 +650,30 @@
         "보스턴 승"
       ],
       "aria_label": "LA다저스 vs 보스턴 08:20 분석 상세",
+      "source_date": "2026-08-03"
+    },
+    {
+      "id": "16356787",
+      "url": "https://bbongtv4.com/premium/basket/16356787",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/3 (월)",
+      "time": "09:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "골든스테이트",
+      "team2": "토론토",
+      "score1": 96,
+      "score2": 79,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "골든스테이트 승리",
+      "ai_picks": [
+        "골든스테이트 승"
+      ],
+      "aria_label": "골든스테이트 vs 토론토 09:30 분석 상세",
       "source_date": "2026-08-03"
     }
   ]
