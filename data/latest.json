@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T18:00:11.287817+00:00",
+  "scraped_at": "2026-08-04T19:50:32.065841+00:00",
   "kst_yesterday": "2026-08-04",
   "kst_today": "2026-08-05",
   "kst_tomorrow": "2026-08-06",
@@ -95,12 +95,12 @@
       "league": "UEFA ECL",
       "date": "8/5 (수)",
       "time": "00:59",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "FK 아우다",
       "team2": "FC 디나모 시티",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 45.0,
         "draw": 25.0,
