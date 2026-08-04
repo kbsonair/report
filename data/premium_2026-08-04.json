@@ -1,136 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-04",
-  "scraped_at": "2026-08-04T11:28:02.991440+00:00",
+  "scraped_at": "2026-08-04T13:21:52.391526+00:00",
   "count": 24,
   "matches": [
-    {
-      "id": "16263858",
-      "url": "https://bbongtv4.com/premium/baseball/16263858",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/4 (화)",
-      "time": "17:45",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마",
-      "team2": "한신",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 5.0,
-        "away": 65.0
-      },
-      "ai_summary": "한신 승리 (언더 흐름의 저득점 경기 예상)",
-      "ai_picks": [
-        "한신 승"
-      ],
-      "aria_label": "요코하마 vs 한신 17:45 분석 상세",
-      "source_date": "2026-08-04"
-    },
-    {
-      "id": "16263859",
-      "url": "https://bbongtv4.com/premium/baseball/16263859",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/4 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "주니치",
-      "team2": "야쿠르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 22.0,
-        "away": 30.0
-      },
-      "ai_summary": "주니치 승리 (로스코어 접전 예상, 언더 6.5 유력)",
-      "ai_picks": [
-        "주니치 승",
-        "언더 6.5"
-      ],
-      "aria_label": "주니치 vs 야쿠르트 18:00 분석 상세",
-      "source_date": "2026-08-04"
-    },
-    {
-      "id": "16263860",
-      "url": "https://bbongtv4.com/premium/baseball/16263860",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/4 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마",
-      "team2": "요미우리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 10.0,
-        "away": 40.0
-      },
-      "ai_summary": "히로시마 승 (투수전 양상, 선발 매치업 압도적 우위)",
-      "ai_picks": [
-        "히로시마 승"
-      ],
-      "aria_label": "히로시마 vs 요미우리 18:00 분석 상세",
-      "source_date": "2026-08-04"
-    },
-    {
-      "id": "16263861",
-      "url": "https://bbongtv4.com/premium/baseball/16263861",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/4 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바롯데",
-      "team2": "세이부",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 10.0,
-        "away": 58.0
-      },
-      "ai_summary": "원정팀 세이부 승",
-      "ai_picks": [
-        "세이부 승"
-      ],
-      "aria_label": "치바롯데 vs 세이부 18:00 분석 상세",
-      "source_date": "2026-08-04"
-    },
-    {
-      "id": "16263862",
-      "url": "https://bbongtv4.com/premium/baseball/16263862",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/4 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "소프트뱅크",
-      "team2": "니혼햄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 10.0,
-        "away": 40.0
-      },
-      "ai_summary": "소프트뱅크 홈 승리 (언더 6.5 병행 추천)",
-      "ai_picks": [
-        "소프트뱅크 승",
-        "언더 6.5"
-      ],
-      "aria_label": "소프트뱅크 vs 니혼햄 18:00 분석 상세",
-      "source_date": "2026-08-04"
-    },
     {
       "id": "16260611",
       "url": "https://bbongtv4.com/premium/baseball/16260611",
@@ -602,6 +475,133 @@
         "언더 8.5"
       ],
       "aria_label": "애리조나 vs 샌디에이고 10:40 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16263858",
+      "url": "https://bbongtv4.com/premium/baseball/16263858",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/4 (화)",
+      "time": "17:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "요코하마",
+      "team2": "한신",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 5.0,
+        "away": 65.0
+      },
+      "ai_summary": "한신 승리 (언더 흐름의 저득점 경기 예상)",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "요코하마 vs 한신 17:45 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16263859",
+      "url": "https://bbongtv4.com/premium/baseball/16263859",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/4 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "주니치",
+      "team2": "야쿠르트",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "주니치 승리 (로스코어 접전 예상, 언더 6.5 유력)",
+      "ai_picks": [
+        "주니치 승",
+        "언더 6.5"
+      ],
+      "aria_label": "주니치 vs 야쿠르트 18:00 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16263860",
+      "url": "https://bbongtv4.com/premium/baseball/16263860",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/4 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "히로시마",
+      "team2": "요미우리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "히로시마 승 (투수전 양상, 선발 매치업 압도적 우위)",
+      "ai_picks": [
+        "히로시마 승"
+      ],
+      "aria_label": "히로시마 vs 요미우리 18:00 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16263861",
+      "url": "https://bbongtv4.com/premium/baseball/16263861",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/4 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "치바롯데",
+      "team2": "세이부",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 10.0,
+        "away": 58.0
+      },
+      "ai_summary": "원정팀 세이부 승",
+      "ai_picks": [
+        "세이부 승"
+      ],
+      "aria_label": "치바롯데 vs 세이부 18:00 분석 상세",
+      "source_date": "2026-08-04"
+    },
+    {
+      "id": "16263862",
+      "url": "https://bbongtv4.com/premium/baseball/16263862",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/4 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소프트뱅크",
+      "team2": "니혼햄",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "소프트뱅크 홈 승리 (언더 6.5 병행 추천)",
+      "ai_picks": [
+        "소프트뱅크 승",
+        "언더 6.5"
+      ],
+      "aria_label": "소프트뱅크 vs 니혼햄 18:00 분석 상세",
       "source_date": "2026-08-04"
     }
   ]
