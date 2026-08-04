@@ -1,164 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-05",
-  "scraped_at": "2026-08-04T19:50:29.896692+00:00",
+  "scraped_at": "2026-08-04T21:15:38.396926+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16446536",
-      "url": "https://bbongtv4.com/premium/soccer/16446536",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "하포엘 베르셰바 FC",
-      "team2": "FK 츠르베나 즈베즈다",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "원정팀 FK 츠르베나 즈베즈다 승, 핸디캡 홈 +1 및 오버 2.5 추천",
-      "ai_picks": [
-        "FK 츠르베나 즈 승",
-        "하포엘 베르셰 +1",
-        "오버 2.5"
-      ],
-      "aria_label": "하포엘 베르셰바 FC vs FK 츠르베나 즈베즈다 02:30 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16446538",
-      "url": "https://bbongtv4.com/premium/soccer/16446538",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "레브스키 소피아",
-      "team2": "FC 카이라트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 24.0,
-        "away": 24.0
-      },
-      "ai_summary": "레브스키 소피아 승 + 2.5 언더",
-      "ai_picks": [
-        "레브스키 소피 승",
-        "언더 2.5"
-      ],
-      "aria_label": "레브스키 소피아 vs FC 카이라트 02:30 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16439837",
-      "url": "https://bbongtv4.com/premium/soccer/16439837",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "올림피아코스 FC",
-      "team2": "NEC 네이메헌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 올림피아코스 FC 승리",
-      "ai_picks": [
-        "올림피아코스 F 승"
-      ],
-      "aria_label": "올림피아코스 FC vs NEC 네이메헌 03:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16439838",
-      "url": "https://bbongtv4.com/premium/soccer/16439838",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "루아얄 위니옹 생질루아즈",
-      "team2": "FK 보되/글림트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 25.0,
-        "away": 32.0
-      },
-      "ai_summary": "홈팀 승 (루아얄 위니옹 생질루아즈) 및 오버 2.5골",
-      "ai_picks": [
-        "루아얄 위니옹  승",
-        "오버 2.5"
-      ],
-      "aria_label": "루아얄 위니옹 생질루아즈 vs FK 보되/글림트 03:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16439839",
-      "url": "https://bbongtv4.com/premium/soccer/16439839",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "AC 스파르타 프라하",
-      "team2": "올랭피크 리옹",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "올랭피크 리옹 승 (2.5 오버 병행 추천)",
-      "ai_picks": [
-        "올랭피크 리옹 승",
-        "오버 2.5"
-      ],
-      "aria_label": "AC 스파르타 프라하 vs 올랭피크 리옹 03:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16446546",
-      "url": "https://bbongtv4.com/premium/soccer/16446546",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/5 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NK 디나모 자그레브",
-      "team2": "FK 카우노 잘기리스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 14.0,
-        "away": 8.0
-      },
-      "ai_summary": "홈팀 NK 디나모 자그레브 승리",
-      "ai_picks": [
-        "NK 디나모 자그 승"
-      ],
-      "aria_label": "NK 디나모 자그레브 vs FK 카우노 잘기리스 03:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
     {
       "id": "16441457",
       "url": "https://bbongtv4.com/premium/soccer/16441457",
@@ -704,6 +549,161 @@
         "언더 2.5"
       ],
       "aria_label": "FK 아우다 vs FC 디나모 시티 00:59 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16446536",
+      "url": "https://bbongtv4.com/premium/soccer/16446536",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "하포엘 베르셰바 FC",
+      "team2": "FK 츠르베나 즈베즈다",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "원정팀 FK 츠르베나 즈베즈다 승, 핸디캡 홈 +1 및 오버 2.5 추천",
+      "ai_picks": [
+        "FK 츠르베나 즈 승",
+        "하포엘 베르셰 +1",
+        "오버 2.5"
+      ],
+      "aria_label": "하포엘 베르셰바 FC vs FK 츠르베나 즈베즈다 02:30 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16446538",
+      "url": "https://bbongtv4.com/premium/soccer/16446538",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "레브스키 소피아",
+      "team2": "FC 카이라트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "draw": 24.0,
+        "away": 24.0
+      },
+      "ai_summary": "레브스키 소피아 승 + 2.5 언더",
+      "ai_picks": [
+        "레브스키 소피 승",
+        "언더 2.5"
+      ],
+      "aria_label": "레브스키 소피아 vs FC 카이라트 02:30 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16439837",
+      "url": "https://bbongtv4.com/premium/soccer/16439837",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "올림피아코스 FC",
+      "team2": "NEC 네이메헌",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 올림피아코스 FC 승리",
+      "ai_picks": [
+        "올림피아코스 F 승"
+      ],
+      "aria_label": "올림피아코스 FC vs NEC 네이메헌 03:00 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16439838",
+      "url": "https://bbongtv4.com/premium/soccer/16439838",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "루아얄 위니옹 생질루아즈",
+      "team2": "FK 보되/글림트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "draw": 25.0,
+        "away": 32.0
+      },
+      "ai_summary": "홈팀 승 (루아얄 위니옹 생질루아즈) 및 오버 2.5골",
+      "ai_picks": [
+        "루아얄 위니옹  승",
+        "오버 2.5"
+      ],
+      "aria_label": "루아얄 위니옹 생질루아즈 vs FK 보되/글림트 03:00 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16439839",
+      "url": "https://bbongtv4.com/premium/soccer/16439839",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "AC 스파르타 프라하",
+      "team2": "올랭피크 리옹",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "올랭피크 리옹 승 (2.5 오버 병행 추천)",
+      "ai_picks": [
+        "올랭피크 리옹 승",
+        "오버 2.5"
+      ],
+      "aria_label": "AC 스파르타 프라하 vs 올랭피크 리옹 03:00 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16446546",
+      "url": "https://bbongtv4.com/premium/soccer/16446546",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/5 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "NK 디나모 자그레브",
+      "team2": "FK 카우노 잘기리스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 78.0,
+        "draw": 14.0,
+        "away": 8.0
+      },
+      "ai_summary": "홈팀 NK 디나모 자그레브 승리",
+      "ai_picks": [
+        "NK 디나모 자그 승"
+      ],
+      "aria_label": "NK 디나모 자그레브 vs FK 카우노 잘기리스 03:00 분석 상세",
       "source_date": "2026-08-05"
     }
   ]
