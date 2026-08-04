@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-05",
-  "scraped_at": "2026-08-04T21:15:38.396926+00:00",
+  "scraped_at": "2026-08-04T22:31:48.586380+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16441457",
-      "url": "https://bbongtv4.com/premium/soccer/16441457",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/5 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "섐록 로버스 FC",
-      "team2": "KF Egnatia Rrogozhine",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 섐록 로버스 FC 승",
-      "ai_picks": [
-        "섐록 로버스 FC 승"
-      ],
-      "aria_label": "섐록 로버스 FC vs KF Egnatia Rrogozhine 04:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
-    {
-      "id": "16441459",
-      "url": "https://bbongtv4.com/premium/soccer/16441459",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/5 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "란 FC",
-      "team2": "FC 이베리아 1999",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "원정팀 FC 이베리아 1999 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "FC 이베리아 19 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "란 FC vs FC 이베리아 1999 04:00 분석 상세",
-      "source_date": "2026-08-05"
-    },
     {
       "id": "16262459",
       "url": "https://bbongtv4.com/premium/baseball/16262459",
@@ -704,6 +652,58 @@
         "NK 디나모 자그 승"
       ],
       "aria_label": "NK 디나모 자그레브 vs FK 카우노 잘기리스 03:00 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16441457",
+      "url": "https://bbongtv4.com/premium/soccer/16441457",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/5 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "섐록 로버스 FC",
+      "team2": "KF Egnatia Rrogozhine",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 섐록 로버스 FC 승",
+      "ai_picks": [
+        "섐록 로버스 FC 승"
+      ],
+      "aria_label": "섐록 로버스 FC vs KF Egnatia Rrogozhine 04:00 분석 상세",
+      "source_date": "2026-08-05"
+    },
+    {
+      "id": "16441459",
+      "url": "https://bbongtv4.com/premium/soccer/16441459",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/5 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "란 FC",
+      "team2": "FC 이베리아 1999",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "원정팀 FC 이베리아 1999 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "FC 이베리아 19 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "란 FC vs FC 이베리아 1999 04:00 분석 상세",
       "source_date": "2026-08-05"
     }
   ]
