@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-06",
-  "scraped_at": "2026-08-05T19:41:24.946399+00:00",
+  "scraped_at": "2026-08-05T21:15:48.563279+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16447453",
-      "url": "https://bbongtv4.com/premium/soccer/16447453",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/6 (목)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "페네르바흐체 SK",
-      "team2": "SK 슈투름 그라츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "페네르바흐체 SK 홈 승리",
-      "ai_picks": [
-        "페네르바흐체 S 승"
-      ],
-      "aria_label": "페네르바흐체 SK vs SK 슈투름 그라츠 03:00 분석 상세",
-      "source_date": "2026-08-06"
-    },
     {
       "id": "16262474",
       "url": "https://bbongtv4.com/premium/baseball/16262474",
@@ -54,31 +29,6 @@
       "source_date": "2026-08-06"
     },
     {
-      "id": "16447461",
-      "url": "https://bbongtv4.com/premium/soccer/16447461",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/6 (목)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "페렌츠바로시 TC",
-      "team2": "구르니크 자브제",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "페렌츠바로시 TC 승",
-      "ai_picks": [
-        "페렌츠바로시 T 승"
-      ],
-      "aria_label": "페렌츠바로시 TC vs 구르니크 자브제 03:15 분석 상세",
-      "source_date": "2026-08-06"
-    },
-    {
       "id": "16262475",
       "url": "https://bbongtv4.com/premium/baseball/16262475",
       "sport": "baseball",
@@ -100,57 +50,6 @@
         "시카고컵스 승"
       ],
       "aria_label": "시카고컵스 vs LA다저스 03:20 분석 상세",
-      "source_date": "2026-08-06"
-    },
-    {
-      "id": "16441892",
-      "url": "https://bbongtv4.com/premium/soccer/16441892",
-      "sport": "soccer",
-      "league": "INT CF",
-      "date": "8/6 (목)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아스날 FC",
-      "team2": "레알 베티스(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "아스날 FC 승",
-      "ai_picks": [
-        "아스날 FC 승"
-      ],
-      "aria_label": "아스날 FC vs 레알 베티스(N) 03:30 분석 상세",
-      "source_date": "2026-08-06"
-    },
-    {
-      "id": "16447462",
-      "url": "https://bbongtv4.com/premium/soccer/16447462",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/6 (목)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "파나티나이코스 FC",
-      "team2": "FC CSKA 1948 소피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "파나티나이코스 FC 홈 승 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "파나티나이코스 승",
-        "파나티나이코스 -1.5"
-      ],
-      "aria_label": "파나티나이코스 FC vs FC CSKA 1948 소피아 03:30 분석 상세",
       "source_date": "2026-08-06"
     },
     {
@@ -568,6 +467,107 @@
         "SK 브란 승"
       ],
       "aria_label": "SK 브란 vs 아폴론 리마솔 02:00 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16447453",
+      "url": "https://bbongtv4.com/premium/soccer/16447453",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/6 (목)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "페네르바흐체 SK",
+      "team2": "SK 슈투름 그라츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "페네르바흐체 SK 홈 승리",
+      "ai_picks": [
+        "페네르바흐체 S 승"
+      ],
+      "aria_label": "페네르바흐체 SK vs SK 슈투름 그라츠 03:00 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16447461",
+      "url": "https://bbongtv4.com/premium/soccer/16447461",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/6 (목)",
+      "time": "03:15",
+      "status": "예정",
+      "result": null,
+      "team1": "페렌츠바로시 TC",
+      "team2": "구르니크 자브제",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "페렌츠바로시 TC 승",
+      "ai_picks": [
+        "페렌츠바로시 T 승"
+      ],
+      "aria_label": "페렌츠바로시 TC vs 구르니크 자브제 03:15 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16441892",
+      "url": "https://bbongtv4.com/premium/soccer/16441892",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/6 (목)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아스날 FC",
+      "team2": "레알 베티스(N)",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "아스날 FC 승",
+      "ai_picks": [
+        "아스날 FC 승"
+      ],
+      "aria_label": "아스날 FC vs 레알 베티스(N) 03:30 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16447462",
+      "url": "https://bbongtv4.com/premium/soccer/16447462",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/6 (목)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "파나티나이코스 FC",
+      "team2": "FC CSKA 1948 소피아",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "파나티나이코스 FC 홈 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "파나티나이코스 승",
+        "파나티나이코스 -1.5"
+      ],
+      "aria_label": "파나티나이코스 FC vs FC CSKA 1948 소피아 03:30 분석 상세",
       "source_date": "2026-08-06"
     }
   ]
