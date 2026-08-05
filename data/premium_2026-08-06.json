@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-06",
-  "scraped_at": "2026-08-05T17:44:30.541123+00:00",
+  "scraped_at": "2026-08-05T19:41:24.946399+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16447409",
-      "url": "https://bbongtv4.com/premium/soccer/16447409",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/6 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "오르후스 GF",
-      "team2": "Sabah Baku",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 23.0,
-        "away": 22.0
-      },
-      "ai_summary": "홈팀 오르후스 GF 승",
-      "ai_picks": [
-        "오르후스 GF 승"
-      ],
-      "aria_label": "오르후스 GF vs Sabah Baku 01:30 분석 상세",
-      "source_date": "2026-08-06"
-    },
-    {
-      "id": "16447415",
-      "url": "https://bbongtv4.com/premium/soccer/16447415",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/6 (목)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 브란",
-      "team2": "아폴론 리마솔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 SK 브란 승",
-      "ai_picks": [
-        "SK 브란 승"
-      ],
-      "aria_label": "SK 브란 vs 아폴론 리마솔 02:00 분석 상세",
-      "source_date": "2026-08-06"
-    },
     {
       "id": "16447453",
       "url": "https://bbongtv4.com/premium/soccer/16447453",
@@ -568,6 +518,56 @@
         "시애틀 승"
       ],
       "aria_label": "시애틀 vs 디트로이트 10:40 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16447409",
+      "url": "https://bbongtv4.com/premium/soccer/16447409",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/6 (목)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "오르후스 GF",
+      "team2": "Sabah Baku",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 23.0,
+        "away": 22.0
+      },
+      "ai_summary": "홈팀 오르후스 GF 승",
+      "ai_picks": [
+        "오르후스 GF 승"
+      ],
+      "aria_label": "오르후스 GF vs Sabah Baku 01:30 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16447415",
+      "url": "https://bbongtv4.com/premium/soccer/16447415",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/6 (목)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "SK 브란",
+      "team2": "아폴론 리마솔",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 SK 브란 승",
+      "ai_picks": [
+        "SK 브란 승"
+      ],
+      "aria_label": "SK 브란 vs 아폴론 리마솔 02:00 분석 상세",
       "source_date": "2026-08-06"
     }
   ]

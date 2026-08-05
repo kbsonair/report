@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T17:44:32.462186+00:00",
+  "scraped_at": "2026-08-05T19:41:26.616811+00:00",
   "kst_yesterday": "2026-08-05",
   "kst_today": "2026-08-06",
   "kst_tomorrow": "2026-08-07",
@@ -93,12 +93,12 @@
       "league": "UEFA ECL",
       "date": "8/6 (목)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "SK 브란",
       "team2": "아폴론 리마솔",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 50.0,
         "draw": 25.0,
