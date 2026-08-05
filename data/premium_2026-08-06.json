@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-06",
-  "scraped_at": "2026-08-05T22:31:06.045765+00:00",
+  "scraped_at": "2026-08-05T23:36:45.973202+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16262477",
-      "url": "https://bbongtv4.com/premium/baseball/16262477",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/6 (목)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도",
-      "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "away": 72.0
-      },
-      "ai_summary": "탬파베이 승리",
-      "ai_picks": [
-        "탬파베이 승"
-      ],
-      "aria_label": "콜로라도 vs 탬파베이 04:10 분석 상세",
-      "source_date": "2026-08-06"
-    },
     {
       "id": "16262478",
       "url": "https://bbongtv4.com/premium/baseball/16262478",
@@ -568,6 +544,30 @@
         "파나티나이코스 -1.5"
       ],
       "aria_label": "파나티나이코스 FC vs FC CSKA 1948 소피아 03:30 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16262477",
+      "url": "https://bbongtv4.com/premium/baseball/16262477",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/6 (목)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도",
+      "team2": "탬파베이",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 28.0,
+        "away": 72.0
+      },
+      "ai_summary": "탬파베이 승리",
+      "ai_picks": [
+        "탬파베이 승"
+      ],
+      "aria_label": "콜로라도 vs 탬파베이 04:10 분석 상세",
       "source_date": "2026-08-06"
     }
   ]

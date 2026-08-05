@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T22:31:08.003594+00:00",
+  "scraped_at": "2026-08-05T23:36:48.158217+00:00",
   "kst_yesterday": "2026-08-05",
   "kst_today": "2026-08-06",
   "kst_tomorrow": "2026-08-07",
@@ -267,12 +267,12 @@
       "league": "MLB",
       "date": "8/6 (목)",
       "time": "04:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도",
       "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 4,
       "prob": {
         "home": 28.0,
         "away": 72.0
