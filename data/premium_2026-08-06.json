@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-06",
-  "scraped_at": "2026-08-05T21:15:48.563279+00:00",
+  "scraped_at": "2026-08-05T22:31:06.045765+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16262474",
-      "url": "https://bbongtv4.com/premium/baseball/16262474",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/6 (목)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "휴스턴",
-      "team2": "토론토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "휴스턴 승리",
-      "ai_picks": [
-        "휴스턴 승"
-      ],
-      "aria_label": "휴스턴 vs 토론토 03:10 분석 상세",
-      "source_date": "2026-08-06"
-    },
-    {
-      "id": "16262475",
-      "url": "https://bbongtv4.com/premium/baseball/16262475",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/6 (목)",
-      "time": "03:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고컵스",
-      "team2": "LA다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "시카고컵스 vs LA다저스 03:20 분석 상세",
-      "source_date": "2026-08-06"
-    },
     {
       "id": "16262477",
       "url": "https://bbongtv4.com/premium/baseball/16262477",
@@ -495,6 +447,30 @@
       "source_date": "2026-08-06"
     },
     {
+      "id": "16262474",
+      "url": "https://bbongtv4.com/premium/baseball/16262474",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/6 (목)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "휴스턴",
+      "team2": "토론토",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "휴스턴 승리",
+      "ai_picks": [
+        "휴스턴 승"
+      ],
+      "aria_label": "휴스턴 vs 토론토 03:10 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
       "id": "16447461",
       "url": "https://bbongtv4.com/premium/soccer/16447461",
       "sport": "soccer",
@@ -517,6 +493,30 @@
         "페렌츠바로시 T 승"
       ],
       "aria_label": "페렌츠바로시 TC vs 구르니크 자브제 03:15 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16262475",
+      "url": "https://bbongtv4.com/premium/baseball/16262475",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/6 (목)",
+      "time": "03:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고컵스",
+      "team2": "LA다저스",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "시카고컵스 vs LA다저스 03:20 분석 상세",
       "source_date": "2026-08-06"
     },
     {
