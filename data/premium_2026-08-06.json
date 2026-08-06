@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-06",
-  "scraped_at": "2026-08-06T04:33:06.806499+00:00",
+  "scraped_at": "2026-08-06T07:23:34.417260+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16262487",
-      "url": "https://bbongtv4.com/premium/baseball/16262487",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/6 (목)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "away": 53.0
-      },
-      "ai_summary": "디트로이트 승 또는 시애틀 승 접전 예상 (디트로이트 근소 우위)",
-      "ai_picks": [
-        "디트로이트 승",
-        "시애틀 승"
-      ],
-      "aria_label": "시애틀 vs 디트로이트 10:40 분석 상세",
-      "source_date": "2026-08-06"
-    },
     {
       "id": "16263869",
       "url": "https://bbongtv4.com/premium/baseball/16263869",
@@ -694,6 +669,31 @@
         "언더 189.5"
       ],
       "aria_label": "시카고 vs LA 10:00 분석 상세",
+      "source_date": "2026-08-06"
+    },
+    {
+      "id": "16262487",
+      "url": "https://bbongtv4.com/premium/baseball/16262487",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/6 (목)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀",
+      "team2": "디트로이트",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "디트로이트 승 또는 시애틀 승 접전 예상 (디트로이트 근소 우위)",
+      "ai_picks": [
+        "디트로이트 승",
+        "시애틀 승"
+      ],
+      "aria_label": "시애틀 vs 디트로이트 10:40 분석 상세",
       "source_date": "2026-08-06"
     }
   ]

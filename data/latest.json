@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-06T04:33:08.569579+00:00",
+  "scraped_at": "2026-08-06T07:23:36.394248+00:00",
   "kst_yesterday": "2026-08-05",
   "kst_today": "2026-08-06",
   "kst_tomorrow": "2026-08-07",
@@ -1910,12 +1910,12 @@
       "league": "MLB",
       "date": "8/6 (목)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀",
       "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 47.0,
         "away": 53.0
