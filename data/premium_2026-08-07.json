@@ -1,9 +1,33 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-07",
   "source_date": "2026-08-07",
-  "scraped_at": "2026-08-05T23:36:48.071772+00:00",
-  "count": 2,
+  "scraped_at": "2026-08-06T01:04:22.582704+00:00",
+  "count": 3,
   "matches": [
+    {
+      "id": "16356797",
+      "url": "https://bbongtv4.com/premium/basket/16356797",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/7 (금)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미네소타",
+      "team2": "LA",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "away": 15.0
+      },
+      "ai_summary": "미네소타 승 (핸디캡 커버 및 언더 유력)",
+      "ai_picks": [
+        "미네소타 승"
+      ],
+      "aria_label": "미네소타 vs LA 10:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
     {
       "id": "16442843",
       "url": "https://bbongtv4.com/premium/soccer/16442843",
