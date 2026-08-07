@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T19:25:02.756503+00:00",
+  "scraped_at": "2026-08-07T20:20:32.535761+00:00",
   "kst_yesterday": "2026-08-07",
   "kst_today": "2026-08-08",
   "kst_tomorrow": "2026-08-09",
@@ -117,12 +117,12 @@
       "league": "NOR D1",
       "date": "8/8 (토)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "사네피오르 포트발",
       "team2": "KFUM 오슬로",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 48.0,
         "draw": 27.0,

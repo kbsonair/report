@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-07T19:25:00.272475+00:00",
+  "scraped_at": "2026-08-07T20:20:29.862825+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16442376",
-      "url": "https://bbongtv4.com/premium/soccer/16442376",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/8 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사네피오르 포트발",
-      "team2": "KFUM 오슬로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "사네피오르 포트발 승",
-      "ai_picks": [
-        "사네피오르 포 승"
-      ],
-      "aria_label": "사네피오르 포트발 vs KFUM 오슬로 02:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16442456",
       "url": "https://bbongtv4.com/premium/soccer/16442456",
@@ -565,6 +540,31 @@
         "말레이시아 승"
       ],
       "aria_label": "말레이시아 vs 필리핀 22:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16442376",
+      "url": "https://bbongtv4.com/premium/soccer/16442376",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/8 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "사네피오르 포트발",
+      "team2": "KFUM 오슬로",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "사네피오르 포트발 승",
+      "ai_picks": [
+        "사네피오르 포 승"
+      ],
+      "aria_label": "사네피오르 포트발 vs KFUM 오슬로 02:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
