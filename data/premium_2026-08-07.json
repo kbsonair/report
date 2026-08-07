@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-07",
   "source_date": "2026-08-07",
-  "scraped_at": "2026-08-07T13:57:18.131659+00:00",
+  "scraped_at": "2026-08-07T15:02:56.162324+00:00",
   "count": 67,
   "matches": [
-    {
-      "id": "16442843",
-      "url": "https://bbongtv4.com/premium/soccer/16442843",
-      "sport": "soccer",
-      "league": "INT CF",
-      "date": "8/7 (금)",
-      "time": "21:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 바이에른 뮌헨",
-      "team2": "애스턴 빌라 FC(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "FC 바이에른 뮌헨 승",
-      "ai_picks": [
-        "FC 바이에른 뮌 승"
-      ],
-      "aria_label": "FC 바이에른 뮌헨 vs 애스턴 빌라 FC(N) 21:00 분석 상세",
-      "source_date": "2026-08-07"
-    },
     {
       "id": "16442296",
       "url": "https://bbongtv4.com/premium/soccer/16442296",
@@ -1712,6 +1687,31 @@
         "부산 아이파크 승"
       ],
       "aria_label": "용인 FC vs 부산 아이파크 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442843",
+      "url": "https://bbongtv4.com/premium/soccer/16442843",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/7 (금)",
+      "time": "21:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 바이에른 뮌헨",
+      "team2": "애스턴 빌라 FC(N)",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "FC 바이에른 뮌 승"
+      ],
+      "aria_label": "FC 바이에른 뮌헨 vs 애스턴 빌라 FC(N) 21:00 분석 상세",
       "source_date": "2026-08-07"
     }
   ]
