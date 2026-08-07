@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-07T20:20:29.862825+00:00",
+  "scraped_at": "2026-08-07T21:21:26.976137+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16442456",
-      "url": "https://bbongtv4.com/premium/soccer/16442456",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/8 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 캄뷔르",
-      "team2": "SBV 엑셀시오르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 25.0,
-        "away": 40.0
-      },
-      "ai_summary": "SBV 엑셀시오르 승 또는 오버 2.5골",
-      "ai_picks": [
-        "SBV 엑셀시오르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16442534",
       "url": "https://bbongtv4.com/premium/soccer/16442534",
@@ -565,6 +539,32 @@
         "사네피오르 포 승"
       ],
       "aria_label": "사네피오르 포트발 vs KFUM 오슬로 02:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16442456",
+      "url": "https://bbongtv4.com/premium/soccer/16442456",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/8 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SC 캄뷔르",
+      "team2": "SBV 엑셀시오르",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "draw": 25.0,
+        "away": 40.0
+      },
+      "ai_summary": "SBV 엑셀시오르 승 또는 오버 2.5골",
+      "ai_picks": [
+        "SBV 엑셀시오르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
