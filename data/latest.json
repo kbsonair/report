@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T15:02:57.157427+00:00",
+  "scraped_at": "2026-08-07T16:12:16.942642+00:00",
   "kst_yesterday": "2026-08-07",
   "kst_today": "2026-08-08",
   "kst_tomorrow": "2026-08-09",
@@ -2364,12 +2364,12 @@
       "league": "AFF SC",
       "date": "8/7 (금)",
       "time": "22:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "싱가포르",
       "team2": "인도네시아",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 42.0,
         "draw": 30.0,

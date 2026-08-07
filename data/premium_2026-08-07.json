@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-07",
   "source_date": "2026-08-07",
-  "scraped_at": "2026-08-07T15:02:56.162324+00:00",
+  "scraped_at": "2026-08-07T16:12:15.790012+00:00",
   "count": 67,
   "matches": [
-    {
-      "id": "16442296",
-      "url": "https://bbongtv4.com/premium/soccer/16442296",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/7 (금)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "싱가포르",
-      "team2": "인도네시아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "싱가포르 승 또는 무승부",
-      "ai_picks": [
-        "싱가포르 승",
-        "무승부"
-      ],
-      "aria_label": "싱가포르 vs 인도네시아 22:00 분석 상세",
-      "source_date": "2026-08-07"
-    },
     {
       "id": "16441458",
       "url": "https://bbongtv4.com/premium/soccer/16441458",
@@ -1712,6 +1686,32 @@
         "FC 바이에른 뮌 승"
       ],
       "aria_label": "FC 바이에른 뮌헨 vs 애스턴 빌라 FC(N) 21:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442296",
+      "url": "https://bbongtv4.com/premium/soccer/16442296",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/7 (금)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "싱가포르",
+      "team2": "인도네시아",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "싱가포르 승 또는 무승부",
+      "ai_picks": [
+        "싱가포르 승",
+        "무승부"
+      ],
+      "aria_label": "싱가포르 vs 인도네시아 22:00 분석 상세",
       "source_date": "2026-08-07"
     }
   ]
