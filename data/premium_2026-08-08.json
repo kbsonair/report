@@ -1,9 +1,34 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-08",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-07T00:30:09.686805+00:00",
-  "count": 3,
+  "scraped_at": "2026-08-07T03:37:33.250239+00:00",
+  "count": 8,
   "matches": [
+    {
+      "id": "16442376",
+      "url": "https://bbongtv4.com/premium/soccer/16442376",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/8 (토)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "사네피오르 포트발",
+      "team2": "KFUM 오슬로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "사네피오르 포트발 승",
+      "ai_picks": [
+        "사네피오르 포 승"
+      ],
+      "aria_label": "사네피오르 포트발 vs KFUM 오슬로 02:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
     {
       "id": "16442456",
       "url": "https://bbongtv4.com/premium/soccer/16442456",
@@ -28,6 +53,106 @@
         "오버 2.5"
       ],
       "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16442534",
+      "url": "https://bbongtv4.com/premium/soccer/16442534",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "8/8 (토)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미들즈브러 FC",
+      "team2": "렉섬 AFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "미들즈브러 FC 승 (오버 2.5 병행 추천)",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "미들즈브러 FC vs 렉섬 AFC 04:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356799",
+      "url": "https://bbongtv4.com/premium/basket/16356799",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "코네티컷",
+      "team2": "피닉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "피닉스 승 (코네티컷 +6.5 핸디캡 커버 가능, 언더 172.5 유력)",
+      "ai_picks": [
+        "피닉스 승",
+        "코네티컷 +6.5",
+        "언더 172.5"
+      ],
+      "aria_label": "코네티컷 vs 피닉스 08:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356800",
+      "url": "https://bbongtv4.com/premium/basket/16356800",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴",
+      "team2": "애틀랜타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "애틀랜타 승",
+      "ai_picks": [
+        "애틀랜타 승"
+      ],
+      "aria_label": "워싱턴 vs 애틀랜타 08:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356801",
+      "url": "https://bbongtv4.com/premium/basket/16356801",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "10:30",
+      "status": "예정",
+      "result": null,
+      "team1": "댈러스",
+      "team2": "골든스테이트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "댈러스 승",
+      "ai_picks": [
+        "댈러스 승"
+      ],
+      "aria_label": "댈러스 vs 골든스테이트 10:30 분석 상세",
       "source_date": "2026-08-08"
     },
     {

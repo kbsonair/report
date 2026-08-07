@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T00:30:09.752191+00:00",
+  "scraped_at": "2026-08-07T03:37:33.312767+00:00",
   "kst_yesterday": "2026-08-06",
   "kst_today": "2026-08-07",
   "kst_tomorrow": "2026-08-08",
@@ -8,8 +8,33 @@
     "2026-08-07",
     "2026-08-08"
   ],
-  "count": 84,
+  "count": 103,
   "matches": [
+    {
+      "id": "16442376",
+      "url": "https://bbongtv4.com/premium/soccer/16442376",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/8 (토)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "사네피오르 포트발",
+      "team2": "KFUM 오슬로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "사네피오르 포트발 승",
+      "ai_picks": [
+        "사네피오르 포 승"
+      ],
+      "aria_label": "사네피오르 포트발 vs KFUM 오슬로 02:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
     {
       "id": "16442456",
       "url": "https://bbongtv4.com/premium/soccer/16442456",
@@ -34,6 +59,106 @@
         "오버 2.5"
       ],
       "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16442534",
+      "url": "https://bbongtv4.com/premium/soccer/16442534",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "8/8 (토)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미들즈브러 FC",
+      "team2": "렉섬 AFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "미들즈브러 FC 승 (오버 2.5 병행 추천)",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "미들즈브러 FC vs 렉섬 AFC 04:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356799",
+      "url": "https://bbongtv4.com/premium/basket/16356799",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "코네티컷",
+      "team2": "피닉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "피닉스 승 (코네티컷 +6.5 핸디캡 커버 가능, 언더 172.5 유력)",
+      "ai_picks": [
+        "피닉스 승",
+        "코네티컷 +6.5",
+        "언더 172.5"
+      ],
+      "aria_label": "코네티컷 vs 피닉스 08:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356800",
+      "url": "https://bbongtv4.com/premium/basket/16356800",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴",
+      "team2": "애틀랜타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "애틀랜타 승",
+      "ai_picks": [
+        "애틀랜타 승"
+      ],
+      "aria_label": "워싱턴 vs 애틀랜타 08:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16356801",
+      "url": "https://bbongtv4.com/premium/basket/16356801",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/8 (토)",
+      "time": "10:30",
+      "status": "예정",
+      "result": null,
+      "team1": "댈러스",
+      "team2": "골든스테이트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "댈러스 승",
+      "ai_picks": [
+        "댈러스 승"
+      ],
+      "aria_label": "댈러스 vs 골든스테이트 10:30 분석 상세",
       "source_date": "2026-08-08"
     },
     {
@@ -1197,12 +1322,12 @@
       "league": "MLB",
       "date": "8/7 (금)",
       "time": "07:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "필라델피아",
       "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 3,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1221,12 +1346,12 @@
       "league": "WNBA",
       "date": "8/7 (금)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "인디애나",
       "team2": "라스베가스",
-      "score1": null,
-      "score2": null,
+      "score1": 84,
+      "score2": 86,
       "prob": {
         "home": 50.0,
         "draw": 5.0,
@@ -1271,12 +1396,12 @@
       "league": "MLB",
       "date": "8/7 (금)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애틀랜타",
       "team2": "마이애미",
-      "score1": null,
-      "score2": null,
+      "score1": 11,
+      "score2": 3,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1385,6 +1510,364 @@
         "토론토 승"
       ],
       "aria_label": "포틀랜드 vs 토론토 11:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263874",
+      "url": "https://bbongtv4.com/premium/baseball/16263874",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "요미우리",
+      "team2": "야쿠르트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 15.0,
+        "away": 35.0
+      },
+      "ai_summary": "요미우리 승 + 언더",
+      "ai_picks": [
+        "요미우리 승"
+      ],
+      "aria_label": "요미우리 vs 야쿠르트 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263875",
+      "url": "https://bbongtv4.com/premium/baseball/16263875",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "요코하마",
+      "team2": "히로시마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 20.0,
+        "away": 30.0
+      },
+      "ai_summary": "요코하마 승",
+      "ai_picks": [
+        "요코하마 승"
+      ],
+      "aria_label": "요코하마 vs 히로시마 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263876",
+      "url": "https://bbongtv4.com/premium/baseball/16263876",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한신",
+      "team2": "주니치",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "draw": 12.0,
+        "away": 30.0
+      },
+      "ai_summary": "한신 승리 (저득점 경기 예상, 언더 유력)",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "한신 vs 주니치 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263877",
+      "url": "https://bbongtv4.com/premium/baseball/16263877",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "니혼햄",
+      "team2": "라쿠텐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 10.0,
+        "away": 30.0
+      },
+      "ai_summary": "니혼햄 승리",
+      "ai_picks": [
+        "니혼햄 승"
+      ],
+      "aria_label": "니혼햄 vs 라쿠텐 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263878",
+      "url": "https://bbongtv4.com/premium/baseball/16263878",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세이부",
+      "team2": "소프트뱅크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 15.0,
+        "away": 40.0
+      },
+      "ai_summary": "세이부 소폭 우세 (투수전 양상, 언더 추천)",
+      "ai_picks": [
+        "세이부 승"
+      ],
+      "aria_label": "세이부 vs 소프트뱅크 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16263879",
+      "url": "https://bbongtv4.com/premium/baseball/16263879",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/7 (금)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "치바롯데",
+      "team2": "오릭스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 20.0,
+        "away": 30.0
+      },
+      "ai_summary": "치바롯데 승리 (로스코어 접전, 합산 8.5 언더 유력)",
+      "ai_picks": [
+        "치바롯데 승",
+        "언더 8.5"
+      ],
+      "aria_label": "치바롯데 vs 오릭스 18:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442280",
+      "url": "https://bbongtv4.com/premium/soccer/16442280",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/7 (금)",
+      "time": "19:25",
+      "status": "예정",
+      "result": null,
+      "team1": "요코하마 F 마리노스",
+      "team2": "가시마 앤틀러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "가시마 앤틀러스 승 또는 언더 2.5골",
+      "ai_picks": [
+        "가시마 앤틀러 승",
+        "언더 2.5"
+      ],
+      "aria_label": "요코하마 F 마리노스 vs 가시마 앤틀러스 19:25 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442281",
+      "url": "https://bbongtv4.com/premium/soccer/16442281",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/7 (금)",
+      "time": "19:30",
+      "status": "예정",
+      "result": null,
+      "team1": "감바 오사카",
+      "team2": "우라와 레드 다이아몬즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 감바 오사카 승리 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "감바 오사카 승",
+        "언더 2.5"
+      ],
+      "aria_label": "감바 오사카 vs 우라와 레드 다이아몬즈 19:30 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442283",
+      "url": "https://bbongtv4.com/premium/soccer/16442283",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "충남 아산 FC",
+      "team2": "안산 그리너스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "충남 아산 FC 홈 승리",
+      "ai_picks": [
+        "충남 아산 FC 승"
+      ],
+      "aria_label": "충남 아산 FC vs 안산 그리너스 FC 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442284",
+      "url": "https://bbongtv4.com/premium/soccer/16442284",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "김포 FC",
+      "team2": "충북 청주 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "김포 FC 승 또는 무승부 (언더 2.5 강력 추천)",
+      "ai_picks": [
+        "김포 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "김포 FC vs 충북 청주 FC 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442285",
+      "url": "https://bbongtv4.com/premium/soccer/16442285",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "경남 FC",
+      "team2": "대구 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 27.0,
+        "away": 45.0
+      },
+      "ai_summary": "오버 2.5골 / 대구 FC 소폭 우세하나 경남 FC +1 핸디캡 추천",
+      "ai_picks": [
+        "오버 2.5",
+        "대구 FC 승",
+        "경남 FC +1"
+      ],
+      "aria_label": "경남 FC vs 대구 FC 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442286",
+      "url": "https://bbongtv4.com/premium/soccer/16442286",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "화성 FC",
+      "team2": "서울 이랜드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 25.0,
+        "away": 40.0
+      },
+      "ai_summary": "오버 2.5골 (다득점 경기 예상), 승패 방향은 서울 이랜드 FC 근소 우위",
+      "ai_picks": [
+        "서울 이랜드 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "화성 FC vs 서울 이랜드 FC 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442287",
+      "url": "https://bbongtv4.com/premium/soccer/16442287",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "수원삼성블루윙즈",
+      "team2": "김해 FC 2008",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "수원삼성블루윙즈 승리",
+      "ai_picks": [
+        "수원삼성블루윙 승"
+      ],
+      "aria_label": "수원삼성블루윙즈 vs 김해 FC 2008 20:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16442288",
+      "url": "https://bbongtv4.com/premium/soccer/16442288",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/7 (금)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "용인 FC",
+      "team2": "부산 아이파크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "부산 아이파크 원정 승리",
+      "ai_picks": [
+        "부산 아이파크 승"
+      ],
+      "aria_label": "용인 FC vs 부산 아이파크 20:00 분석 상세",
       "source_date": "2026-08-07"
     },
     {
