@@ -1,0 +1,84 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-08",
+  "source_date": "2026-08-08",
+  "scraped_at": "2026-08-07T00:30:09.686805+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "16442456",
+      "url": "https://bbongtv4.com/premium/soccer/16442456",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/8 (토)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 캄뷔르",
+      "team2": "SBV 엑셀시오르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 25.0,
+        "away": 40.0
+      },
+      "ai_summary": "SBV 엑셀시오르 승 또는 오버 2.5골",
+      "ai_picks": [
+        "SBV 엑셀시오르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443838",
+      "url": "https://bbongtv4.com/premium/soccer/16443838",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/8 (토)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "웨스턴 시드니 원더러스 FC(N)",
+      "team2": "멜버른 빅토리 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "멜버른 빅토리 FC 승",
+      "ai_picks": [
+        "멜버른 빅토리  승"
+      ],
+      "aria_label": "웨스턴 시드니 원더러스 FC(N) vs 멜버른 빅토리 FC 18:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444054",
+      "url": "https://bbongtv4.com/premium/soccer/16444054",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/8 (토)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "말레이시아",
+      "team2": "필리핀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "말레이시아 승",
+      "ai_picks": [
+        "말레이시아 승"
+      ],
+      "aria_label": "말레이시아 vs 필리핀 22:00 분석 상세",
+      "source_date": "2026-08-08"
+    }
+  ]
+}
