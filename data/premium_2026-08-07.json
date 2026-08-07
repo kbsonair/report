@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-07",
-  "scraped_at": "2026-08-07T05:23:13.921694+00:00",
+  "scraped_at": "2026-08-07T06:51:39.105189+00:00",
   "count": 67,
   "matches": [
-    {
-      "id": "16262498",
-      "url": "https://bbongtv4.com/premium/baseball/16262498",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/7 (금)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "샌디에이고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 5.0,
-        "away": 47.0
-      },
-      "ai_summary": "총득점 오버 8.5 / 승패는 애리조나 소폭 우세",
-      "ai_picks": [
-        "오버 8.5",
-        "애리조나 승"
-      ],
-      "aria_label": "애리조나 vs 샌디에이고 10:40 분석 상세",
-      "source_date": "2026-08-07"
-    },
     {
       "id": "16263874",
       "url": "https://bbongtv4.com/premium/baseball/16263874",
@@ -1688,6 +1662,32 @@
         "미네소타 승"
       ],
       "aria_label": "미네소타 vs LA 10:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16262498",
+      "url": "https://bbongtv4.com/premium/baseball/16262498",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/7 (금)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애리조나",
+      "team2": "샌디에이고",
+      "score1": 1,
+      "score2": 5,
+      "prob": {
+        "home": 48.0,
+        "draw": 5.0,
+        "away": 47.0
+      },
+      "ai_summary": "총득점 오버 8.5 / 승패는 애리조나 소폭 우세",
+      "ai_picks": [
+        "오버 8.5",
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs 샌디에이고 10:40 분석 상세",
       "source_date": "2026-08-07"
     },
     {
