@@ -1,58 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-07",
-  "scraped_at": "2026-08-07T03:37:30.552558+00:00",
+  "scraped_at": "2026-08-07T05:23:13.921694+00:00",
   "count": 67,
   "matches": [
-    {
-      "id": "16262497",
-      "url": "https://bbongtv4.com/premium/baseball/16262497",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/7 (금)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "캔자스시티 홈 승리 (언더 8.5 병행 추천)",
-      "ai_picks": [
-        "캔자스시티 승",
-        "언더 8.5"
-      ],
-      "aria_label": "캔자스시티 vs 미네소타 08:40 분석 상세",
-      "source_date": "2026-08-07"
-    },
-    {
-      "id": "16356797",
-      "url": "https://bbongtv4.com/premium/basket/16356797",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/7 (금)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "LA",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 85.0,
-        "away": 15.0
-      },
-      "ai_summary": "미네소타 승 (핸디캡 커버 및 언더 유력)",
-      "ai_picks": [
-        "미네소타 승"
-      ],
-      "aria_label": "미네소타 vs LA 10:00 분석 상세",
-      "source_date": "2026-08-07"
-    },
     {
       "id": "16262498",
       "url": "https://bbongtv4.com/premium/baseball/16262498",
@@ -77,30 +28,6 @@
         "애리조나 승"
       ],
       "aria_label": "애리조나 vs 샌디에이고 10:40 분석 상세",
-      "source_date": "2026-08-07"
-    },
-    {
-      "id": "16356798",
-      "url": "https://bbongtv4.com/premium/basket/16356798",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/7 (금)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포틀랜드",
-      "team2": "토론토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "토론토 승",
-      "ai_picks": [
-        "토론토 승"
-      ],
-      "aria_label": "포틀랜드 vs 토론토 11:00 분석 상세",
       "source_date": "2026-08-07"
     },
     {
@@ -1672,12 +1599,12 @@
       "league": "MLB",
       "date": "8/7 (금)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴",
       "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 12,
+      "score2": 11,
       "prob": {
         "home": 65.0,
         "draw": 5.0,
@@ -1712,6 +1639,79 @@
         "애틀랜타 승"
       ],
       "aria_label": "애틀랜타 vs 마이애미 08:15 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16262497",
+      "url": "https://bbongtv4.com/premium/baseball/16262497",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/7 (금)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티",
+      "team2": "미네소타",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "캔자스시티 홈 승리 (언더 8.5 병행 추천)",
+      "ai_picks": [
+        "캔자스시티 승",
+        "언더 8.5"
+      ],
+      "aria_label": "캔자스시티 vs 미네소타 08:40 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16356797",
+      "url": "https://bbongtv4.com/premium/basket/16356797",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/7 (금)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "미네소타",
+      "team2": "LA",
+      "score1": 82,
+      "score2": 89,
+      "prob": {
+        "home": 85.0,
+        "away": 15.0
+      },
+      "ai_summary": "미네소타 승 (핸디캡 커버 및 언더 유력)",
+      "ai_picks": [
+        "미네소타 승"
+      ],
+      "aria_label": "미네소타 vs LA 10:00 분석 상세",
+      "source_date": "2026-08-07"
+    },
+    {
+      "id": "16356798",
+      "url": "https://bbongtv4.com/premium/basket/16356798",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/7 (금)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "포틀랜드",
+      "team2": "토론토",
+      "score1": 97,
+      "score2": 83,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "토론토 승",
+      "ai_picks": [
+        "토론토 승"
+      ],
+      "aria_label": "포틀랜드 vs 토론토 11:00 분석 상세",
       "source_date": "2026-08-07"
     }
   ]
