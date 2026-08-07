@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-07T21:21:26.976137+00:00",
+  "scraped_at": "2026-08-07T22:16:49.405413+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16442534",
-      "url": "https://bbongtv4.com/premium/soccer/16442534",
-      "sport": "soccer",
-      "league": "ENG LC",
-      "date": "8/8 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미들즈브러 FC",
-      "team2": "렉섬 AFC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "미들즈브러 FC 승 (오버 2.5 병행 추천)",
-      "ai_picks": [
-        "미들즈브러 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "미들즈브러 FC vs 렉섬 AFC 04:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16262499",
       "url": "https://bbongtv4.com/premium/baseball/16262499",
@@ -565,6 +539,32 @@
         "오버 2.5"
       ],
       "aria_label": "SC 캄뷔르 vs SBV 엑셀시오르 03:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16442534",
+      "url": "https://bbongtv4.com/premium/soccer/16442534",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "8/8 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미들즈브러 FC",
+      "team2": "렉섬 AFC",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "미들즈브러 FC 승 (오버 2.5 병행 추천)",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "미들즈브러 FC vs 렉섬 AFC 04:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
