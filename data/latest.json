@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T08:20:10.968114+00:00",
+  "scraped_at": "2026-08-08T09:08:04.033167+00:00",
   "kst_yesterday": "2026-08-07",
   "kst_today": "2026-08-08",
   "kst_tomorrow": "2026-08-09",
@@ -8,7 +8,7 @@
     "2026-08-08",
     "2026-08-09"
   ],
-  "count": 147,
+  "count": 149,
   "matches": [
     {
       "id": "16444463",
@@ -265,6 +265,31 @@
       "source_date": "2026-08-09"
     },
     {
+      "id": "16262517",
+      "url": "https://bbongtv4.com/premium/baseball/16262517",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/9 (일)",
+      "time": "07:05",
+      "status": "예정",
+      "result": null,
+      "team1": "필라델피아",
+      "team2": "토론토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "필라델피아 승리",
+      "ai_picks": [
+        "필라델피아 승"
+      ],
+      "aria_label": "필라델피아 vs 토론토 07:05 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
       "id": "16262518",
       "url": "https://bbongtv4.com/premium/baseball/16262518",
       "sport": "baseball",
@@ -457,6 +482,30 @@
         "휴스턴 승"
       ],
       "aria_label": "샌디에이고 vs 휴스턴 08:15 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16262527",
+      "url": "https://bbongtv4.com/premium/baseball/16262527",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/9 (일)",
+      "time": "09:10",
+      "status": "예정",
+      "result": null,
+      "team1": "애리조나",
+      "team2": "LA다저스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "애리조나 홈 승리 및 언더",
+      "ai_picks": [
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs LA다저스 09:10 분석 상세",
       "source_date": "2026-08-09"
     },
     {
