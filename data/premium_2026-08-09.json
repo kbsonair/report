@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-08T22:33:26.547993+00:00",
+  "scraped_at": "2026-08-08T23:02:44.527966+00:00",
   "count": 26,
   "matches": [
     {
@@ -75,33 +75,6 @@
         "보스턴 승"
       ],
       "aria_label": "보스턴 vs 애슬레틱스 05:10 분석 상세",
-      "source_date": "2026-08-09"
-    },
-    {
-      "id": "16444700",
-      "url": "https://bbongtv4.com/premium/soccer/16444700",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/9 (일)",
-      "time": "05:30",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴잉글랜드 레볼루션",
-      "team2": "휴스턴 다이너모",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 승 또는 무승부 (언더 2.5골 유력)",
-      "ai_picks": [
-        "뉴잉글랜드 레 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "뉴잉글랜드 레볼루션 vs 휴스턴 다이너모 05:30 분석 상세",
       "source_date": "2026-08-09"
     },
     {
@@ -649,6 +622,33 @@
         "인디애나 승"
       ],
       "aria_label": "시카고 vs 인디애나 04:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444700",
+      "url": "https://bbongtv4.com/premium/soccer/16444700",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/9 (일)",
+      "time": "05:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴잉글랜드 레볼루션",
+      "team2": "휴스턴 다이너모",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "뉴잉글랜드 레 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "뉴잉글랜드 레볼루션 vs 휴스턴 다이너모 05:30 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
