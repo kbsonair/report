@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-08",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T14:53:51.285162+00:00",
+  "scraped_at": "2026-08-08T15:34:07.100865+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16444054",
-      "url": "https://bbongtv4.com/premium/soccer/16444054",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/8 (토)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "말레이시아",
-      "team2": "필리핀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "말레이시아 승",
-      "ai_picks": [
-        "말레이시아 승"
-      ],
-      "aria_label": "말레이시아 vs 필리핀 22:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16444152",
       "url": "https://bbongtv4.com/premium/soccer/16444152",
@@ -1420,6 +1395,31 @@
         "FK 보되/글림트 승"
       ],
       "aria_label": "볼레렝아 포트발 vs FK 보되/글림트 21:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444054",
+      "url": "https://bbongtv4.com/premium/soccer/16444054",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/8 (토)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말레이시아",
+      "team2": "필리핀",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "말레이시아 승",
+      "ai_picks": [
+        "말레이시아 승"
+      ],
+      "aria_label": "말레이시아 vs 필리핀 22:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
