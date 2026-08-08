@@ -1,7 +1,84 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-10",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-08T23:02:47.283613+00:00",
-  "count": 0,
-  "matches": []
+  "scraped_at": "2026-08-08T23:48:42.459567+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "16445539",
+      "url": "https://bbongtv4.com/premium/soccer/16445539",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/10 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레인저스 FC",
+      "team2": "히버니안 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "레인저스 FC 승 및 오버 2.5골",
+      "ai_picks": [
+        "레인저스 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레인저스 FC vs 히버니안 FC 00:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16445540",
+      "url": "https://bbongtv4.com/premium/soccer/16445540",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/10 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "하마르카메라테네",
+      "team2": "알레순트 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 하마르카메라테네 승리",
+      "ai_picks": [
+        "하마르카메라테 승"
+      ],
+      "aria_label": "하마르카메라테네 vs 알레순트 FK 00:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16445618",
+      "url": "https://bbongtv4.com/premium/soccer/16445618",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/10 (월)",
+      "time": "02:15",
+      "status": "예정",
+      "result": null,
+      "team1": "크리스티안순 BK",
+      "team2": "몰데 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "몰데 FK 승",
+      "ai_picks": [
+        "몰데 FK 승"
+      ],
+      "aria_label": "크리스티안순 BK vs 몰데 FK 02:15 분석 상세",
+      "source_date": "2026-08-10"
+    }
+  ]
 }

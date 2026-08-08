@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T23:02:47.361103+00:00",
+  "scraped_at": "2026-08-08T23:48:42.538031+00:00",
   "kst_yesterday": "2026-08-08",
   "kst_today": "2026-08-09",
   "kst_tomorrow": "2026-08-10",
@@ -8,8 +8,84 @@
     "2026-08-09",
     "2026-08-10"
   ],
-  "count": 82,
+  "count": 93,
   "matches": [
+    {
+      "id": "16445539",
+      "url": "https://bbongtv4.com/premium/soccer/16445539",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/10 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레인저스 FC",
+      "team2": "히버니안 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "레인저스 FC 승 및 오버 2.5골",
+      "ai_picks": [
+        "레인저스 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레인저스 FC vs 히버니안 FC 00:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16445540",
+      "url": "https://bbongtv4.com/premium/soccer/16445540",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/10 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "하마르카메라테네",
+      "team2": "알레순트 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 하마르카메라테네 승리",
+      "ai_picks": [
+        "하마르카메라테 승"
+      ],
+      "aria_label": "하마르카메라테네 vs 알레순트 FK 00:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16445618",
+      "url": "https://bbongtv4.com/premium/soccer/16445618",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/10 (월)",
+      "time": "02:15",
+      "status": "예정",
+      "result": null,
+      "team1": "크리스티안순 BK",
+      "team2": "몰데 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "몰데 FK 승",
+      "ai_picks": [
+        "몰데 FK 승"
+      ],
+      "aria_label": "크리스티안순 BK vs 몰데 FK 02:15 분석 상세",
+      "source_date": "2026-08-10"
+    },
     {
       "id": "16444463",
       "url": "https://bbongtv4.com/premium/soccer/16444463",
@@ -146,12 +222,12 @@
       "league": "MLB",
       "date": "8/9 (일)",
       "time": "04:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "뉴욕양키스",
       "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -244,12 +320,12 @@
       "league": "USA MLS",
       "date": "8/9 (일)",
       "time": "05:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴잉글랜드 레볼루션",
       "team2": "휴스턴 다이너모",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 42.0,
         "draw": 28.0,
@@ -583,6 +659,108 @@
       "source_date": "2026-08-09"
     },
     {
+      "id": "16445298",
+      "url": "https://bbongtv4.com/premium/soccer/16445298",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/9 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "도쿄 베르디",
+      "team2": "가와사키 프론탈레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "가와사키 프론탈레 승",
+      "ai_picks": [
+        "가와사키 프론 승"
+      ],
+      "aria_label": "도쿄 베르디 vs 가와사키 프론탈레 18:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445299",
+      "url": "https://bbongtv4.com/premium/soccer/16445299",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/9 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이와키 FC",
+      "team2": "FC 이마바리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "이와키 FC 승 또는 무승부 (언더 2.5 강력 추천)",
+      "ai_picks": [
+        "이와키 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "이와키 FC vs FC 이마바리 18:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445318",
+      "url": "https://bbongtv4.com/premium/soccer/16445318",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/9 (일)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "몬테디오 야마가타",
+      "team2": "도치기 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 24.0,
+        "away": 38.0
+      },
+      "ai_summary": "오버 2.5골 (양 팀 수비 불안정 + 상대전적 다득점 패턴)",
+      "ai_picks": [
+        "오버 2.5"
+      ],
+      "aria_label": "몬테디오 야마가타 vs 도치기 시티 FC 19:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445336",
+      "url": "https://bbongtv4.com/premium/soccer/16445336",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "19:15",
+      "status": "예정",
+      "result": null,
+      "team1": "스파르타 로테르담",
+      "team2": "페예노르트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "페예노르트 원정 승리",
+      "ai_picks": [
+        "페예노르트 승"
+      ],
+      "aria_label": "스파르타 로테르담 vs 페예노르트 19:15 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
       "id": "16445340",
       "url": "https://bbongtv4.com/premium/soccer/16445340",
       "sport": "soccer",
@@ -605,6 +783,110 @@
         "맨체스터 시티( 승"
       ],
       "aria_label": "맨체스터 시티(N) vs 아틀레티코 마드리드 20:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445433",
+      "url": "https://bbongtv4.com/premium/soccer/16445433",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/9 (일)",
+      "time": "21:30",
+      "status": "예정",
+      "result": null,
+      "team1": "킬마녹 FC",
+      "team2": "셀틱 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 15.0,
+        "away": 73.0
+      },
+      "ai_summary": "셀틱 FC 승리",
+      "ai_picks": [
+        "셀틱 FC 승"
+      ],
+      "aria_label": "킬마녹 FC vs 셀틱 FC 21:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445434",
+      "url": "https://bbongtv4.com/premium/soccer/16445434",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "21:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 흐로닝언",
+      "team2": "FC 위트레흐트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 27.0,
+        "away": 33.0
+      },
+      "ai_summary": "언더 2.5골 / 홈팀 승 또는 무승부",
+      "ai_picks": [
+        "언더 2.5",
+        "FC 흐로닝언 승",
+        "무승부"
+      ],
+      "aria_label": "FC 흐로닝언 vs FC 위트레흐트 21:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445435",
+      "url": "https://bbongtv4.com/premium/soccer/16445435",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "21:30",
+      "status": "예정",
+      "result": null,
+      "team1": "PEC 즈볼러",
+      "team2": "AFC 아약스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "AFC 아약스 원정 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "AFC 아약스 승",
+        "언더 3.5"
+      ],
+      "aria_label": "PEC 즈볼러 vs AFC 아약스 21:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445436",
+      "url": "https://bbongtv4.com/premium/soccer/16445436",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/9 (일)",
+      "time": "21:30",
+      "status": "예정",
+      "result": null,
+      "team1": "릴레스트룀 SK",
+      "team2": "로센보르그 BK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 릴레스트룀 SK 승리 및 오버 2.5골",
+      "ai_picks": [
+        "릴레스트룀 SK 승",
+        "오버 2.5"
+      ],
+      "aria_label": "릴레스트룀 SK vs 로센보르그 BK 21:30 분석 상세",
       "source_date": "2026-08-09"
     },
     {
