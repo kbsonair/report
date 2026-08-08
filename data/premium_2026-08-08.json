@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T07:34:18.136501+00:00",
+  "scraped_at": "2026-08-08T08:20:08.187814+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16443747",
-      "url": "https://bbongtv4.com/premium/soccer/16443747",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/8 (토)",
-      "time": "14:45",
-      "status": "예정",
-      "result": null,
-      "team1": "콘사도레 삿포로",
-      "team2": "도쿠시마 보르티스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 26.0,
-        "away": 32.0
-      },
-      "ai_summary": "홈팀 콘사도레 삿포로 근소 우세, 언더 2.5 추천",
-      "ai_picks": [
-        "콘사도레 삿포 승",
-        "언더 2.5"
-      ],
-      "aria_label": "콘사도레 삿포로 vs 도쿠시마 보르티스 14:45 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16263880",
       "url": "https://bbongtv4.com/premium/baseball/16263880",
@@ -1420,6 +1394,32 @@
         "디트로이트 승"
       ],
       "aria_label": "샌프란시스코 vs 디트로이트 11:15 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443747",
+      "url": "https://bbongtv4.com/premium/soccer/16443747",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/8 (토)",
+      "time": "14:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콘사도레 삿포로",
+      "team2": "도쿠시마 보르티스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 26.0,
+        "away": 32.0
+      },
+      "ai_summary": "홈팀 콘사도레 삿포로 근소 우세, 언더 2.5 추천",
+      "ai_picks": [
+        "콘사도레 삿포 승",
+        "언더 2.5"
+      ],
+      "aria_label": "콘사도레 삿포로 vs 도쿠시마 보르티스 14:45 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
