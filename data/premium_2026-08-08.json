@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-08",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T16:01:12.205575+00:00",
+  "scraped_at": "2026-08-08T16:56:47.306630+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16444152",
-      "url": "https://bbongtv4.com/premium/soccer/16444152",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "8/8 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "던디 FC",
-      "team2": "애버딘 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "애버딘 FC 승 (1골 차 접전 예상, 오버 2.5골 유력)",
-      "ai_picks": [
-        "애버딘 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "던디 FC vs 애버딘 FC 23:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16444153",
-      "url": "https://bbongtv4.com/premium/soccer/16444153",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "8/8 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트 미렌 FC",
-      "team2": "세인트 존스톤 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "세인트 미렌 FC 승 또는 무승부 (언더 추천)",
-      "ai_picks": [
-        "세인트 미렌 FC 승",
-        "무승부"
-      ],
-      "aria_label": "세인트 미렌 FC vs 세인트 존스톤 FC 23:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16444154",
-      "url": "https://bbongtv4.com/premium/soccer/16444154",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/8 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바이킹 FK",
-      "team2": "사릅스보르그 08 FF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "바이킹 FK 승",
-      "ai_picks": [
-        "바이킹 FK 승"
-      ],
-      "aria_label": "바이킹 FK vs 사릅스보르그 08 FF 23:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16444351",
       "url": "https://bbongtv4.com/premium/soccer/16444351",
@@ -1420,6 +1343,83 @@
         "말레이시아 승"
       ],
       "aria_label": "말레이시아 vs 필리핀 22:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444152",
+      "url": "https://bbongtv4.com/premium/soccer/16444152",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/8 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "던디 FC",
+      "team2": "애버딘 FC",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "애버딘 FC 승 (1골 차 접전 예상, 오버 2.5골 유력)",
+      "ai_picks": [
+        "애버딘 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "던디 FC vs 애버딘 FC 23:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444153",
+      "url": "https://bbongtv4.com/premium/soccer/16444153",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/8 (토)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세인트 미렌 FC",
+      "team2": "세인트 존스톤 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "세인트 미렌 FC 승 또는 무승부 (언더 추천)",
+      "ai_picks": [
+        "세인트 미렌 FC 승",
+        "무승부"
+      ],
+      "aria_label": "세인트 미렌 FC vs 세인트 존스톤 FC 23:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444154",
+      "url": "https://bbongtv4.com/premium/soccer/16444154",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/8 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바이킹 FK",
+      "team2": "사릅스보르그 08 FF",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "바이킹 FK 승",
+      "ai_picks": [
+        "바이킹 FK 승"
+      ],
+      "aria_label": "바이킹 FK vs 사릅스보르그 08 FF 23:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
