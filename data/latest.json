@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T21:50:32.251470+00:00",
+  "scraped_at": "2026-08-08T22:33:28.897203+00:00",
   "kst_yesterday": "2026-08-08",
   "kst_today": "2026-08-09",
   "kst_tomorrow": "2026-08-10",
@@ -171,12 +171,12 @@
       "league": "WNBA",
       "date": "8/9 (일)",
       "time": "04:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고",
       "team2": "인디애나",
-      "score1": null,
-      "score2": null,
+      "score1": 86,
+      "score2": 90,
       "prob": {
         "home": 25.0,
         "draw": 5.0,
