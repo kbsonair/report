@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T09:57:34.727180+00:00",
+  "scraped_at": "2026-08-08T10:42:37.548042+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16263880",
-      "url": "https://bbongtv4.com/premium/baseball/16263880",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/8 (토)",
-      "time": "15:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요미우리",
-      "team2": "야쿠르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 10.0,
-        "away": 40.0
-      },
-      "ai_summary": "요미우리 근소 우세, 언더 6.5 추천",
-      "ai_picks": [
-        "요미우리 승",
-        "언더 6.5"
-      ],
-      "aria_label": "요미우리 vs 야쿠르트 15:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16263883",
-      "url": "https://bbongtv4.com/premium/baseball/16263883",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/8 (토)",
-      "time": "15:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니혼햄",
-      "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 15.0,
-        "away": 30.0
-      },
-      "ai_summary": "니혼햄 승리 (저득점 접전 예상, 언더 8.5 유력)",
-      "ai_picks": [
-        "니혼햄 승",
-        "언더 8.5"
-      ],
-      "aria_label": "니혼햄 vs 라쿠텐 15:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16263881",
       "url": "https://bbongtv4.com/premium/baseball/16263881",
@@ -1420,6 +1368,58 @@
         "언더 2.5"
       ],
       "aria_label": "콘사도레 삿포로 vs 도쿠시마 보르티스 14:45 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16263880",
+      "url": "https://bbongtv4.com/premium/baseball/16263880",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/8 (토)",
+      "time": "15:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요미우리",
+      "team2": "야쿠르트",
+      "score1": 8,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "요미우리 근소 우세, 언더 6.5 추천",
+      "ai_picks": [
+        "요미우리 승",
+        "언더 6.5"
+      ],
+      "aria_label": "요미우리 vs 야쿠르트 15:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16263883",
+      "url": "https://bbongtv4.com/premium/baseball/16263883",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/8 (토)",
+      "time": "15:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니혼햄",
+      "team2": "라쿠텐",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "니혼햄 승리 (저득점 접전 예상, 언더 8.5 유력)",
+      "ai_picks": [
+        "니혼햄 승",
+        "언더 8.5"
+      ],
+      "aria_label": "니혼햄 vs 라쿠텐 15:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
