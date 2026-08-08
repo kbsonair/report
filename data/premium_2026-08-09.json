@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-08T19:03:42.495694+00:00",
+  "scraped_at": "2026-08-08T19:47:51.530499+00:00",
   "count": 26,
   "matches": [
-    {
-      "id": "16444543",
-      "url": "https://bbongtv4.com/premium/soccer/16444543",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/9 (일)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "고 어헤드 이글스",
-      "team2": "빌럼 II 틸뷔르흐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "고 어헤드 이글스 승",
-      "ai_picks": [
-        "고 어헤드 이글 승"
-      ],
-      "aria_label": "고 어헤드 이글스 vs 빌럼 II 틸뷔르흐 01:45 분석 상세",
-      "source_date": "2026-08-09"
-    },
     {
       "id": "16356802",
       "url": "https://bbongtv4.com/premium/basket/16356802",
@@ -649,6 +624,31 @@
         "무승부"
       ],
       "aria_label": "IK 스타르트 vs 프레드릭스타드 FK 00:59 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444543",
+      "url": "https://bbongtv4.com/premium/soccer/16444543",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "고 어헤드 이글스",
+      "team2": "빌럼 II 틸뷔르흐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "고 어헤드 이글스 승",
+      "ai_picks": [
+        "고 어헤드 이글 승"
+      ],
+      "aria_label": "고 어헤드 이글스 vs 빌럼 II 틸뷔르흐 01:45 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
