@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T14:01:55.816523+00:00",
+  "scraped_at": "2026-08-08T14:53:53.903515+00:00",
   "kst_yesterday": "2026-08-07",
   "kst_today": "2026-08-08",
   "kst_tomorrow": "2026-08-09",
@@ -1930,12 +1930,12 @@
       "league": "NOR D1",
       "date": "8/8 (토)",
       "time": "21:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼레렝아 포트발",
       "team2": "FK 보되/글림트",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 15.0,
         "draw": 15.0,

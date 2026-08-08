@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T14:01:52.989116+00:00",
+  "scraped_at": "2026-08-08T14:53:51.285162+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16443960",
-      "url": "https://bbongtv4.com/premium/soccer/16443960",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/8 (토)",
-      "time": "21:00",
-      "status": "예정",
-      "result": null,
-      "team1": "볼레렝아 포트발",
-      "team2": "FK 보되/글림트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "FK 보되/글림트 승",
-      "ai_picks": [
-        "FK 보되/글림트 승"
-      ],
-      "aria_label": "볼레렝아 포트발 vs FK 보되/글림트 21:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16444054",
       "url": "https://bbongtv4.com/premium/soccer/16444054",
@@ -1420,6 +1395,31 @@
         "상하이 선화 승"
       ],
       "aria_label": "칭다오 하이뉴 vs 상하이 선화 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443960",
+      "url": "https://bbongtv4.com/premium/soccer/16443960",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/8 (토)",
+      "time": "21:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "볼레렝아 포트발",
+      "team2": "FK 보되/글림트",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "FK 보되/글림트 승",
+      "ai_picks": [
+        "FK 보되/글림트 승"
+      ],
+      "aria_label": "볼레렝아 포트발 vs FK 보되/글림트 21:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
