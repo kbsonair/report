@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-08",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T16:56:47.306630+00:00",
+  "scraped_at": "2026-08-08T17:38:00.821031+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16444351",
-      "url": "https://bbongtv4.com/premium/soccer/16444351",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/8 (토)",
-      "time": "23:30",
-      "status": "예정",
-      "result": null,
-      "team1": "NEC 네이메헌",
-      "team2": "SC 텔스타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "NEC 네이메헌 승",
-      "ai_picks": [
-        "NEC 네이메헌 승"
-      ],
-      "aria_label": "NEC 네이메헌 vs SC 텔스타 23:30 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16442376",
       "url": "https://bbongtv4.com/premium/soccer/16442376",
@@ -1420,6 +1395,31 @@
         "바이킹 FK 승"
       ],
       "aria_label": "바이킹 FK vs 사릅스보르그 08 FF 23:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16444351",
+      "url": "https://bbongtv4.com/premium/soccer/16444351",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/8 (토)",
+      "time": "23:30",
+      "status": "예정",
+      "result": null,
+      "team1": "NEC 네이메헌",
+      "team2": "SC 텔스타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "NEC 네이메헌 승",
+      "ai_picks": [
+        "NEC 네이메헌 승"
+      ],
+      "aria_label": "NEC 네이메헌 vs SC 텔스타 23:30 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
