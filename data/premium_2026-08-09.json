@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-08T21:03:51.446395+00:00",
+  "scraped_at": "2026-08-08T21:50:30.103628+00:00",
   "count": 26,
   "matches": [
-    {
-      "id": "16444614",
-      "url": "https://bbongtv4.com/premium/soccer/16444614",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/9 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "AZ 알크마르",
-      "team2": "ADO 덴하흐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 18.0,
-        "away": 17.0
-      },
-      "ai_summary": "AZ 알크마르 승 (2골 차 이상 완승 가능)",
-      "ai_picks": [
-        "AZ 알크마르 승"
-      ],
-      "aria_label": "AZ 알크마르 vs ADO 덴하흐 04:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
     {
       "id": "16262514",
       "url": "https://bbongtv4.com/premium/baseball/16262514",
@@ -649,6 +624,31 @@
         "오버 3.5"
       ],
       "aria_label": "PSV 에인트호번 vs 포르튀나 시타르트 03:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444614",
+      "url": "https://bbongtv4.com/premium/soccer/16444614",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "AZ 알크마르",
+      "team2": "ADO 덴하흐",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 18.0,
+        "away": 17.0
+      },
+      "ai_summary": "AZ 알크마르 승 (2골 차 이상 완승 가능)",
+      "ai_picks": [
+        "AZ 알크마르 승"
+      ],
+      "aria_label": "AZ 알크마르 vs ADO 덴하흐 04:00 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
