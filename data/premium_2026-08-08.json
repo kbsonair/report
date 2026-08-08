@@ -1,216 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T13:16:41.175793+00:00",
+  "scraped_at": "2026-08-08T14:01:52.989116+00:00",
   "count": 56,
   "matches": [
-    {
-      "id": "16443883",
-      "url": "https://bbongtv4.com/premium/soccer/16443883",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 안양",
-      "team2": "대전 하나 시티즌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 35.0,
-        "away": 35.0
-      },
-      "ai_summary": "무승부 또는 대전 하나 시티즌 승",
-      "ai_picks": [
-        "무승부",
-        "대전 하나 시티 승"
-      ],
-      "aria_label": "FC 안양 vs 대전 하나 시티즌 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443884",
-      "url": "https://bbongtv4.com/premium/soccer/16443884",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "부천 FC 1995",
-      "team2": "광주 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 27.0,
-        "away": 23.0
-      },
-      "ai_summary": "부천 FC 1995 승리 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "부천 FC 1995 승",
-        "언더 2.5"
-      ],
-      "aria_label": "부천 FC 1995 vs 광주 FC 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443885",
-      "url": "https://bbongtv4.com/premium/soccer/16443885",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "김천 상무 FC",
-      "team2": "FC 서울",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 26.0,
-        "away": 52.0
-      },
-      "ai_summary": "FC 서울 원정 승",
-      "ai_picks": [
-        "FC 서울 승"
-      ],
-      "aria_label": "김천 상무 FC vs FC 서울 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443886",
-      "url": "https://bbongtv4.com/premium/soccer/16443886",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "전북현대모터스",
-      "team2": "제주 SK FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 28.0,
-        "away": 22.0
-      },
-      "ai_summary": "홈팀 전북현대모터스 승리 (저득점 경기 예상, 언더 2.5 유력)",
-      "ai_picks": [
-        "전북현대모터스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "전북현대모터스 vs 제주 SK FC 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443887",
-      "url": "https://bbongtv4.com/premium/soccer/16443887",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포항 스틸러스",
-      "team2": "울산 HD FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 33.0,
-        "away": 37.0
-      },
-      "ai_summary": "무승부 또는 울산 HD FC 근소 우세 (총합 2.5 언더 강력 추천)",
-      "ai_picks": [
-        "무승부",
-        "울산 HD FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "포항 스틸러스 vs 울산 HD FC 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443890",
-      "url": "https://bbongtv4.com/premium/soccer/16443890",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "파주 프런티어 FC",
-      "team2": "수원 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 22.0,
-        "away": 58.0
-      },
-      "ai_summary": "수원 FC 승",
-      "ai_picks": [
-        "수원 FC 승"
-      ],
-      "aria_label": "파주 프런티어 FC vs 수원 FC 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443891",
-      "url": "https://bbongtv4.com/premium/soccer/16443891",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "성남 FC",
-      "team2": "천안 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 성남 FC 승 또는 무승부 (언더 2.5 유력)",
-      "ai_picks": [
-        "성남 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "성남 FC vs 천안 시티 FC 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
-    {
-      "id": "16443896",
-      "url": "https://bbongtv4.com/premium/soccer/16443896",
-      "sport": "soccer",
-      "league": "CHA SL",
-      "date": "8/8 (토)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "칭다오 하이뉴",
-      "team2": "상하이 선화",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "상하이 선화 승",
-      "ai_picks": [
-        "상하이 선화 승"
-      ],
-      "aria_label": "칭다오 하이뉴 vs 상하이 선화 20:00 분석 상세",
-      "source_date": "2026-08-08"
-    },
     {
       "id": "16443960",
       "url": "https://bbongtv4.com/premium/soccer/16443960",
@@ -961,12 +754,12 @@
       "league": "NPB",
       "date": "8/8 (토)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요코하마",
       "team2": "히로시마",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 52.0,
         "draw": 18.0,
@@ -1420,6 +1213,213 @@
         "언더 2.5"
       ],
       "aria_label": "사간 도스 vs 반포레 고후 19:30 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443883",
+      "url": "https://bbongtv4.com/premium/soccer/16443883",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 안양",
+      "team2": "대전 하나 시티즌",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "draw": 35.0,
+        "away": 35.0
+      },
+      "ai_summary": "무승부 또는 대전 하나 시티즌 승",
+      "ai_picks": [
+        "무승부",
+        "대전 하나 시티 승"
+      ],
+      "aria_label": "FC 안양 vs 대전 하나 시티즌 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443884",
+      "url": "https://bbongtv4.com/premium/soccer/16443884",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "부천 FC 1995",
+      "team2": "광주 FC",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 27.0,
+        "away": 23.0
+      },
+      "ai_summary": "부천 FC 1995 승리 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "부천 FC 1995 승",
+        "언더 2.5"
+      ],
+      "aria_label": "부천 FC 1995 vs 광주 FC 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443885",
+      "url": "https://bbongtv4.com/premium/soccer/16443885",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "김천 상무 FC",
+      "team2": "FC 서울",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 22.0,
+        "draw": 26.0,
+        "away": 52.0
+      },
+      "ai_summary": "FC 서울 원정 승",
+      "ai_picks": [
+        "FC 서울 승"
+      ],
+      "aria_label": "김천 상무 FC vs FC 서울 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443886",
+      "url": "https://bbongtv4.com/premium/soccer/16443886",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "전북현대모터스",
+      "team2": "제주 SK FC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 50.0,
+        "draw": 28.0,
+        "away": 22.0
+      },
+      "ai_summary": "홈팀 전북현대모터스 승리 (저득점 경기 예상, 언더 2.5 유력)",
+      "ai_picks": [
+        "전북현대모터스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "전북현대모터스 vs 제주 SK FC 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443887",
+      "url": "https://bbongtv4.com/premium/soccer/16443887",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "포항 스틸러스",
+      "team2": "울산 HD FC",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "draw": 33.0,
+        "away": 37.0
+      },
+      "ai_summary": "무승부 또는 울산 HD FC 근소 우세 (총합 2.5 언더 강력 추천)",
+      "ai_picks": [
+        "무승부",
+        "울산 HD FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "포항 스틸러스 vs 울산 HD FC 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443890",
+      "url": "https://bbongtv4.com/premium/soccer/16443890",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "파주 프런티어 FC",
+      "team2": "수원 FC",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 22.0,
+        "away": 58.0
+      },
+      "ai_summary": "수원 FC 승",
+      "ai_picks": [
+        "수원 FC 승"
+      ],
+      "aria_label": "파주 프런티어 FC vs 수원 FC 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443891",
+      "url": "https://bbongtv4.com/premium/soccer/16443891",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "성남 FC",
+      "team2": "천안 시티 FC",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 성남 FC 승 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [
+        "성남 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "성남 FC vs 천안 시티 FC 20:00 분석 상세",
+      "source_date": "2026-08-08"
+    },
+    {
+      "id": "16443896",
+      "url": "https://bbongtv4.com/premium/soccer/16443896",
+      "sport": "soccer",
+      "league": "CHA SL",
+      "date": "8/8 (토)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "칭다오 하이뉴",
+      "team2": "상하이 선화",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "상하이 선화 승",
+      "ai_picks": [
+        "상하이 선화 승"
+      ],
+      "aria_label": "칭다오 하이뉴 vs 상하이 선화 20:00 분석 상세",
       "source_date": "2026-08-08"
     }
   ]
