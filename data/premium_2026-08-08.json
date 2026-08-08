@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T04:39:06.512439+00:00",
+  "scraped_at": "2026-08-08T05:27:23.237337+00:00",
   "count": 56,
   "matches": [
     {
@@ -1405,12 +1405,12 @@
       "league": "WNBA",
       "date": "8/8 (토)",
       "time": "10:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "댈러스",
       "team2": "골든스테이트",
-      "score1": null,
-      "score2": null,
+      "score1": 76,
+      "score2": 94,
       "prob": {
         "home": 55.0,
         "away": 45.0
