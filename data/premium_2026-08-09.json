@@ -1,9 +1,139 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-09",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-07T23:42:24.616763+00:00",
-  "count": 4,
+  "scraped_at": "2026-08-08T01:54:28.555639+00:00",
+  "count": 9,
   "matches": [
+    {
+      "id": "16444463",
+      "url": "https://bbongtv4.com/premium/soccer/16444463",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/9 (일)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "IK 스타르트",
+      "team2": "프레드릭스타드 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "프레드릭스타드 FK 승 또는 무승부",
+      "ai_picks": [
+        "프레드릭스타드 승",
+        "무승부"
+      ],
+      "aria_label": "IK 스타르트 vs 프레드릭스타드 FK 00:59 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444543",
+      "url": "https://bbongtv4.com/premium/soccer/16444543",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "고 어헤드 이글스",
+      "team2": "빌럼 II 틸뷔르흐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "고 어헤드 이글스 승",
+      "ai_picks": [
+        "고 어헤드 이글 승"
+      ],
+      "aria_label": "고 어헤드 이글스 vs 빌럼 II 틸뷔르흐 01:45 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444569",
+      "url": "https://bbongtv4.com/premium/soccer/16444569",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV 에인트호번",
+      "team2": "포르튀나 시타르트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 80.0,
+        "draw": 12.0,
+        "away": 8.0
+      },
+      "ai_summary": "PSV 에인트호번 승 (마이너스 핸디캡 승, 오버 3.5 추천)",
+      "ai_picks": [
+        "PSV 에인트호번 승",
+        "PSV 에인트호번 -1",
+        "오버 3.5"
+      ],
+      "aria_label": "PSV 에인트호번 vs 포르튀나 시타르트 03:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444614",
+      "url": "https://bbongtv4.com/premium/soccer/16444614",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "AZ 알크마르",
+      "team2": "ADO 덴하흐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 18.0,
+        "away": 17.0
+      },
+      "ai_summary": "AZ 알크마르 승 (2골 차 이상 완승 가능)",
+      "ai_picks": [
+        "AZ 알크마르 승"
+      ],
+      "aria_label": "AZ 알크마르 vs ADO 덴하흐 04:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16444700",
+      "url": "https://bbongtv4.com/premium/soccer/16444700",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/9 (일)",
+      "time": "05:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴잉글랜드 레볼루션",
+      "team2": "휴스턴 다이너모",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "뉴잉글랜드 레 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "뉴잉글랜드 레볼루션 vs 휴스턴 다이너모 05:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
     {
       "id": "16445818",
       "url": "https://bbongtv4.com/premium/soccer/16445818",
