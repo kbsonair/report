@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-08",
-  "scraped_at": "2026-08-08T06:24:05.334314+00:00",
+  "scraped_at": "2026-08-08T07:34:18.136501+00:00",
   "count": 56,
   "matches": [
     {
@@ -1380,12 +1380,12 @@
       "league": "MLB",
       "date": "8/8 (토)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시애틀",
       "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 45.0,
         "draw": 10.0,
@@ -1405,12 +1405,12 @@
       "league": "MLB",
       "date": "8/8 (토)",
       "time": "11:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "샌프란시스코",
       "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 38.0,
         "away": 62.0
