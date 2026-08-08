@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T18:03:30.701526+00:00",
+  "scraped_at": "2026-08-08T19:03:45.344733+00:00",
   "kst_yesterday": "2026-08-08",
   "kst_today": "2026-08-09",
   "kst_tomorrow": "2026-08-10",
@@ -17,12 +17,12 @@
       "league": "NOR D1",
       "date": "8/9 (일)",
       "time": "00:59",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "IK 스타르트",
       "team2": "프레드릭스타드 FK",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 30.0,
         "draw": 30.0,
