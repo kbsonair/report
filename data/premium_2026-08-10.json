@@ -1,179 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-09T21:40:17.655760+00:00",
+  "scraped_at": "2026-08-09T22:35:34.698191+00:00",
   "count": 19,
   "matches": [
-    {
-      "id": "16262535",
-      "url": "https://bbongtv4.com/premium/baseball/16262535",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티",
-      "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "캔자스시티 vs 시카고컵스 03:10 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262536",
-      "url": "https://bbongtv4.com/premium/baseball/16262536",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고화이트삭스",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "클리블랜드 승리",
-      "ai_picks": [
-        "클리블랜드 승"
-      ],
-      "aria_label": "시카고화이트삭스 vs 클리블랜드 03:10 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262537",
-      "url": "https://bbongtv4.com/premium/baseball/16262537",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 5.0,
-        "away": 30.0
-      },
-      "ai_summary": "밀워키 승리 (언더 유력)",
-      "ai_picks": [
-        "밀워키 승"
-      ],
-      "aria_label": "밀워키 vs 미네소타 03:10 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262538",
-      "url": "https://bbongtv4.com/premium/baseball/16262538",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트루이스",
-      "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "세인트루이스 승리",
-      "ai_picks": [
-        "세인트루이스 승"
-      ],
-      "aria_label": "세인트루이스 vs 콜로라도 03:15 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262539",
-      "url": "https://bbongtv4.com/premium/baseball/16262539",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "03:35",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스",
-      "team2": "볼티모어",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "언더 (로스코어 접전 예상), 승패는 볼티모어 근소 우세",
-      "ai_picks": [
-        "볼티모어 승"
-      ],
-      "aria_label": "텍사스 vs 볼티모어 03:35 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16356806",
-      "url": "https://bbongtv4.com/premium/basket/16356806",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/10 (월)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "워싱턴",
-      "team2": "피닉스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 5.0,
-        "away": 45.0
-      },
-      "ai_summary": "워싱턴 승 (언더 경향의 로스코어 접전 예상)",
-      "ai_picks": [
-        "워싱턴 승"
-      ],
-      "aria_label": "워싱턴 vs 피닉스 04:00 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16356807",
-      "url": "https://bbongtv4.com/premium/basket/16356807",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/10 (월)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "댈러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "미네소타 승",
-      "ai_picks": [
-        "미네소타 승"
-      ],
-      "aria_label": "미네소타 vs 댈러스 04:30 분석 상세",
-      "source_date": "2026-08-10"
-    },
     {
       "id": "16262540",
       "url": "https://bbongtv4.com/premium/baseball/16262540",
@@ -454,12 +284,12 @@
       "league": "MLB",
       "date": "8/10 (월)",
       "time": "02:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미",
       "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
+      "score1": 12,
+      "score2": 3,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -470,6 +300,176 @@
         "오버 8.5"
       ],
       "aria_label": "마이애미 vs LA엔젤스 02:40 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262535",
+      "url": "https://bbongtv4.com/premium/baseball/16262535",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티",
+      "team2": "시카고컵스",
+      "score1": 2,
+      "score2": 10,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "캔자스시티 vs 시카고컵스 03:10 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262536",
+      "url": "https://bbongtv4.com/premium/baseball/16262536",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시카고화이트삭스",
+      "team2": "클리블랜드",
+      "score1": 6,
+      "score2": 3,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "클리블랜드 승리",
+      "ai_picks": [
+        "클리블랜드 승"
+      ],
+      "aria_label": "시카고화이트삭스 vs 클리블랜드 03:10 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262537",
+      "url": "https://bbongtv4.com/premium/baseball/16262537",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀워키",
+      "team2": "미네소타",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 65.0,
+        "draw": 5.0,
+        "away": 30.0
+      },
+      "ai_summary": "밀워키 승리 (언더 유력)",
+      "ai_picks": [
+        "밀워키 승"
+      ],
+      "aria_label": "밀워키 vs 미네소타 03:10 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262538",
+      "url": "https://bbongtv4.com/premium/baseball/16262538",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세인트루이스",
+      "team2": "콜로라도",
+      "score1": 7,
+      "score2": 4,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "세인트루이스 승리",
+      "ai_picks": [
+        "세인트루이스 승"
+      ],
+      "aria_label": "세인트루이스 vs 콜로라도 03:15 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262539",
+      "url": "https://bbongtv4.com/premium/baseball/16262539",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "03:35",
+      "status": "예정",
+      "result": null,
+      "team1": "텍사스",
+      "team2": "볼티모어",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "언더 (로스코어 접전 예상), 승패는 볼티모어 근소 우세",
+      "ai_picks": [
+        "볼티모어 승"
+      ],
+      "aria_label": "텍사스 vs 볼티모어 03:35 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16356806",
+      "url": "https://bbongtv4.com/premium/basket/16356806",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/10 (월)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "워싱턴",
+      "team2": "피닉스",
+      "score1": 95,
+      "score2": 75,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "워싱턴 승 (언더 경향의 로스코어 접전 예상)",
+      "ai_picks": [
+        "워싱턴 승"
+      ],
+      "aria_label": "워싱턴 vs 피닉스 04:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16356807",
+      "url": "https://bbongtv4.com/premium/basket/16356807",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/10 (월)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타",
+      "team2": "댈러스",
+      "score1": 103,
+      "score2": 90,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "미네소타 승",
+      "ai_picks": [
+        "미네소타 승"
+      ],
+      "aria_label": "미네소타 vs 댈러스 04:30 분석 상세",
       "source_date": "2026-08-10"
     }
   ]
