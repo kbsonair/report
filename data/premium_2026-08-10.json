@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-09T22:35:34.698191+00:00",
+  "scraped_at": "2026-08-09T23:04:12.108331+00:00",
   "count": 19,
   "matches": [
     {
@@ -406,12 +406,12 @@
       "league": "MLB",
       "date": "8/10 (월)",
       "time": "03:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스",
       "team2": "볼티모어",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 10,
       "prob": {
         "home": 48.0,
         "away": 52.0
