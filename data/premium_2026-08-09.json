@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-08T23:48:39.621004+00:00",
-  "count": 34,
+  "scraped_at": "2026-08-09T02:01:38.611380+00:00",
+  "count": 38,
   "matches": [
-    {
-      "id": "16262515",
-      "url": "https://bbongtv4.com/premium/baseball/16262515",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/9 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "마이애미",
-      "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "away": 50.0
-      },
-      "ai_summary": "마이애미 근소 우세, 언더 추천 (양 선발 호투 및 투수 친화적 구장 특성)",
-      "ai_picks": [
-        "마이애미 승"
-      ],
-      "aria_label": "마이애미 vs LA엔젤스 05:10 분석 상세",
-      "source_date": "2026-08-09"
-    },
-    {
-      "id": "16262516",
-      "url": "https://bbongtv4.com/premium/baseball/16262516",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/9 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "보스턴",
-      "team2": "애슬레틱스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "보스턴 승리",
-      "ai_picks": [
-        "보스턴 승"
-      ],
-      "aria_label": "보스턴 vs 애슬레틱스 05:10 분석 상세",
-      "source_date": "2026-08-09"
-    },
     {
       "id": "16262517",
       "url": "https://bbongtv4.com/premium/baseball/16262517",
@@ -423,6 +375,33 @@
       "source_date": "2026-08-09"
     },
     {
+      "id": "16445313",
+      "url": "https://bbongtv4.com/premium/soccer/16445313",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/9 (일)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "V-파렌 나가사키",
+      "team2": "교토 상가 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "교토 상가 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "교토 상가 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "V-파렌 나가사키 vs 교토 상가 FC 19:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
       "id": "16445318",
       "url": "https://bbongtv4.com/premium/soccer/16445318",
       "sport": "soccer",
@@ -652,6 +631,81 @@
       "source_date": "2026-08-09"
     },
     {
+      "id": "16445496",
+      "url": "https://bbongtv4.com/premium/soccer/16445496",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/9 (일)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "하트 오브 미들로시언 FC",
+      "team2": "던디 유나이티드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "하트 오브 미들로시언 FC 승",
+      "ai_picks": [
+        "하트 오브 미들 승"
+      ],
+      "aria_label": "하트 오브 미들로시언 FC vs 던디 유나이티드 FC 23:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445497",
+      "url": "https://bbongtv4.com/premium/soccer/16445497",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/9 (일)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "머더웰 FC",
+      "team2": "폴커크 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "머더웰 FC 승",
+      "ai_picks": [
+        "머더웰 FC 승"
+      ],
+      "aria_label": "머더웰 FC vs 폴커크 FC 23:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445536",
+      "url": "https://bbongtv4.com/premium/soccer/16445536",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/9 (일)",
+      "time": "23:45",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 헤이렌베인",
+      "team2": "FC 트벤터",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 24.0,
+        "away": 48.0
+      },
+      "ai_summary": "FC 트벤터 승",
+      "ai_picks": [
+        "FC 트벤터 승"
+      ],
+      "aria_label": "SC 헤이렌베인 vs FC 트벤터 23:45 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
       "id": "16444463",
       "url": "https://bbongtv4.com/premium/soccer/16444463",
       "sport": "soccer",
@@ -828,6 +882,54 @@
         "인디애나 승"
       ],
       "aria_label": "시카고 vs 인디애나 04:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16262515",
+      "url": "https://bbongtv4.com/premium/baseball/16262515",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/9 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "마이애미",
+      "team2": "LA엔젤스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "마이애미 근소 우세, 언더 추천 (양 선발 호투 및 투수 친화적 구장 특성)",
+      "ai_picks": [
+        "마이애미 승"
+      ],
+      "aria_label": "마이애미 vs LA엔젤스 05:10 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16262516",
+      "url": "https://bbongtv4.com/premium/baseball/16262516",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/9 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "보스턴",
+      "team2": "애슬레틱스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "보스턴 승리",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "보스턴 vs 애슬레틱스 05:10 분석 상세",
       "source_date": "2026-08-09"
     },
     {
