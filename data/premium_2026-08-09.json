@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-09",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-09T16:04:44.402536+00:00",
+  "scraped_at": "2026-08-09T16:59:40.853390+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "16445496",
-      "url": "https://bbongtv4.com/premium/soccer/16445496",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "8/9 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "하트 오브 미들로시언 FC",
-      "team2": "던디 유나이티드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "하트 오브 미들로시언 FC 승",
-      "ai_picks": [
-        "하트 오브 미들 승"
-      ],
-      "aria_label": "하트 오브 미들로시언 FC vs 던디 유나이티드 FC 23:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
-    {
-      "id": "16445497",
-      "url": "https://bbongtv4.com/premium/soccer/16445497",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "8/9 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "머더웰 FC",
-      "team2": "폴커크 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "머더웰 FC 승",
-      "ai_picks": [
-        "머더웰 FC 승"
-      ],
-      "aria_label": "머더웰 FC vs 폴커크 FC 23:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
     {
       "id": "16445536",
       "url": "https://bbongtv4.com/premium/soccer/16445536",
@@ -1109,6 +1059,56 @@
         "리버풀 FC(N) 승"
       ],
       "aria_label": "리버풀 FC(N) vs AS 모나코 FC 22:30 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445496",
+      "url": "https://bbongtv4.com/premium/soccer/16445496",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/9 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "하트 오브 미들로시언 FC",
+      "team2": "던디 유나이티드 FC",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "하트 오브 미들로시언 FC 승",
+      "ai_picks": [
+        "하트 오브 미들 승"
+      ],
+      "aria_label": "하트 오브 미들로시언 FC vs 던디 유나이티드 FC 23:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445497",
+      "url": "https://bbongtv4.com/premium/soccer/16445497",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/9 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "머더웰 FC",
+      "team2": "폴커크 FC",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "머더웰 FC 승",
+      "ai_picks": [
+        "머더웰 FC 승"
+      ],
+      "aria_label": "머더웰 FC vs 폴커크 FC 23:00 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
