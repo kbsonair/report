@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T20:56:31.493036+00:00",
+  "scraped_at": "2026-08-09T21:40:19.564652+00:00",
   "kst_yesterday": "2026-08-09",
   "kst_today": "2026-08-10",
   "kst_tomorrow": "2026-08-11",
@@ -118,12 +118,12 @@
       "league": "MLB",
       "date": "8/10 (월)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴욕양키스",
       "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -143,12 +143,12 @@
       "league": "MLB",
       "date": "8/10 (월)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "피츠버그",
       "team2": "뉴욕메츠",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 11,
       "prob": {
         "home": 50.0,
         "away": 50.0
@@ -167,12 +167,12 @@
       "league": "MLB",
       "date": "8/10 (월)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "필라델피아",
       "team2": "토론토",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 6,
       "prob": {
         "home": 55.0,
         "away": 45.0

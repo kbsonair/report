@@ -1,107 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-09T20:56:29.397144+00:00",
+  "scraped_at": "2026-08-09T21:40:17.655760+00:00",
   "count": 19,
   "matches": [
-    {
-      "id": "16262530",
-      "url": "https://bbongtv4.com/premium/baseball/16262530",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "02:35",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕양키스",
-      "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "언더 (총 득점 8.5 이하) / 승패는 뉴욕양키스 소폭 우세하나 접전 예상",
-      "ai_picks": [
-        "언더 8.5",
-        "뉴욕양키스 승"
-      ],
-      "aria_label": "뉴욕양키스 vs 애틀랜타 02:35 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262531",
-      "url": "https://bbongtv4.com/premium/baseball/16262531",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "02:35",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그",
-      "team2": "뉴욕메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "away": 50.0
-      },
-      "ai_summary": "피츠버그 승리 및 합계 언더",
-      "ai_picks": [
-        "피츠버그 승"
-      ],
-      "aria_label": "피츠버그 vs 뉴욕메츠 02:35 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262533",
-      "url": "https://bbongtv4.com/premium/baseball/16262533",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "02:35",
-      "status": "예정",
-      "result": null,
-      "team1": "필라델피아",
-      "team2": "토론토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "필라델피아 승리",
-      "ai_picks": [
-        "필라델피아 승"
-      ],
-      "aria_label": "필라델피아 vs 토론토 02:35 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262534",
-      "url": "https://bbongtv4.com/premium/baseball/16262534",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "02:40",
-      "status": "예정",
-      "result": null,
-      "team1": "마이애미",
-      "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "마이애미 승리 및 오버(8.5) 추천",
-      "ai_picks": [
-        "마이애미 승",
-        "오버 8.5"
-      ],
-      "aria_label": "마이애미 vs LA엔젤스 02:40 분석 상세",
-      "source_date": "2026-08-10"
-    },
     {
       "id": "16262535",
       "url": "https://bbongtv4.com/premium/baseball/16262535",
@@ -470,6 +372,104 @@
         "몰데 FK 승"
       ],
       "aria_label": "크리스티안순 BK vs 몰데 FK 02:15 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262530",
+      "url": "https://bbongtv4.com/premium/baseball/16262530",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "02:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴욕양키스",
+      "team2": "애틀랜타",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "언더 (총 득점 8.5 이하) / 승패는 뉴욕양키스 소폭 우세하나 접전 예상",
+      "ai_picks": [
+        "언더 8.5",
+        "뉴욕양키스 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 애틀랜타 02:35 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262531",
+      "url": "https://bbongtv4.com/premium/baseball/16262531",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "02:35",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "피츠버그",
+      "team2": "뉴욕메츠",
+      "score1": 1,
+      "score2": 11,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "피츠버그 승리 및 합계 언더",
+      "ai_picks": [
+        "피츠버그 승"
+      ],
+      "aria_label": "피츠버그 vs 뉴욕메츠 02:35 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262533",
+      "url": "https://bbongtv4.com/premium/baseball/16262533",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "02:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "필라델피아",
+      "team2": "토론토",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "필라델피아 승리",
+      "ai_picks": [
+        "필라델피아 승"
+      ],
+      "aria_label": "필라델피아 vs 토론토 02:35 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262534",
+      "url": "https://bbongtv4.com/premium/baseball/16262534",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "02:40",
+      "status": "예정",
+      "result": null,
+      "team1": "마이애미",
+      "team2": "LA엔젤스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "마이애미 승리 및 오버(8.5) 추천",
+      "ai_picks": [
+        "마이애미 승",
+        "오버 8.5"
+      ],
+      "aria_label": "마이애미 vs LA엔젤스 02:40 분석 상세",
       "source_date": "2026-08-10"
     }
   ]
