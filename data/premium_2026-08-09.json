@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-09T09:21:45.157923+00:00",
+  "scraped_at": "2026-08-09T10:14:28.471767+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "16445818",
-      "url": "https://bbongtv4.com/premium/soccer/16445818",
-      "sport": "soccer",
-      "league": "AUS FFA",
-      "date": "8/9 (일)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브리즈번 로어 FC",
-      "team2": "시드니 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 25.0,
-        "away": 47.0
-      },
-      "ai_summary": "시드니 FC 승",
-      "ai_picks": [
-        "시드니 FC 승"
-      ],
-      "aria_label": "브리즈번 로어 FC vs 시드니 FC 16:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
     {
       "id": "16263890",
       "url": "https://bbongtv4.com/premium/baseball/16263890",
@@ -1109,6 +1084,31 @@
         "니혼햄 승"
       ],
       "aria_label": "니혼햄 vs 라쿠텐 14:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445818",
+      "url": "https://bbongtv4.com/premium/soccer/16445818",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/9 (일)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브리즈번 로어 FC",
+      "team2": "시드니 FC",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 28.0,
+        "draw": 25.0,
+        "away": 47.0
+      },
+      "ai_summary": "시드니 FC 승",
+      "ai_picks": [
+        "시드니 FC 승"
+      ],
+      "aria_label": "브리즈번 로어 FC vs 시드니 FC 16:00 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
