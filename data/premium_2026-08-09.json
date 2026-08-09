@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-09",
-  "scraped_at": "2026-08-09T10:56:40.504005+00:00",
+  "scraped_at": "2026-08-09T11:37:16.142823+00:00",
   "count": 44,
   "matches": [
     {
@@ -104,58 +104,6 @@
         "주니치 승"
       ],
       "aria_label": "한신 vs 주니치 18:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
-    {
-      "id": "16445298",
-      "url": "https://bbongtv4.com/premium/soccer/16445298",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "8/9 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "도쿄 베르디",
-      "team2": "가와사키 프론탈레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "가와사키 프론탈레 승",
-      "ai_picks": [
-        "가와사키 프론 승"
-      ],
-      "aria_label": "도쿄 베르디 vs 가와사키 프론탈레 18:00 분석 상세",
-      "source_date": "2026-08-09"
-    },
-    {
-      "id": "16445299",
-      "url": "https://bbongtv4.com/premium/soccer/16445299",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/9 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "이와키 FC",
-      "team2": "FC 이마바리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "이와키 FC 승 또는 무승부 (언더 2.5 강력 추천)",
-      "ai_picks": [
-        "이와키 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "이와키 FC vs FC 이마바리 18:00 분석 상세",
       "source_date": "2026-08-09"
     },
     {
@@ -1109,6 +1057,58 @@
         "시드니 FC 승"
       ],
       "aria_label": "브리즈번 로어 FC vs 시드니 FC 16:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445298",
+      "url": "https://bbongtv4.com/premium/soccer/16445298",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/9 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "도쿄 베르디",
+      "team2": "가와사키 프론탈레",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "가와사키 프론탈레 승",
+      "ai_picks": [
+        "가와사키 프론 승"
+      ],
+      "aria_label": "도쿄 베르디 vs 가와사키 프론탈레 18:00 분석 상세",
+      "source_date": "2026-08-09"
+    },
+    {
+      "id": "16445299",
+      "url": "https://bbongtv4.com/premium/soccer/16445299",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/9 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "이와키 FC",
+      "team2": "FC 이마바리",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "이와키 FC 승 또는 무승부 (언더 2.5 강력 추천)",
+      "ai_picks": [
+        "이와키 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "이와키 FC vs FC 이마바리 18:00 분석 상세",
       "source_date": "2026-08-09"
     }
   ]
