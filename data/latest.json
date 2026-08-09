@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T06:03:11.163121+00:00",
+  "scraped_at": "2026-08-09T07:27:09.206478+00:00",
   "kst_yesterday": "2026-08-08",
   "kst_today": "2026-08-09",
   "kst_tomorrow": "2026-08-10",
@@ -8,7 +8,7 @@
     "2026-08-09",
     "2026-08-10"
   ],
-  "count": 118,
+  "count": 119,
   "matches": [
     {
       "id": "16445539",
@@ -328,6 +328,31 @@
         "볼티모어 승"
       ],
       "aria_label": "텍사스 vs 볼티모어 03:35 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16356806",
+      "url": "https://bbongtv4.com/premium/basket/16356806",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/10 (월)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴",
+      "team2": "피닉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "워싱턴 승 (언더 경향의 로스코어 접전 예상)",
+      "ai_picks": [
+        "워싱턴 승"
+      ],
+      "aria_label": "워싱턴 vs 피닉스 04:00 분석 상세",
       "source_date": "2026-08-10"
     },
     {
