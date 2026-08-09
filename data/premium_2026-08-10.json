@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-09T19:36:49.307631+00:00",
+  "scraped_at": "2026-08-09T20:03:18.598317+00:00",
   "count": 19,
   "matches": [
-    {
-      "id": "16445618",
-      "url": "https://bbongtv4.com/premium/soccer/16445618",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/10 (월)",
-      "time": "02:15",
-      "status": "예정",
-      "result": null,
-      "team1": "크리스티안순 BK",
-      "team2": "몰데 FK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 22.0,
-        "away": 60.0
-      },
-      "ai_summary": "몰데 FK 승",
-      "ai_picks": [
-        "몰데 FK 승"
-      ],
-      "aria_label": "크리스티안순 BK vs 몰데 FK 02:15 분석 상세",
-      "source_date": "2026-08-10"
-    },
     {
       "id": "16262530",
       "url": "https://bbongtv4.com/premium/baseball/16262530",
@@ -470,6 +445,31 @@
         "뉴욕 승"
       ],
       "aria_label": "뉴욕 vs 라스베가스 01:30 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16445618",
+      "url": "https://bbongtv4.com/premium/soccer/16445618",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/10 (월)",
+      "time": "02:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "크리스티안순 BK",
+      "team2": "몰데 FK",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "몰데 FK 승",
+      "ai_picks": [
+        "몰데 FK 승"
+      ],
+      "aria_label": "크리스티안순 BK vs 몰데 FK 02:15 분석 상세",
       "source_date": "2026-08-10"
     }
   ]
