@@ -1,0 +1,87 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-12",
+  "source_date": "2026-08-12",
+  "scraped_at": "2026-08-10T15:35:35.932288+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "16446758",
+      "url": "https://bbongtv4.com/premium/soccer/16446758",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "플루미넨시 FC",
+      "team2": "인데펜디엔테 리바다비아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "플루미넨시 FC 승 (1골 차 신승 예상, 언더 2.5 병행 추천)",
+      "ai_picks": [
+        "플루미넨시 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "플루미넨시 FC vs 인데펜디엔테 리바다비아 07:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446771",
+      "url": "https://bbongtv4.com/premium/soccer/16446771",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르테스 톨리마",
+      "team2": "인데펜디엔테 델 바예",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 28.0,
+        "away": 42.0
+      },
+      "ai_summary": "인데펜디엔테 델 바예 승 또는 무승부",
+      "ai_picks": [
+        "인데펜디엔테  승",
+        "무승부"
+      ],
+      "aria_label": "데포르테스 톨리마 vs 인데펜디엔테 델 바예 09:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446772",
+      "url": "https://bbongtv4.com/premium/soccer/16446772",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "에스투디안테스 데 라플라타",
+      "team2": "우니베르시다드 카톨리카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "에스투디안테스 데 라플라타 승 또는 무승부 (홈팀 우세 전망, 언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "에스투디안테스 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "에스투디안테스 데 라플라타 vs 우니베르시다드 카톨리카 09:30 분석 상세",
+      "source_date": "2026-08-12"
+    }
+  ]
+}
