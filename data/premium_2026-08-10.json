@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-10T04:10:04.928069+00:00",
+  "scraped_at": "2026-08-10T05:48:56.770976+00:00",
   "count": 19,
   "matches": [
-    {
-      "id": "16262543",
-      "url": "https://bbongtv4.com/premium/baseball/16262543",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "09:20",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "휴스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "샌디에이고 승리 (오버 8.5 병행 추천)",
-      "ai_picks": [
-        "샌디에이고 승",
-        "오버 8.5"
-      ],
-      "aria_label": "샌디에이고 vs 휴스턴 09:20 분석 상세",
-      "source_date": "2026-08-10"
-    },
     {
       "id": "16445539",
       "url": "https://bbongtv4.com/premium/soccer/16445539",
@@ -470,6 +445,31 @@
         "골든스테이트 승"
       ],
       "aria_label": "LA vs 골든스테이트 08:00 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262543",
+      "url": "https://bbongtv4.com/premium/baseball/16262543",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "09:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고",
+      "team2": "휴스턴",
+      "score1": 7,
+      "score2": 2,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "샌디에이고 승리 (오버 8.5 병행 추천)",
+      "ai_picks": [
+        "샌디에이고 승",
+        "오버 8.5"
+      ],
+      "aria_label": "샌디에이고 vs 휴스턴 09:20 분석 상세",
       "source_date": "2026-08-10"
     }
   ]
