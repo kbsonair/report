@@ -1,83 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-10",
-  "scraped_at": "2026-08-09T23:52:15.646927+00:00",
+  "scraped_at": "2026-08-10T02:06:10.422119+00:00",
   "count": 19,
   "matches": [
-    {
-      "id": "16262540",
-      "url": "https://bbongtv4.com/premium/baseball/16262540",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "05:05",
-      "status": "예정",
-      "result": null,
-      "team1": "샌프란시스코",
-      "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "디트로이트 승, 언더 7.5",
-      "ai_picks": [
-        "디트로이트 승",
-        "언더 7.5"
-      ],
-      "aria_label": "샌프란시스코 vs 디트로이트 05:05 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16262541",
-      "url": "https://bbongtv4.com/premium/baseball/16262541",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/10 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "LA다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "총득점 오버 8.5 / 승패는 LA다저스 근소 우세이나 접전 예상",
-      "ai_picks": [
-        "오버 8.5",
-        "LA다저스 승"
-      ],
-      "aria_label": "애리조나 vs LA다저스 05:10 분석 상세",
-      "source_date": "2026-08-10"
-    },
-    {
-      "id": "16356808",
-      "url": "https://bbongtv4.com/premium/basket/16356808",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/10 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LA",
-      "team2": "골든스테이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "골든스테이트 승리",
-      "ai_picks": [
-        "골든스테이트 승"
-      ],
-      "aria_label": "LA vs 골든스테이트 08:00 분석 상세",
-      "source_date": "2026-08-10"
-    },
     {
       "id": "16262543",
       "url": "https://bbongtv4.com/premium/baseball/16262543",
@@ -470,6 +396,80 @@
         "미네소타 승"
       ],
       "aria_label": "미네소타 vs 댈러스 04:30 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262540",
+      "url": "https://bbongtv4.com/premium/baseball/16262540",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "05:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌프란시스코",
+      "team2": "디트로이트",
+      "score1": 0,
+      "score2": 8,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "디트로이트 승, 언더 7.5",
+      "ai_picks": [
+        "디트로이트 승",
+        "언더 7.5"
+      ],
+      "aria_label": "샌프란시스코 vs 디트로이트 05:05 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16262541",
+      "url": "https://bbongtv4.com/premium/baseball/16262541",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/10 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나",
+      "team2": "LA다저스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "총득점 오버 8.5 / 승패는 LA다저스 근소 우세이나 접전 예상",
+      "ai_picks": [
+        "오버 8.5",
+        "LA다저스 승"
+      ],
+      "aria_label": "애리조나 vs LA다저스 05:10 분석 상세",
+      "source_date": "2026-08-10"
+    },
+    {
+      "id": "16356808",
+      "url": "https://bbongtv4.com/premium/basket/16356808",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/10 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA",
+      "team2": "골든스테이트",
+      "score1": 78,
+      "score2": 84,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "골든스테이트 승리",
+      "ai_picks": [
+        "골든스테이트 승"
+      ],
+      "aria_label": "LA vs 골든스테이트 08:00 분석 상세",
       "source_date": "2026-08-10"
     }
   ]

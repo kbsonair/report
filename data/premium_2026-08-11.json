@@ -1,7 +1,58 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-11",
   "source_date": "2026-08-11",
-  "scraped_at": "2026-08-09T23:52:17.909688+00:00",
-  "count": 0,
-  "matches": []
+  "scraped_at": "2026-08-10T02:06:13.594145+00:00",
+  "count": 2,
+  "matches": [
+    {
+      "id": "16356809",
+      "url": "https://bbongtv4.com/premium/basket/16356809",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/11 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타",
+      "team2": "토론토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 80.0,
+        "away": 20.0
+      },
+      "ai_summary": "애틀랜타 승",
+      "ai_picks": [
+        "애틀랜타 승"
+      ],
+      "aria_label": "애틀랜타 vs 토론토 09:00 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
+      "id": "16356810",
+      "url": "https://bbongtv4.com/premium/basket/16356810",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/11 (화)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시애틀",
+      "team2": "시카고",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 5.0,
+        "away": 47.0
+      },
+      "ai_summary": "시애틀 승 (언더 180.5)",
+      "ai_picks": [
+        "시애틀 승",
+        "언더 180.5"
+      ],
+      "aria_label": "시애틀 vs 시카고 11:00 분석 상세",
+      "source_date": "2026-08-11"
+    }
+  ]
 }
