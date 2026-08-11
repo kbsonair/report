@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T15:01:57.302917+00:00",
+  "scraped_at": "2026-08-11T16:13:49.031314+00:00",
   "kst_yesterday": "2026-08-11",
   "kst_today": "2026-08-12",
   "kst_tomorrow": "2026-08-13",
@@ -8,8 +8,112 @@
     "2026-08-12",
     "2026-08-13"
   ],
-  "count": 61,
+  "count": 65,
   "matches": [
+    {
+      "id": "16447609",
+      "url": "https://bbongtv4.com/premium/soccer/16447609",
+      "sport": "soccer",
+      "league": "UEFA SC",
+      "date": "8/13 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "파리 생제르맹 FC",
+      "team2": "애스턴 빌라 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "파리 생제르맹 FC 승",
+      "ai_picks": [
+        "파리 생제르맹  승"
+      ],
+      "aria_label": "파리 생제르맹 FC vs 애스턴 빌라 FC 04:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447640",
+      "url": "https://bbongtv4.com/premium/soccer/16447640",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/13 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SE 파우메이라스",
+      "team2": "세로 포르테뇨",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "SE 파우메이라스 승 (1~2골 차 신승 예상)",
+      "ai_picks": [
+        "SE 파우메이라 승"
+      ],
+      "aria_label": "SE 파우메이라스 vs 세로 포르테뇨 07:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447641",
+      "url": "https://bbongtv4.com/premium/soccer/16447641",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/13 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "CA 플라텐세",
+      "team2": "코킴보 유니도",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "CA 플라텐세 승 또는 무승부 (홈팀 근소 우위, 언더 2.5골 유력)",
+      "ai_picks": [
+        "CA 플라텐세 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "CA 플라텐세 vs 코킴보 유니도 07:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447662",
+      "url": "https://bbongtv4.com/premium/soccer/16447662",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/13 (목)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "크루제이루 EC",
+      "team2": "CR 플라멩구",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "크루제이루 EC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "크루제이루 EC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "크루제이루 EC vs CR 플라멩구 09:30 분석 상세",
+      "source_date": "2026-08-13"
+    },
     {
       "id": "16446611",
       "url": "https://bbongtv4.com/premium/soccer/16446611",
