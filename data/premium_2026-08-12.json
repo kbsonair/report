@@ -1,115 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-11T19:29:57.659545+00:00",
+  "scraped_at": "2026-08-11T20:21:52.416817+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "16446635",
-      "url": "https://bbongtv4.com/premium/soccer/16446635",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FK 카우노 잘기리스",
-      "team2": "NK 디나모 자그레브",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 20.0,
-        "away": 70.0
-      },
-      "ai_summary": "NK 디나모 자그레브 승, 언더 2.5 추천",
-      "ai_picks": [
-        "NK 디나모 자그 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FK 카우노 잘기리스 vs NK 디나모 자그레브 02:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446645",
-      "url": "https://bbongtv4.com/premium/soccer/16446645",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/12 (수)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아폴론 리마솔",
-      "team2": "SK 브란",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 아폴론 리마솔 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "아폴론 리마솔 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "아폴론 리마솔 vs SK 브란 02:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446654",
-      "url": "https://bbongtv4.com/premium/soccer/16446654",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "NEC 네이메헌",
-      "team2": "올림피아코스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "올림피아코스 FC 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "올림피아코스 F 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "NEC 네이메헌 vs 올림피아코스 FC 02:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446661",
-      "url": "https://bbongtv4.com/premium/soccer/16446661",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/12 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC CSKA 1948 소피아",
-      "team2": "파나티나이코스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 30.0,
-        "away": 47.0
-      },
-      "ai_summary": "파나티나이코스 FC 승리 (언더 2.5골)",
-      "ai_picks": [
-        "파나티나이코스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC CSKA 1948 소피아 vs 파나티나이코스 FC 02:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16446664",
       "url": "https://bbongtv4.com/premium/soccer/16446664",
@@ -913,6 +807,112 @@
         "이티하드 FC 승"
       ],
       "aria_label": "알자지라 클럽 vs 이티하드 FC 00:59 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446635",
+      "url": "https://bbongtv4.com/premium/soccer/16446635",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FK 카우노 잘기리스",
+      "team2": "NK 디나모 자그레브",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 20.0,
+        "away": 70.0
+      },
+      "ai_summary": "NK 디나모 자그레브 승, 언더 2.5 추천",
+      "ai_picks": [
+        "NK 디나모 자그 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FK 카우노 잘기리스 vs NK 디나모 자그레브 02:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446645",
+      "url": "https://bbongtv4.com/premium/soccer/16446645",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/12 (수)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아폴론 리마솔",
+      "team2": "SK 브란",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 아폴론 리마솔 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "아폴론 리마솔 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "아폴론 리마솔 vs SK 브란 02:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446654",
+      "url": "https://bbongtv4.com/premium/soccer/16446654",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "NEC 네이메헌",
+      "team2": "올림피아코스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "올림피아코스 FC 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "올림피아코스 F 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "NEC 네이메헌 vs 올림피아코스 FC 02:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446661",
+      "url": "https://bbongtv4.com/premium/soccer/16446661",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/12 (수)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC CSKA 1948 소피아",
+      "team2": "파나티나이코스 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 23.0,
+        "draw": 30.0,
+        "away": 47.0
+      },
+      "ai_summary": "파나티나이코스 FC 승리 (언더 2.5골)",
+      "ai_picks": [
+        "파나티나이코스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC CSKA 1948 소피아 vs 파나티나이코스 FC 02:30 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
