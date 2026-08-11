@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-11",
-  "scraped_at": "2026-08-11T12:01:22.405320+00:00",
+  "scraped_at": "2026-08-11T13:47:45.122753+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "16263894",
-      "url": "https://bbongtv4.com/premium/baseball/16263894",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/11 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트",
-      "team2": "히로시마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 5.0,
-        "away": 60.0
-      },
-      "ai_summary": "히로시마 승 (원정팀 승)",
-      "ai_picks": [
-        "히로시마 승"
-      ],
-      "aria_label": "야쿠르트 vs 히로시마 18:00 분석 상세",
-      "source_date": "2026-08-11"
-    },
-    {
-      "id": "16263897",
-      "url": "https://bbongtv4.com/premium/baseball/16263897",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/11 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라쿠텐",
-      "team2": "오릭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 23.0,
-        "away": 35.0
-      },
-      "ai_summary": "언더 7.5 (저득점 투수전 예상), 승패는 오릭스 소폭 우세이나 라쿠텐 홈 이점으로 접전",
-      "ai_picks": [
-        "언더 7.5",
-        "라쿠텐 승"
-      ],
-      "aria_label": "라쿠텐 vs 오릭스 18:00 분석 상세",
-      "source_date": "2026-08-11"
-    },
     {
       "id": "16260641",
       "url": "https://bbongtv4.com/premium/baseball/16260641",
@@ -178,32 +127,6 @@
         "언더 8.5"
       ],
       "aria_label": "KIA vs 삼성 19:00 분석 상세",
-      "source_date": "2026-08-11"
-    },
-    {
-      "id": "16446605",
-      "url": "https://bbongtv4.com/premium/soccer/16446605",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "8/11 (화)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "강원 FC",
-      "team2": "감바 오사카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "감바 오사카 승 + 언더 2.5",
-      "ai_picks": [
-        "감바 오사카 승",
-        "언더 2.5"
-      ],
-      "aria_label": "강원 FC vs 감바 오사카 19:30 분석 상세",
       "source_date": "2026-08-11"
     },
     {
@@ -602,18 +525,69 @@
       "source_date": "2026-08-11"
     },
     {
+      "id": "16263894",
+      "url": "https://bbongtv4.com/premium/baseball/16263894",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/11 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "야쿠르트",
+      "team2": "히로시마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 5.0,
+        "away": 60.0
+      },
+      "ai_summary": "히로시마 승 (원정팀 승)",
+      "ai_picks": [
+        "히로시마 승"
+      ],
+      "aria_label": "야쿠르트 vs 히로시마 18:00 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
+      "id": "16263897",
+      "url": "https://bbongtv4.com/premium/baseball/16263897",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/11 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "라쿠텐",
+      "team2": "오릭스",
+      "score1": 1,
+      "score2": 9,
+      "prob": {
+        "home": 42.0,
+        "draw": 23.0,
+        "away": 35.0
+      },
+      "ai_summary": "언더 7.5 (저득점 투수전 예상), 승패는 오릭스 소폭 우세이나 라쿠텐 홈 이점으로 접전",
+      "ai_picks": [
+        "언더 7.5",
+        "라쿠텐 승"
+      ],
+      "aria_label": "라쿠텐 vs 오릭스 18:00 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
       "id": "16446596",
       "url": "https://bbongtv4.com/premium/soccer/16446596",
       "sport": "soccer",
       "league": "ACL Elite",
       "date": "8/11 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "애들레이드 유나이티드 FC",
       "team2": "꽁안 하노이 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 50.0,
         "draw": 25.0,
@@ -624,6 +598,32 @@
         "애들레이드 유 승"
       ],
       "aria_label": "애들레이드 유나이티드 FC vs 꽁안 하노이 FC 18:30 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
+      "id": "16446605",
+      "url": "https://bbongtv4.com/premium/soccer/16446605",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "8/11 (화)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "강원 FC",
+      "team2": "감바 오사카",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "감바 오사카 승 + 언더 2.5",
+      "ai_picks": [
+        "감바 오사카 승",
+        "언더 2.5"
+      ],
+      "aria_label": "강원 FC vs 감바 오사카 19:30 분석 상세",
       "source_date": "2026-08-11"
     }
   ]
