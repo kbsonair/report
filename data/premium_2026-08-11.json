@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-11",
-  "scraped_at": "2026-08-11T11:08:59.911997+00:00",
+  "scraped_at": "2026-08-11T12:01:22.405320+00:00",
   "count": 25,
   "matches": [
     {
@@ -53,31 +53,6 @@
         "라쿠텐 승"
       ],
       "aria_label": "라쿠텐 vs 오릭스 18:00 분석 상세",
-      "source_date": "2026-08-11"
-    },
-    {
-      "id": "16446596",
-      "url": "https://bbongtv4.com/premium/soccer/16446596",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "8/11 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "애들레이드 유나이티드 FC",
-      "team2": "꽁안 하노이 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 애들레이드 유나이티드 FC 승",
-      "ai_picks": [
-        "애들레이드 유 승"
-      ],
-      "aria_label": "애들레이드 유나이티드 FC vs 꽁안 하노이 FC 18:30 분석 상세",
       "source_date": "2026-08-11"
     },
     {
@@ -624,6 +599,31 @@
         "소프트뱅크 승"
       ],
       "aria_label": "소프트뱅크 vs 치바롯데 14:00 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
+      "id": "16446596",
+      "url": "https://bbongtv4.com/premium/soccer/16446596",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "8/11 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "애들레이드 유나이티드 FC",
+      "team2": "꽁안 하노이 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 애들레이드 유나이티드 FC 승",
+      "ai_picks": [
+        "애들레이드 유 승"
+      ],
+      "aria_label": "애들레이드 유나이티드 FC vs 꽁안 하노이 FC 18:30 분석 상세",
       "source_date": "2026-08-11"
     }
   ]
