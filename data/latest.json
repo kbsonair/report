@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T06:09:14.877858+00:00",
+  "scraped_at": "2026-08-11T07:42:25.249649+00:00",
   "kst_yesterday": "2026-08-10",
   "kst_today": "2026-08-11",
   "kst_tomorrow": "2026-08-12",
@@ -1148,12 +1148,12 @@
       "league": "MLB",
       "date": "8/11 (화)",
       "time": "10:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌프란시스코",
       "team2": "휴스턴",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 6,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -1198,12 +1198,12 @@
       "league": "MLB",
       "date": "8/11 (화)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA다저스",
       "team2": "캔자스시티",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 62.0,
         "away": 38.0
