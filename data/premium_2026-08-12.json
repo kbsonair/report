@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-11T17:16:57.856035+00:00",
+  "scraped_at": "2026-08-11T18:11:54.669670+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "16446611",
-      "url": "https://bbongtv4.com/premium/soccer/16446611",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 카이라트",
-      "team2": "레브스키 소피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "FC 카이라트 0핸디캡 및 언더 2.5 추천",
-      "ai_picks": [
-        "언더 2.5"
-      ],
-      "aria_label": "FC 카이라트 vs 레브스키 소피아 00:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446612",
-      "url": "https://bbongtv4.com/premium/soccer/16446612",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "8/12 (수)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "파크타코르 타슈켄트",
-      "team2": "알후세인 SC (이르비드)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "파크타코르 타슈켄트 승 (1-0 저득점 경기 예상, 언더 2.5 유력)",
-      "ai_picks": [
-        "파크타코르 타 승",
-        "언더 2.5"
-      ],
-      "aria_label": "파크타코르 타슈켄트 vs 알후세인 SC (이르비드) 00:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16446619",
       "url": "https://bbongtv4.com/premium/soccer/16446619",
@@ -913,6 +862,57 @@
         "오버 8.5"
       ],
       "aria_label": "LA다저스 vs 캔자스시티 11:10 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446611",
+      "url": "https://bbongtv4.com/premium/soccer/16446611",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 카이라트",
+      "team2": "레브스키 소피아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "FC 카이라트 0핸디캡 및 언더 2.5 추천",
+      "ai_picks": [
+        "언더 2.5"
+      ],
+      "aria_label": "FC 카이라트 vs 레브스키 소피아 00:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446612",
+      "url": "https://bbongtv4.com/premium/soccer/16446612",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "8/12 (수)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "파크타코르 타슈켄트",
+      "team2": "알후세인 SC (이르비드)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "파크타코르 타슈켄트 승 (1-0 저득점 경기 예상, 언더 2.5 유력)",
+      "ai_picks": [
+        "파크타코르 타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "파크타코르 타슈켄트 vs 알후세인 SC (이르비드) 00:00 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
