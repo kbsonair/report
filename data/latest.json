@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T18:11:57.089069+00:00",
+  "scraped_at": "2026-08-11T19:29:59.412273+00:00",
   "kst_yesterday": "2026-08-11",
   "kst_today": "2026-08-12",
   "kst_tomorrow": "2026-08-13",
@@ -248,12 +248,12 @@
       "league": "ACL Elite",
       "date": "8/12 (수)",
       "time": "00:59",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "알자지라 클럽",
       "team2": "이티하드 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 28.0,
         "draw": 22.0,
