@@ -1,111 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-11T20:21:52.416817+00:00",
+  "scraped_at": "2026-08-11T21:27:52.844463+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "16446664",
-      "url": "https://bbongtv4.com/premium/soccer/16446664",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FK 츠르베나 즈베즈다",
-      "team2": "하포엘 베르셰바 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 18.0,
-        "away": 12.0
-      },
-      "ai_summary": "FK 츠르베나 즈베즈다 승 (예상 스코어 2-0)",
-      "ai_picks": [
-        "FK 츠르베나 즈 승"
-      ],
-      "aria_label": "FK 츠르베나 즈베즈다 vs 하포엘 베르셰바 FC 03:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446677",
-      "url": "https://bbongtv4.com/premium/soccer/16446677",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "NK 첼레",
-      "team2": "FC Ararat-Armenia",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 22.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 NK 첼레 승 (단, 오버 2.5 다득점 경기 예상)",
-      "ai_picks": [
-        "NK 첼레 승",
-        "오버 2.5"
-      ],
-      "aria_label": "NK 첼레 vs FC Ararat-Armenia 03:15 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446678",
-      "url": "https://bbongtv4.com/premium/soccer/16446678",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 슬로반 브라티슬라바",
-      "team2": "미엘뷔 AIF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "SK 슬로반 브라티슬라바 승리",
-      "ai_picks": [
-        "SK 슬로반 브라 승"
-      ],
-      "aria_label": "SK 슬로반 브라티슬라바 vs 미엘뷔 AIF 03:15 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446679",
-      "url": "https://bbongtv4.com/premium/soccer/16446679",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/12 (수)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 슈투름 그라츠",
-      "team2": "페네르바흐체 SK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 28.0,
-        "away": 50.0
-      },
-      "ai_summary": "원정팀 페네르바흐체 SK 승 또는 무승부 (언더 추천)",
-      "ai_picks": [
-        "페네르바흐체 S 승",
-        "무승부"
-      ],
-      "aria_label": "SK 슈투름 그라츠 vs 페네르바흐체 SK 03:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16446749",
       "url": "https://bbongtv4.com/premium/soccer/16446749",
@@ -913,6 +811,108 @@
         "언더 2.5"
       ],
       "aria_label": "FC CSKA 1948 소피아 vs 파나티나이코스 FC 02:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446664",
+      "url": "https://bbongtv4.com/premium/soccer/16446664",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FK 츠르베나 즈베즈다",
+      "team2": "하포엘 베르셰바 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 18.0,
+        "away": 12.0
+      },
+      "ai_summary": "FK 츠르베나 즈베즈다 승 (예상 스코어 2-0)",
+      "ai_picks": [
+        "FK 츠르베나 즈 승"
+      ],
+      "aria_label": "FK 츠르베나 즈베즈다 vs 하포엘 베르셰바 FC 03:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446677",
+      "url": "https://bbongtv4.com/premium/soccer/16446677",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "03:15",
+      "status": "예정",
+      "result": null,
+      "team1": "NK 첼레",
+      "team2": "FC Ararat-Armenia",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 NK 첼레 승 (단, 오버 2.5 다득점 경기 예상)",
+      "ai_picks": [
+        "NK 첼레 승",
+        "오버 2.5"
+      ],
+      "aria_label": "NK 첼레 vs FC Ararat-Armenia 03:15 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446678",
+      "url": "https://bbongtv4.com/premium/soccer/16446678",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "03:15",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 슬로반 브라티슬라바",
+      "team2": "미엘뷔 AIF",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "SK 슬로반 브라티슬라바 승리",
+      "ai_picks": [
+        "SK 슬로반 브라 승"
+      ],
+      "aria_label": "SK 슬로반 브라티슬라바 vs 미엘뷔 AIF 03:15 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446679",
+      "url": "https://bbongtv4.com/premium/soccer/16446679",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/12 (수)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 슈투름 그라츠",
+      "team2": "페네르바흐체 SK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 28.0,
+        "away": 50.0
+      },
+      "ai_summary": "원정팀 페네르바흐체 SK 승 또는 무승부 (언더 추천)",
+      "ai_picks": [
+        "페네르바흐체 S 승",
+        "무승부"
+      ],
+      "aria_label": "SK 슈투름 그라츠 vs 페네르바흐체 SK 03:30 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
