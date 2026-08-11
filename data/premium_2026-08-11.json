@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-11",
-  "scraped_at": "2026-08-11T03:56:34.072376+00:00",
+  "scraped_at": "2026-08-11T05:15:59.237640+00:00",
   "count": 25,
   "matches": [
     {
@@ -123,32 +123,6 @@
         "휴스턴 승"
       ],
       "aria_label": "샌프란시스코 vs 휴스턴 10:45 분석 상세",
-      "source_date": "2026-08-11"
-    },
-    {
-      "id": "16356810",
-      "url": "https://bbongtv4.com/premium/basket/16356810",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/11 (화)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "시카고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 5.0,
-        "away": 47.0
-      },
-      "ai_summary": "시애틀 승 (언더 180.5)",
-      "ai_picks": [
-        "시애틀 승",
-        "언더 180.5"
-      ],
-      "aria_label": "시애틀 vs 시카고 11:00 분석 상세",
       "source_date": "2026-08-11"
     },
     {
@@ -624,6 +598,32 @@
         "애틀랜타 승"
       ],
       "aria_label": "애틀랜타 vs 토론토 09:00 분석 상세",
+      "source_date": "2026-08-11"
+    },
+    {
+      "id": "16356810",
+      "url": "https://bbongtv4.com/premium/basket/16356810",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/11 (화)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀",
+      "team2": "시카고",
+      "score1": 97,
+      "score2": 88,
+      "prob": {
+        "home": 48.0,
+        "draw": 5.0,
+        "away": 47.0
+      },
+      "ai_summary": "시애틀 승 (언더 180.5)",
+      "ai_picks": [
+        "시애틀 승",
+        "언더 180.5"
+      ],
+      "aria_label": "시애틀 vs 시카고 11:00 분석 상세",
       "source_date": "2026-08-11"
     }
   ]
