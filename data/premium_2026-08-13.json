@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-12T17:17:37.910979+00:00",
+  "scraped_at": "2026-08-12T18:12:11.100834+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16447524",
-      "url": "https://bbongtv4.com/premium/soccer/16447524",
-      "sport": "soccer",
-      "league": "ACL2",
-      "date": "8/13 (목)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "Arkadag FK",
-      "team2": "FC 고아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "홈팀 Arkadag FK 승",
-      "ai_picks": [
-        "Arkadag FK 승"
-      ],
-      "aria_label": "Arkadag FK vs FC 고아 00:00 분석 상세",
-      "source_date": "2026-08-13"
-    },
     {
       "id": "16447566",
       "url": "https://bbongtv4.com/premium/soccer/16447566",
@@ -697,6 +672,31 @@
         "텍사스 승"
       ],
       "aria_label": "LA엔젤스 vs 텍사스 11:10 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447524",
+      "url": "https://bbongtv4.com/premium/soccer/16447524",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/13 (목)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "Arkadag FK",
+      "team2": "FC 고아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 Arkadag FK 승",
+      "ai_picks": [
+        "Arkadag FK 승"
+      ],
+      "aria_label": "Arkadag FK vs FC 고아 00:00 분석 상세",
       "source_date": "2026-08-13"
     }
   ]
