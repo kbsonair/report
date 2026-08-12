@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-12",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-12T15:01:16.832194+00:00",
+  "scraped_at": "2026-08-12T16:13:38.886880+00:00",
   "count": 48,
   "matches": [
-    {
-      "id": "16447506",
-      "url": "https://bbongtv4.com/premium/soccer/16447506",
-      "sport": "soccer",
-      "league": "ACL2",
-      "date": "8/12 (수)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "이스트 벵골 FC",
-      "team2": "알아라비 SC (쿠웨이트)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "이스트 벵골 FC 승리 또는 무승부 (언더 2.5 유력)",
-      "ai_picks": [
-        "이스트 벵골 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "이스트 벵골 FC vs 알아라비 SC (쿠웨이트) 22:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16446611",
       "url": "https://bbongtv4.com/premium/soccer/16446611",
@@ -1214,6 +1187,33 @@
         "KIA 승"
       ],
       "aria_label": "KIA vs 삼성 19:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16447506",
+      "url": "https://bbongtv4.com/premium/soccer/16447506",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/12 (수)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "이스트 벵골 FC",
+      "team2": "알아라비 SC (쿠웨이트)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "이스트 벵골 FC 승리 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [
+        "이스트 벵골 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "이스트 벵골 FC vs 알아라비 SC (쿠웨이트) 22:30 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
