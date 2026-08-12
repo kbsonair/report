@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-13",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-12T12:02:39.685833+00:00",
-  "count": 26,
+  "scraped_at": "2026-08-12T13:52:36.133309+00:00",
+  "count": 28,
   "matches": [
     {
       "id": "16447524",
@@ -108,6 +108,31 @@
       "source_date": "2026-08-13"
     },
     {
+      "id": "16454208",
+      "url": "https://bbongtv4.com/premium/soccer/16454208",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/13 (목)",
+      "time": "01:15",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴캐슬 유나이티드 FC",
+      "team2": "에버턴 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "뉴캐슬 유나이티드 FC 승",
+      "ai_picks": [
+        "뉴캐슬 유나이 승"
+      ],
+      "aria_label": "뉴캐슬 유나이티드 FC vs 에버턴 FC 01:15 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
       "id": "16262569",
       "url": "https://bbongtv4.com/premium/baseball/16262569",
       "sport": "baseball",
@@ -154,6 +179,31 @@
         "필라델피아 승"
       ],
       "aria_label": "세인트루이스 vs 필라델피아 03:15 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16454256",
+      "url": "https://bbongtv4.com/premium/soccer/16454256",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/13 (목)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "맨체스터 유나이티드(N)",
+      "team2": "리즈 유나이티드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "맨체스터 유나이티드 승",
+      "ai_picks": [
+        "맨체스터 유나 승"
+      ],
+      "aria_label": "맨체스터 유나이티드(N) vs 리즈 유나이티드 FC 03:30 분석 상세",
       "source_date": "2026-08-13"
     },
     {
