@@ -1,0 +1,60 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-14",
+  "source_date": "2026-08-14",
+  "scraped_at": "2026-08-12T15:01:17.704707+00:00",
+  "count": 2,
+  "matches": [
+    {
+      "id": "16448286",
+      "url": "https://bbongtv4.com/premium/soccer/16448286",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/14 (금)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미라소우 FC",
+      "team2": "LDU 키토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 27.0,
+        "away": 28.0
+      },
+      "ai_summary": "미라소우 FC 승 (1골 차 신승 예상)",
+      "ai_picks": [
+        "미라소우 FC 승"
+      ],
+      "aria_label": "미라소우 FC vs LDU 키토 07:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448298",
+      "url": "https://bbongtv4.com/premium/soccer/16448298",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/14 (금)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "로사리오 센트랄",
+      "team2": "코린치앙스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "코린치앙스 승 또는 무승부 (언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "코린치앙스 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "로사리오 센트랄 vs 코린치앙스 09:30 분석 상세",
+      "source_date": "2026-08-14"
+    }
+  ]
+}
