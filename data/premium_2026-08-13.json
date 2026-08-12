@@ -1,112 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-12T18:12:11.100834+00:00",
+  "scraped_at": "2026-08-12T19:31:26.957764+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16447566",
-      "url": "https://bbongtv4.com/premium/soccer/16447566",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/13 (목)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 코펜하겐",
-      "team2": "데브레체니 VSC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "FC 코펜하겐 승 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "FC 코펜하겐 승",
-        "FC 코펜하겐 -1.5"
-      ],
-      "aria_label": "FC 코펜하겐 vs 데브레체니 VSC 00:59 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16447567",
-      "url": "https://bbongtv4.com/premium/soccer/16447567",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/13 (목)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "GKS 카토비체",
-      "team2": "하포엘 텔아비브 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 27.0,
-        "away": 28.0
-      },
-      "ai_summary": "GKS 카토비체 소폭 우세 (단, 합산 기준 하포엘 텔아비브 FC 진출 유력) / 언더 2.5 추천",
-      "ai_picks": [
-        "GKS 카토비체 승",
-        "언더 2.5"
-      ],
-      "aria_label": "GKS 카토비체 vs 하포엘 텔아비브 FC 00:59 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16447568",
-      "url": "https://bbongtv4.com/premium/soccer/16447568",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/13 (목)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 라피트 빈",
-      "team2": "파이데 린나메스콘드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 90.0,
-        "draw": 7.0,
-        "away": 3.0
-      },
-      "ai_summary": "SK 라피트 빈 대승 (핸디캡 -2.5 이상 커버 예상)",
-      "ai_picks": [
-        "SK 라피트 빈 승",
-        "SK 라피트 빈 -2.5"
-      ],
-      "aria_label": "SK 라피트 빈 vs 파이데 린나메스콘드 00:59 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16454208",
-      "url": "https://bbongtv4.com/premium/soccer/16454208",
-      "sport": "soccer",
-      "league": "INT CF",
-      "date": "8/13 (목)",
-      "time": "01:15",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴캐슬 유나이티드 FC",
-      "team2": "에버턴 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "뉴캐슬 유나이티드 FC 승",
-      "ai_picks": [
-        "뉴캐슬 유나이 승"
-      ],
-      "aria_label": "뉴캐슬 유나이티드 FC vs 에버턴 FC 01:15 분석 상세",
-      "source_date": "2026-08-13"
-    },
     {
       "id": "16262569",
       "url": "https://bbongtv4.com/premium/baseball/16262569",
@@ -697,6 +594,109 @@
         "Arkadag FK 승"
       ],
       "aria_label": "Arkadag FK vs FC 고아 00:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447566",
+      "url": "https://bbongtv4.com/premium/soccer/16447566",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 코펜하겐",
+      "team2": "데브레체니 VSC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "FC 코펜하겐 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "FC 코펜하겐 승",
+        "FC 코펜하겐 -1.5"
+      ],
+      "aria_label": "FC 코펜하겐 vs 데브레체니 VSC 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447567",
+      "url": "https://bbongtv4.com/premium/soccer/16447567",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "GKS 카토비체",
+      "team2": "하포엘 텔아비브 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 27.0,
+        "away": 28.0
+      },
+      "ai_summary": "GKS 카토비체 소폭 우세 (단, 합산 기준 하포엘 텔아비브 FC 진출 유력) / 언더 2.5 추천",
+      "ai_picks": [
+        "GKS 카토비체 승",
+        "언더 2.5"
+      ],
+      "aria_label": "GKS 카토비체 vs 하포엘 텔아비브 FC 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447568",
+      "url": "https://bbongtv4.com/premium/soccer/16447568",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 라피트 빈",
+      "team2": "파이데 린나메스콘드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 90.0,
+        "draw": 7.0,
+        "away": 3.0
+      },
+      "ai_summary": "SK 라피트 빈 대승 (핸디캡 -2.5 이상 커버 예상)",
+      "ai_picks": [
+        "SK 라피트 빈 승",
+        "SK 라피트 빈 -2.5"
+      ],
+      "aria_label": "SK 라피트 빈 vs 파이데 린나메스콘드 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16454208",
+      "url": "https://bbongtv4.com/premium/soccer/16454208",
+      "sport": "soccer",
+      "league": "INT CF",
+      "date": "8/13 (목)",
+      "time": "01:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "뉴캐슬 유나이티드 FC",
+      "team2": "에버턴 FC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "뉴캐슬 유나이티드 FC 승",
+      "ai_picks": [
+        "뉴캐슬 유나이 승"
+      ],
+      "aria_label": "뉴캐슬 유나이티드 FC vs 에버턴 FC 01:15 분석 상세",
       "source_date": "2026-08-13"
     }
   ]

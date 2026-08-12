@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T18:12:13.115999+00:00",
+  "scraped_at": "2026-08-12T19:31:29.655331+00:00",
   "kst_yesterday": "2026-08-12",
   "kst_today": "2026-08-13",
   "kst_tomorrow": "2026-08-14",
@@ -172,12 +172,12 @@
       "league": "INT CF",
       "date": "8/13 (목)",
       "time": "01:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "뉴캐슬 유나이티드 FC",
       "team2": "에버턴 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 45.0,
         "draw": 25.0,
