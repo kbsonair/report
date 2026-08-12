@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T20:21:03.989579+00:00",
+  "scraped_at": "2026-08-12T21:26:01.640425+00:00",
   "kst_yesterday": "2026-08-12",
   "kst_today": "2026-08-13",
   "kst_tomorrow": "2026-08-14",
@@ -246,12 +246,12 @@
       "league": "INT CF",
       "date": "8/13 (목)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "맨체스터 유나이티드(N)",
       "team2": "리즈 유나이티드 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 45.0,
         "draw": 25.0,
