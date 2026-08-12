@@ -1,9 +1,112 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-13",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-11T23:22:26.565433+00:00",
-  "count": 4,
+  "scraped_at": "2026-08-12T00:41:14.377228+00:00",
+  "count": 11,
   "matches": [
+    {
+      "id": "16447524",
+      "url": "https://bbongtv4.com/premium/soccer/16447524",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/13 (목)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "Arkadag FK",
+      "team2": "FC 고아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 Arkadag FK 승",
+      "ai_picks": [
+        "Arkadag FK 승"
+      ],
+      "aria_label": "Arkadag FK vs FC 고아 00:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447566",
+      "url": "https://bbongtv4.com/premium/soccer/16447566",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 코펜하겐",
+      "team2": "데브레체니 VSC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "FC 코펜하겐 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "FC 코펜하겐 승",
+        "FC 코펜하겐 -1.5"
+      ],
+      "aria_label": "FC 코펜하겐 vs 데브레체니 VSC 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447567",
+      "url": "https://bbongtv4.com/premium/soccer/16447567",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "GKS 카토비체",
+      "team2": "하포엘 텔아비브 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 27.0,
+        "away": 28.0
+      },
+      "ai_summary": "GKS 카토비체 소폭 우세 (단, 합산 기준 하포엘 텔아비브 FC 진출 유력) / 언더 2.5 추천",
+      "ai_picks": [
+        "GKS 카토비체 승",
+        "언더 2.5"
+      ],
+      "aria_label": "GKS 카토비체 vs 하포엘 텔아비브 FC 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447568",
+      "url": "https://bbongtv4.com/premium/soccer/16447568",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/13 (목)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 라피트 빈",
+      "team2": "파이데 린나메스콘드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 90.0,
+        "draw": 7.0,
+        "away": 3.0
+      },
+      "ai_summary": "SK 라피트 빈 대승 (핸디캡 -2.5 이상 커버 예상)",
+      "ai_picks": [
+        "SK 라피트 빈 승",
+        "SK 라피트 빈 -2.5"
+      ],
+      "aria_label": "SK 라피트 빈 vs 파이데 린나메스콘드 00:59 분석 상세",
+      "source_date": "2026-08-13"
+    },
     {
       "id": "16447609",
       "url": "https://bbongtv4.com/premium/soccer/16447609",
@@ -82,6 +185,30 @@
       "source_date": "2026-08-13"
     },
     {
+      "id": "16356814",
+      "url": "https://bbongtv4.com/premium/basket/16356814",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/13 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈러스",
+      "team2": "토론토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "댈러스 승",
+      "ai_picks": [
+        "댈러스 승"
+      ],
+      "aria_label": "댈러스 vs 토론토 09:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
       "id": "16447662",
       "url": "https://bbongtv4.com/premium/soccer/16447662",
       "sport": "soccer",
@@ -106,6 +233,54 @@
         "언더 2.5"
       ],
       "aria_label": "크루제이루 EC vs CR 플라멩구 09:30 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16356815",
+      "url": "https://bbongtv4.com/premium/basket/16356815",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/13 (목)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "골든스테이트",
+      "team2": "시카고",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 78.0,
+        "away": 22.0
+      },
+      "ai_summary": "골든스테이트 승",
+      "ai_picks": [
+        "골든스테이트 승"
+      ],
+      "aria_label": "골든스테이트 vs 시카고 11:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16356816",
+      "url": "https://bbongtv4.com/premium/basket/16356816",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/13 (목)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "포틀랜드",
+      "team2": "미네소타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "미네소타 승",
+      "ai_picks": [
+        "미네소타 승"
+      ],
+      "aria_label": "포틀랜드 vs 미네소타 11:00 분석 상세",
       "source_date": "2026-08-13"
     }
   ]

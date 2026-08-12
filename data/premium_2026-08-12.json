@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-11T23:22:24.313258+00:00",
-  "count": 36,
+  "scraped_at": "2026-08-12T00:41:11.908290+00:00",
+  "count": 37,
   "matches": [
-    {
-      "id": "16446758",
-      "url": "https://bbongtv4.com/premium/soccer/16446758",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/12 (수)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "플루미넨시 FC",
-      "team2": "인데펜디엔테 리바다비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "플루미넨시 FC 승 (1골 차 신승 예상, 언더 2.5 병행 추천)",
-      "ai_picks": [
-        "플루미넨시 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "플루미넨시 FC vs 인데펜디엔테 리바다비아 07:00 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16262554",
       "url": "https://bbongtv4.com/premium/baseball/16262554",
@@ -529,6 +503,33 @@
       "source_date": "2026-08-12"
     },
     {
+      "id": "16447506",
+      "url": "https://bbongtv4.com/premium/soccer/16447506",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/12 (수)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "이스트 벵골 FC",
+      "team2": "알아라비 SC (쿠웨이트)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "이스트 벵골 FC 승리 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [
+        "이스트 벵골 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "이스트 벵골 FC vs 알아라비 SC (쿠웨이트) 22:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
       "id": "16446611",
       "url": "https://bbongtv4.com/premium/soccer/16446611",
       "sport": "soccer",
@@ -913,6 +914,32 @@
         "오버 2.5"
       ],
       "aria_label": "올랭피크 리옹 vs AC 스파르타 프라하 04:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446758",
+      "url": "https://bbongtv4.com/premium/soccer/16446758",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "플루미넨시 FC",
+      "team2": "인데펜디엔테 리바다비아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "플루미넨시 FC 승 (1골 차 신승 예상, 언더 2.5 병행 추천)",
+      "ai_picks": [
+        "플루미넨시 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "플루미넨시 FC vs 인데펜디엔테 리바다비아 07:00 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
