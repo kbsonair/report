@@ -1,186 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-12",
-  "scraped_at": "2026-08-12T00:41:11.908290+00:00",
+  "scraped_at": "2026-08-12T03:25:02.093132+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "16262554",
-      "url": "https://bbongtv4.com/premium/baseball/16262554",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "언더 (총득점 8.5 기준) / 승패는 디트로이트 근소 우위이나 시즌 상대전적 고려 시 클리블랜드도 대등",
-      "ai_picks": [
-        "언더 8.5",
-        "디트로이트 승"
-      ],
-      "aria_label": "디트로이트 vs 클리블랜드 07:40 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16262555",
-      "url": "https://bbongtv4.com/premium/baseball/16262555",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "마이애미",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "언더 7.5 추천 / 승패는 마이애미 소폭 우세하나 피츠버그 불펜 변수로 박빙 예상",
-      "ai_picks": [
-        "언더 7.5",
-        "마이애미 승"
-      ],
-      "aria_label": "마이애미 vs 피츠버그 07:40 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16262556",
-      "url": "https://bbongtv4.com/premium/baseball/16262556",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "07:45",
-      "status": "예정",
-      "result": null,
-      "team1": "워싱턴",
-      "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "워싱턴 vs 시카고컵스 07:45 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16262557",
-      "url": "https://bbongtv4.com/premium/baseball/16262557",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "08:05",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕양키스",
-      "team2": "시애틀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 18.0,
-        "away": 30.0
-      },
-      "ai_summary": "뉴욕양키스 승 (저득점 경기 예상, 언더 8.5 유력)",
-      "ai_picks": [
-        "뉴욕양키스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "뉴욕양키스 vs 시애틀 08:05 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16262558",
-      "url": "https://bbongtv4.com/premium/baseball/16262558",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "08:07",
-      "status": "예정",
-      "result": null,
-      "team1": "토론토",
-      "team2": "보스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "토론토 승리 + 언더(합계 7.5 이하)",
-      "ai_picks": [
-        "토론토 승",
-        "언더 7.5"
-      ],
-      "aria_label": "토론토 vs 보스턴 08:07 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16262559",
-      "url": "https://bbongtv4.com/premium/baseball/16262559",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/12 (수)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "애틀랜타",
-      "team2": "뉴욕메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "애틀랜타 승, 총점 언더",
-      "ai_picks": [
-        "애틀랜타 승"
-      ],
-      "aria_label": "애틀랜타 vs 뉴욕메츠 08:15 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16356811",
-      "url": "https://bbongtv4.com/premium/basket/16356811",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/12 (수)",
-      "time": "08:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인디애나",
-      "team2": "뉴욕",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
-      },
-      "ai_summary": "인디애나 홈 승리 (핸디캡 -3.5 커버 가능, 언더 191.5 유력)",
-      "ai_picks": [
-        "인디애나 승",
-        "인디애나 -3.5",
-        "언더 191.5"
-      ],
-      "aria_label": "인디애나 vs 뉴욕 08:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
     {
       "id": "16262560",
       "url": "https://bbongtv4.com/premium/baseball/16262560",
@@ -251,59 +74,6 @@
         "필라델피아 승"
       ],
       "aria_label": "세인트루이스 vs 필라델피아 08:45 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446771",
-      "url": "https://bbongtv4.com/premium/soccer/16446771",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/12 (수)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "데포르테스 톨리마",
-      "team2": "인데펜디엔테 델 바예",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 28.0,
-        "away": 42.0
-      },
-      "ai_summary": "인데펜디엔테 델 바예 승 또는 무승부",
-      "ai_picks": [
-        "인데펜디엔테  승",
-        "무승부"
-      ],
-      "aria_label": "데포르테스 톨리마 vs 인데펜디엔테 델 바예 09:30 분석 상세",
-      "source_date": "2026-08-12"
-    },
-    {
-      "id": "16446772",
-      "url": "https://bbongtv4.com/premium/soccer/16446772",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/12 (수)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "에스투디안테스 데 라플라타",
-      "team2": "우니베르시다드 카톨리카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "에스투디안테스 데 라플라타 승 또는 무승부 (홈팀 우세 전망, 언더 2.5골 병행 추천)",
-      "ai_picks": [
-        "에스투디안테스 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "에스투디안테스 데 라플라타 vs 우니베르시다드 카톨리카 09:30 분석 상세",
       "source_date": "2026-08-12"
     },
     {
@@ -940,6 +710,236 @@
         "언더 2.5"
       ],
       "aria_label": "플루미넨시 FC vs 인데펜디엔테 리바다비아 07:00 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262554",
+      "url": "https://bbongtv4.com/premium/baseball/16262554",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "디트로이트",
+      "team2": "클리블랜드",
+      "score1": 6,
+      "score2": 4,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더 (총득점 8.5 기준) / 승패는 디트로이트 근소 우위이나 시즌 상대전적 고려 시 클리블랜드도 대등",
+      "ai_picks": [
+        "언더 8.5",
+        "디트로이트 승"
+      ],
+      "aria_label": "디트로이트 vs 클리블랜드 07:40 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262555",
+      "url": "https://bbongtv4.com/premium/baseball/16262555",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "마이애미",
+      "team2": "피츠버그",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "언더 7.5 추천 / 승패는 마이애미 소폭 우세하나 피츠버그 불펜 변수로 박빙 예상",
+      "ai_picks": [
+        "언더 7.5",
+        "마이애미 승"
+      ],
+      "aria_label": "마이애미 vs 피츠버그 07:40 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262556",
+      "url": "https://bbongtv4.com/premium/baseball/16262556",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "07:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "워싱턴",
+      "team2": "시카고컵스",
+      "score1": 6,
+      "score2": 8,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "워싱턴 vs 시카고컵스 07:45 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262557",
+      "url": "https://bbongtv4.com/premium/baseball/16262557",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "08:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴욕양키스",
+      "team2": "시애틀",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "draw": 18.0,
+        "away": 30.0
+      },
+      "ai_summary": "뉴욕양키스 승 (저득점 경기 예상, 언더 8.5 유력)",
+      "ai_picks": [
+        "뉴욕양키스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "뉴욕양키스 vs 시애틀 08:05 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262558",
+      "url": "https://bbongtv4.com/premium/baseball/16262558",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "08:07",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토론토",
+      "team2": "보스턴",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "토론토 승리 + 언더(합계 7.5 이하)",
+      "ai_picks": [
+        "토론토 승",
+        "언더 7.5"
+      ],
+      "aria_label": "토론토 vs 보스턴 08:07 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16262559",
+      "url": "https://bbongtv4.com/premium/baseball/16262559",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/12 (수)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애틀랜타",
+      "team2": "뉴욕메츠",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "애틀랜타 승, 총점 언더",
+      "ai_picks": [
+        "애틀랜타 승"
+      ],
+      "aria_label": "애틀랜타 vs 뉴욕메츠 08:15 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16356811",
+      "url": "https://bbongtv4.com/premium/basket/16356811",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/12 (수)",
+      "time": "08:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인디애나",
+      "team2": "뉴욕",
+      "score1": 106,
+      "score2": 92,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "인디애나 홈 승리 (핸디캡 -3.5 커버 가능, 언더 191.5 유력)",
+      "ai_picks": [
+        "인디애나 승",
+        "인디애나 -3.5",
+        "언더 191.5"
+      ],
+      "aria_label": "인디애나 vs 뉴욕 08:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446771",
+      "url": "https://bbongtv4.com/premium/soccer/16446771",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르테스 톨리마",
+      "team2": "인데펜디엔테 델 바예",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 28.0,
+        "away": 42.0
+      },
+      "ai_summary": "인데펜디엔테 델 바예 승 또는 무승부",
+      "ai_picks": [
+        "인데펜디엔테  승",
+        "무승부"
+      ],
+      "aria_label": "데포르테스 톨리마 vs 인데펜디엔테 델 바예 09:30 분석 상세",
+      "source_date": "2026-08-12"
+    },
+    {
+      "id": "16446772",
+      "url": "https://bbongtv4.com/premium/soccer/16446772",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/12 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "에스투디안테스 데 라플라타",
+      "team2": "우니베르시다드 카톨리카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "에스투디안테스 데 라플라타 승 또는 무승부 (홈팀 우세 전망, 언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "에스투디안테스 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "에스투디안테스 데 라플라타 vs 우니베르시다드 카톨리카 09:30 분석 상세",
       "source_date": "2026-08-12"
     }
   ]
