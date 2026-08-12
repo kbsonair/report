@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T22:23:13.451405+00:00",
+  "scraped_at": "2026-08-12T23:21:32.135347+00:00",
   "kst_yesterday": "2026-08-12",
   "kst_today": "2026-08-13",
   "kst_tomorrow": "2026-08-14",
@@ -296,12 +296,12 @@
       "league": "MLB",
       "date": "8/13 (목)",
       "time": "04:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애슬레틱스",
       "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 8,
       "prob": {
         "home": 20.0,
         "away": 80.0

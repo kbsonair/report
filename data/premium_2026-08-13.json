@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-12T22:23:10.916255+00:00",
+  "scraped_at": "2026-08-12T23:21:29.684222+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16262571",
-      "url": "https://bbongtv4.com/premium/baseball/16262571",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "04:05",
-      "status": "예정",
-      "result": null,
-      "team1": "애슬레틱스",
-      "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "탬파베이 승",
-      "ai_picks": [
-        "탬파베이 승"
-      ],
-      "aria_label": "애슬레틱스 vs 탬파베이 04:05 분석 상세",
-      "source_date": "2026-08-13"
-    },
     {
       "id": "16262572",
       "url": "https://bbongtv4.com/premium/baseball/16262572",
@@ -697,6 +673,30 @@
         "파리 생제르맹  승"
       ],
       "aria_label": "파리 생제르맹 FC vs 애스턴 빌라 FC 04:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262571",
+      "url": "https://bbongtv4.com/premium/baseball/16262571",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "04:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애슬레틱스",
+      "team2": "탬파베이",
+      "score1": 4,
+      "score2": 8,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "탬파베이 승",
+      "ai_picks": [
+        "탬파베이 승"
+      ],
+      "aria_label": "애슬레틱스 vs 탬파베이 04:05 분석 상세",
       "source_date": "2026-08-13"
     }
   ]
