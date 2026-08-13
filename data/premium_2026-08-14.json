@@ -1,319 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T19:30:00.711130+00:00",
+  "scraped_at": "2026-08-13T20:18:44.335622+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16448224",
-      "url": "https://bbongtv4.com/premium/soccer/16448224",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC DAC 1904 두나이스카스트레다",
-      "team2": "FC 트벤터",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "원정팀(FC 트벤터) 승 및 2.5 오버",
-      "ai_picks": [
-        "FC 트벤터 승",
-        "오버 2.5"
-      ],
-      "aria_label": "FC DAC 1904 두나이스카스트레다 vs FC 트벤터 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448228",
-      "url": "https://bbongtv4.com/premium/soccer/16448228",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베식타스 JK",
-      "team2": "FC 흐라데츠크랄로베",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 18.0,
-        "away": 12.0
-      },
-      "ai_summary": "베식타스 JK 홈 승리 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "베식타스 JK 승",
-        "언더 2.5"
-      ],
-      "aria_label": "베식타스 JK vs FC 흐라데츠크랄로베 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448229",
-      "url": "https://bbongtv4.com/premium/soccer/16448229",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "구르니크 자브제",
-      "team2": "페렌츠바로시 TC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 28.0,
-        "away": 32.0
-      },
-      "ai_summary": "언더 2.5골 (총 득점 2골 이하 수렴 예상), 승부 방향은 홈팀 미세 우위이나 합산 통과는 페렌츠바로시 TC 유리",
-      "ai_picks": [
-        "언더 2.5",
-        "구르니크 자브 승"
-      ],
-      "aria_label": "구르니크 자브제 vs 페렌츠바로시 TC 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448230",
-      "url": "https://bbongtv4.com/premium/soccer/16448230",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "파포스 FC",
-      "team2": "FC 레드불 잘츠부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "FC 레드불 잘츠부르크 승 또는 무승부",
-      "ai_picks": [
-        "FC 레드불 잘츠 승",
-        "무승부"
-      ],
-      "aria_label": "파포스 FC vs FC 레드불 잘츠부르크 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448231",
-      "url": "https://bbongtv4.com/premium/soccer/16448231",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "AC 오모니아",
-      "team2": "링컨 레드 임프스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 82.0,
-        "draw": 12.0,
-        "away": 6.0
-      },
-      "ai_summary": "홈팀 AC 오모니아 승리, 언더 3.5 추천",
-      "ai_picks": [
-        "AC 오모니아 승",
-        "언더 3.5"
-      ],
-      "aria_label": "AC 오모니아 vs 링컨 레드 임프스 FC 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448232",
-      "url": "https://bbongtv4.com/premium/soccer/16448232",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "CS 우니베르시타테아 크라이오바",
-      "team2": "쿠오피온 팔로세우라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "홈팀 CS 우니베르시타테아 크라이오바 승 (언더 2.5골 병행 추천)",
-      "ai_picks": [
-        "CS 우니베르시 승",
-        "언더 2.5"
-      ],
-      "aria_label": "CS 우니베르시타테아 크라이오바 vs 쿠오피온 팔로세우라 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448238",
-      "url": "https://bbongtv4.com/premium/soccer/16448238",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 디나모 민스크",
-      "team2": "SC 브라가",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 18.0,
-        "away": 72.0
-      },
-      "ai_summary": "SC 브라가 승",
-      "ai_picks": [
-        "SC 브라가 승"
-      ],
-      "aria_label": "FC 디나모 민스크 vs SC 브라가 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448240",
-      "url": "https://bbongtv4.com/premium/soccer/16448240",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "함마르뷔 IF",
-      "team2": "라쿠프 쳉스토호바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "함마르뷔 IF 승",
-      "ai_picks": [
-        "함마르뷔 IF 승"
-      ],
-      "aria_label": "함마르뷔 IF vs 라쿠프 쳉스토호바 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448241",
-      "url": "https://bbongtv4.com/premium/soccer/16448241",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 미트윌란",
-      "team2": "보헤미안 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 14.0,
-        "away": 8.0
-      },
-      "ai_summary": "FC 미트윌란 승 (핸디캡 -1.5 포함)",
-      "ai_picks": [
-        "FC 미트윌란 승",
-        "FC 미트윌란 -1.5"
-      ],
-      "aria_label": "FC 미트윌란 vs 보헤미안 FC 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448242",
-      "url": "https://bbongtv4.com/premium/soccer/16448242",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC ML 비쳅스크",
-      "team2": "FK 보라츠 바냐루카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 FC ML 비쳅스크 승, 언더 2.5 병행 추천",
-      "ai_picks": [
-        "FC ML 비쳅스크 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC ML 비쳅스크 vs FK 보라츠 바냐루카 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448243",
-      "url": "https://bbongtv4.com/premium/soccer/16448243",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 노르셸란",
-      "team2": "발루르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 85.0,
-        "draw": 10.0,
-        "away": 5.0
-      },
-      "ai_summary": "FC 노르셸란 대승 (핸디캡 -2.5 커버 가능)",
-      "ai_picks": [
-        "FC 노르셸란 승",
-        "FC 노르셸란 -2.5"
-      ],
-      "aria_label": "FC 노르셸란 vs 발루르 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448244",
-      "url": "https://bbongtv4.com/premium/soccer/16448244",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트롬쇠 IL",
-      "team2": "CFR 클루지",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 18.0,
-        "away": 12.0
-      },
-      "ai_summary": "트롬쇠 IL 핸디캡 승 (-1.5)",
-      "ai_picks": [
-        "트롬쇠 IL -1.5",
-        "트롬쇠 IL 승"
-      ],
-      "aria_label": "트롬쇠 IL vs CFR 클루지 02:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16262584",
       "url": "https://bbongtv4.com/premium/baseball/16262584",
@@ -362,108 +52,6 @@
         "언더 7.5"
       ],
       "aria_label": "마이애미 vs 피츠버그 02:10 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448247",
-      "url": "https://bbongtv4.com/premium/soccer/16448247",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KI 클락스비크",
-      "team2": "레흐 포즈난",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "레흐 포즈난 승",
-      "ai_picks": [
-        "레흐 포즈난 승"
-      ],
-      "aria_label": "KI 클락스비크 vs 레흐 포즈난 02:30 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448248",
-      "url": "https://bbongtv4.com/premium/soccer/16448248",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/14 (금)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "비킹귀르 레이캬비크",
-      "team2": "FC 툰",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 22.0,
-        "away": 28.0
-      },
-      "ai_summary": "비킹귀르 레이캬비크 홈 승 및 오버 3.5",
-      "ai_picks": [
-        "비킹귀르 레이 승",
-        "오버 3.5"
-      ],
-      "aria_label": "비킹귀르 레이캬비크 vs FC 툰 02:30 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448249",
-      "url": "https://bbongtv4.com/premium/soccer/16448249",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "NSI 루나비크",
-      "team2": "FC 루가노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 8.0,
-        "draw": 12.0,
-        "away": 80.0
-      },
-      "ai_summary": "FC 루가노 승리",
-      "ai_picks": [
-        "FC 루가노 승"
-      ],
-      "aria_label": "NSI 루나비크 vs FC 루가노 02:30 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448250",
-      "url": "https://bbongtv4.com/premium/soccer/16448250",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 파두츠",
-      "team2": "FC 인테르 투르쿠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 22.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 FC 파두츠 승 + 오버 2.5",
-      "ai_picks": [
-        "FC 파두츠 승",
-        "오버 2.5"
-      ],
-      "aria_label": "FC 파두츠 vs FC 인테르 투르쿠 02:30 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -1305,6 +893,418 @@
         "FK 야블로네츠 승"
       ],
       "aria_label": "FK RFS vs FK 야블로네츠 01:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448224",
+      "url": "https://bbongtv4.com/premium/soccer/16448224",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC DAC 1904 두나이스카스트레다",
+      "team2": "FC 트벤터",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "원정팀(FC 트벤터) 승 및 2.5 오버",
+      "ai_picks": [
+        "FC 트벤터 승",
+        "오버 2.5"
+      ],
+      "aria_label": "FC DAC 1904 두나이스카스트레다 vs FC 트벤터 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448228",
+      "url": "https://bbongtv4.com/premium/soccer/16448228",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베식타스 JK",
+      "team2": "FC 흐라데츠크랄로베",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 70.0,
+        "draw": 18.0,
+        "away": 12.0
+      },
+      "ai_summary": "베식타스 JK 홈 승리 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "베식타스 JK 승",
+        "언더 2.5"
+      ],
+      "aria_label": "베식타스 JK vs FC 흐라데츠크랄로베 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448229",
+      "url": "https://bbongtv4.com/premium/soccer/16448229",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "구르니크 자브제",
+      "team2": "페렌츠바로시 TC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 28.0,
+        "away": 32.0
+      },
+      "ai_summary": "언더 2.5골 (총 득점 2골 이하 수렴 예상), 승부 방향은 홈팀 미세 우위이나 합산 통과는 페렌츠바로시 TC 유리",
+      "ai_picks": [
+        "언더 2.5",
+        "구르니크 자브 승"
+      ],
+      "aria_label": "구르니크 자브제 vs 페렌츠바로시 TC 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448230",
+      "url": "https://bbongtv4.com/premium/soccer/16448230",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "파포스 FC",
+      "team2": "FC 레드불 잘츠부르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "FC 레드불 잘츠부르크 승 또는 무승부",
+      "ai_picks": [
+        "FC 레드불 잘츠 승",
+        "무승부"
+      ],
+      "aria_label": "파포스 FC vs FC 레드불 잘츠부르크 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448231",
+      "url": "https://bbongtv4.com/premium/soccer/16448231",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "AC 오모니아",
+      "team2": "링컨 레드 임프스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 82.0,
+        "draw": 12.0,
+        "away": 6.0
+      },
+      "ai_summary": "홈팀 AC 오모니아 승리, 언더 3.5 추천",
+      "ai_picks": [
+        "AC 오모니아 승",
+        "언더 3.5"
+      ],
+      "aria_label": "AC 오모니아 vs 링컨 레드 임프스 FC 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448232",
+      "url": "https://bbongtv4.com/premium/soccer/16448232",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "CS 우니베르시타테아 크라이오바",
+      "team2": "쿠오피온 팔로세우라",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 CS 우니베르시타테아 크라이오바 승 (언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "CS 우니베르시 승",
+        "언더 2.5"
+      ],
+      "aria_label": "CS 우니베르시타테아 크라이오바 vs 쿠오피온 팔로세우라 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448238",
+      "url": "https://bbongtv4.com/premium/soccer/16448238",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "FC 디나모 민스크",
+      "team2": "SC 브라가",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 10.0,
+        "draw": 18.0,
+        "away": 72.0
+      },
+      "ai_summary": "SC 브라가 승",
+      "ai_picks": [
+        "SC 브라가 승"
+      ],
+      "aria_label": "FC 디나모 민스크 vs SC 브라가 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448240",
+      "url": "https://bbongtv4.com/premium/soccer/16448240",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "함마르뷔 IF",
+      "team2": "라쿠프 쳉스토호바",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "함마르뷔 IF 승",
+      "ai_picks": [
+        "함마르뷔 IF 승"
+      ],
+      "aria_label": "함마르뷔 IF vs 라쿠프 쳉스토호바 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448241",
+      "url": "https://bbongtv4.com/premium/soccer/16448241",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 미트윌란",
+      "team2": "보헤미안 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 78.0,
+        "draw": 14.0,
+        "away": 8.0
+      },
+      "ai_summary": "FC 미트윌란 승 (핸디캡 -1.5 포함)",
+      "ai_picks": [
+        "FC 미트윌란 승",
+        "FC 미트윌란 -1.5"
+      ],
+      "aria_label": "FC 미트윌란 vs 보헤미안 FC 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448242",
+      "url": "https://bbongtv4.com/premium/soccer/16448242",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC ML 비쳅스크",
+      "team2": "FK 보라츠 바냐루카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 FC ML 비쳅스크 승, 언더 2.5 병행 추천",
+      "ai_picks": [
+        "FC ML 비쳅스크 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC ML 비쳅스크 vs FK 보라츠 바냐루카 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448243",
+      "url": "https://bbongtv4.com/premium/soccer/16448243",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 노르셸란",
+      "team2": "발루르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "FC 노르셸란 대승 (핸디캡 -2.5 커버 가능)",
+      "ai_picks": [
+        "FC 노르셸란 승",
+        "FC 노르셸란 -2.5"
+      ],
+      "aria_label": "FC 노르셸란 vs 발루르 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448244",
+      "url": "https://bbongtv4.com/premium/soccer/16448244",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "트롬쇠 IL",
+      "team2": "CFR 클루지",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 70.0,
+        "draw": 18.0,
+        "away": 12.0
+      },
+      "ai_summary": "트롬쇠 IL 핸디캡 승 (-1.5)",
+      "ai_picks": [
+        "트롬쇠 IL -1.5",
+        "트롬쇠 IL 승"
+      ],
+      "aria_label": "트롬쇠 IL vs CFR 클루지 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448247",
+      "url": "https://bbongtv4.com/premium/soccer/16448247",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "KI 클락스비크",
+      "team2": "레흐 포즈난",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "레흐 포즈난 승",
+      "ai_picks": [
+        "레흐 포즈난 승"
+      ],
+      "aria_label": "KI 클락스비크 vs 레흐 포즈난 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448248",
+      "url": "https://bbongtv4.com/premium/soccer/16448248",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "비킹귀르 레이캬비크",
+      "team2": "FC 툰",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "비킹귀르 레이캬비크 홈 승 및 오버 3.5",
+      "ai_picks": [
+        "비킹귀르 레이 승",
+        "오버 3.5"
+      ],
+      "aria_label": "비킹귀르 레이캬비크 vs FC 툰 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448249",
+      "url": "https://bbongtv4.com/premium/soccer/16448249",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "NSI 루나비크",
+      "team2": "FC 루가노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 루가노 승리",
+      "ai_picks": [
+        "FC 루가노 승"
+      ],
+      "aria_label": "NSI 루나비크 vs FC 루가노 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448250",
+      "url": "https://bbongtv4.com/premium/soccer/16448250",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 파두츠",
+      "team2": "FC 인테르 투르쿠",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 FC 파두츠 승 + 오버 2.5",
+      "ai_picks": [
+        "FC 파두츠 승",
+        "오버 2.5"
+      ],
+      "aria_label": "FC 파두츠 vs FC 인테르 투르쿠 02:30 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
