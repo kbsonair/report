@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-13T05:21:59.312980+00:00",
+  "scraped_at": "2026-08-13T07:01:53.440861+00:00",
   "count": 39,
   "matches": [
-    {
-      "id": "16262582",
-      "url": "https://bbongtv4.com/premium/baseball/16262582",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA다저스",
-      "team2": "캔자스시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "LA다저스 승"
-      ],
-      "aria_label": "LA다저스 vs 캔자스시티 11:10 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16262583",
-      "url": "https://bbongtv4.com/premium/baseball/16262583",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA엔젤스",
-      "team2": "텍사스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "텍사스 승",
-      "ai_picks": [
-        "텍사스 승"
-      ],
-      "aria_label": "LA엔젤스 vs 텍사스 11:10 분석 상세",
-      "source_date": "2026-08-13"
-    },
     {
       "id": "16263904",
       "url": "https://bbongtv4.com/premium/baseball/16263904",
@@ -971,6 +923,54 @@
         "미네소타 승"
       ],
       "aria_label": "포틀랜드 vs 미네소타 11:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262582",
+      "url": "https://bbongtv4.com/premium/baseball/16262582",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA다저스",
+      "team2": "캔자스시티",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "LA다저스 승"
+      ],
+      "aria_label": "LA다저스 vs 캔자스시티 11:10 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262583",
+      "url": "https://bbongtv4.com/premium/baseball/16262583",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "LA엔젤스",
+      "team2": "텍사스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "텍사스 승",
+      "ai_picks": [
+        "텍사스 승"
+      ],
+      "aria_label": "LA엔젤스 vs 텍사스 11:10 분석 상세",
       "source_date": "2026-08-13"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-14",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T05:22:01.832833+00:00",
-  "count": 42,
+  "scraped_at": "2026-08-13T07:01:56.382240+00:00",
+  "count": 51,
   "matches": [
     {
       "id": "16448221",
@@ -445,6 +445,56 @@
       "source_date": "2026-08-14"
     },
     {
+      "id": "16262584",
+      "url": "https://bbongtv4.com/premium/baseball/16262584",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "02:10",
+      "status": "예정",
+      "result": null,
+      "team1": "디트로이트",
+      "team2": "클리블랜드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "클리블랜드 소폭 우세, 언더 8.5 추천",
+      "ai_picks": [
+        "클리블랜드 승",
+        "언더 8.5"
+      ],
+      "aria_label": "디트로이트 vs 클리블랜드 02:10 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262585",
+      "url": "https://bbongtv4.com/premium/baseball/16262585",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "02:10",
+      "status": "예정",
+      "result": null,
+      "team1": "마이애미",
+      "team2": "피츠버그",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "마이애미 승 (언더 7.5 추천)",
+      "ai_picks": [
+        "마이애미 승",
+        "언더 7.5"
+      ],
+      "aria_label": "마이애미 vs 피츠버그 02:10 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
       "id": "16448247",
       "url": "https://bbongtv4.com/premium/soccer/16448247",
       "sport": "soccer",
@@ -544,6 +594,30 @@
         "오버 2.5"
       ],
       "aria_label": "FC 파두츠 vs FC 인테르 투르쿠 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262586",
+      "url": "https://bbongtv4.com/premium/baseball/16262586",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "02:35",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕양키스",
+      "team2": "시애틀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴욕양키스 승리 (저득점 접전 예상, 언더 유력)",
+      "ai_picks": [
+        "뉴욕양키스 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 시애틀 02:35 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -649,6 +723,30 @@
         "언더 3.5"
       ],
       "aria_label": "FC 장크트갈렌 vs FC 셰리프 티라스폴 03:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262587",
+      "url": "https://bbongtv4.com/premium/baseball/16262587",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "03:10",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고화이트삭스",
+      "team2": "신시내티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "시카고화이트삭스 승 (언더 추천)",
+      "ai_picks": [
+        "시카고화이트삭 승"
+      ],
+      "aria_label": "시카고화이트삭스 vs 신시내티 03:10 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -962,6 +1060,54 @@
       "source_date": "2026-08-14"
     },
     {
+      "id": "16262588",
+      "url": "https://bbongtv4.com/premium/baseball/16262588",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "04:07",
+      "status": "예정",
+      "result": null,
+      "team1": "토론토",
+      "team2": "보스턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "보스턴 승리",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "토론토 vs 보스턴 04:07 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262589",
+      "url": "https://bbongtv4.com/premium/baseball/16262589",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "05:05",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴",
+      "team2": "시카고컵스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시카고컵스 승리 + 언더",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "워싱턴 vs 시카고컵스 05:05 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
       "id": "16448286",
       "url": "https://bbongtv4.com/premium/soccer/16448286",
       "sport": "soccer",
@@ -1008,6 +1154,31 @@
         "애틀랜타 승"
       ],
       "aria_label": "코네티컷 vs 애틀랜타 08:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262590",
+      "url": "https://bbongtv4.com/premium/baseball/16262590",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "미네소타",
+      "team2": "필라델피아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "미네소타 승리 및 오버(8.5점 이상)",
+      "ai_picks": [
+        "미네소타 승",
+        "오버 8.5"
+      ],
+      "aria_label": "미네소타 vs 필라델피아 08:30 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -1084,6 +1255,56 @@
         "라스베가스 승"
       ],
       "aria_label": "라스베가스 vs 워싱턴 11:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262591",
+      "url": "https://bbongtv4.com/premium/baseball/16262591",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "11:07",
+      "status": "예정",
+      "result": null,
+      "team1": "LA엔젤스",
+      "team2": "텍사스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "텍사스 승리",
+      "ai_picks": [
+        "텍사스 승"
+      ],
+      "aria_label": "LA엔젤스 vs 텍사스 11:07 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262592",
+      "url": "https://bbongtv4.com/premium/baseball/16262592",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "11:10",
+      "status": "예정",
+      "result": null,
+      "team1": "LA다저스",
+      "team2": "밀워키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "LA다저스 홈 승리 (언더 8.5 병행 추천)",
+      "ai_picks": [
+        "LA다저스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
