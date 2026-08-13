@@ -1,113 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T18:12:27.087826+00:00",
+  "scraped_at": "2026-08-13T19:30:00.711130+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16448223",
-      "url": "https://bbongtv4.com/premium/soccer/16448223",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 일베스",
-      "team2": "HNK 리예카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "원정팀(HNK 리예카) 승 또는 무승부, 언더 2.5골",
-      "ai_picks": [
-        "HNK 리예카 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "FC 일베스 vs HNK 리예카 00:59 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448225",
-      "url": "https://bbongtv4.com/premium/soccer/16448225",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "카라바흐 FK",
-      "team2": "FC 디나모 키예프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "언더 2.5 / FC 디나모 키예프 합산 통과 유력",
-      "ai_picks": [
-        "언더 2.5"
-      ],
-      "aria_label": "카라바흐 FK vs FC 디나모 키예프 00:59 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16455150",
-      "url": "https://bbongtv4.com/premium/soccer/16455150",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 플로라 탈린",
-      "team2": "Inter Club D'Escaldes",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "FC 플로라 탈린 승 (오버 2.5 병행 추천)",
-      "ai_picks": [
-        "FC 플로라 탈린 승",
-        "오버 2.5"
-      ],
-      "aria_label": "FC 플로라 탈린 vs Inter Club D'Escaldes 00:59 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16448227",
-      "url": "https://bbongtv4.com/premium/soccer/16448227",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FK RFS",
-      "team2": "FK 야블로네츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "언더 2.5골 / FK 야블로네츠 합산 승리 유력",
-      "ai_picks": [
-        "언더 2.5",
-        "FK 야블로네츠 승"
-      ],
-      "aria_label": "FK RFS vs FK 야블로네츠 01:30 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16448224",
       "url": "https://bbongtv4.com/premium/soccer/16448224",
@@ -1305,6 +1201,110 @@
         "오버 2.5"
       ],
       "aria_label": "토볼 코스타나이 vs FK 파르티잔 00:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448223",
+      "url": "https://bbongtv4.com/premium/soccer/16448223",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 일베스",
+      "team2": "HNK 리예카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "원정팀(HNK 리예카) 승 또는 무승부, 언더 2.5골",
+      "ai_picks": [
+        "HNK 리예카 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "FC 일베스 vs HNK 리예카 00:59 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448225",
+      "url": "https://bbongtv4.com/premium/soccer/16448225",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "카라바흐 FK",
+      "team2": "FC 디나모 키예프",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5 / FC 디나모 키예프 합산 통과 유력",
+      "ai_picks": [
+        "언더 2.5"
+      ],
+      "aria_label": "카라바흐 FK vs FC 디나모 키예프 00:59 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16455150",
+      "url": "https://bbongtv4.com/premium/soccer/16455150",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 플로라 탈린",
+      "team2": "Inter Club D'Escaldes",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "FC 플로라 탈린 승 (오버 2.5 병행 추천)",
+      "ai_picks": [
+        "FC 플로라 탈린 승",
+        "오버 2.5"
+      ],
+      "aria_label": "FC 플로라 탈린 vs Inter Club D'Escaldes 00:59 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448227",
+      "url": "https://bbongtv4.com/premium/soccer/16448227",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FK RFS",
+      "team2": "FK 야블로네츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5골 / FK 야블로네츠 합산 승리 유력",
+      "ai_picks": [
+        "언더 2.5",
+        "FK 야블로네츠 승"
+      ],
+      "aria_label": "FK RFS vs FK 야블로네츠 01:30 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
