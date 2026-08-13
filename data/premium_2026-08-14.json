@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T17:17:02.982732+00:00",
+  "scraped_at": "2026-08-13T18:12:27.087826+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16448221",
-      "url": "https://bbongtv4.com/premium/soccer/16448221",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/14 (금)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토볼 코스타나이",
-      "team2": "FK 파르티잔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "FK 파르티잔 승 및 오버 2.5골",
-      "ai_picks": [
-        "FK 파르티잔 승",
-        "오버 2.5"
-      ],
-      "aria_label": "토볼 코스타나이 vs FK 파르티잔 00:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16448223",
       "url": "https://bbongtv4.com/premium/soccer/16448223",
@@ -1305,6 +1279,32 @@
         "언더 8.5"
       ],
       "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448221",
+      "url": "https://bbongtv4.com/premium/soccer/16448221",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토볼 코스타나이",
+      "team2": "FK 파르티잔",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "FK 파르티잔 승 및 오버 2.5골",
+      "ai_picks": [
+        "FK 파르티잔 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토볼 코스타나이 vs FK 파르티잔 00:00 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
