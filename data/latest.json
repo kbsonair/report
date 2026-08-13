@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T23:21:32.135347+00:00",
+  "scraped_at": "2026-08-13T00:42:45.268860+00:00",
   "kst_yesterday": "2026-08-12",
   "kst_today": "2026-08-13",
   "kst_tomorrow": "2026-08-14",
@@ -8,8 +8,318 @@
     "2026-08-13",
     "2026-08-14"
   ],
-  "count": 78,
+  "count": 93,
   "matches": [
+    {
+      "id": "16448221",
+      "url": "https://bbongtv4.com/premium/soccer/16448221",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토볼 코스타나이",
+      "team2": "FK 파르티잔",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "FK 파르티잔 승 및 오버 2.5골",
+      "ai_picks": [
+        "FK 파르티잔 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토볼 코스타나이 vs FK 파르티잔 00:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448227",
+      "url": "https://bbongtv4.com/premium/soccer/16448227",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FK RFS",
+      "team2": "FK 야블로네츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5골 / FK 야블로네츠 합산 승리 유력",
+      "ai_picks": [
+        "언더 2.5",
+        "FK 야블로네츠 승"
+      ],
+      "aria_label": "FK RFS vs FK 야블로네츠 01:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448238",
+      "url": "https://bbongtv4.com/premium/soccer/16448238",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 디나모 민스크",
+      "team2": "SC 브라가",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 18.0,
+        "away": 72.0
+      },
+      "ai_summary": "SC 브라가 승",
+      "ai_picks": [
+        "SC 브라가 승"
+      ],
+      "aria_label": "FC 디나모 민스크 vs SC 브라가 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448242",
+      "url": "https://bbongtv4.com/premium/soccer/16448242",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC ML 비쳅스크",
+      "team2": "FK 보라츠 바냐루카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 FC ML 비쳅스크 승, 언더 2.5 병행 추천",
+      "ai_picks": [
+        "FC ML 비쳅스크 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC ML 비쳅스크 vs FK 보라츠 바냐루카 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448244",
+      "url": "https://bbongtv4.com/premium/soccer/16448244",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "트롬쇠 IL",
+      "team2": "CFR 클루지",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 18.0,
+        "away": 12.0
+      },
+      "ai_summary": "트롬쇠 IL 핸디캡 승 (-1.5)",
+      "ai_picks": [
+        "트롬쇠 IL -1.5",
+        "트롬쇠 IL 승"
+      ],
+      "aria_label": "트롬쇠 IL vs CFR 클루지 02:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448249",
+      "url": "https://bbongtv4.com/premium/soccer/16448249",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "NSI 루나비크",
+      "team2": "FC 루가노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 루가노 승리",
+      "ai_picks": [
+        "FC 루가노 승"
+      ],
+      "aria_label": "NSI 루나비크 vs FC 루가노 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448250",
+      "url": "https://bbongtv4.com/premium/soccer/16448250",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 파두츠",
+      "team2": "FC 인테르 투르쿠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 FC 파두츠 승 + 오버 2.5",
+      "ai_picks": [
+        "FC 파두츠 승",
+        "오버 2.5"
+      ],
+      "aria_label": "FC 파두츠 vs FC 인테르 투르쿠 02:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448255",
+      "url": "https://bbongtv4.com/premium/soccer/16448255",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "PFC CSKA 소피아",
+      "team2": "마카비 텔아비브 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 PFC CSKA 소피아 승 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [
+        "PFC CSKA 소피 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "PFC CSKA 소피아 vs 마카비 텔아비브 FC 03:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448265",
+      "url": "https://bbongtv4.com/premium/soccer/16448265",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "KF Drita Gjilan",
+      "team2": "트레 피오리 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "홈팀 KF Drita Gjilan 승 및 언더 3.5",
+      "ai_picks": [
+        "KF Drita Gjila 승",
+        "언더 3.5"
+      ],
+      "aria_label": "KF Drita Gjilan vs 트레 피오리 FC 03:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448266",
+      "url": "https://bbongtv4.com/premium/soccer/16448266",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "KF 슈켄디야",
+      "team2": "히버니안 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 22.0,
+        "away": 33.0
+      },
+      "ai_summary": "KF 슈켄디야 승 및 오버 2.5골",
+      "ai_picks": [
+        "KF 슈켄디야 승",
+        "오버 2.5"
+      ],
+      "aria_label": "KF 슈켄디야 vs 히버니안 FC 03:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448273",
+      "url": "https://bbongtv4.com/premium/soccer/16448273",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/14 (금)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "머더웰 FC",
+      "team2": "HJK 헬싱키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "머더웰 FC 승리",
+      "ai_picks": [
+        "머더웰 FC 승"
+      ],
+      "aria_label": "머더웰 FC vs HJK 헬싱키 03:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16448274",
+      "url": "https://bbongtv4.com/premium/soccer/16448274",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/14 (금)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "하트 오브 미들로시언 FC",
+      "team2": "SL 벤피카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀(SL 벤피카) 승, 언더 3.5 추천",
+      "ai_picks": [
+        "SL 벤피카 승",
+        "언더 3.5"
+      ],
+      "aria_label": "하트 오브 미들로시언 FC vs SL 벤피카 03:45 분석 상세",
+      "source_date": "2026-08-14"
+    },
     {
       "id": "16448286",
       "url": "https://bbongtv4.com/premium/soccer/16448286",
@@ -33,6 +343,54 @@
         "미라소우 FC 승"
       ],
       "aria_label": "미라소우 FC vs LDU 키토 07:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16356817",
+      "url": "https://bbongtv4.com/premium/basket/16356817",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/14 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코네티컷",
+      "team2": "애틀랜타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "away": 85.0
+      },
+      "ai_summary": "애틀랜타 승리",
+      "ai_picks": [
+        "애틀랜타 승"
+      ],
+      "aria_label": "코네티컷 vs 애틀랜타 08:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16356818",
+      "url": "https://bbongtv4.com/premium/basket/16356818",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/14 (금)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕",
+      "team2": "LA",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 72.0,
+        "away": 28.0
+      },
+      "ai_summary": "뉴욕 승",
+      "ai_picks": [
+        "뉴욕 승"
+      ],
+      "aria_label": "뉴욕 vs LA 09:00 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -60,6 +418,31 @@
         "언더 2.5"
       ],
       "aria_label": "로사리오 센트랄 vs 코린치앙스 09:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16356819",
+      "url": "https://bbongtv4.com/premium/basket/16356819",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/14 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라스베가스",
+      "team2": "워싱턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 5.0,
+        "away": 30.0
+      },
+      "ai_summary": "라스베가스 승",
+      "ai_picks": [
+        "라스베가스 승"
+      ],
+      "aria_label": "라스베가스 vs 워싱턴 11:00 분석 상세",
       "source_date": "2026-08-14"
     },
     {
@@ -320,12 +703,12 @@
       "league": "MLB",
       "date": "8/13 (목)",
       "time": "04:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "애리조나",
       "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 6,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -344,12 +727,12 @@
       "league": "MLB",
       "date": "8/13 (목)",
       "time": "04:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌프란시스코",
       "team2": "휴스턴",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 42.0,
         "draw": 13.0,
@@ -369,12 +752,12 @@
       "league": "MLB",
       "date": "8/13 (목)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "샌디에이고",
       "team2": "밀워키",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 40.0,
         "away": 60.0

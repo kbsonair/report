@@ -1,134 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-13",
-  "scraped_at": "2026-08-12T23:21:29.684222+00:00",
+  "scraped_at": "2026-08-13T00:42:43.015102+00:00",
   "count": 28,
   "matches": [
-    {
-      "id": "16262572",
-      "url": "https://bbongtv4.com/premium/baseball/16262572",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "04:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "애리조나 승리",
-      "ai_picks": [
-        "애리조나 승"
-      ],
-      "aria_label": "애리조나 vs 콜로라도 04:40 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16262573",
-      "url": "https://bbongtv4.com/premium/baseball/16262573",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "04:45",
-      "status": "예정",
-      "result": null,
-      "team1": "샌프란시스코",
-      "team2": "휴스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 13.0,
-        "away": 45.0
-      },
-      "ai_summary": "휴스턴 승 (근소 우세)",
-      "ai_picks": [
-        "휴스턴 승"
-      ],
-      "aria_label": "샌프란시스코 vs 휴스턴 04:45 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16262574",
-      "url": "https://bbongtv4.com/premium/baseball/16262574",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/13 (목)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "밀워키",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "밀워키 승, 언더 추천",
-      "ai_picks": [
-        "밀워키 승"
-      ],
-      "aria_label": "샌디에이고 vs 밀워키 05:10 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16447640",
-      "url": "https://bbongtv4.com/premium/soccer/16447640",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/13 (목)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SE 파우메이라스",
-      "team2": "세로 포르테뇨",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "SE 파우메이라스 승 (1~2골 차 신승 예상)",
-      "ai_picks": [
-        "SE 파우메이라 승"
-      ],
-      "aria_label": "SE 파우메이라스 vs 세로 포르테뇨 07:00 분석 상세",
-      "source_date": "2026-08-13"
-    },
-    {
-      "id": "16447641",
-      "url": "https://bbongtv4.com/premium/soccer/16447641",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/13 (목)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "CA 플라텐세",
-      "team2": "코킴보 유니도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "CA 플라텐세 승 또는 무승부 (홈팀 근소 우위, 언더 2.5골 유력)",
-      "ai_picks": [
-        "CA 플라텐세 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "CA 플라텐세 vs 코킴보 유니도 07:00 분석 상세",
-      "source_date": "2026-08-13"
-    },
     {
       "id": "16262575",
       "url": "https://bbongtv4.com/premium/baseball/16262575",
@@ -697,6 +572,131 @@
         "탬파베이 승"
       ],
       "aria_label": "애슬레틱스 vs 탬파베이 04:05 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262572",
+      "url": "https://bbongtv4.com/premium/baseball/16262572",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "04:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애리조나",
+      "team2": "콜로라도",
+      "score1": 4,
+      "score2": 6,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "애리조나 승리",
+      "ai_picks": [
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs 콜로라도 04:40 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262573",
+      "url": "https://bbongtv4.com/premium/baseball/16262573",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "04:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌프란시스코",
+      "team2": "휴스턴",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 42.0,
+        "draw": 13.0,
+        "away": 45.0
+      },
+      "ai_summary": "휴스턴 승 (근소 우세)",
+      "ai_picks": [
+        "휴스턴 승"
+      ],
+      "aria_label": "샌프란시스코 vs 휴스턴 04:45 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16262574",
+      "url": "https://bbongtv4.com/premium/baseball/16262574",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/13 (목)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "샌디에이고",
+      "team2": "밀워키",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "밀워키 승, 언더 추천",
+      "ai_picks": [
+        "밀워키 승"
+      ],
+      "aria_label": "샌디에이고 vs 밀워키 05:10 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447640",
+      "url": "https://bbongtv4.com/premium/soccer/16447640",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/13 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SE 파우메이라스",
+      "team2": "세로 포르테뇨",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "SE 파우메이라스 승 (1~2골 차 신승 예상)",
+      "ai_picks": [
+        "SE 파우메이라 승"
+      ],
+      "aria_label": "SE 파우메이라스 vs 세로 포르테뇨 07:00 분석 상세",
+      "source_date": "2026-08-13"
+    },
+    {
+      "id": "16447641",
+      "url": "https://bbongtv4.com/premium/soccer/16447641",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/13 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "CA 플라텐세",
+      "team2": "코킴보 유니도",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "CA 플라텐세 승 또는 무승부 (홈팀 근소 우위, 언더 2.5골 유력)",
+      "ai_picks": [
+        "CA 플라텐세 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "CA 플라텐세 vs 코킴보 유니도 07:00 분석 상세",
       "source_date": "2026-08-13"
     }
   ]
