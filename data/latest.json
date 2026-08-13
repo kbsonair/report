@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-13T15:01:38.894545+00:00",
+  "scraped_at": "2026-08-13T16:13:21.908018+00:00",
   "kst_yesterday": "2026-08-13",
   "kst_today": "2026-08-14",
   "kst_tomorrow": "2026-08-15",
@@ -8,8 +8,33 @@
     "2026-08-14",
     "2026-08-15"
   ],
-  "count": 90,
+  "count": 91,
   "matches": [
+    {
+      "id": "16452542",
+      "url": "https://bbongtv4.com/premium/soccer/16452542",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/15 (토)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "싱가포르",
+      "team2": "태국",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 25.0,
+        "away": 60.0
+      },
+      "ai_summary": "태국 승",
+      "ai_picks": [
+        "태국 승"
+      ],
+      "aria_label": "싱가포르 vs 태국 22:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
     {
       "id": "16448221",
       "url": "https://bbongtv4.com/premium/soccer/16448221",
