@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T22:06:51.208648+00:00",
+  "scraped_at": "2026-08-13T23:06:41.591575+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16262587",
-      "url": "https://bbongtv4.com/premium/baseball/16262587",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/14 (금)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고화이트삭스",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "시카고화이트삭스 승 (언더 추천)",
-      "ai_picks": [
-        "시카고화이트삭 승"
-      ],
-      "aria_label": "시카고화이트삭스 vs 신시내티 03:10 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16262588",
       "url": "https://bbongtv4.com/premium/baseball/16262588",
@@ -995,6 +971,30 @@
         "언더 3.5"
       ],
       "aria_label": "FC 장크트갈렌 vs FC 셰리프 티라스폴 03:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262587",
+      "url": "https://bbongtv4.com/premium/baseball/16262587",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시카고화이트삭스",
+      "team2": "신시내티",
+      "score1": 8,
+      "score2": 9,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "시카고화이트삭스 승 (언더 추천)",
+      "ai_picks": [
+        "시카고화이트삭 승"
+      ],
+      "aria_label": "시카고화이트삭스 vs 신시내티 03:10 분석 상세",
       "source_date": "2026-08-14"
     },
     {

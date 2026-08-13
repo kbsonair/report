@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-13T22:06:53.713437+00:00",
+  "scraped_at": "2026-08-13T23:06:43.757797+00:00",
   "kst_yesterday": "2026-08-13",
   "kst_today": "2026-08-14",
   "kst_tomorrow": "2026-08-15",
@@ -763,12 +763,12 @@
       "league": "MLB",
       "date": "8/14 (금)",
       "time": "03:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시카고화이트삭스",
       "team2": "신시내티",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 9,
       "prob": {
         "home": 52.0,
         "away": 48.0
