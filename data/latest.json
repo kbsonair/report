@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T15:10:22.012550+00:00",
+  "scraped_at": "2026-08-14T16:09:11.208517+00:00",
   "kst_yesterday": "2026-08-14",
   "kst_today": "2026-08-15",
   "kst_tomorrow": "2026-08-16",
@@ -2042,12 +2042,12 @@
       "league": "KBO",
       "date": "8/14 (금)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "롯데",
       "team2": "NC",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 9,
       "prob": {
         "home": 48.0,
         "draw": 10.0,
