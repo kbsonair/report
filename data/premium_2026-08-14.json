@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-14T05:09:39.526143+00:00",
+  "scraped_at": "2026-08-14T06:48:03.755459+00:00",
   "count": 58,
   "matches": [
-    {
-      "id": "16262591",
-      "url": "https://bbongtv4.com/premium/baseball/16262591",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/14 (금)",
-      "time": "11:07",
-      "status": "예정",
-      "result": null,
-      "team1": "LA엔젤스",
-      "team2": "텍사스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "텍사스 승리",
-      "ai_picks": [
-        "텍사스 승"
-      ],
-      "aria_label": "LA엔젤스 vs 텍사스 11:07 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16262592",
-      "url": "https://bbongtv4.com/premium/baseball/16262592",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/14 (금)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA다저스",
-      "team2": "밀워키",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 5.0,
-        "away": 45.0
-      },
-      "ai_summary": "LA다저스 홈 승리 (언더 8.5 병행 추천)",
-      "ai_picks": [
-        "LA다저스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16263910",
       "url": "https://bbongtv4.com/premium/baseball/16263910",
@@ -1482,6 +1432,56 @@
         "라스베가스 승"
       ],
       "aria_label": "라스베가스 vs 워싱턴 11:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262591",
+      "url": "https://bbongtv4.com/premium/baseball/16262591",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "11:07",
+      "status": "예정",
+      "result": null,
+      "team1": "LA엔젤스",
+      "team2": "텍사스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "텍사스 승리",
+      "ai_picks": [
+        "텍사스 승"
+      ],
+      "aria_label": "LA엔젤스 vs 텍사스 11:07 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262592",
+      "url": "https://bbongtv4.com/premium/baseball/16262592",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "11:10",
+      "status": "예정",
+      "result": null,
+      "team1": "LA다저스",
+      "team2": "밀워키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "LA다저스 홈 승리 (언더 8.5 병행 추천)",
+      "ai_picks": [
+        "LA다저스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
