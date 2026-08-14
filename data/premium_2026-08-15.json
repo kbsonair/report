@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-14T21:56:51.330211+00:00",
+  "scraped_at": "2026-08-14T22:31:37.368340+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16262593",
-      "url": "https://bbongtv4.com/premium/baseball/16262593",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "03:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고컵스",
-      "team2": "세인트루이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16262594",
       "url": "https://bbongtv4.com/premium/baseball/16262594",
@@ -473,6 +449,30 @@
         "오버 2.5"
       ],
       "aria_label": "SC 텔스타 vs 스파르타 로테르담 03:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262593",
+      "url": "https://bbongtv4.com/premium/baseball/16262593",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "03:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고컵스",
+      "team2": "세인트루이스",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
       "source_date": "2026-08-15"
     },
     {
