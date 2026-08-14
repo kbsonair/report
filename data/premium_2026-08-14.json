@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-14T03:02:07.106994+00:00",
+  "scraped_at": "2026-08-14T05:09:39.526143+00:00",
   "count": 58,
   "matches": [
-    {
-      "id": "16262590",
-      "url": "https://bbongtv4.com/premium/baseball/16262590",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/14 (금)",
-      "time": "08:30",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "미네소타 승리 및 오버(8.5점 이상)",
-      "ai_picks": [
-        "미네소타 승",
-        "오버 8.5"
-      ],
-      "aria_label": "미네소타 vs 필라델피아 08:30 분석 상세",
-      "source_date": "2026-08-14"
-    },
-    {
-      "id": "16356819",
-      "url": "https://bbongtv4.com/premium/basket/16356819",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/14 (금)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라스베가스",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 5.0,
-        "away": 30.0
-      },
-      "ai_summary": "라스베가스 승",
-      "ai_picks": [
-        "라스베가스 승"
-      ],
-      "aria_label": "라스베가스 vs 워싱턴 11:00 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16262591",
       "url": "https://bbongtv4.com/premium/baseball/16262591",
@@ -1434,6 +1384,31 @@
       "source_date": "2026-08-14"
     },
     {
+      "id": "16262590",
+      "url": "https://bbongtv4.com/premium/baseball/16262590",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "미네소타",
+      "team2": "필라델피아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "미네소타 승리 및 오버(8.5점 이상)",
+      "ai_picks": [
+        "미네소타 승",
+        "오버 8.5"
+      ],
+      "aria_label": "미네소타 vs 필라델피아 08:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
       "id": "16356818",
       "url": "https://bbongtv4.com/premium/basket/16356818",
       "sport": "basket",
@@ -1482,6 +1457,31 @@
         "언더 2.5"
       ],
       "aria_label": "로사리오 센트랄 vs 코린치앙스 09:30 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16356819",
+      "url": "https://bbongtv4.com/premium/basket/16356819",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/14 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라스베가스",
+      "team2": "워싱턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 5.0,
+        "away": 30.0
+      },
+      "ai_summary": "라스베가스 승",
+      "ai_picks": [
+        "라스베가스 승"
+      ],
+      "aria_label": "라스베가스 vs 워싱턴 11:00 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
