@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-14T19:18:47.331812+00:00",
+  "scraped_at": "2026-08-14T20:00:38.107630+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16448925",
-      "url": "https://bbongtv4.com/premium/soccer/16448925",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/15 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "로센보르그 BK",
-      "team2": "바이킹 FK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 27.0,
-        "away": 35.0
-      },
-      "ai_summary": "언더 3.5 (총 득점 3골 이하 예상, 승패 시장보다 득점 시장 공략 권장)",
-      "ai_picks": [
-        "언더 3.5"
-      ],
-      "aria_label": "로센보르그 BK vs 바이킹 FK 02:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16449017",
       "url": "https://bbongtv4.com/premium/soccer/16449017",
@@ -498,6 +473,31 @@
         "태국 승"
       ],
       "aria_label": "싱가포르 vs 태국 22:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16448925",
+      "url": "https://bbongtv4.com/premium/soccer/16448925",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/15 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "로센보르그 BK",
+      "team2": "바이킹 FK",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "draw": 27.0,
+        "away": 35.0
+      },
+      "ai_summary": "언더 3.5 (총 득점 3골 이하 예상, 승패 시장보다 득점 시장 공략 권장)",
+      "ai_picks": [
+        "언더 3.5"
+      ],
+      "aria_label": "로센보르그 BK vs 바이킹 FK 02:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]

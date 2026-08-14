@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T19:18:49.821780+00:00",
+  "scraped_at": "2026-08-14T20:00:40.025280+00:00",
   "kst_yesterday": "2026-08-14",
   "kst_today": "2026-08-15",
   "kst_tomorrow": "2026-08-16",
@@ -67,12 +67,12 @@
       "league": "NOR D1",
       "date": "8/15 (토)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "로센보르그 BK",
       "team2": "바이킹 FK",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 38.0,
         "draw": 27.0,
