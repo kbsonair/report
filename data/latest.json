@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T21:28:25.119484+00:00",
+  "scraped_at": "2026-08-14T21:56:53.281059+00:00",
   "kst_yesterday": "2026-08-14",
   "kst_today": "2026-08-15",
   "kst_tomorrow": "2026-08-16",
@@ -142,12 +142,12 @@
       "league": "ENG LCH",
       "date": "8/15 (토)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "울버햄프턴 원더러스 FC",
       "team2": "블랙번 로버스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 60.0,
         "draw": 22.0,

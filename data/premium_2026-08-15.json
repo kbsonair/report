@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-14T21:28:22.460302+00:00",
+  "scraped_at": "2026-08-14T21:56:51.330211+00:00",
   "count": 20,
   "matches": [
     {
@@ -26,31 +26,6 @@
         "시카고컵스 승"
       ],
       "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16449093",
-      "url": "https://bbongtv4.com/premium/soccer/16449093",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "울버햄프턴 원더러스 FC",
-      "team2": "블랙번 로버스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 22.0,
-        "away": 18.0
-      },
-      "ai_summary": "울버햄프턴 원더러스 FC 승",
-      "ai_picks": [
-        "울버햄프턴 원 승"
-      ],
-      "aria_label": "울버햄프턴 원더러스 FC vs 블랙번 로버스 04:00 분석 상세",
       "source_date": "2026-08-15"
     },
     {
@@ -498,6 +473,31 @@
         "오버 2.5"
       ],
       "aria_label": "SC 텔스타 vs 스파르타 로테르담 03:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16449093",
+      "url": "https://bbongtv4.com/premium/soccer/16449093",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "울버햄프턴 원더러스 FC",
+      "team2": "블랙번 로버스",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "울버햄프턴 원더러스 FC 승",
+      "ai_picks": [
+        "울버햄프턴 원 승"
+      ],
+      "aria_label": "울버햄프턴 원더러스 FC vs 블랙번 로버스 04:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
