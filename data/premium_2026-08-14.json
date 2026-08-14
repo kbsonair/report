@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-14",
-  "scraped_at": "2026-08-13T23:06:41.591575+00:00",
+  "scraped_at": "2026-08-14T00:01:56.869787+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16262588",
-      "url": "https://bbongtv4.com/premium/baseball/16262588",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/14 (금)",
-      "time": "04:07",
-      "status": "예정",
-      "result": null,
-      "team1": "토론토",
-      "team2": "보스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "보스턴 승리",
-      "ai_picks": [
-        "보스턴 승"
-      ],
-      "aria_label": "토론토 vs 보스턴 04:07 분석 상세",
-      "source_date": "2026-08-14"
-    },
     {
       "id": "16262589",
       "url": "https://bbongtv4.com/premium/baseball/16262589",
@@ -1305,6 +1281,30 @@
         "언더 3.5"
       ],
       "aria_label": "HNK 하이두크 스플리트 vs FK 잘기리스 04:00 분석 상세",
+      "source_date": "2026-08-14"
+    },
+    {
+      "id": "16262588",
+      "url": "https://bbongtv4.com/premium/baseball/16262588",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/14 (금)",
+      "time": "04:07",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토론토",
+      "team2": "보스턴",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "보스턴 승리",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "토론토 vs 보스턴 04:07 분석 상세",
       "source_date": "2026-08-14"
     }
   ]
