@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-14T20:00:38.107630+00:00",
+  "scraped_at": "2026-08-14T20:49:50.160342+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16449017",
-      "url": "https://bbongtv4.com/premium/soccer/16449017",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/15 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 텔스타",
-      "team2": "스파르타 로테르담",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 22.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 SC 텔스타 승리 및 오버 2.5골",
-      "ai_picks": [
-        "SC 텔스타 승",
-        "오버 2.5"
-      ],
-      "aria_label": "SC 텔스타 vs 스파르타 로테르담 03:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16262593",
       "url": "https://bbongtv4.com/premium/baseball/16262593",
@@ -498,6 +472,32 @@
         "언더 3.5"
       ],
       "aria_label": "로센보르그 BK vs 바이킹 FK 02:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16449017",
+      "url": "https://bbongtv4.com/premium/soccer/16449017",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/15 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SC 텔스타",
+      "team2": "스파르타 로테르담",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 SC 텔스타 승리 및 오버 2.5골",
+      "ai_picks": [
+        "SC 텔스타 승",
+        "오버 2.5"
+      ],
+      "aria_label": "SC 텔스타 vs 스파르타 로테르담 03:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]

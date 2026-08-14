@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T20:00:40.025280+00:00",
+  "scraped_at": "2026-08-14T20:49:52.038279+00:00",
   "kst_yesterday": "2026-08-14",
   "kst_today": "2026-08-15",
   "kst_tomorrow": "2026-08-16",
@@ -92,12 +92,12 @@
       "league": "HOL D1",
       "date": "8/15 (토)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SC 텔스타",
       "team2": "스파르타 로테르담",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 48.0,
         "draw": 22.0,
