@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T05:00:58.277445+00:00",
+  "scraped_at": "2026-08-15T05:45:27.896667+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16262603",
-      "url": "https://bbongtv4.com/premium/baseball/16262603",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "10:38",
-      "status": "예정",
-      "result": null,
-      "team1": "LA엔젤스",
-      "team2": "캔자스시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 5.0,
-        "away": 55.0
-      },
-      "ai_summary": "캔자스시티 승 (오버 8.5 병행 추천)",
-      "ai_picks": [
-        "캔자스시티 승",
-        "오버 8.5"
-      ],
-      "aria_label": "LA엔젤스 vs 캔자스시티 10:38 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16262604",
-      "url": "https://bbongtv4.com/premium/baseball/16262604",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애슬레틱스",
-      "team2": "텍사스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "텍사스 승",
-      "ai_picks": [
-        "텍사스 승"
-      ],
-      "aria_label": "애슬레틱스 vs 텍사스 10:40 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16262605",
       "url": "https://bbongtv4.com/premium/baseball/16262605",
@@ -1634,6 +1584,56 @@
         "무승부"
       ],
       "aria_label": "휴스턴 vs 시애틀 09:10 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262603",
+      "url": "https://bbongtv4.com/premium/baseball/16262603",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "10:38",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA엔젤스",
+      "team2": "캔자스시티",
+      "score1": 6,
+      "score2": 7,
+      "prob": {
+        "home": 40.0,
+        "draw": 5.0,
+        "away": 55.0
+      },
+      "ai_summary": "캔자스시티 승 (오버 8.5 병행 추천)",
+      "ai_picks": [
+        "캔자스시티 승",
+        "오버 8.5"
+      ],
+      "aria_label": "LA엔젤스 vs 캔자스시티 10:38 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262604",
+      "url": "https://bbongtv4.com/premium/baseball/16262604",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애슬레틱스",
+      "team2": "텍사스",
+      "score1": 8,
+      "score2": 3,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "텍사스 승",
+      "ai_picks": [
+        "텍사스 승"
+      ],
+      "aria_label": "애슬레틱스 vs 텍사스 10:40 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
