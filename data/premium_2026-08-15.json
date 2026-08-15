@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T11:27:38.568378+00:00",
+  "scraped_at": "2026-08-15T11:54:26.426705+00:00",
   "count": 64,
   "matches": [
     {
@@ -78,110 +78,6 @@
         "한신 승"
       ],
       "aria_label": "히로시마 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450071",
-      "url": "https://bbongtv4.com/premium/soccer/16450071",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "가시마 앤틀러스",
-      "team2": "나고야 그램퍼스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 가시마 앤틀러스 승리",
-      "ai_picks": [
-        "가시마 앤틀러 승"
-      ],
-      "aria_label": "가시마 앤틀러스 vs 나고야 그램퍼스 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450072",
-      "url": "https://bbongtv4.com/premium/soccer/16450072",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미토 홀리호크",
-      "team2": "감바 오사카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "감바 오사카 승리",
-      "ai_picks": [
-        "감바 오사카 승"
-      ],
-      "aria_label": "미토 홀리호크 vs 감바 오사카 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450073",
-      "url": "https://bbongtv4.com/premium/soccer/16450073",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "블라우블리츠 아키타",
-      "team2": "카탈레 도야마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 27.0,
-        "away": 40.0
-      },
-      "ai_summary": "카탈레 도야마 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "카탈레 도야마 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "블라우블리츠 아키타 vs 카탈레 도야마 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450074",
-      "url": "https://bbongtv4.com/premium/soccer/16450074",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "도치기 시티 FC",
-      "team2": "반라우레 하치노헤",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "도치기 시티 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "도치기 시티 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "도치기 시티 FC vs 반라우레 하치노헤 18:00 분석 상세",
       "source_date": "2026-08-15"
     },
     {
@@ -1634,6 +1530,110 @@
         "소프트뱅크 승"
       ],
       "aria_label": "소프트뱅크 vs 라쿠텐 14:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450071",
+      "url": "https://bbongtv4.com/premium/soccer/16450071",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "가시마 앤틀러스",
+      "team2": "나고야 그램퍼스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 가시마 앤틀러스 승리",
+      "ai_picks": [
+        "가시마 앤틀러 승"
+      ],
+      "aria_label": "가시마 앤틀러스 vs 나고야 그램퍼스 18:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450072",
+      "url": "https://bbongtv4.com/premium/soccer/16450072",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "미토 홀리호크",
+      "team2": "감바 오사카",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "감바 오사카 승리",
+      "ai_picks": [
+        "감바 오사카 승"
+      ],
+      "aria_label": "미토 홀리호크 vs 감바 오사카 18:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450073",
+      "url": "https://bbongtv4.com/premium/soccer/16450073",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "블라우블리츠 아키타",
+      "team2": "카탈레 도야마",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 33.0,
+        "draw": 27.0,
+        "away": 40.0
+      },
+      "ai_summary": "카탈레 도야마 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "카탈레 도야마 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "블라우블리츠 아키타 vs 카탈레 도야마 18:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450074",
+      "url": "https://bbongtv4.com/premium/soccer/16450074",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "도치기 시티 FC",
+      "team2": "반라우레 하치노헤",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "도치기 시티 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "도치기 시티 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "도치기 시티 FC vs 반라우레 하치노헤 18:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
