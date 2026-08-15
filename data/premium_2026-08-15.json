@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-15",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T16:57:41.775968+00:00",
+  "scraped_at": "2026-08-15T17:28:00.384320+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16450653",
-      "url": "https://bbongtv4.com/premium/soccer/16450653",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/15 (토)",
-      "time": "23:30",
-      "status": "예정",
-      "result": null,
-      "team1": "빌럼 II 틸뷔르흐",
-      "team2": "NEC 네이메헌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 22.0,
-        "away": 60.0
-      },
-      "ai_summary": "NEC 네이메헌 원정 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "NEC 네이메헌 승",
-        "언더 3.5"
-      ],
-      "aria_label": "빌럼 II 틸뷔르흐 vs NEC 네이메헌 23:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16448925",
       "url": "https://bbongtv4.com/premium/soccer/16448925",
@@ -1634,6 +1608,32 @@
         "언더 2.5"
       ],
       "aria_label": "스토크 시티 FC vs 스완지 시티 AFC 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450653",
+      "url": "https://bbongtv4.com/premium/soccer/16450653",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/15 (토)",
+      "time": "23:30",
+      "status": "예정",
+      "result": null,
+      "team1": "빌럼 II 틸뷔르흐",
+      "team2": "NEC 네이메헌",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "NEC 네이메헌 원정 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "NEC 네이메헌 승",
+        "언더 3.5"
+      ],
+      "aria_label": "빌럼 II 틸뷔르흐 vs NEC 네이메헌 23:30 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
