@@ -1,58 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T05:45:27.896667+00:00",
+  "scraped_at": "2026-08-15T06:44:12.049172+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16262605",
-      "url": "https://bbongtv4.com/premium/baseball/16262605",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA다저스",
-      "team2": "밀워키",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "밀워키 승 또는 접전 (야마모토 컨디션에 따라 변동 가능)",
-      "ai_picks": [
-        "밀워키 승"
-      ],
-      "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16262606",
-      "url": "https://bbongtv4.com/premium/baseball/16262606",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "11:15",
-      "status": "예정",
-      "result": null,
-      "team1": "샌프란시스코",
-      "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "샌프란시스코 승리, 언더 7.5",
-      "ai_picks": [
-        "샌프란시스코 승",
-        "언더 7.5"
-      ],
-      "aria_label": "샌프란시스코 vs 콜로라도 11:15 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16263916",
       "url": "https://bbongtv4.com/premium/baseball/16263916",
@@ -1634,6 +1585,55 @@
         "텍사스 승"
       ],
       "aria_label": "애슬레틱스 vs 텍사스 10:40 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262605",
+      "url": "https://bbongtv4.com/premium/baseball/16262605",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "LA다저스",
+      "team2": "밀워키",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "밀워키 승 또는 접전 (야마모토 컨디션에 따라 변동 가능)",
+      "ai_picks": [
+        "밀워키 승"
+      ],
+      "aria_label": "LA다저스 vs 밀워키 11:10 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262606",
+      "url": "https://bbongtv4.com/premium/baseball/16262606",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "11:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌프란시스코",
+      "team2": "콜로라도",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "샌프란시스코 승리, 언더 7.5",
+      "ai_picks": [
+        "샌프란시스코 승",
+        "언더 7.5"
+      ],
+      "aria_label": "샌프란시스코 vs 콜로라도 11:15 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
