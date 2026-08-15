@@ -1,83 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T01:43:57.027962+00:00",
+  "scraped_at": "2026-08-15T02:54:56.563574+00:00",
   "count": 53,
   "matches": [
-    {
-      "id": "16262594",
-      "url": "https://bbongtv4.com/premium/baseball/16262594",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "07:10",
-      "status": "예정",
-      "result": null,
-      "team1": "신시내티",
-      "team2": "마이애미",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "마이애미 근소 우세 (언더 추천)",
-      "ai_picks": [
-        "마이애미 승"
-      ],
-      "aria_label": "신시내티 vs 마이애미 07:10 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16262595",
-      "url": "https://bbongtv4.com/premium/baseball/16262595",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그",
-      "team2": "보스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "보스턴 승",
-      "ai_picks": [
-        "보스턴 승"
-      ],
-      "aria_label": "피츠버그 vs 보스턴 07:40 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16262596",
-      "url": "https://bbongtv4.com/premium/baseball/16262596",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/15 (토)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트",
-      "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 7.0,
-        "away": 45.0
-      },
-      "ai_summary": "디트로이트 승 (로스코어 접전 예상, 언더 8.5 추천)",
-      "ai_picks": [
-        "디트로이트 승",
-        "언더 8.5"
-      ],
-      "aria_label": "디트로이트 vs 시카고화이트삭스 07:40 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16262597",
       "url": "https://bbongtv4.com/premium/baseball/16262597",
@@ -198,56 +124,6 @@
         "애틀랜타 승"
       ],
       "aria_label": "애틀랜타 vs 애리조나 08:15 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16356820",
-      "url": "https://bbongtv4.com/premium/basket/16356820",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/15 (토)",
-      "time": "08:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인디애나",
-      "team2": "댈러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 3.0,
-        "away": 35.0
-      },
-      "ai_summary": "인디애나 승",
-      "ai_picks": [
-        "인디애나 승"
-      ],
-      "aria_label": "인디애나 vs 댈러스 08:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16356821",
-      "url": "https://bbongtv4.com/premium/basket/16356821",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/15 (토)",
-      "time": "08:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "포틀랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 3.0,
-        "away": 45.0
-      },
-      "ai_summary": "시애틀 승",
-      "ai_picks": [
-        "시애틀 승"
-      ],
-      "aria_label": "시애틀 vs 포틀랜드 08:30 분석 상세",
       "source_date": "2026-08-15"
     },
     {
@@ -1361,6 +1237,130 @@
         "울버햄프턴 원 승"
       ],
       "aria_label": "울버햄프턴 원더러스 FC vs 블랙번 로버스 04:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262594",
+      "url": "https://bbongtv4.com/premium/baseball/16262594",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "07:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "신시내티",
+      "team2": "마이애미",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "마이애미 근소 우세 (언더 추천)",
+      "ai_picks": [
+        "마이애미 승"
+      ],
+      "aria_label": "신시내티 vs 마이애미 07:10 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262595",
+      "url": "https://bbongtv4.com/premium/baseball/16262595",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "피츠버그",
+      "team2": "보스턴",
+      "score1": 8,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "보스턴 승",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "피츠버그 vs 보스턴 07:40 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16262596",
+      "url": "https://bbongtv4.com/premium/baseball/16262596",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/15 (토)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트",
+      "team2": "시카고화이트삭스",
+      "score1": 5,
+      "score2": 9,
+      "prob": {
+        "home": 48.0,
+        "draw": 7.0,
+        "away": 45.0
+      },
+      "ai_summary": "디트로이트 승 (로스코어 접전 예상, 언더 8.5 추천)",
+      "ai_picks": [
+        "디트로이트 승",
+        "언더 8.5"
+      ],
+      "aria_label": "디트로이트 vs 시카고화이트삭스 07:40 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16356820",
+      "url": "https://bbongtv4.com/premium/basket/16356820",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/15 (토)",
+      "time": "08:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인디애나",
+      "team2": "댈러스",
+      "score1": 98,
+      "score2": 87,
+      "prob": {
+        "home": 62.0,
+        "draw": 3.0,
+        "away": 35.0
+      },
+      "ai_summary": "인디애나 승",
+      "ai_picks": [
+        "인디애나 승"
+      ],
+      "aria_label": "인디애나 vs 댈러스 08:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16356821",
+      "url": "https://bbongtv4.com/premium/basket/16356821",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/15 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "시애틀",
+      "team2": "포틀랜드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "draw": 3.0,
+        "away": 45.0
+      },
+      "ai_summary": "시애틀 승",
+      "ai_picks": [
+        "시애틀 승"
+      ],
+      "aria_label": "시애틀 vs 포틀랜드 08:30 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
