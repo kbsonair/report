@@ -1,195 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-15",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T16:29:40.554677+00:00",
+  "scraped_at": "2026-08-15T16:57:41.775968+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16450435",
-      "url": "https://bbongtv4.com/premium/soccer/16450435",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "KFUM 오슬로",
-      "team2": "릴레스트룀 SK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 22.0,
-        "away": 48.0
-      },
-      "ai_summary": "릴레스트룀 SK 승리 및 오버 2.5",
-      "ai_picks": [
-        "릴레스트룀 SK 승",
-        "오버 2.5"
-      ],
-      "aria_label": "KFUM 오슬로 vs 릴레스트룀 SK 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450451",
-      "url": "https://bbongtv4.com/premium/soccer/16450451",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브리스톨 시티 FC",
-      "team2": "밀월 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 28.0,
-        "away": 42.0
-      },
-      "ai_summary": "밀월 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "밀월 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "브리스톨 시티 FC vs 밀월 FC 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450452",
-      "url": "https://bbongtv4.com/premium/soccer/16450452",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "찰턴 애슬레틱 FC",
-      "team2": "더비 카운티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "찰턴 애슬레틱 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "찰턴 애슬레틱  승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "찰턴 애슬레틱 FC vs 더비 카운티 FC 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450453",
-      "url": "https://bbongtv4.com/premium/soccer/16450453",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미들즈브러 FC",
-      "team2": "링컨 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "미들즈브러 FC 승, 언더오버 2.5 기준 오버 추천",
-      "ai_picks": [
-        "미들즈브러 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "미들즈브러 FC vs 링컨 시티 FC 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450454",
-      "url": "https://bbongtv4.com/premium/soccer/16450454",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "노리치 시티 FC",
-      "team2": "웨스트 브로미치 앨비언",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 23.0,
-        "away": 29.0
-      },
-      "ai_summary": "홈팀 노리치 시티 FC 승리 및 오버 2.5 추천",
-      "ai_picks": [
-        "노리치 시티 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "노리치 시티 FC vs 웨스트 브로미치 앨비언 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450455",
-      "url": "https://bbongtv4.com/premium/soccer/16450455",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포츠머스 FC",
-      "team2": "퀸즈 파크 레인저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "언더 2.5골 / 포츠머스 FC 승 또는 무승부",
-      "ai_picks": [
-        "언더 2.5",
-        "포츠머스 FC 승",
-        "무승부"
-      ],
-      "aria_label": "포츠머스 FC vs 퀸즈 파크 레인저스 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450456",
-      "url": "https://bbongtv4.com/premium/soccer/16450456",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/15 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "스토크 시티 FC",
-      "team2": "스완지 시티 AFC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 27.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 스토크 시티 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "스토크 시티 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "스토크 시티 FC vs 스완지 시티 AFC 23:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16450653",
       "url": "https://bbongtv4.com/premium/soccer/16450653",
@@ -1634,6 +1448,192 @@
         "태국 승"
       ],
       "aria_label": "싱가포르 vs 태국 22:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450435",
+      "url": "https://bbongtv4.com/premium/soccer/16450435",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "KFUM 오슬로",
+      "team2": "릴레스트룀 SK",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 22.0,
+        "away": 48.0
+      },
+      "ai_summary": "릴레스트룀 SK 승리 및 오버 2.5",
+      "ai_picks": [
+        "릴레스트룀 SK 승",
+        "오버 2.5"
+      ],
+      "aria_label": "KFUM 오슬로 vs 릴레스트룀 SK 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450451",
+      "url": "https://bbongtv4.com/premium/soccer/16450451",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브리스톨 시티 FC",
+      "team2": "밀월 FC",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "draw": 28.0,
+        "away": 42.0
+      },
+      "ai_summary": "밀월 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "밀월 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "브리스톨 시티 FC vs 밀월 FC 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450452",
+      "url": "https://bbongtv4.com/premium/soccer/16450452",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "찰턴 애슬레틱 FC",
+      "team2": "더비 카운티 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "찰턴 애슬레틱 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "찰턴 애슬레틱  승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "찰턴 애슬레틱 FC vs 더비 카운티 FC 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450453",
+      "url": "https://bbongtv4.com/premium/soccer/16450453",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미들즈브러 FC",
+      "team2": "링컨 시티 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "미들즈브러 FC 승, 언더오버 2.5 기준 오버 추천",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "미들즈브러 FC vs 링컨 시티 FC 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450454",
+      "url": "https://bbongtv4.com/premium/soccer/16450454",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "노리치 시티 FC",
+      "team2": "웨스트 브로미치 앨비언",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 23.0,
+        "away": 29.0
+      },
+      "ai_summary": "홈팀 노리치 시티 FC 승리 및 오버 2.5 추천",
+      "ai_picks": [
+        "노리치 시티 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "노리치 시티 FC vs 웨스트 브로미치 앨비언 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450455",
+      "url": "https://bbongtv4.com/premium/soccer/16450455",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "포츠머스 FC",
+      "team2": "퀸즈 파크 레인저스",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5골 / 포츠머스 FC 승 또는 무승부",
+      "ai_picks": [
+        "언더 2.5",
+        "포츠머스 FC 승",
+        "무승부"
+      ],
+      "aria_label": "포츠머스 FC vs 퀸즈 파크 레인저스 23:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450456",
+      "url": "https://bbongtv4.com/premium/soccer/16450456",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/15 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스토크 시티 FC",
+      "team2": "스완지 시티 AFC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 43.0,
+        "draw": 27.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 스토크 시티 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "스토크 시티 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "스토크 시티 FC vs 스완지 시티 AFC 23:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
