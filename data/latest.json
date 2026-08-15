@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T19:39:19.395468+00:00",
+  "scraped_at": "2026-08-15T19:56:48.001836+00:00",
   "kst_yesterday": "2026-08-15",
   "kst_today": "2026-08-16",
   "kst_tomorrow": "2026-08-17",
@@ -8,7 +8,7 @@
     "2026-08-16",
     "2026-08-17"
   ],
-  "count": 98,
+  "count": 99,
   "matches": [
     {
       "id": "16452334",
@@ -604,6 +604,31 @@
         "소프트뱅크 승"
       ],
       "aria_label": "소프트뱅크 vs 라쿠텐 13:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16263922",
+      "url": "https://bbongtv4.com/premium/baseball/16263922",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "13:30",
+      "status": "예정",
+      "result": null,
+      "team1": "주니치",
+      "team2": "요미우리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 15.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더(저득점 경기) 및 요미우리 근소 우위 예상",
+      "ai_picks": [
+        "요미우리 승"
+      ],
+      "aria_label": "주니치 vs 요미우리 13:30 분석 상세",
       "source_date": "2026-08-16"
     },
     {
