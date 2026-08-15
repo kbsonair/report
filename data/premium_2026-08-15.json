@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-15",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T15:29:17.231884+00:00",
+  "scraped_at": "2026-08-15T15:54:33.361982+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16452542",
-      "url": "https://bbongtv4.com/premium/soccer/16452542",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/15 (토)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "싱가포르",
-      "team2": "태국",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 25.0,
-        "away": 60.0
-      },
-      "ai_summary": "태국 승",
-      "ai_picks": [
-        "태국 승"
-      ],
-      "aria_label": "싱가포르 vs 태국 22:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16450435",
       "url": "https://bbongtv4.com/premium/soccer/16450435",
@@ -1634,6 +1609,31 @@
         "언더 2.5"
       ],
       "aria_label": "볼턴 원더러스 FC vs 프레스턴 노스 엔드 FC 20:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16452542",
+      "url": "https://bbongtv4.com/premium/soccer/16452542",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/15 (토)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "싱가포르",
+      "team2": "태국",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 15.0,
+        "draw": 25.0,
+        "away": 60.0
+      },
+      "ai_summary": "태국 승",
+      "ai_picks": [
+        "태국 승"
+      ],
+      "aria_label": "싱가포르 vs 태국 22:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
