@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T18:34:53.504075+00:00",
+  "scraped_at": "2026-08-15T19:01:18.211944+00:00",
   "count": 23,
   "matches": [
-    {
-      "id": "16450887",
-      "url": "https://bbongtv4.com/premium/soccer/16450887",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/16 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "셰필드 유나이티드 FC",
-      "team2": "버밍엄 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "셰필드 유나이티드 FC 홈 승리 또는 언더 2.5골",
-      "ai_picks": [
-        "셰필드 유나이 승",
-        "언더 2.5"
-      ],
-      "aria_label": "셰필드 유나이티드 FC vs 버밍엄 시티 FC 01:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16450895",
       "url": "https://bbongtv4.com/premium/soccer/16450895",
@@ -573,6 +547,32 @@
         "맨체스터 시티( 승"
       ],
       "aria_label": "아스날 FC vs 맨체스터 시티(N) 23:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450887",
+      "url": "https://bbongtv4.com/premium/soccer/16450887",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/16 (일)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "셰필드 유나이티드 FC",
+      "team2": "버밍엄 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "셰필드 유나이티드 FC 홈 승리 또는 언더 2.5골",
+      "ai_picks": [
+        "셰필드 유나이 승",
+        "언더 2.5"
+      ],
+      "aria_label": "셰필드 유나이티드 FC vs 버밍엄 시티 FC 01:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
