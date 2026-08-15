@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T20:31:38.936511+00:00",
+  "scraped_at": "2026-08-15T20:57:10.288820+00:00",
   "kst_yesterday": "2026-08-15",
   "kst_today": "2026-08-16",
   "kst_tomorrow": "2026-08-17",
@@ -168,12 +168,12 @@
       "league": "HOL D1",
       "date": "8/16 (일)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SBV 엑셀시오르",
       "team2": "PSV 에인트호번",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 12.0,
         "draw": 13.0,

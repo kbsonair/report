@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T20:31:36.998392+00:00",
+  "scraped_at": "2026-08-15T20:57:08.562028+00:00",
   "count": 34,
   "matches": [
     {
@@ -832,12 +832,12 @@
       "league": "HOL D1",
       "date": "8/16 (일)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SBV 엑셀시오르",
       "team2": "PSV 에인트호번",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 12.0,
         "draw": 13.0,
