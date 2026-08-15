@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T21:55:05.840474+00:00",
+  "scraped_at": "2026-08-15T22:26:23.782662+00:00",
   "count": 34,
   "matches": [
-    {
-      "id": "16262608",
-      "url": "https://bbongtv4.com/premium/baseball/16262608",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/16 (일)",
-      "time": "03:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고컵스",
-      "team2": "세인트루이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "시카고컵스 승",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16450987",
-      "url": "https://bbongtv4.com/premium/soccer/16450987",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/16 (일)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "세비야 FC",
-      "team2": "라요 바예카노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀 세비야 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "세비야 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "세비야 FC vs 라요 바예카노 04:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16262610",
       "url": "https://bbongtv4.com/premium/baseball/16262610",
@@ -827,6 +776,30 @@
       "source_date": "2026-08-16"
     },
     {
+      "id": "16262608",
+      "url": "https://bbongtv4.com/premium/baseball/16262608",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/16 (일)",
+      "time": "03:20",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시카고컵스",
+      "team2": "세인트루이스",
+      "score1": 4,
+      "score2": 8,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "시카고컵스 승",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
       "id": "16450968",
       "url": "https://bbongtv4.com/premium/soccer/16450968",
       "sport": "soccer",
@@ -849,6 +822,33 @@
         "포르튀나 시타 승"
       ],
       "aria_label": "포르튀나 시타르트 vs SC 캄뷔르 04:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450987",
+      "url": "https://bbongtv4.com/premium/soccer/16450987",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/16 (일)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세비야 FC",
+      "team2": "라요 바예카노",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 세비야 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "세비야 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "세비야 FC vs 라요 바예카노 04:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
