@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T21:28:11.873119+00:00",
+  "scraped_at": "2026-08-15T21:55:05.840474+00:00",
   "count": 34,
   "matches": [
     {
@@ -26,31 +26,6 @@
         "시카고컵스 승"
       ],
       "aria_label": "시카고컵스 vs 세인트루이스 03:20 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16450968",
-      "url": "https://bbongtv4.com/premium/soccer/16450968",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포르튀나 시타르트",
-      "team2": "SC 캄뷔르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "포르튀나 시타르트 승",
-      "ai_picks": [
-        "포르튀나 시타 승"
-      ],
-      "aria_label": "포르튀나 시타르트 vs SC 캄뷔르 04:00 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -849,6 +824,31 @@
         "오버 3.5"
       ],
       "aria_label": "SBV 엑셀시오르 vs PSV 에인트호번 03:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450968",
+      "url": "https://bbongtv4.com/premium/soccer/16450968",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "포르튀나 시타르트",
+      "team2": "SC 캄뷔르",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "포르튀나 시타르트 승",
+      "ai_picks": [
+        "포르튀나 시타 승"
+      ],
+      "aria_label": "포르튀나 시타르트 vs SC 캄뷔르 04:00 분석 상세",
       "source_date": "2026-08-16"
     }
   ]

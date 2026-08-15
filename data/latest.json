@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T21:28:14.055725+00:00",
+  "scraped_at": "2026-08-15T21:55:08.048746+00:00",
   "kst_yesterday": "2026-08-15",
   "kst_today": "2026-08-16",
   "kst_tomorrow": "2026-08-17",
@@ -218,12 +218,12 @@
       "league": "HOL D1",
       "date": "8/16 (일)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "포르튀나 시타르트",
       "team2": "SC 캄뷔르",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "draw": 22.0,
