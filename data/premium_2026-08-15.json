@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T12:45:08.653521+00:00",
+  "scraped_at": "2026-08-15T13:33:27.982927+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16263917",
-      "url": "https://bbongtv4.com/premium/baseball/16263917",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트",
-      "team2": "요코하마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "야쿠르트 핸디캡(+1.5) 및 오버 추천",
-      "ai_picks": [
-        "야쿠르트 +1.5"
-      ],
-      "aria_label": "야쿠르트 vs 요코하마 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16263918",
-      "url": "https://bbongtv4.com/premium/baseball/16263918",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/15 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마",
-      "team2": "한신",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 7.0,
-        "away": 60.0
-      },
-      "ai_summary": "한신 승리",
-      "ai_picks": [
-        "한신 승"
-      ],
-      "aria_label": "히로시마 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16260661",
       "url": "https://bbongtv4.com/premium/baseball/16260661",
@@ -175,191 +125,6 @@
         "KT 승"
       ],
       "aria_label": "KT vs 키움 19:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450141",
-      "url": "https://bbongtv4.com/premium/soccer/16450141",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "광주 FC",
-      "team2": "포항 스틸러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "포항 스틸러스 승 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "포항 스틸러스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "광주 FC vs 포항 스틸러스 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450142",
-      "url": "https://bbongtv4.com/premium/soccer/16450142",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "제주 SK FC",
-      "team2": "FC 안양",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 27.0,
-        "away": 40.0
-      },
-      "ai_summary": "FC 안양 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "FC 안양 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "제주 SK FC vs FC 안양 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450143",
-      "url": "https://bbongtv4.com/premium/soccer/16450143",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 서울",
-      "team2": "대전 하나 시티즌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "FC 서울 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "FC 서울 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "FC 서울 vs 대전 하나 시티즌 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450147",
-      "url": "https://bbongtv4.com/premium/soccer/16450147",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "부산 아이파크",
-      "team2": "화성 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 27.0,
-        "away": 35.0
-      },
-      "ai_summary": "오버 2.5 (다득점 경기 예상), 승부 예측은 무승부 또는 화성 FC 근소 우위",
-      "ai_picks": [
-        "오버 2.5",
-        "무승부",
-        "화성 FC 승"
-      ],
-      "aria_label": "부산 아이파크 vs 화성 FC 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450148",
-      "url": "https://bbongtv4.com/premium/soccer/16450148",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "충북 청주 FC",
-      "team2": "전남 드래곤즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "무승부 또는 홈팀 승, 언더 2.5 추천",
-      "ai_picks": [
-        "무승부",
-        "충북 청주 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "충북 청주 FC vs 전남 드래곤즈 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450149",
-      "url": "https://bbongtv4.com/premium/soccer/16450149",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "김해 FC 2008",
-      "team2": "경남 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "경남 FC 승 (언더 2.5)",
-      "ai_picks": [
-        "경남 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "김해 FC 2008 vs 경남 FC 19:30 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16450150",
-      "url": "https://bbongtv4.com/premium/soccer/16450150",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/15 (토)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "수원삼성블루윙즈",
-      "team2": "수원 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "수원삼성블루윙즈 홈 승리",
-      "ai_picks": [
-        "수원삼성블루윙 승"
-      ],
-      "aria_label": "수원삼성블루윙즈 vs 수원 FC 19:30 분석 상세",
       "source_date": "2026-08-15"
     },
     {
@@ -1197,6 +962,56 @@
       "source_date": "2026-08-15"
     },
     {
+      "id": "16263917",
+      "url": "https://bbongtv4.com/premium/baseball/16263917",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트",
+      "team2": "요코하마",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "야쿠르트 핸디캡(+1.5) 및 오버 추천",
+      "ai_picks": [
+        "야쿠르트 +1.5"
+      ],
+      "aria_label": "야쿠르트 vs 요코하마 18:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16263918",
+      "url": "https://bbongtv4.com/premium/baseball/16263918",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/15 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "히로시마",
+      "team2": "한신",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 33.0,
+        "draw": 7.0,
+        "away": 60.0
+      },
+      "ai_summary": "한신 승리",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "히로시마 vs 한신 18:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
       "id": "16450071",
       "url": "https://bbongtv4.com/premium/soccer/16450071",
       "sport": "soccer",
@@ -1634,6 +1449,191 @@
         "언더 2.5"
       ],
       "aria_label": "베갈타 센다이 vs 오이타 트리니타 19:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450141",
+      "url": "https://bbongtv4.com/premium/soccer/16450141",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "광주 FC",
+      "team2": "포항 스틸러스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "포항 스틸러스 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "포항 스틸러스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "광주 FC vs 포항 스틸러스 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450142",
+      "url": "https://bbongtv4.com/premium/soccer/16450142",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "제주 SK FC",
+      "team2": "FC 안양",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 33.0,
+        "draw": 27.0,
+        "away": 40.0
+      },
+      "ai_summary": "FC 안양 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "FC 안양 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "제주 SK FC vs FC 안양 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450143",
+      "url": "https://bbongtv4.com/premium/soccer/16450143",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 서울",
+      "team2": "대전 하나 시티즌",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "FC 서울 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "FC 서울 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "FC 서울 vs 대전 하나 시티즌 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450147",
+      "url": "https://bbongtv4.com/premium/soccer/16450147",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "부산 아이파크",
+      "team2": "화성 FC",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 38.0,
+        "draw": 27.0,
+        "away": 35.0
+      },
+      "ai_summary": "오버 2.5 (다득점 경기 예상), 승부 예측은 무승부 또는 화성 FC 근소 우위",
+      "ai_picks": [
+        "오버 2.5",
+        "무승부",
+        "화성 FC 승"
+      ],
+      "aria_label": "부산 아이파크 vs 화성 FC 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450148",
+      "url": "https://bbongtv4.com/premium/soccer/16450148",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "충북 청주 FC",
+      "team2": "전남 드래곤즈",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "무승부 또는 홈팀 승, 언더 2.5 추천",
+      "ai_picks": [
+        "무승부",
+        "충북 청주 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "충북 청주 FC vs 전남 드래곤즈 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450149",
+      "url": "https://bbongtv4.com/premium/soccer/16450149",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "김해 FC 2008",
+      "team2": "경남 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "경남 FC 승 (언더 2.5)",
+      "ai_picks": [
+        "경남 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "김해 FC 2008 vs 경남 FC 19:30 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16450150",
+      "url": "https://bbongtv4.com/premium/soccer/16450150",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/15 (토)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "수원삼성블루윙즈",
+      "team2": "수원 FC",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "수원삼성블루윙즈 홈 승리",
+      "ai_picks": [
+        "수원삼성블루윙 승"
+      ],
+      "aria_label": "수원삼성블루윙즈 vs 수원 FC 19:30 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
