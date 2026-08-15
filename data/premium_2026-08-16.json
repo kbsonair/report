@@ -1,9 +1,165 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-16",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-14T23:58:06.601238+00:00",
-  "count": 2,
+  "scraped_at": "2026-08-15T01:43:59.191094+00:00",
+  "count": 8,
   "matches": [
+    {
+      "id": "16450887",
+      "url": "https://bbongtv4.com/premium/soccer/16450887",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/16 (일)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "셰필드 유나이티드 FC",
+      "team2": "버밍엄 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "셰필드 유나이티드 FC 홈 승리 또는 언더 2.5골",
+      "ai_picks": [
+        "셰필드 유나이 승",
+        "언더 2.5"
+      ],
+      "aria_label": "셰필드 유나이티드 FC vs 버밍엄 시티 FC 01:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450895",
+      "url": "https://bbongtv4.com/premium/soccer/16450895",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 위트레흐트",
+      "team2": "AZ 알크마르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "AZ 알크마르 승 및 오버 2.5골",
+      "ai_picks": [
+        "AZ 알크마르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "FC 위트레흐트 vs AZ 알크마르 01:45 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450921",
+      "url": "https://bbongtv4.com/premium/soccer/16450921",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/16 (일)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "알라베스",
+      "team2": "헤타페 CF",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "알라베스 승 또는 무승부 (더블찬스)",
+      "ai_picks": [
+        "알라베스 승",
+        "무승부"
+      ],
+      "aria_label": "알라베스 vs 헤타페 CF 02:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450927",
+      "url": "https://bbongtv4.com/premium/soccer/16450927",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SBV 엑셀시오르",
+      "team2": "PSV 에인트호번",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 13.0,
+        "away": 75.0
+      },
+      "ai_summary": "PSV 에인트호번 승 (오버 3.5골 병행 추천)",
+      "ai_picks": [
+        "PSV 에인트호번 승",
+        "오버 3.5"
+      ],
+      "aria_label": "SBV 엑셀시오르 vs PSV 에인트호번 03:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450968",
+      "url": "https://bbongtv4.com/premium/soccer/16450968",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "포르튀나 시타르트",
+      "team2": "SC 캄뷔르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "포르튀나 시타르트 승",
+      "ai_picks": [
+        "포르튀나 시타 승"
+      ],
+      "aria_label": "포르튀나 시타르트 vs SC 캄뷔르 04:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450987",
+      "url": "https://bbongtv4.com/premium/soccer/16450987",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/16 (일)",
+      "time": "04:30",
+      "status": "예정",
+      "result": null,
+      "team1": "세비야 FC",
+      "team2": "라요 바예카노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 세비야 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "세비야 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "세비야 FC vs 라요 바예카노 04:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
     {
       "id": "16452543",
       "url": "https://bbongtv4.com/premium/soccer/16452543",
