@@ -1,83 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-15",
-  "scraped_at": "2026-08-15T08:38:58.786813+00:00",
+  "scraped_at": "2026-08-15T09:02:29.596327+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "16263916",
-      "url": "https://bbongtv4.com/premium/baseball/16263916",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/15 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "주니치",
-      "team2": "요미우리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 7.0,
-        "away": 60.0
-      },
-      "ai_summary": "요미우리 승리",
-      "ai_picks": [
-        "요미우리 승"
-      ],
-      "aria_label": "주니치 vs 요미우리 14:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16263919",
-      "url": "https://bbongtv4.com/premium/baseball/16263919",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/15 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스",
-      "team2": "니혼햄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "니혼햄 승",
-      "ai_picks": [
-        "니혼햄 승"
-      ],
-      "aria_label": "오릭스 vs 니혼햄 14:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
-    {
-      "id": "16263920",
-      "url": "https://bbongtv4.com/premium/baseball/16263920",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/15 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "소프트뱅크",
-      "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 15.0,
-        "away": 30.0
-      },
-      "ai_summary": "소프트뱅크 승 (접전 투수전 양상, 언더 유력)",
-      "ai_picks": [
-        "소프트뱅크 승"
-      ],
-      "aria_label": "소프트뱅크 vs 라쿠텐 14:00 분석 상세",
-      "source_date": "2026-08-15"
-    },
     {
       "id": "16263921",
       "url": "https://bbongtv4.com/premium/baseball/16263921",
@@ -1634,6 +1560,80 @@
         "언더 7.5"
       ],
       "aria_label": "샌프란시스코 vs 콜로라도 11:15 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16263916",
+      "url": "https://bbongtv4.com/premium/baseball/16263916",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/15 (토)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "주니치",
+      "team2": "요미우리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 7.0,
+        "away": 60.0
+      },
+      "ai_summary": "요미우리 승리",
+      "ai_picks": [
+        "요미우리 승"
+      ],
+      "aria_label": "주니치 vs 요미우리 14:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16263919",
+      "url": "https://bbongtv4.com/premium/baseball/16263919",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/15 (토)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오릭스",
+      "team2": "니혼햄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "니혼햄 승",
+      "ai_picks": [
+        "니혼햄 승"
+      ],
+      "aria_label": "오릭스 vs 니혼햄 14:00 분석 상세",
+      "source_date": "2026-08-15"
+    },
+    {
+      "id": "16263920",
+      "url": "https://bbongtv4.com/premium/baseball/16263920",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/15 (토)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "소프트뱅크",
+      "team2": "라쿠텐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "소프트뱅크 승 (접전 투수전 양상, 언더 유력)",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "소프트뱅크 vs 라쿠텐 14:00 분석 상세",
       "source_date": "2026-08-15"
     }
   ]
