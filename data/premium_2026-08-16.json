@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T19:56:45.400207+00:00",
+  "scraped_at": "2026-08-15T20:31:36.998392+00:00",
   "count": 34,
   "matches": [
-    {
-      "id": "16356822",
-      "url": "https://bbongtv4.com/premium/basket/16356822",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/16 (일)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "코네티컷",
-      "team2": "뉴욕",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "뉴욕 승",
-      "ai_picks": [
-        "뉴욕 승"
-      ],
-      "aria_label": "코네티컷 vs 뉴욕 02:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16262607",
       "url": "https://bbongtv4.com/premium/baseball/16262607",
@@ -50,58 +26,6 @@
         "디트로이트 승"
       ],
       "aria_label": "디트로이트 vs 시카고화이트삭스 02:10 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16450921",
-      "url": "https://bbongtv4.com/premium/soccer/16450921",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/16 (일)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알라베스",
-      "team2": "헤타페 CF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "알라베스 승 또는 무승부 (더블찬스)",
-      "ai_picks": [
-        "알라베스 승",
-        "무승부"
-      ],
-      "aria_label": "알라베스 vs 헤타페 CF 02:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16450927",
-      "url": "https://bbongtv4.com/premium/soccer/16450927",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SBV 엑셀시오르",
-      "team2": "PSV 에인트호번",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 12.0,
-        "draw": 13.0,
-        "away": 75.0
-      },
-      "ai_summary": "PSV 에인트호번 승 (오버 3.5골 병행 추천)",
-      "ai_picks": [
-        "PSV 에인트호번 승",
-        "오버 3.5"
-      ],
-      "aria_label": "SBV 엑셀시오르 vs PSV 에인트호번 03:00 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -849,6 +773,82 @@
         "오버 2.5"
       ],
       "aria_label": "FC 위트레흐트 vs AZ 알크마르 01:45 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16356822",
+      "url": "https://bbongtv4.com/premium/basket/16356822",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/16 (일)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "코네티컷",
+      "team2": "뉴욕",
+      "score1": 75,
+      "score2": 82,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "뉴욕 승",
+      "ai_picks": [
+        "뉴욕 승"
+      ],
+      "aria_label": "코네티컷 vs 뉴욕 02:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450921",
+      "url": "https://bbongtv4.com/premium/soccer/16450921",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/16 (일)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알라베스",
+      "team2": "헤타페 CF",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "알라베스 승 또는 무승부 (더블찬스)",
+      "ai_picks": [
+        "알라베스 승",
+        "무승부"
+      ],
+      "aria_label": "알라베스 vs 헤타페 CF 02:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16450927",
+      "url": "https://bbongtv4.com/premium/soccer/16450927",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SBV 엑셀시오르",
+      "team2": "PSV 에인트호번",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 13.0,
+        "away": 75.0
+      },
+      "ai_summary": "PSV 에인트호번 승 (오버 3.5골 병행 추천)",
+      "ai_picks": [
+        "PSV 에인트호번 승",
+        "오버 3.5"
+      ],
+      "aria_label": "SBV 엑셀시오르 vs PSV 에인트호번 03:00 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
