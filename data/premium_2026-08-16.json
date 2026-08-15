@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T20:57:08.562028+00:00",
+  "scraped_at": "2026-08-15T21:28:11.873119+00:00",
   "count": 34,
   "matches": [
-    {
-      "id": "16262607",
-      "url": "https://bbongtv4.com/premium/baseball/16262607",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/16 (일)",
-      "time": "02:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트",
-      "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "디트로이트 승리 (언더 흐름 유력)",
-      "ai_picks": [
-        "디트로이트 승"
-      ],
-      "aria_label": "디트로이트 vs 시카고화이트삭스 02:10 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16262608",
       "url": "https://bbongtv4.com/premium/baseball/16262608",
@@ -797,6 +773,30 @@
         "뉴욕 승"
       ],
       "aria_label": "코네티컷 vs 뉴욕 02:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16262607",
+      "url": "https://bbongtv4.com/premium/baseball/16262607",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/16 (일)",
+      "time": "02:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트",
+      "team2": "시카고화이트삭스",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "디트로이트 승리 (언더 흐름 유력)",
+      "ai_picks": [
+        "디트로이트 승"
+      ],
+      "aria_label": "디트로이트 vs 시카고화이트삭스 02:10 분석 상세",
       "source_date": "2026-08-16"
     },
     {

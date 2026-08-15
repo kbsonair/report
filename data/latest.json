@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T20:57:10.288820+00:00",
+  "scraped_at": "2026-08-15T21:28:14.055725+00:00",
   "kst_yesterday": "2026-08-15",
   "kst_today": "2026-08-16",
   "kst_tomorrow": "2026-08-17",
@@ -118,12 +118,12 @@
       "league": "MLB",
       "date": "8/16 (일)",
       "time": "02:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "디트로이트",
       "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 58.0,
         "away": 42.0
