@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T04:54:07.082784+00:00",
+  "scraped_at": "2026-08-16T05:31:43.408361+00:00",
   "count": 60,
   "matches": [
     {
@@ -51,56 +51,6 @@
         "텍사스 승"
       ],
       "aria_label": "애슬레틱스 vs 텍사스 10:40 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451109",
-      "url": "https://bbongtv4.com/premium/soccer/16451109",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/16 (일)",
-      "time": "11:30",
-      "status": "예정",
-      "result": null,
-      "team1": "로스앤젤레스 FC",
-      "team2": "샌디에고 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 로스앤젤레스 FC 승리",
-      "ai_picks": [
-        "로스앤젤레스 F 승"
-      ],
-      "aria_label": "로스앤젤레스 FC vs 샌디에고 FC 11:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451110",
-      "url": "https://bbongtv4.com/premium/soccer/16451110",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/16 (일)",
-      "time": "11:30",
-      "status": "예정",
-      "result": null,
-      "team1": "산호세 어스퀘이크스",
-      "team2": "세인트루이스 시티 SC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "언더 3.5 (총 득점 3골 이하)",
-      "ai_picks": [
-        "언더 3.5"
-      ],
-      "aria_label": "산호세 어스퀘이크스 vs 세인트루이스 시티 SC 11:30 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -1514,6 +1464,56 @@
         "오버 2.5"
       ],
       "aria_label": "레알 솔트레이크 vs 미네소타 유나이티드 FC 10:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451109",
+      "url": "https://bbongtv4.com/premium/soccer/16451109",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/16 (일)",
+      "time": "11:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "로스앤젤레스 FC",
+      "team2": "샌디에고 FC",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 로스앤젤레스 FC 승리",
+      "ai_picks": [
+        "로스앤젤레스 F 승"
+      ],
+      "aria_label": "로스앤젤레스 FC vs 샌디에고 FC 11:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451110",
+      "url": "https://bbongtv4.com/premium/soccer/16451110",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/16 (일)",
+      "time": "11:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "산호세 어스퀘이크스",
+      "team2": "세인트루이스 시티 SC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 3.5 (총 득점 3골 이하)",
+      "ai_picks": [
+        "언더 3.5"
+      ],
+      "aria_label": "산호세 어스퀘이크스 vs 세인트루이스 시티 SC 11:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
