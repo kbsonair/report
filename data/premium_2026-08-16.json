@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T04:03:41.081810+00:00",
+  "scraped_at": "2026-08-16T04:54:07.082784+00:00",
   "count": 60,
   "matches": [
     {
@@ -1046,12 +1046,12 @@
       "league": "MLB",
       "date": "8/16 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌프란시스코",
       "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1070,12 +1070,12 @@
       "league": "MLB",
       "date": "8/16 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴욕메츠",
       "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 52.0,
         "away": 48.0
