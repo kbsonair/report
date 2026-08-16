@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T12:46:51.840033+00:00",
+  "scraped_at": "2026-08-16T13:34:06.582078+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16263923",
-      "url": "https://bbongtv4.com/premium/baseball/16263923",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트",
-      "team2": "요코하마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 15.0,
-        "away": 42.0
-      },
-      "ai_summary": "야쿠르트 승 또는 접전 (언더 8.5 조합 추천)",
-      "ai_picks": [
-        "야쿠르트 승",
-        "언더 8.5"
-      ],
-      "aria_label": "야쿠르트 vs 요코하마 18:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16263924",
-      "url": "https://bbongtv4.com/premium/baseball/16263924",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마",
-      "team2": "한신",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 5.0,
-        "away": 55.0
-      },
-      "ai_summary": "언더(로스코어 접전) 및 한신 근소 우위, 히로시마 +1.5 핸디캡 추천",
-      "ai_picks": [
-        "히로시마 +1.5",
-        "한신 승"
-      ],
-      "aria_label": "히로시마 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16260666",
       "url": "https://bbongtv4.com/premium/baseball/16260666",
@@ -178,186 +126,6 @@
         "KT 승"
       ],
       "aria_label": "KT vs 키움 19:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451899",
-      "url": "https://bbongtv4.com/premium/soccer/16451899",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "부천 FC 1995",
-      "team2": "전북현대모터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "전북현대모터스 승 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "전북현대모터스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "부천 FC 1995 vs 전북현대모터스 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451900",
-      "url": "https://bbongtv4.com/premium/soccer/16451900",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인천 유나이티드 FC",
-      "team2": "김천 상무 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀(인천 유나이티드 FC) 승 또는 언더 2.5",
-      "ai_picks": [
-        "인천 유나이티 승",
-        "언더 2.5"
-      ],
-      "aria_label": "인천 유나이티드 FC vs 김천 상무 FC 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451901",
-      "url": "https://bbongtv4.com/premium/soccer/16451901",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "울산 HD FC",
-      "team2": "강원 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "울산 HD FC 승",
-      "ai_picks": [
-        "울산 HD FC 승"
-      ],
-      "aria_label": "울산 HD FC vs 강원 FC 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451903",
-      "url": "https://bbongtv4.com/premium/soccer/16451903",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "대구 FC",
-      "team2": "충남 아산 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 23.0,
-        "away": 29.0
-      },
-      "ai_summary": "대구 FC 홈 승리 및 오버 2.5골",
-      "ai_picks": [
-        "대구 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "대구 FC vs 충남 아산 FC 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451904",
-      "url": "https://bbongtv4.com/premium/soccer/16451904",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "김포 FC",
-      "team2": "천안 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "김포 FC 승 (예상 스코어 2-0, 언더 2.5골)",
-      "ai_picks": [
-        "김포 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "김포 FC vs 천안 시티 FC 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451905",
-      "url": "https://bbongtv4.com/premium/soccer/16451905",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "파주 프런티어 FC",
-      "team2": "성남 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "성남 FC 승 또는 무승부",
-      "ai_picks": [
-        "성남 FC 승",
-        "무승부"
-      ],
-      "aria_label": "파주 프런티어 FC vs 성남 FC 19:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451906",
-      "url": "https://bbongtv4.com/premium/soccer/16451906",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/16 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "서울 이랜드 FC",
-      "team2": "안산 그리너스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 20.0,
-        "away": 18.0
-      },
-      "ai_summary": "홈팀 서울 이랜드 FC 승리",
-      "ai_picks": [
-        "서울 이랜드 FC 승"
-      ],
-      "aria_label": "서울 이랜드 FC vs 안산 그리너스 FC 19:30 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -1441,6 +1209,58 @@
       "source_date": "2026-08-16"
     },
     {
+      "id": "16263923",
+      "url": "https://bbongtv4.com/premium/baseball/16263923",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트",
+      "team2": "요코하마",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 43.0,
+        "draw": 15.0,
+        "away": 42.0
+      },
+      "ai_summary": "야쿠르트 승 또는 접전 (언더 8.5 조합 추천)",
+      "ai_picks": [
+        "야쿠르트 승",
+        "언더 8.5"
+      ],
+      "aria_label": "야쿠르트 vs 요코하마 18:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16263924",
+      "url": "https://bbongtv4.com/premium/baseball/16263924",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "히로시마",
+      "team2": "한신",
+      "score1": 1,
+      "score2": 8,
+      "prob": {
+        "home": 40.0,
+        "draw": 5.0,
+        "away": 55.0
+      },
+      "ai_summary": "언더(로스코어 접전) 및 한신 근소 우위, 히로시마 +1.5 핸디캡 추천",
+      "ai_picks": [
+        "히로시마 +1.5",
+        "한신 승"
+      ],
+      "aria_label": "히로시마 vs 한신 18:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
       "id": "16451866",
       "url": "https://bbongtv4.com/premium/soccer/16451866",
       "sport": "soccer",
@@ -1498,12 +1318,12 @@
       "league": "HOL D1",
       "date": "8/16 (일)",
       "time": "19:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "ADO 덴하흐",
       "team2": "FC 흐로닝언",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
@@ -1514,6 +1334,186 @@
         "FC 흐로닝언 승"
       ],
       "aria_label": "ADO 덴하흐 vs FC 흐로닝언 19:15 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451899",
+      "url": "https://bbongtv4.com/premium/soccer/16451899",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "부천 FC 1995",
+      "team2": "전북현대모터스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "전북현대모터스 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "전북현대모터스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "부천 FC 1995 vs 전북현대모터스 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451900",
+      "url": "https://bbongtv4.com/premium/soccer/16451900",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인천 유나이티드 FC",
+      "team2": "김천 상무 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀(인천 유나이티드 FC) 승 또는 언더 2.5",
+      "ai_picks": [
+        "인천 유나이티 승",
+        "언더 2.5"
+      ],
+      "aria_label": "인천 유나이티드 FC vs 김천 상무 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451901",
+      "url": "https://bbongtv4.com/premium/soccer/16451901",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "울산 HD FC",
+      "team2": "강원 FC",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "울산 HD FC 승",
+      "ai_picks": [
+        "울산 HD FC 승"
+      ],
+      "aria_label": "울산 HD FC vs 강원 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451903",
+      "url": "https://bbongtv4.com/premium/soccer/16451903",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "대구 FC",
+      "team2": "충남 아산 FC",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 23.0,
+        "away": 29.0
+      },
+      "ai_summary": "대구 FC 홈 승리 및 오버 2.5골",
+      "ai_picks": [
+        "대구 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "대구 FC vs 충남 아산 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451904",
+      "url": "https://bbongtv4.com/premium/soccer/16451904",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "김포 FC",
+      "team2": "천안 시티 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "김포 FC 승 (예상 스코어 2-0, 언더 2.5골)",
+      "ai_picks": [
+        "김포 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "김포 FC vs 천안 시티 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451905",
+      "url": "https://bbongtv4.com/premium/soccer/16451905",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "파주 프런티어 FC",
+      "team2": "성남 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "성남 FC 승 또는 무승부",
+      "ai_picks": [
+        "성남 FC 승",
+        "무승부"
+      ],
+      "aria_label": "파주 프런티어 FC vs 성남 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451906",
+      "url": "https://bbongtv4.com/premium/soccer/16451906",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "서울 이랜드 FC",
+      "team2": "안산 그리너스 FC",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 20.0,
+        "away": 18.0
+      },
+      "ai_summary": "홈팀 서울 이랜드 FC 승리",
+      "ai_picks": [
+        "서울 이랜드 FC 승"
+      ],
+      "aria_label": "서울 이랜드 FC vs 안산 그리너스 FC 19:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
