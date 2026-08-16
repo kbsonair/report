@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T11:54:59.715930+00:00",
+  "scraped_at": "2026-08-16T12:46:51.840033+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16263927",
-      "url": "https://bbongtv4.com/premium/baseball/16263927",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부",
-      "team2": "치바롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 18.0,
-        "away": 30.0
-      },
-      "ai_summary": "세이부 승",
-      "ai_picks": [
-        "세이부 승"
-      ],
-      "aria_label": "세이부 vs 치바롯데 17:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16263923",
       "url": "https://bbongtv4.com/premium/baseball/16263923",
@@ -203,57 +178,6 @@
         "KT 승"
       ],
       "aria_label": "KT vs 키움 19:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451881",
-      "url": "https://bbongtv4.com/premium/soccer/16451881",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/16 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "도쿠시마 보르티스",
-      "team2": "사간 도스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 27.0,
-        "away": 31.0
-      },
-      "ai_summary": "홈팀 도쿠시마 보르티스 승리 및 오버 1.5골",
-      "ai_picks": [
-        "도쿠시마 보르 승",
-        "오버 1.5"
-      ],
-      "aria_label": "도쿠시마 보르티스 vs 사간 도스 19:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451897",
-      "url": "https://bbongtv4.com/premium/soccer/16451897",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "19:15",
-      "status": "예정",
-      "result": null,
-      "team1": "ADO 덴하흐",
-      "team2": "FC 흐로닝언",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "FC 흐로닝언 승",
-      "ai_picks": [
-        "FC 흐로닝언 승"
-      ],
-      "aria_label": "ADO 덴하흐 vs FC 흐로닝언 19:15 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -1492,6 +1416,31 @@
       "source_date": "2026-08-16"
     },
     {
+      "id": "16263927",
+      "url": "https://bbongtv4.com/premium/baseball/16263927",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부",
+      "team2": "치바롯데",
+      "score1": 7,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "draw": 18.0,
+        "away": 30.0
+      },
+      "ai_summary": "세이부 승",
+      "ai_picks": [
+        "세이부 승"
+      ],
+      "aria_label": "세이부 vs 치바롯데 17:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
       "id": "16451866",
       "url": "https://bbongtv4.com/premium/soccer/16451866",
       "sport": "soccer",
@@ -1514,6 +1463,57 @@
         "요코하마 FC 승"
       ],
       "aria_label": "요코하마 FC vs 주빌로 이와타 18:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451881",
+      "url": "https://bbongtv4.com/premium/soccer/16451881",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/16 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "도쿠시마 보르티스",
+      "team2": "사간 도스",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 27.0,
+        "away": 31.0
+      },
+      "ai_summary": "홈팀 도쿠시마 보르티스 승리 및 오버 1.5골",
+      "ai_picks": [
+        "도쿠시마 보르 승",
+        "오버 1.5"
+      ],
+      "aria_label": "도쿠시마 보르티스 vs 사간 도스 19:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451897",
+      "url": "https://bbongtv4.com/premium/soccer/16451897",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "19:15",
+      "status": "예정",
+      "result": null,
+      "team1": "ADO 덴하흐",
+      "team2": "FC 흐로닝언",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "FC 흐로닝언 승",
+      "ai_picks": [
+        "FC 흐로닝언 승"
+      ],
+      "aria_label": "ADO 덴하흐 vs FC 흐로닝언 19:15 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
