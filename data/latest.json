@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T11:28:05.078417+00:00",
+  "scraped_at": "2026-08-16T11:55:02.119027+00:00",
   "kst_yesterday": "2026-08-15",
   "kst_today": "2026-08-16",
   "kst_tomorrow": "2026-08-17",
@@ -1703,12 +1703,12 @@
       "league": "JPN D2",
       "date": "8/16 (일)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요코하마 FC",
       "team2": "주빌로 이와타",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 48.0,
         "draw": 27.0,

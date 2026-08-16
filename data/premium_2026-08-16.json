@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T11:28:03.142297+00:00",
+  "scraped_at": "2026-08-16T11:54:59.715930+00:00",
   "count": 60,
   "matches": [
     {
@@ -79,31 +79,6 @@
         "한신 승"
       ],
       "aria_label": "히로시마 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451866",
-      "url": "https://bbongtv4.com/premium/soccer/16451866",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/16 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마 FC",
-      "team2": "주빌로 이와타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 요코하마 FC 승리 (1-0 저득점 경기 예상)",
-      "ai_picks": [
-        "요코하마 FC 승"
-      ],
-      "aria_label": "요코하마 FC vs 주빌로 이와타 18:00 분석 상세",
       "source_date": "2026-08-16"
     },
     {
@@ -1514,6 +1489,31 @@
         "요미우리 승"
       ],
       "aria_label": "주니치 vs 요미우리 13:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451866",
+      "url": "https://bbongtv4.com/premium/soccer/16451866",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/16 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요코하마 FC",
+      "team2": "주빌로 이와타",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 요코하마 FC 승리 (1-0 저득점 경기 예상)",
+      "ai_picks": [
+        "요코하마 FC 승"
+      ],
+      "aria_label": "요코하마 FC vs 주빌로 이와타 18:00 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
