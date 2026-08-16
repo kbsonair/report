@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-17",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-15T23:55:45.995215+00:00",
-  "count": 7,
+  "scraped_at": "2026-08-16T01:42:58.807613+00:00",
+  "count": 12,
   "matches": [
     {
       "id": "16452161",
@@ -160,6 +160,32 @@
       "source_date": "2026-08-17"
     },
     {
+      "id": "16452295",
+      "url": "https://bbongtv4.com/premium/soccer/16452295",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/17 (월)",
+      "time": "02:15",
+      "status": "예정",
+      "result": null,
+      "team1": "프레드릭스타드 FK",
+      "team2": "크리스티안순 BK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 프레드릭스타드 FK 승리 (저득점 경기 예상, 언더 2.5 추천)",
+      "ai_picks": [
+        "프레드릭스타드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "프레드릭스타드 FK vs 크리스티안순 BK 02:15 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
       "id": "16452334",
       "url": "https://bbongtv4.com/premium/soccer/16452334",
       "sport": "soccer",
@@ -182,6 +208,110 @@
         "파리 생제르맹  승"
       ],
       "aria_label": "RC 랑스 vs 파리 생제르맹 FC 03:45 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452418",
+      "url": "https://bbongtv4.com/premium/soccer/16452418",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고 파이어",
+      "team2": "포틀랜드 팀버스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "draw": 20.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 시카고 파이어 승리 및 총 득점 오버 3.5",
+      "ai_picks": [
+        "시카고 파이어 승",
+        "오버 3.5"
+      ],
+      "aria_label": "시카고 파이어 vs 포틀랜드 팀버스 07:00 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452419",
+      "url": "https://bbongtv4.com/premium/soccer/16452419",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕 시티 FC",
+      "team2": "필라델피아 유니언",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 25.0,
+        "away": 33.0
+      },
+      "ai_summary": "오버 2.5골 및 뉴욕 시티 FC 홈 승리 유력",
+      "ai_picks": [
+        "뉴욕 시티 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "뉴욕 시티 FC vs 필라델피아 유니언 07:00 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452446",
+      "url": "https://bbongtv4.com/premium/soccer/16452446",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "오스틴 FC",
+      "team2": "FC 댈러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "FC 댈러스 승리 및 오버 2.5골",
+      "ai_picks": [
+        "FC 댈러스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "오스틴 FC vs FC 댈러스 09:30 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452452",
+      "url": "https://bbongtv4.com/premium/soccer/16452452",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "시애틀 사운더스 FC",
+      "team2": "밴쿠버 화이트캡스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "밴쿠버 화이트캡스 FC 승 또는 양팀 모두 득점(오버 2.5)",
+      "ai_picks": [
+        "밴쿠버 화이트 승",
+        "오버 2.5"
+      ],
+      "aria_label": "시애틀 사운더스 FC vs 밴쿠버 화이트캡스 FC 11:30 분석 상세",
       "source_date": "2026-08-17"
     }
   ]

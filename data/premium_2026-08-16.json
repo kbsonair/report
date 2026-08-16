@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-15T23:55:43.493453+00:00",
-  "count": 59,
+  "scraped_at": "2026-08-16T01:42:56.507620+00:00",
+  "count": 60,
   "matches": [
-    {
-      "id": "16262610",
-      "url": "https://bbongtv4.com/premium/baseball/16262610",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/16 (일)",
-      "time": "05:05",
-      "status": "예정",
-      "result": null,
-      "team1": "샌프란시스코",
-      "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "샌프란시스코 승리 (선발 투수 격차 및 홈 어드밴티지 기반)",
-      "ai_picks": [
-        "샌프란시스코 승"
-      ],
-      "aria_label": "샌프란시스코 vs 콜로라도 05:05 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16262611",
-      "url": "https://bbongtv4.com/premium/baseball/16262611",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/16 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕메츠",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "뉴욕메츠 승리 (언더 흐름 예상)",
-      "ai_picks": [
-        "뉴욕메츠 승"
-      ],
-      "aria_label": "뉴욕메츠 vs 워싱턴 05:10 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16262612",
       "url": "https://bbongtv4.com/premium/baseball/16262612",
@@ -985,6 +937,31 @@
       "source_date": "2026-08-16"
     },
     {
+      "id": "16451901",
+      "url": "https://bbongtv4.com/premium/soccer/16451901",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/16 (일)",
+      "time": "19:30",
+      "status": "예정",
+      "result": null,
+      "team1": "울산 HD FC",
+      "team2": "강원 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "울산 HD FC 승",
+      "ai_picks": [
+        "울산 HD FC 승"
+      ],
+      "aria_label": "울산 HD FC vs 강원 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
       "id": "16451903",
       "url": "https://bbongtv4.com/premium/soccer/16451903",
       "sport": "soccer",
@@ -1489,6 +1466,54 @@
         "언더 2.5"
       ],
       "aria_label": "세비야 FC vs 라요 바예카노 04:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16262610",
+      "url": "https://bbongtv4.com/premium/baseball/16262610",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/16 (일)",
+      "time": "05:05",
+      "status": "예정",
+      "result": null,
+      "team1": "샌프란시스코",
+      "team2": "콜로라도",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "샌프란시스코 승리 (선발 투수 격차 및 홈 어드밴티지 기반)",
+      "ai_picks": [
+        "샌프란시스코 승"
+      ],
+      "aria_label": "샌프란시스코 vs 콜로라도 05:05 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16262611",
+      "url": "https://bbongtv4.com/premium/baseball/16262611",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/16 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕메츠",
+      "team2": "워싱턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "뉴욕메츠 승리 (언더 흐름 예상)",
+      "ai_picks": [
+        "뉴욕메츠 승"
+      ],
+      "aria_label": "뉴욕메츠 vs 워싱턴 05:10 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
