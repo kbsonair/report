@@ -1,84 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T07:58:29.055309+00:00",
+  "scraped_at": "2026-08-16T08:40:23.371615+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16263925",
-      "url": "https://bbongtv4.com/premium/baseball/16263925",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "13:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스",
-      "team2": "니혼햄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 10.0,
-        "away": 42.0
-      },
-      "ai_summary": "오릭스 승리 (홈 어드밴티지 + 선발 투수 우위 + 아리하라의 교세라 돔 취약성)",
-      "ai_picks": [
-        "오릭스 승"
-      ],
-      "aria_label": "오릭스 vs 니혼햄 13:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16263926",
-      "url": "https://bbongtv4.com/premium/baseball/16263926",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "13:00",
-      "status": "예정",
-      "result": null,
-      "team1": "소프트뱅크",
-      "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
-      },
-      "ai_summary": "소프트뱅크 승",
-      "ai_picks": [
-        "소프트뱅크 승"
-      ],
-      "aria_label": "소프트뱅크 vs 라쿠텐 13:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16263922",
-      "url": "https://bbongtv4.com/premium/baseball/16263922",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/16 (일)",
-      "time": "13:30",
-      "status": "예정",
-      "result": null,
-      "team1": "주니치",
-      "team2": "요미우리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 15.0,
-        "away": 45.0
-      },
-      "ai_summary": "언더(저득점 경기) 및 요미우리 근소 우위 예상",
-      "ai_picks": [
-        "요미우리 승"
-      ],
-      "aria_label": "주니치 vs 요미우리 13:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16263927",
       "url": "https://bbongtv4.com/premium/baseball/16263927",
@@ -1514,6 +1439,81 @@
         "언더 3.5"
       ],
       "aria_label": "산호세 어스퀘이크스 vs 세인트루이스 시티 SC 11:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16263925",
+      "url": "https://bbongtv4.com/premium/baseball/16263925",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "13:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "오릭스",
+      "team2": "니혼햄",
+      "score1": 7,
+      "score2": 13,
+      "prob": {
+        "home": 48.0,
+        "draw": 10.0,
+        "away": 42.0
+      },
+      "ai_summary": "오릭스 승리 (홈 어드밴티지 + 선발 투수 우위 + 아리하라의 교세라 돔 취약성)",
+      "ai_picks": [
+        "오릭스 승"
+      ],
+      "aria_label": "오릭스 vs 니혼햄 13:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16263926",
+      "url": "https://bbongtv4.com/premium/baseball/16263926",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "13:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소프트뱅크",
+      "team2": "라쿠텐",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "소프트뱅크 승",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "소프트뱅크 vs 라쿠텐 13:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16263922",
+      "url": "https://bbongtv4.com/premium/baseball/16263922",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/16 (일)",
+      "time": "13:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "주니치",
+      "team2": "요미우리",
+      "score1": 0,
+      "score2": 11,
+      "prob": {
+        "home": 40.0,
+        "draw": 15.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더(저득점 경기) 및 요미우리 근소 우위 예상",
+      "ai_picks": [
+        "요미우리 승"
+      ],
+      "aria_label": "주니치 vs 요미우리 13:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
