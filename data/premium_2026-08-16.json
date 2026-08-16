@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-16",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T15:29:53.014619+00:00",
+  "scraped_at": "2026-08-16T15:55:18.847572+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16452543",
-      "url": "https://bbongtv4.com/premium/soccer/16452543",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/16 (일)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "말레이시아",
-      "team2": "베트남",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "베트남 승",
-      "ai_picks": [
-        "베트남 승"
-      ],
-      "aria_label": "말레이시아 vs 베트남 22:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16452096",
       "url": "https://bbongtv4.com/premium/soccer/16452096",
@@ -1514,6 +1489,31 @@
         "왓포드 FC 승"
       ],
       "aria_label": "왓포드 FC vs 사우샘프턴 21:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16452543",
+      "url": "https://bbongtv4.com/premium/soccer/16452543",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/16 (일)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말레이시아",
+      "team2": "베트남",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "베트남 승",
+      "ai_picks": [
+        "베트남 승"
+      ],
+      "aria_label": "말레이시아 vs 베트남 22:00 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
