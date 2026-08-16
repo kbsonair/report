@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-16",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T16:58:12.434537+00:00",
+  "scraped_at": "2026-08-16T17:27:24.613106+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16452156",
-      "url": "https://bbongtv4.com/premium/soccer/16452156",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "23:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AFC 아약스",
-      "team2": "SC 헤이렌베인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "AFC 아약스 승",
-      "ai_picks": [
-        "AFC 아약스 승"
-      ],
-      "aria_label": "AFC 아약스 vs SC 헤이렌베인 23:45 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16450887",
       "url": "https://bbongtv4.com/premium/soccer/16450887",
@@ -1514,6 +1489,31 @@
         "맨체스터 시티( 승"
       ],
       "aria_label": "아스날 FC vs 맨체스터 시티(N) 23:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16452156",
+      "url": "https://bbongtv4.com/premium/soccer/16452156",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "23:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "AFC 아약스",
+      "team2": "SC 헤이렌베인",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "AFC 아약스 승",
+      "ai_picks": [
+        "AFC 아약스 승"
+      ],
+      "aria_label": "AFC 아약스 vs SC 헤이렌베인 23:45 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
