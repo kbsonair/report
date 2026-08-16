@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T19:39:03.917364+00:00",
+  "scraped_at": "2026-08-16T19:55:26.594505+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -196,12 +196,12 @@
       "league": "NOR D1",
       "date": "8/17 (월)",
       "time": "02:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "프레드릭스타드 FK",
       "team2": "크리스티안순 BK",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 48.0,
         "draw": 25.0,

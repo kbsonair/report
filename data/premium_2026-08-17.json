@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-16T19:39:01.737653+00:00",
+  "scraped_at": "2026-08-16T19:55:24.343446+00:00",
   "count": 29,
   "matches": [
     {
@@ -26,32 +26,6 @@
         "탬파베이 승"
       ],
       "aria_label": "탬파베이 vs 볼티모어 01:15 분석 상세",
-      "source_date": "2026-08-17"
-    },
-    {
-      "id": "16452295",
-      "url": "https://bbongtv4.com/premium/soccer/16452295",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/17 (월)",
-      "time": "02:15",
-      "status": "예정",
-      "result": null,
-      "team1": "프레드릭스타드 FK",
-      "team2": "크리스티안순 BK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀 프레드릭스타드 FK 승리 (저득점 경기 예상, 언더 2.5 추천)",
-      "ai_picks": [
-        "프레드릭스타드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "프레드릭스타드 FK vs 크리스티안순 BK 02:15 분석 상세",
       "source_date": "2026-08-17"
     },
     {
@@ -732,6 +706,32 @@
         "무승부"
       ],
       "aria_label": "RCD 에스파뇰 vs 레반테 UD 02:00 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452295",
+      "url": "https://bbongtv4.com/premium/soccer/16452295",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/17 (월)",
+      "time": "02:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "프레드릭스타드 FK",
+      "team2": "크리스티안순 BK",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 프레드릭스타드 FK 승리 (저득점 경기 예상, 언더 2.5 추천)",
+      "ai_picks": [
+        "프레드릭스타드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "프레드릭스타드 FK vs 크리스티안순 BK 02:15 분석 상세",
       "source_date": "2026-08-17"
     }
   ]
