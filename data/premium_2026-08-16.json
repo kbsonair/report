@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-16",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T15:55:18.847572+00:00",
+  "scraped_at": "2026-08-16T16:30:29.317806+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16452096",
-      "url": "https://bbongtv4.com/premium/soccer/16452096",
-      "sport": "soccer",
-      "league": "ENG CS",
-      "date": "8/16 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아스날 FC",
-      "team2": "맨체스터 시티(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "맨체스터 시티 승",
-      "ai_picks": [
-        "맨체스터 시티( 승"
-      ],
-      "aria_label": "아스날 FC vs 맨체스터 시티(N) 23:00 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16452156",
       "url": "https://bbongtv4.com/premium/soccer/16452156",
@@ -1514,6 +1489,31 @@
         "베트남 승"
       ],
       "aria_label": "말레이시아 vs 베트남 22:00 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16452096",
+      "url": "https://bbongtv4.com/premium/soccer/16452096",
+      "sport": "soccer",
+      "league": "ENG CS",
+      "date": "8/16 (일)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "아스날 FC",
+      "team2": "맨체스터 시티(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "맨체스터 시티 승",
+      "ai_picks": [
+        "맨체스터 시티( 승"
+      ],
+      "aria_label": "아스날 FC vs 맨체스터 시티(N) 23:00 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
