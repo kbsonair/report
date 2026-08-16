@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-16T20:56:10.634858+00:00",
+  "scraped_at": "2026-08-16T21:26:25.787167+00:00",
   "count": 29,
   "matches": [
     {
@@ -199,31 +199,6 @@
         "오버 9.5"
       ],
       "aria_label": "미네소타 vs 필라델피아 03:10 분석 상세",
-      "source_date": "2026-08-17"
-    },
-    {
-      "id": "16452334",
-      "url": "https://bbongtv4.com/premium/soccer/16452334",
-      "sport": "soccer",
-      "league": "FRA SC",
-      "date": "8/17 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "RC 랑스",
-      "team2": "파리 생제르맹 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 18.0,
-        "away": 60.0
-      },
-      "ai_summary": "파리 생제르맹 FC 승",
-      "ai_picks": [
-        "파리 생제르맹  승"
-      ],
-      "aria_label": "RC 랑스 vs 파리 생제르맹 FC 03:45 분석 상세",
       "source_date": "2026-08-17"
     },
     {
@@ -732,6 +707,31 @@
         "언더 2.5"
       ],
       "aria_label": "프레드릭스타드 FK vs 크리스티안순 BK 02:15 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452334",
+      "url": "https://bbongtv4.com/premium/soccer/16452334",
+      "sport": "soccer",
+      "league": "FRA SC",
+      "date": "8/17 (월)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "RC 랑스",
+      "team2": "파리 생제르맹 FC",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 22.0,
+        "draw": 18.0,
+        "away": 60.0
+      },
+      "ai_summary": "파리 생제르맹 FC 승",
+      "ai_picks": [
+        "파리 생제르맹  승"
+      ],
+      "aria_label": "RC 랑스 vs 파리 생제르맹 FC 03:45 분석 상세",
       "source_date": "2026-08-17"
     }
   ]
