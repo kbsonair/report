@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T16:30:30.296583+00:00",
+  "scraped_at": "2026-08-16T16:58:13.616990+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -2209,12 +2209,12 @@
       "league": "ENG CS",
       "date": "8/16 (일)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "아스날 FC",
       "team2": "맨체스터 시티(N)",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 30.0,
         "draw": 25.0,
