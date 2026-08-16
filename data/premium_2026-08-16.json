@@ -1,110 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-16",
   "source_date": "2026-08-16",
-  "scraped_at": "2026-08-16T14:57:39.830357+00:00",
+  "scraped_at": "2026-08-16T15:29:53.014619+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "16451993",
-      "url": "https://bbongtv4.com/premium/soccer/16451993",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "페예노르트",
-      "team2": "고 어헤드 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "페예노르트 승",
-      "ai_picks": [
-        "페예노르트 승"
-      ],
-      "aria_label": "페예노르트 vs 고 어헤드 이글스 21:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451994",
-      "url": "https://bbongtv4.com/premium/soccer/16451994",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/16 (일)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 트벤터",
-      "team2": "PEC 즈볼러",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "FC 트벤터 승 + 언더 3.5",
-      "ai_picks": [
-        "FC 트벤터 승",
-        "언더 3.5"
-      ],
-      "aria_label": "FC 트벤터 vs PEC 즈볼러 21:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451995",
-      "url": "https://bbongtv4.com/premium/soccer/16451995",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "8/16 (일)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알레순트 FK",
-      "team2": "볼레렝아 포트발",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "볼레렝아 포트발 승",
-      "ai_picks": [
-        "볼레렝아 포트 승"
-      ],
-      "aria_label": "알레순트 FK vs 볼레렝아 포트발 21:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
-    {
-      "id": "16451996",
-      "url": "https://bbongtv4.com/premium/soccer/16451996",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/16 (일)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "왓포드 FC",
-      "team2": "사우샘프턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "사우샘프턴 승",
-      "ai_picks": [
-        "왓포드 FC 승"
-      ],
-      "aria_label": "왓포드 FC vs 사우샘프턴 21:30 분석 상세",
-      "source_date": "2026-08-16"
-    },
     {
       "id": "16452543",
       "url": "https://bbongtv4.com/premium/soccer/16452543",
@@ -1514,6 +1413,107 @@
         "서울 이랜드 FC 승"
       ],
       "aria_label": "서울 이랜드 FC vs 안산 그리너스 FC 19:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451993",
+      "url": "https://bbongtv4.com/premium/soccer/16451993",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "페예노르트",
+      "team2": "고 어헤드 이글스",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "페예노르트 승",
+      "ai_picks": [
+        "페예노르트 승"
+      ],
+      "aria_label": "페예노르트 vs 고 어헤드 이글스 21:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451994",
+      "url": "https://bbongtv4.com/premium/soccer/16451994",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/16 (일)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 트벤터",
+      "team2": "PEC 즈볼러",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "FC 트벤터 승 + 언더 3.5",
+      "ai_picks": [
+        "FC 트벤터 승",
+        "언더 3.5"
+      ],
+      "aria_label": "FC 트벤터 vs PEC 즈볼러 21:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451995",
+      "url": "https://bbongtv4.com/premium/soccer/16451995",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "8/16 (일)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "알레순트 FK",
+      "team2": "볼레렝아 포트발",
+      "score1": 5,
+      "score2": 5,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "볼레렝아 포트발 승",
+      "ai_picks": [
+        "볼레렝아 포트 승"
+      ],
+      "aria_label": "알레순트 FK vs 볼레렝아 포트발 21:30 분석 상세",
+      "source_date": "2026-08-16"
+    },
+    {
+      "id": "16451996",
+      "url": "https://bbongtv4.com/premium/soccer/16451996",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/16 (일)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "왓포드 FC",
+      "team2": "사우샘프턴",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "사우샘프턴 승",
+      "ai_picks": [
+        "왓포드 FC 승"
+      ],
+      "aria_label": "왓포드 FC vs 사우샘프턴 21:30 분석 상세",
       "source_date": "2026-08-16"
     }
   ]
