@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T21:54:42.588464+00:00",
+  "scraped_at": "2026-08-16T22:25:17.508755+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -394,12 +394,12 @@
       "league": "MLB",
       "date": "8/17 (월)",
       "time": "03:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미네소타",
       "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 7,
       "prob": {
         "home": 38.0,
         "away": 62.0

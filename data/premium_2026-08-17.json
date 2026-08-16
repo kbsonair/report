@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-16T21:54:40.304658+00:00",
+  "scraped_at": "2026-08-16T22:25:14.785682+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "16262630",
-      "url": "https://bbongtv4.com/premium/baseball/16262630",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/17 (월)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "필라델피아 승, 오버 9.5 공략 추천",
-      "ai_picks": [
-        "필라델피아 승",
-        "오버 9.5"
-      ],
-      "aria_label": "미네소타 vs 필라델피아 03:10 분석 상세",
-      "source_date": "2026-08-17"
-    },
     {
       "id": "16262632",
       "url": "https://bbongtv4.com/premium/baseball/16262632",
@@ -707,6 +682,31 @@
         "언더 8.5"
       ],
       "aria_label": "클리블랜드 vs 샌디에이고 02:40 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16262630",
+      "url": "https://bbongtv4.com/premium/baseball/16262630",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/17 (월)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타",
+      "team2": "필라델피아",
+      "score1": 5,
+      "score2": 7,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "필라델피아 승, 오버 9.5 공략 추천",
+      "ai_picks": [
+        "필라델피아 승",
+        "오버 9.5"
+      ],
+      "aria_label": "미네소타 vs 필라델피아 03:10 분석 상세",
       "source_date": "2026-08-17"
     },
     {
