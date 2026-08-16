@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-16T19:00:38.432273+00:00",
+  "scraped_at": "2026-08-16T19:39:01.737653+00:00",
   "count": 29,
   "matches": [
     {
@@ -26,33 +26,6 @@
         "탬파베이 승"
       ],
       "aria_label": "탬파베이 vs 볼티모어 01:15 분석 상세",
-      "source_date": "2026-08-17"
-    },
-    {
-      "id": "16452276",
-      "url": "https://bbongtv4.com/premium/soccer/16452276",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/17 (월)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "RCD 에스파뇰",
-      "team2": "레반테 UD",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "2.5 언더 (저득점 경기 예상), 홈팀 승 또는 무승부",
-      "ai_picks": [
-        "언더 2.5",
-        "RCD 에스파뇰 승",
-        "무승부"
-      ],
-      "aria_label": "RCD 에스파뇰 vs 레반테 UD 02:00 분석 상세",
       "source_date": "2026-08-17"
     },
     {
@@ -732,6 +705,33 @@
         "웨스트햄 유나 승"
       ],
       "aria_label": "번리 FC vs 웨스트햄 유나이티드 00:00 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452276",
+      "url": "https://bbongtv4.com/premium/soccer/16452276",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/17 (월)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "RCD 에스파뇰",
+      "team2": "레반테 UD",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "2.5 언더 (저득점 경기 예상), 홈팀 승 또는 무승부",
+      "ai_picks": [
+        "언더 2.5",
+        "RCD 에스파뇰 승",
+        "무승부"
+      ],
+      "aria_label": "RCD 에스파뇰 vs 레반테 UD 02:00 분석 상세",
       "source_date": "2026-08-17"
     }
   ]

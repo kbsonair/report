@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T19:00:40.724592+00:00",
+  "scraped_at": "2026-08-16T19:39:03.917364+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -169,12 +169,12 @@
       "league": "SPA D1",
       "date": "8/17 (월)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "RCD 에스파뇰",
       "team2": "레반테 UD",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 42.0,
         "draw": 30.0,
