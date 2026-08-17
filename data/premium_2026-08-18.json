@@ -1,62 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-17T21:00:29.463271+00:00",
+  "scraped_at": "2026-08-17T21:44:16.978235+00:00",
   "count": 12,
   "matches": [
-    {
-      "id": "16452848",
-      "url": "https://bbongtv4.com/premium/soccer/16452848",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/18 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "데포르티보 라코루냐",
-      "team2": "엘체 CF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀 데포르티보 라코루냐 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "데포르티보 라 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "데포르티보 라코루냐 vs 엘체 CF 04:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16452849",
-      "url": "https://bbongtv4.com/premium/soccer/16452849",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/18 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카디프 시티",
-      "team2": "렉섬 AFC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 카디프 시티 승리 및 오버 2.5",
-      "ai_picks": [
-        "카디프 시티 승",
-        "오버 2.5"
-      ],
-      "aria_label": "카디프 시티 vs 렉섬 AFC 04:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16262638",
       "url": "https://bbongtv4.com/premium/baseball/16262638",
@@ -301,6 +248,59 @@
         "태국 승"
       ],
       "aria_label": "태국 vs 싱가포르 22:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16452848",
+      "url": "https://bbongtv4.com/premium/soccer/16452848",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/18 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "데포르티보 라코루냐",
+      "team2": "엘체 CF",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 데포르티보 라코루냐 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "데포르티보 라 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "데포르티보 라코루냐 vs 엘체 CF 04:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16452849",
+      "url": "https://bbongtv4.com/premium/soccer/16452849",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/18 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "카디프 시티",
+      "team2": "렉섬 AFC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 카디프 시티 승리 및 오버 2.5",
+      "ai_picks": [
+        "카디프 시티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "카디프 시티 vs 렉섬 AFC 04:00 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
