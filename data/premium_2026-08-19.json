@@ -1,0 +1,112 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-19",
+  "source_date": "2026-08-19",
+  "scraped_at": "2026-08-17T15:33:21.324955+00:00",
+  "count": 4,
+  "matches": [
+    {
+      "id": "16453173",
+      "url": "https://bbongtv4.com/premium/soccer/16453173",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/19 (수)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "인데펜디엔테 리바다비아",
+      "team2": "플루미넨시 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "플루미넨시 FC 승 또는 무승부 (언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "플루미넨시 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "인데펜디엔테 리바다비아 vs 플루미넨시 FC 07:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16453182",
+      "url": "https://bbongtv4.com/premium/soccer/16453182",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/19 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "우니베르시다드 카톨리카",
+      "team2": "에스투디안테스 데 라플라타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 30.0,
+        "away": 35.0
+      },
+      "ai_summary": "에스투디안테스 데 라플라타 승 또는 무승부 (언더 2.5 추천)",
+      "ai_picks": [
+        "에스투디안테스 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "우니베르시다드 카톨리카 vs 에스투디안테스 데 라플라타 09:30 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454802",
+      "url": "https://bbongtv4.com/premium/soccer/16454802",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/19 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르테스 톨리마",
+      "team2": "인데펜디엔테 델 바예",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "인데펜디엔테 델 바예 승",
+      "ai_picks": [
+        "인데펜디엔테  승"
+      ],
+      "aria_label": "데포르테스 톨리마 vs 인데펜디엔테 델 바예 09:30 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454347",
+      "url": "https://bbongtv4.com/premium/soccer/16454347",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/19 (수)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남",
+      "team2": "말레이시아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 72.0,
+        "draw": 16.0,
+        "away": 12.0
+      },
+      "ai_summary": "베트남 승",
+      "ai_picks": [
+        "베트남 승"
+      ],
+      "aria_label": "베트남 vs 말레이시아 22:00 분석 상세",
+      "source_date": "2026-08-19"
+    }
+  ]
+}
