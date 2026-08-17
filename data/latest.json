@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T12:59:24.259163+00:00",
+  "scraped_at": "2026-08-17T13:47:59.449601+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -8,7 +8,7 @@
     "2026-08-17",
     "2026-08-18"
   ],
-  "count": 99,
+  "count": 100,
   "matches": [
     {
       "id": "16452848",
@@ -257,6 +257,31 @@
         "골든스테이트 승"
       ],
       "aria_label": "골든스테이트 vs 댈러스 11:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16454740",
+      "url": "https://bbongtv4.com/premium/soccer/16454740",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/18 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "시드니 FC",
+      "team2": "Southern Districts Raiders",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 80.0,
+        "draw": 12.0,
+        "away": 8.0
+      },
+      "ai_summary": "시드니 FC 승",
+      "ai_picks": [
+        "시드니 FC 승"
+      ],
+      "aria_label": "시드니 FC vs Southern Districts Raiders 18:30 분석 상세",
       "source_date": "2026-08-18"
     },
     {
