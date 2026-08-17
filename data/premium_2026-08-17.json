@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-17T02:45:54.007237+00:00",
+  "scraped_at": "2026-08-17T03:53:33.607676+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "16262636",
-      "url": "https://bbongtv4.com/premium/baseball/16262636",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/17 (월)",
-      "time": "08:20",
-      "status": "예정",
-      "result": null,
-      "team1": "휴스턴",
-      "team2": "시애틀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "시애틀 승 또는 언더 7.5",
-      "ai_picks": [
-        "시애틀 승",
-        "언더 7.5"
-      ],
-      "aria_label": "휴스턴 vs 시애틀 08:20 분석 상세",
-      "source_date": "2026-08-17"
-    },
-    {
-      "id": "16452446",
-      "url": "https://bbongtv4.com/premium/soccer/16452446",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/17 (월)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "오스틴 FC",
-      "team2": "FC 댈러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 22.0,
-        "away": 50.0
-      },
-      "ai_summary": "FC 댈러스 승리 및 오버 2.5골",
-      "ai_picks": [
-        "FC 댈러스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "오스틴 FC vs FC 댈러스 09:30 분석 상세",
-      "source_date": "2026-08-17"
-    },
     {
       "id": "16452452",
       "url": "https://bbongtv4.com/premium/soccer/16452452",
@@ -732,6 +681,57 @@
         "피닉스 승"
       ],
       "aria_label": "피닉스 vs 포틀랜드 08:00 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16262636",
+      "url": "https://bbongtv4.com/premium/baseball/16262636",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/17 (월)",
+      "time": "08:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "휴스턴",
+      "team2": "시애틀",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "시애틀 승 또는 언더 7.5",
+      "ai_picks": [
+        "시애틀 승",
+        "언더 7.5"
+      ],
+      "aria_label": "휴스턴 vs 시애틀 08:20 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452446",
+      "url": "https://bbongtv4.com/premium/soccer/16452446",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "09:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오스틴 FC",
+      "team2": "FC 댈러스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "FC 댈러스 승리 및 오버 2.5골",
+      "ai_picks": [
+        "FC 댈러스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "오스틴 FC vs FC 댈러스 09:30 분석 상세",
       "source_date": "2026-08-17"
     }
   ]
