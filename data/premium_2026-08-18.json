@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-18",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-17T13:47:59.367295+00:00",
-  "count": 11,
+  "scraped_at": "2026-08-17T14:31:59.476649+00:00",
+  "count": 12,
   "matches": [
     {
       "id": "16452848",
@@ -276,6 +276,31 @@
         "시드니 FC 승"
       ],
       "aria_label": "시드니 FC vs Southern Districts Raiders 18:30 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16453032",
+      "url": "https://bbongtv4.com/premium/soccer/16453032",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/18 (화)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "태국",
+      "team2": "싱가포르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "태국 승",
+      "ai_picks": [
+        "태국 승"
+      ],
+      "aria_label": "태국 vs 싱가포르 22:00 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
