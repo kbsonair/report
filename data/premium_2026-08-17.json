@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-17",
-  "scraped_at": "2026-08-17T04:47:44.449569+00:00",
+  "scraped_at": "2026-08-17T05:37:54.404099+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "16452452",
-      "url": "https://bbongtv4.com/premium/soccer/16452452",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/17 (월)",
-      "time": "11:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 사운더스 FC",
-      "team2": "밴쿠버 화이트캡스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "밴쿠버 화이트캡스 FC 승 또는 양팀 모두 득점(오버 2.5)",
-      "ai_picks": [
-        "밴쿠버 화이트 승",
-        "오버 2.5"
-      ],
-      "aria_label": "시애틀 사운더스 FC vs 밴쿠버 화이트캡스 FC 11:30 분석 상세",
-      "source_date": "2026-08-17"
-    },
     {
       "id": "16452161",
       "url": "https://bbongtv4.com/premium/soccer/16452161",
@@ -732,6 +706,32 @@
         "오버 2.5"
       ],
       "aria_label": "오스틴 FC vs FC 댈러스 09:30 분석 상세",
+      "source_date": "2026-08-17"
+    },
+    {
+      "id": "16452452",
+      "url": "https://bbongtv4.com/premium/soccer/16452452",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/17 (월)",
+      "time": "11:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 사운더스 FC",
+      "team2": "밴쿠버 화이트캡스 FC",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "밴쿠버 화이트캡스 FC 승 또는 양팀 모두 득점(오버 2.5)",
+      "ai_picks": [
+        "밴쿠버 화이트 승",
+        "오버 2.5"
+      ],
+      "aria_label": "시애틀 사운더스 FC vs 밴쿠버 화이트캡스 FC 11:30 분석 상세",
       "source_date": "2026-08-17"
     }
   ]
