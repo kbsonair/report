@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T09:22:44.493414+00:00",
+  "scraped_at": "2026-08-17T10:14:12.523054+00:00",
   "kst_yesterday": "2026-08-16",
   "kst_today": "2026-08-17",
   "kst_tomorrow": "2026-08-18",
@@ -495,12 +495,12 @@
       "league": "MLB",
       "date": "8/17 (월)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "피츠버그",
       "team2": "보스턴",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 3,
       "prob": {
         "home": 40.0,
         "away": 60.0
