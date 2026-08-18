@@ -1,56 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T01:42:01.652045+00:00",
+  "scraped_at": "2026-08-18T02:59:11.847905+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16262637",
-      "url": "https://bbongtv4.com/premium/baseball/16262637",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "07:05",
-      "status": "예정",
-      "result": null,
-      "team1": "탬파베이",
-      "team2": "볼티모어",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "언더 (양 선발의 낮은 ERA와 안정적 투구 내용을 고려한 저득점 경기 예상)",
-      "ai_picks": [],
-      "aria_label": "탬파베이 vs 볼티모어 07:05 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16262638",
-      "url": "https://bbongtv4.com/premium/baseball/16262638",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "필라델피아",
-      "team2": "마이애미",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "필라델피아 승리",
-      "ai_picks": [
-        "필라델피아 승"
-      ],
-      "aria_label": "필라델피아 vs 마이애미 07:40 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16262640",
       "url": "https://bbongtv4.com/premium/baseball/16262640",
@@ -500,6 +453,53 @@
         "오버 2.5"
       ],
       "aria_label": "카디프 시티 vs 렉섬 AFC 04:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262637",
+      "url": "https://bbongtv4.com/premium/baseball/16262637",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "07:05",
+      "status": "종료",
+      "result": null,
+      "team1": "탬파베이",
+      "team2": "볼티모어",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더 (양 선발의 낮은 ERA와 안정적 투구 내용을 고려한 저득점 경기 예상)",
+      "ai_picks": [],
+      "aria_label": "탬파베이 vs 볼티모어 07:05 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262638",
+      "url": "https://bbongtv4.com/premium/baseball/16262638",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "필라델피아",
+      "team2": "마이애미",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "필라델피아 승리",
+      "ai_picks": [
+        "필라델피아 승"
+      ],
+      "aria_label": "필라델피아 vs 마이애미 07:40 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
