@@ -1,134 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T02:59:11.847905+00:00",
+  "scraped_at": "2026-08-18T03:51:49.805606+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16262640",
-      "url": "https://bbongtv4.com/premium/baseball/16262640",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "08:05",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그",
-      "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "언더 7.5 추천 / 승패는 박빙이나 피츠버그 홈 이점 근소 우위",
-      "ai_picks": [
-        "피츠버그 승",
-        "언더 7.5"
-      ],
-      "aria_label": "피츠버그 vs 디트로이트 08:05 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16262641",
-      "url": "https://bbongtv4.com/premium/baseball/16262641",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "보스턴",
-      "team2": "애리조나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "보스턴 소폭 우세 또는 박빙 경기 예상 - 보스턴 투수력 우위와 애리조나 상대전적 우위가 충돌하는 구도",
-      "ai_picks": [
-        "보스턴 승"
-      ],
-      "aria_label": "보스턴 vs 애리조나 08:10 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16262642",
-      "url": "https://bbongtv4.com/premium/baseball/16262642",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕메츠",
-      "team2": "샌디에이고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "언더 (총 득점 8.5 이하) / 승패는 샌디에이고 근소 우위이나, 메츠 홈 선발 이점으로 접전 예상",
-      "ai_picks": [
-        "언더 8.5",
-        "샌디에이고 승"
-      ],
-      "aria_label": "뉴욕메츠 vs 샌디에이고 08:10 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16262643",
-      "url": "https://bbongtv4.com/premium/baseball/16262643",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "애틀랜타 승리, 언더 8.5",
-      "ai_picks": [
-        "애틀랜타 승",
-        "언더 8.5"
-      ],
-      "aria_label": "미네소타 vs 애틀랜타 08:40 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16262644",
-      "url": "https://bbongtv4.com/premium/baseball/16262644",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티",
-      "team2": "애슬레틱스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "캔자스시티 승리",
-      "ai_picks": [
-        "캔자스시티 승"
-      ],
-      "aria_label": "캔자스시티 vs 애슬레틱스 08:40 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16262645",
       "url": "https://bbongtv4.com/premium/baseball/16262645",
@@ -500,6 +375,131 @@
         "필라델피아 승"
       ],
       "aria_label": "필라델피아 vs 마이애미 07:40 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262640",
+      "url": "https://bbongtv4.com/premium/baseball/16262640",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "피츠버그",
+      "team2": "디트로이트",
+      "score1": 5,
+      "score2": 8,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더 7.5 추천 / 승패는 박빙이나 피츠버그 홈 이점 근소 우위",
+      "ai_picks": [
+        "피츠버그 승",
+        "언더 7.5"
+      ],
+      "aria_label": "피츠버그 vs 디트로이트 08:05 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262641",
+      "url": "https://bbongtv4.com/premium/baseball/16262641",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보스턴",
+      "team2": "애리조나",
+      "score1": 11,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "보스턴 소폭 우세 또는 박빙 경기 예상 - 보스턴 투수력 우위와 애리조나 상대전적 우위가 충돌하는 구도",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "보스턴 vs 애리조나 08:10 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262642",
+      "url": "https://bbongtv4.com/premium/baseball/16262642",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴욕메츠",
+      "team2": "샌디에이고",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "언더 (총 득점 8.5 이하) / 승패는 샌디에이고 근소 우위이나, 메츠 홈 선발 이점으로 접전 예상",
+      "ai_picks": [
+        "언더 8.5",
+        "샌디에이고 승"
+      ],
+      "aria_label": "뉴욕메츠 vs 샌디에이고 08:10 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262643",
+      "url": "https://bbongtv4.com/premium/baseball/16262643",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타",
+      "team2": "애틀랜타",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "애틀랜타 승리, 언더 8.5",
+      "ai_picks": [
+        "애틀랜타 승",
+        "언더 8.5"
+      ],
+      "aria_label": "미네소타 vs 애틀랜타 08:40 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262644",
+      "url": "https://bbongtv4.com/premium/baseball/16262644",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티",
+      "team2": "애슬레틱스",
+      "score1": 9,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "캔자스시티 승리",
+      "ai_picks": [
+        "캔자스시티 승"
+      ],
+      "aria_label": "캔자스시티 vs 애슬레틱스 08:40 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
