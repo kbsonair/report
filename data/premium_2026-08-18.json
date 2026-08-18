@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T08:41:26.886040+00:00",
+  "scraped_at": "2026-08-18T09:37:38.709253+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "16263931",
-      "url": "https://bbongtv4.com/premium/baseball/16263931",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니혼햄",
-      "team2": "소프트뱅크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 17.0,
-        "away": 45.0
-      },
-      "ai_summary": "소프트뱅크 근소 우세, 저득점 접전 예상 (언더 유력)",
-      "ai_picks": [
-        "소프트뱅크 승"
-      ],
-      "aria_label": "니혼햄 vs 소프트뱅크 14:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16263928",
       "url": "https://bbongtv4.com/premium/baseball/16263928",
@@ -624,6 +599,31 @@
         "골든스테이트 승"
       ],
       "aria_label": "골든스테이트 vs 댈러스 11:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263931",
+      "url": "https://bbongtv4.com/premium/baseball/16263931",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니혼햄",
+      "team2": "소프트뱅크",
+      "score1": 1,
+      "score2": 7,
+      "prob": {
+        "home": 38.0,
+        "draw": 17.0,
+        "away": 45.0
+      },
+      "ai_summary": "소프트뱅크 근소 우세, 저득점 접전 예상 (언더 유력)",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "니혼햄 vs 소프트뱅크 14:00 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
