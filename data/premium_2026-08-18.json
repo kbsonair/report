@@ -1,160 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T11:58:53.604750+00:00",
+  "scraped_at": "2026-08-18T13:02:19.861060+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "16263928",
-      "url": "https://bbongtv4.com/premium/baseball/16263928",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "17:45",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마",
-      "team2": "요미우리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 10.0,
-        "away": 40.0
-      },
-      "ai_summary": "요코하마 승",
-      "ai_picks": [
-        "요코하마 승"
-      ],
-      "aria_label": "요코하마 vs 요미우리 17:45 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16263929",
-      "url": "https://bbongtv4.com/premium/baseball/16263929",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한신",
-      "team2": "야쿠르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 15.0,
-        "away": 30.0
-      },
-      "ai_summary": "한신 승리 (저득점 경기 예상, 언더 흐름 유력)",
-      "ai_picks": [
-        "한신 승"
-      ],
-      "aria_label": "한신 vs 야쿠르트 18:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16263930",
-      "url": "https://bbongtv4.com/premium/baseball/16263930",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마",
-      "team2": "주니치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 15.0,
-        "away": 45.0
-      },
-      "ai_summary": "주니치 승 또는 언더 (저득점 접전 예상, 오노 유다이의 마쯔다 스타디움 무실점 기록과 주니치 타선의 토코다 상대 높은 타율 반영)",
-      "ai_picks": [
-        "주니치 승"
-      ],
-      "aria_label": "히로시마 vs 주니치 18:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16263932",
-      "url": "https://bbongtv4.com/premium/baseball/16263932",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라쿠텐",
-      "team2": "치바롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 15.0,
-        "away": 35.0
-      },
-      "ai_summary": "라쿠텐 승리, 언더 추천",
-      "ai_picks": [
-        "라쿠텐 승"
-      ],
-      "aria_label": "라쿠텐 vs 치바롯데 18:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16263933",
-      "url": "https://bbongtv4.com/premium/baseball/16263933",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/18 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부",
-      "team2": "오릭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 15.0,
-        "away": 35.0
-      },
-      "ai_summary": "세이부 승 및 언더 6.5",
-      "ai_picks": [
-        "세이부 승",
-        "언더 6.5"
-      ],
-      "aria_label": "세이부 vs 오릭스 18:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
-    {
-      "id": "16454740",
-      "url": "https://bbongtv4.com/premium/soccer/16454740",
-      "sport": "soccer",
-      "league": "AUS FFA",
-      "date": "8/18 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시드니 FC",
-      "team2": "Southern Districts Raiders",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 12.0,
-        "away": 8.0
-      },
-      "ai_summary": "시드니 FC 승",
-      "ai_picks": [
-        "시드니 FC 승"
-      ],
-      "aria_label": "시드니 FC vs Southern Districts Raiders 18:30 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16260671",
       "url": "https://bbongtv4.com/premium/baseball/16260671",
@@ -624,6 +473,157 @@
         "소프트뱅크 승"
       ],
       "aria_label": "니혼햄 vs 소프트뱅크 14:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263928",
+      "url": "https://bbongtv4.com/premium/baseball/16263928",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "17:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요코하마",
+      "team2": "요미우리",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "요코하마 승",
+      "ai_picks": [
+        "요코하마 승"
+      ],
+      "aria_label": "요코하마 vs 요미우리 17:45 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263929",
+      "url": "https://bbongtv4.com/premium/baseball/16263929",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한신",
+      "team2": "야쿠르트",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "한신 승리 (저득점 경기 예상, 언더 흐름 유력)",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "한신 vs 야쿠르트 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263930",
+      "url": "https://bbongtv4.com/premium/baseball/16263930",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "히로시마",
+      "team2": "주니치",
+      "score1": 11,
+      "score2": 4,
+      "prob": {
+        "home": 40.0,
+        "draw": 15.0,
+        "away": 45.0
+      },
+      "ai_summary": "주니치 승 또는 언더 (저득점 접전 예상, 오노 유다이의 마쯔다 스타디움 무실점 기록과 주니치 타선의 토코다 상대 높은 타율 반영)",
+      "ai_picks": [
+        "주니치 승"
+      ],
+      "aria_label": "히로시마 vs 주니치 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263932",
+      "url": "https://bbongtv4.com/premium/baseball/16263932",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라쿠텐",
+      "team2": "치바롯데",
+      "score1": 6,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 15.0,
+        "away": 35.0
+      },
+      "ai_summary": "라쿠텐 승리, 언더 추천",
+      "ai_picks": [
+        "라쿠텐 승"
+      ],
+      "aria_label": "라쿠텐 vs 치바롯데 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263933",
+      "url": "https://bbongtv4.com/premium/baseball/16263933",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부",
+      "team2": "오릭스",
+      "score1": 7,
+      "score2": 4,
+      "prob": {
+        "home": 50.0,
+        "draw": 15.0,
+        "away": 35.0
+      },
+      "ai_summary": "세이부 승 및 언더 6.5",
+      "ai_picks": [
+        "세이부 승",
+        "언더 6.5"
+      ],
+      "aria_label": "세이부 vs 오릭스 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16454740",
+      "url": "https://bbongtv4.com/premium/soccer/16454740",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/18 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시드니 FC",
+      "team2": "Southern Districts Raiders",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 80.0,
+        "draw": 12.0,
+        "away": 8.0
+      },
+      "ai_summary": "시드니 FC 승",
+      "ai_picks": [
+        "시드니 FC 승"
+      ],
+      "aria_label": "시드니 FC vs Southern Districts Raiders 18:30 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
