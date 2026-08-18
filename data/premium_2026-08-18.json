@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T03:51:49.805606+00:00",
+  "scraped_at": "2026-08-18T04:39:24.196156+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16262645",
-      "url": "https://bbongtv4.com/premium/baseball/16262645",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/18 (화)",
-      "time": "09:05",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고컵스",
-      "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "시카고컵스 vs 시카고화이트삭스 09:05 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16262646",
       "url": "https://bbongtv4.com/premium/baseball/16262646",
@@ -500,6 +476,30 @@
         "캔자스시티 승"
       ],
       "aria_label": "캔자스시티 vs 애슬레틱스 08:40 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262645",
+      "url": "https://bbongtv4.com/premium/baseball/16262645",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "09:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고컵스",
+      "team2": "시카고화이트삭스",
+      "score1": 7,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "시카고컵스 vs 시카고화이트삭스 09:05 분석 상세",
       "source_date": "2026-08-18"
     }
   ]
