@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T23:56:30.480858+00:00",
+  "scraped_at": "2026-08-18T01:42:05.638917+00:00",
   "kst_yesterday": "2026-08-17",
   "kst_today": "2026-08-18",
   "kst_tomorrow": "2026-08-19",
@@ -8,8 +8,86 @@
     "2026-08-18",
     "2026-08-19"
   ],
-  "count": 45,
+  "count": 60,
   "matches": [
+    {
+      "id": "16454651",
+      "url": "https://bbongtv4.com/premium/soccer/16454651",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "NK 디나모 자그레브",
+      "team2": "바이킹 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 NK 디나모 자그레브 승 및 오버 2.5골",
+      "ai_picks": [
+        "NK 디나모 자그 승",
+        "오버 2.5"
+      ],
+      "aria_label": "NK 디나모 자그레브 vs 바이킹 FK 04:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454652",
+      "url": "https://bbongtv4.com/premium/soccer/16454652",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "페네르바흐체 SK",
+      "team2": "올랭피크 리옹",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 페네르바흐체 SK 승리",
+      "ai_picks": [
+        "페네르바흐체 S 승"
+      ],
+      "aria_label": "페네르바흐체 SK vs 올랭피크 리옹 04:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454653",
+      "url": "https://bbongtv4.com/premium/soccer/16454653",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레브스키 소피아",
+      "team2": "AEK 아테네 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "AEK 아테네 FC 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "AEK 아테네 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "레브스키 소피아 vs AEK 아테네 FC 04:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
     {
       "id": "16453173",
       "url": "https://bbongtv4.com/premium/soccer/16453173",
@@ -35,6 +113,56 @@
         "언더 2.5"
       ],
       "aria_label": "인데펜디엔테 리바다비아 vs 플루미넨시 FC 07:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16356829",
+      "url": "https://bbongtv4.com/premium/basket/16356829",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/19 (수)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코네티컷",
+      "team2": "LA",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 5.0,
+        "away": 47.0
+      },
+      "ai_summary": "코네티컷 승 또는 언더 172.5",
+      "ai_picks": [
+        "코네티컷 승",
+        "언더 172.5"
+      ],
+      "aria_label": "코네티컷 vs LA 08:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16356830",
+      "url": "https://bbongtv4.com/premium/basket/16356830",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/19 (수)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토론토",
+      "team2": "인디애나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "인디애나 승",
+      "ai_picks": [
+        "인디애나 승"
+      ],
+      "aria_label": "토론토 vs 인디애나 08:00 분석 상세",
       "source_date": "2026-08-19"
     },
     {
@@ -87,6 +215,54 @@
         "인데펜디엔테  승"
       ],
       "aria_label": "데포르테스 톨리마 vs 인데펜디엔테 델 바예 09:30 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16356831",
+      "url": "https://bbongtv4.com/premium/basket/16356831",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/19 (수)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고",
+      "team2": "뉴욕",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "뉴욕 승",
+      "ai_picks": [
+        "뉴욕 승"
+      ],
+      "aria_label": "시카고 vs 뉴욕 10:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16356832",
+      "url": "https://bbongtv4.com/premium/basket/16356832",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/19 (수)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라스베가스",
+      "team2": "애틀랜타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "라스베가스 승",
+      "ai_picks": [
+        "라스베가스 승"
+      ],
+      "aria_label": "라스베가스 vs 애틀랜타 10:00 분석 상세",
       "source_date": "2026-08-19"
     },
     {
@@ -168,6 +344,29 @@
       "source_date": "2026-08-18"
     },
     {
+      "id": "16262637",
+      "url": "https://bbongtv4.com/premium/baseball/16262637",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "07:05",
+      "status": "예정",
+      "result": null,
+      "team1": "탬파베이",
+      "team2": "볼티모어",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "언더 (양 선발의 낮은 ERA와 안정적 투구 내용을 고려한 저득점 경기 예상)",
+      "ai_picks": [],
+      "aria_label": "탬파베이 vs 볼티모어 07:05 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
       "id": "16262638",
       "url": "https://bbongtv4.com/premium/baseball/16262638",
       "sport": "baseball",
@@ -215,6 +414,31 @@
         "언더 7.5"
       ],
       "aria_label": "피츠버그 vs 디트로이트 08:05 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16262641",
+      "url": "https://bbongtv4.com/premium/baseball/16262641",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/18 (화)",
+      "time": "08:10",
+      "status": "예정",
+      "result": null,
+      "team1": "보스턴",
+      "team2": "애리조나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "보스턴 소폭 우세 또는 박빙 경기 예상 - 보스턴 투수력 우위와 애리조나 상대전적 우위가 충돌하는 구도",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "보스턴 vs 애리조나 08:10 분석 상세",
       "source_date": "2026-08-18"
     },
     {
@@ -361,6 +585,157 @@
         "골든스테이트 승"
       ],
       "aria_label": "골든스테이트 vs 댈러스 11:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263931",
+      "url": "https://bbongtv4.com/premium/baseball/16263931",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "니혼햄",
+      "team2": "소프트뱅크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 17.0,
+        "away": 45.0
+      },
+      "ai_summary": "소프트뱅크 근소 우세, 저득점 접전 예상 (언더 유력)",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "니혼햄 vs 소프트뱅크 14:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263928",
+      "url": "https://bbongtv4.com/premium/baseball/16263928",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "17:45",
+      "status": "예정",
+      "result": null,
+      "team1": "요코하마",
+      "team2": "요미우리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "요코하마 승",
+      "ai_picks": [
+        "요코하마 승"
+      ],
+      "aria_label": "요코하마 vs 요미우리 17:45 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263929",
+      "url": "https://bbongtv4.com/premium/baseball/16263929",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한신",
+      "team2": "야쿠르트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "한신 승리 (저득점 경기 예상, 언더 흐름 유력)",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "한신 vs 야쿠르트 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263930",
+      "url": "https://bbongtv4.com/premium/baseball/16263930",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "히로시마",
+      "team2": "주니치",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 15.0,
+        "away": 45.0
+      },
+      "ai_summary": "주니치 승 또는 언더 (저득점 접전 예상, 오노 유다이의 마쯔다 스타디움 무실점 기록과 주니치 타선의 토코다 상대 높은 타율 반영)",
+      "ai_picks": [
+        "주니치 승"
+      ],
+      "aria_label": "히로시마 vs 주니치 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263932",
+      "url": "https://bbongtv4.com/premium/baseball/16263932",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라쿠텐",
+      "team2": "치바롯데",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 15.0,
+        "away": 35.0
+      },
+      "ai_summary": "라쿠텐 승리, 언더 추천",
+      "ai_picks": [
+        "라쿠텐 승"
+      ],
+      "aria_label": "라쿠텐 vs 치바롯데 18:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16263933",
+      "url": "https://bbongtv4.com/premium/baseball/16263933",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/18 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세이부",
+      "team2": "오릭스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 15.0,
+        "away": 35.0
+      },
+      "ai_summary": "세이부 승 및 언더 6.5",
+      "ai_picks": [
+        "세이부 승",
+        "언더 6.5"
+      ],
+      "aria_label": "세이부 vs 오릭스 18:00 분석 상세",
       "source_date": "2026-08-18"
     },
     {
