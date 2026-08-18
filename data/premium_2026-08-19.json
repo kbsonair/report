@@ -1,87 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-19",
-  "scraped_at": "2026-08-18T20:58:35.287415+00:00",
+  "scraped_at": "2026-08-18T21:32:16.108212+00:00",
   "count": 26,
   "matches": [
-    {
-      "id": "16454651",
-      "url": "https://bbongtv4.com/premium/soccer/16454651",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/19 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NK 디나모 자그레브",
-      "team2": "바이킹 FK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 22.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 NK 디나모 자그레브 승 및 오버 2.5골",
-      "ai_picks": [
-        "NK 디나모 자그 승",
-        "오버 2.5"
-      ],
-      "aria_label": "NK 디나모 자그레브 vs 바이킹 FK 04:00 분석 상세",
-      "source_date": "2026-08-19"
-    },
-    {
-      "id": "16454652",
-      "url": "https://bbongtv4.com/premium/soccer/16454652",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/19 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "페네르바흐체 SK",
-      "team2": "올랭피크 리옹",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀 페네르바흐체 SK 승리",
-      "ai_picks": [
-        "페네르바흐체 S 승"
-      ],
-      "aria_label": "페네르바흐체 SK vs 올랭피크 리옹 04:00 분석 상세",
-      "source_date": "2026-08-19"
-    },
-    {
-      "id": "16454653",
-      "url": "https://bbongtv4.com/premium/soccer/16454653",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/19 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "레브스키 소피아",
-      "team2": "AEK 아테네 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "AEK 아테네 FC 승 또는 무승부 (언더 2.5골 유력)",
-      "ai_picks": [
-        "AEK 아테네 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "레브스키 소피아 vs AEK 아테네 FC 04:00 분석 상세",
-      "source_date": "2026-08-19"
-    },
     {
       "id": "16453173",
       "url": "https://bbongtv4.com/premium/soccer/16453173",
@@ -648,6 +570,84 @@
         "베트남 승"
       ],
       "aria_label": "베트남 vs 말레이시아 22:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454651",
+      "url": "https://bbongtv4.com/premium/soccer/16454651",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "NK 디나모 자그레브",
+      "team2": "바이킹 FK",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 NK 디나모 자그레브 승 및 오버 2.5골",
+      "ai_picks": [
+        "NK 디나모 자그 승",
+        "오버 2.5"
+      ],
+      "aria_label": "NK 디나모 자그레브 vs 바이킹 FK 04:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454652",
+      "url": "https://bbongtv4.com/premium/soccer/16454652",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "페네르바흐체 SK",
+      "team2": "올랭피크 리옹",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 페네르바흐체 SK 승리",
+      "ai_picks": [
+        "페네르바흐체 S 승"
+      ],
+      "aria_label": "페네르바흐체 SK vs 올랭피크 리옹 04:00 분석 상세",
+      "source_date": "2026-08-19"
+    },
+    {
+      "id": "16454653",
+      "url": "https://bbongtv4.com/premium/soccer/16454653",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/19 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레브스키 소피아",
+      "team2": "AEK 아테네 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "AEK 아테네 FC 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "AEK 아테네 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "레브스키 소피아 vs AEK 아테네 FC 04:00 분석 상세",
       "source_date": "2026-08-19"
     }
   ]
