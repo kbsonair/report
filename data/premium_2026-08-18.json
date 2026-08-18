@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-18",
   "source_date": "2026-08-18",
-  "scraped_at": "2026-08-18T14:56:03.240694+00:00",
+  "scraped_at": "2026-08-18T15:37:44.387194+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "16453032",
-      "url": "https://bbongtv4.com/premium/soccer/16453032",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/18 (화)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "태국",
-      "team2": "싱가포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "태국 승",
-      "ai_picks": [
-        "태국 승"
-      ],
-      "aria_label": "태국 vs 싱가포르 22:00 분석 상세",
-      "source_date": "2026-08-18"
-    },
     {
       "id": "16452848",
       "url": "https://bbongtv4.com/premium/soccer/16452848",
@@ -624,6 +599,31 @@
         "롯데 승"
       ],
       "aria_label": "롯데 vs 키움 19:00 분석 상세",
+      "source_date": "2026-08-18"
+    },
+    {
+      "id": "16453032",
+      "url": "https://bbongtv4.com/premium/soccer/16453032",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/18 (화)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "태국",
+      "team2": "싱가포르",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "태국 승",
+      "ai_picks": [
+        "태국 승"
+      ],
+      "aria_label": "태국 vs 싱가포르 22:00 분석 상세",
       "source_date": "2026-08-18"
     }
   ]

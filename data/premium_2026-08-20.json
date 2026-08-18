@@ -1,0 +1,84 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-20",
+  "source_date": "2026-08-20",
+  "scraped_at": "2026-08-18T15:37:45.317326+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "16454566",
+      "url": "https://bbongtv4.com/premium/soccer/16454566",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/20 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세로 포르테뇨",
+      "team2": "SE 파우메이라스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "SE 파우메이라스 승 (단, 언더 2.5골 병행 추천)",
+      "ai_picks": [
+        "SE 파우메이라 승",
+        "언더 2.5"
+      ],
+      "aria_label": "세로 포르테뇨 vs SE 파우메이라스 07:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454567",
+      "url": "https://bbongtv4.com/premium/soccer/16454567",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/20 (목)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코킴보 유니도",
+      "team2": "CA 플라텐세",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "코킴보 유니도 승",
+      "ai_picks": [
+        "코킴보 유니도 승"
+      ],
+      "aria_label": "코킴보 유니도 vs CA 플라텐세 07:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454605",
+      "url": "https://bbongtv4.com/premium/soccer/16454605",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/20 (목)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "CR 플라멩구",
+      "team2": "크루제이루 EC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 23.0,
+        "away": 27.0
+      },
+      "ai_summary": "CR 플라멩구 승",
+      "ai_picks": [
+        "CR 플라멩구 승"
+      ],
+      "aria_label": "CR 플라멩구 vs 크루제이루 EC 09:30 분석 상세",
+      "source_date": "2026-08-20"
+    }
+  ]
+}
