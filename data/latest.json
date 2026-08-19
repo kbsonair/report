@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T05:35:26.796078+00:00",
+  "scraped_at": "2026-08-19T06:01:25.783207+00:00",
   "kst_yesterday": "2026-08-18",
   "kst_today": "2026-08-19",
   "kst_tomorrow": "2026-08-20",
@@ -8,7 +8,7 @@
     "2026-08-19",
     "2026-08-20"
   ],
-  "count": 101,
+  "count": 106,
   "matches": [
     {
       "id": "16262664",
@@ -235,6 +235,28 @@
       "source_date": "2026-08-20"
     },
     {
+      "id": "16262667",
+      "url": "https://bbongtv4.com/premium/baseball/16262667",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "07:05",
+      "status": "예정",
+      "result": null,
+      "team1": "필라델피아",
+      "team2": "마이애미",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "마이애미 승 (알칸타라의 압도적 선발 우위 기반, 다만 접전 예상)",
+      "ai_picks": [],
+      "aria_label": "필라델피아 vs 마이애미 07:05 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
       "id": "16262668",
       "url": "https://bbongtv4.com/premium/baseball/16262668",
       "sport": "baseball",
@@ -254,6 +276,50 @@
       "ai_summary": "뉴욕양키스 승 / 언더 9.5",
       "ai_picks": [],
       "aria_label": "볼티모어 vs 뉴욕양키스 07:35 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262669",
+      "url": "https://bbongtv4.com/premium/baseball/16262669",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "클리블랜드",
+      "team2": "샌프란시스코",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "클리블랜드 승",
+      "ai_picks": [],
+      "aria_label": "클리블랜드 vs 샌프란시스코 07:40 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262671",
+      "url": "https://bbongtv4.com/premium/baseball/16262671",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "탬파베이",
+      "team2": "토론토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "탬파베이 승리",
+      "ai_picks": [],
+      "aria_label": "탬파베이 vs 토론토 07:40 분석 상세",
       "source_date": "2026-08-20"
     },
     {
@@ -484,6 +550,29 @@
       "source_date": "2026-08-20"
     },
     {
+      "id": "16262673",
+      "url": "https://bbongtv4.com/premium/baseball/16262673",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "08:40",
+      "status": "예정",
+      "result": null,
+      "team1": "밀워키",
+      "team2": "시애틀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "밀워키 승리 및 언더 (총 득점 7.5 이하)",
+      "ai_picks": [],
+      "aria_label": "밀워키 vs 시애틀 08:40 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
       "id": "16454601",
       "url": "https://bbongtv4.com/premium/soccer/16454601",
       "sport": "soccer",
@@ -602,6 +691,28 @@
         "CR 플라멩구 승"
       ],
       "aria_label": "CR 플라멩구 vs 크루제이루 EC 09:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262676",
+      "url": "https://bbongtv4.com/premium/baseball/16262676",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "09:40",
+      "status": "예정",
+      "result": null,
+      "team1": "콜로라도",
+      "team2": "LA다저스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "LA다저스 승리",
+      "ai_picks": [],
+      "aria_label": "콜로라도 vs LA다저스 09:40 분석 상세",
       "source_date": "2026-08-20"
     },
     {
