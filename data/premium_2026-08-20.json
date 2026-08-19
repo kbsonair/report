@@ -1,32 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-20",
-  "scraped_at": "2026-08-19T21:01:35.942338+00:00",
+  "scraped_at": "2026-08-19T21:44:45.314709+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "16262664",
-      "url": "https://bbongtv4.com/premium/baseball/16262664",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/20 (목)",
-      "time": "02:40",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 5.0,
-        "away": 45.0
-      },
-      "ai_summary": "미네소타 승리 (홈팀 선발 우위 및 시리즈 모멘텀 활용)",
-      "ai_picks": [],
-      "aria_label": "미네소타 vs 애틀랜타 02:40 분석 상세",
-      "source_date": "2026-08-20"
-    },
     {
       "id": "16262665",
       "url": "https://bbongtv4.com/premium/baseball/16262665",
@@ -47,134 +24,6 @@
       "ai_summary": "시카고컵스 승",
       "ai_picks": [],
       "aria_label": "시카고컵스 vs 시카고화이트삭스 03:20 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454543",
-      "url": "https://bbongtv4.com/premium/soccer/16454543",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/20 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "셀틱 FC",
-      "team2": "LASK 린츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "셀틱 FC 홈 승리 (오버 2.5골 유력)",
-      "ai_picks": [
-        "셀틱 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "셀틱 FC vs LASK 린츠 04:00 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454544",
-      "url": "https://bbongtv4.com/premium/soccer/16454544",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/20 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아틀레티코 마드리드",
-      "team2": "말라가 CF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 17.0,
-        "away": 13.0
-      },
-      "ai_summary": "아틀레티코 마드리드 승 (핸디캡 -1.5 고려 가능)",
-      "ai_picks": [
-        "아틀레티코 마 승"
-      ],
-      "aria_label": "아틀레티코 마드리드 vs 말라가 CF 04:00 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454654",
-      "url": "https://bbongtv4.com/premium/soccer/16454654",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/20 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "하포엘 베르셰바 FC",
-      "team2": "Sabah Baku",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 27.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 승 (하포엘 베르셰바 FC) + 언더 2.5골",
-      "ai_picks": [
-        "하포엘 베르셰 승",
-        "언더 2.5"
-      ],
-      "aria_label": "하포엘 베르셰바 FC vs Sabah Baku 04:00 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454655",
-      "url": "https://bbongtv4.com/premium/soccer/16454655",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/20 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NEC 네이메헌",
-      "team2": "FK 보되/글림트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "FK 보되/글림트 승 또는 무승부",
-      "ai_picks": [
-        "FK 보되/글림트 승",
-        "무승부"
-      ],
-      "aria_label": "NEC 네이메헌 vs FK 보되/글림트 04:00 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454656",
-      "url": "https://bbongtv4.com/premium/soccer/16454656",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "8/20 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 슬로반 브라티슬라바",
-      "team2": "NK 첼레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 SK 슬로반 브라티슬라바 승",
-      "ai_picks": [
-        "SK 슬로반 브라 승"
-      ],
-      "aria_label": "SK 슬로반 브라티슬라바 vs NK 첼레 04:00 분석 상세",
       "source_date": "2026-08-20"
     },
     {
@@ -863,6 +712,157 @@
         "언더 3.5"
       ],
       "aria_label": "밴쿠버 화이트캡스 FC vs 휴스턴 다이너모 11:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262664",
+      "url": "https://bbongtv4.com/premium/baseball/16262664",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "02:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타",
+      "team2": "애틀랜타",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "미네소타 승리 (홈팀 선발 우위 및 시리즈 모멘텀 활용)",
+      "ai_picks": [],
+      "aria_label": "미네소타 vs 애틀랜타 02:40 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454543",
+      "url": "https://bbongtv4.com/premium/soccer/16454543",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/20 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "셀틱 FC",
+      "team2": "LASK 린츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "셀틱 FC 홈 승리 (오버 2.5골 유력)",
+      "ai_picks": [
+        "셀틱 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "셀틱 FC vs LASK 린츠 04:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454544",
+      "url": "https://bbongtv4.com/premium/soccer/16454544",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/20 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "아틀레티코 마드리드",
+      "team2": "말라가 CF",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 17.0,
+        "away": 13.0
+      },
+      "ai_summary": "아틀레티코 마드리드 승 (핸디캡 -1.5 고려 가능)",
+      "ai_picks": [
+        "아틀레티코 마 승"
+      ],
+      "aria_label": "아틀레티코 마드리드 vs 말라가 CF 04:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454654",
+      "url": "https://bbongtv4.com/premium/soccer/16454654",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/20 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "하포엘 베르셰바 FC",
+      "team2": "Sabah Baku",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "draw": 27.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 승 (하포엘 베르셰바 FC) + 언더 2.5골",
+      "ai_picks": [
+        "하포엘 베르셰 승",
+        "언더 2.5"
+      ],
+      "aria_label": "하포엘 베르셰바 FC vs Sabah Baku 04:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454655",
+      "url": "https://bbongtv4.com/premium/soccer/16454655",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/20 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "NEC 네이메헌",
+      "team2": "FK 보되/글림트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "FK 보되/글림트 승 또는 무승부",
+      "ai_picks": [
+        "FK 보되/글림트 승",
+        "무승부"
+      ],
+      "aria_label": "NEC 네이메헌 vs FK 보되/글림트 04:00 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454656",
+      "url": "https://bbongtv4.com/premium/soccer/16454656",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "8/20 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 슬로반 브라티슬라바",
+      "team2": "NK 첼레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 SK 슬로반 브라티슬라바 승",
+      "ai_picks": [
+        "SK 슬로반 브라 승"
+      ],
+      "aria_label": "SK 슬로반 브라티슬라바 vs NK 첼레 04:00 분석 상세",
       "source_date": "2026-08-20"
     }
   ]
