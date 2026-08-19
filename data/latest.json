@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T16:03:08.321797+00:00",
+  "scraped_at": "2026-08-19T16:51:19.387020+00:00",
   "kst_yesterday": "2026-08-19",
   "kst_today": "2026-08-20",
   "kst_tomorrow": "2026-08-21",
@@ -1348,12 +1348,12 @@
       "league": "MLB",
       "date": "8/19 (수)",
       "time": "09:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고컵스",
       "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 52.0,
         "draw": 5.0,
