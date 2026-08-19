@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T08:48:35.718165+00:00",
+  "scraped_at": "2026-08-19T09:38:01.379053+00:00",
   "kst_yesterday": "2026-08-18",
   "kst_today": "2026-08-19",
   "kst_tomorrow": "2026-08-20",
@@ -1499,12 +1499,12 @@
       "league": "NPB",
       "date": "8/19 (수)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니혼햄",
       "team2": "소프트뱅크",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 7,
       "prob": {
         "home": 35.0,
         "draw": 5.0,
