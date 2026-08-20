@@ -1,75 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-20",
-  "scraped_at": "2026-08-20T04:03:15.242363+00:00",
+  "scraped_at": "2026-08-20T04:57:12.616584+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "16262674",
-      "url": "https://bbongtv4.com/premium/baseball/16262674",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/20 (목)",
-      "time": "09:05",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "워싱턴 승 (언더 흐름 유력)",
-      "ai_picks": [],
-      "aria_label": "텍사스 vs 워싱턴 09:05 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16262675",
-      "url": "https://bbongtv4.com/premium/baseball/16262675",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/20 (목)",
-      "time": "09:10",
-      "status": "예정",
-      "result": null,
-      "team1": "휴스턴",
-      "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "휴스턴 승리 (언더 8.5 추천)",
-      "ai_picks": [],
-      "aria_label": "휴스턴 vs LA엔젤스 09:10 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16262676",
-      "url": "https://bbongtv4.com/premium/baseball/16262676",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/20 (목)",
-      "time": "09:40",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도",
-      "team2": "LA다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "LA다저스 승리",
-      "ai_picks": [],
-      "aria_label": "콜로라도 vs LA다저스 09:40 분석 상세",
-      "source_date": "2026-08-20"
-    },
     {
       "id": "16454618",
       "url": "https://bbongtv4.com/premium/soccer/16454618",
@@ -492,12 +426,12 @@
       "league": "WNBA",
       "date": "8/20 (목)",
       "time": "08:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "골든스테이트",
       "team2": "미네소타",
-      "score1": null,
-      "score2": null,
+      "score1": 66,
+      "score2": 77,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -736,6 +670,50 @@
       "source_date": "2026-08-20"
     },
     {
+      "id": "16262674",
+      "url": "https://bbongtv4.com/premium/baseball/16262674",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "09:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "텍사스",
+      "team2": "워싱턴",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "워싱턴 승 (언더 흐름 유력)",
+      "ai_picks": [],
+      "aria_label": "텍사스 vs 워싱턴 09:05 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262675",
+      "url": "https://bbongtv4.com/premium/baseball/16262675",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "09:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "휴스턴",
+      "team2": "LA엔젤스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "휴스턴 승리 (언더 8.5 추천)",
+      "ai_picks": [],
+      "aria_label": "휴스턴 vs LA엔젤스 09:10 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
       "id": "16454604",
       "url": "https://bbongtv4.com/premium/soccer/16454604",
       "sport": "soccer",
@@ -785,6 +763,28 @@
         "CR 플라멩구 승"
       ],
       "aria_label": "CR 플라멩구 vs 크루제이루 EC 09:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16262676",
+      "url": "https://bbongtv4.com/premium/baseball/16262676",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "09:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도",
+      "team2": "LA다저스",
+      "score1": 4,
+      "score2": 6,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "LA다저스 승리",
+      "ai_picks": [],
+      "aria_label": "콜로라도 vs LA다저스 09:40 분석 상세",
       "source_date": "2026-08-20"
     },
     {
