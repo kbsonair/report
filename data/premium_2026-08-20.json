@@ -1,32 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-20",
-  "scraped_at": "2026-08-20T03:00:21.111149+00:00",
+  "scraped_at": "2026-08-20T04:03:15.242363+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "16262673",
-      "url": "https://bbongtv4.com/premium/baseball/16262673",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/20 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키",
-      "team2": "시애틀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
-      },
-      "ai_summary": "밀워키 승리 및 언더 (총 득점 7.5 이하)",
-      "ai_picks": [],
-      "aria_label": "밀워키 vs 시애틀 08:40 분석 상세",
-      "source_date": "2026-08-20"
-    },
     {
       "id": "16262674",
       "url": "https://bbongtv4.com/premium/baseball/16262674",
@@ -91,84 +68,6 @@
       "ai_summary": "LA다저스 승리",
       "ai_picks": [],
       "aria_label": "콜로라도 vs LA다저스 09:40 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454614",
-      "url": "https://bbongtv4.com/premium/soccer/16454614",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/20 (목)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 라피즈",
-      "team2": "로스앤젤레스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "콜로라도 라피즈 승 또는 무승부 (홈팀 무패)",
-      "ai_picks": [
-        "콜로라도 라피 승",
-        "무승부"
-      ],
-      "aria_label": "콜로라도 라피즈 vs 로스앤젤레스 FC 10:30 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454615",
-      "url": "https://bbongtv4.com/premium/soccer/16454615",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/20 (목)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "레알 솔트레이크",
-      "team2": "FC 댈러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 27.0,
-        "away": 28.0
-      },
-      "ai_summary": "레알 솔트레이크 승 또는 무승부 (언더 3.5 추천)",
-      "ai_picks": [
-        "레알 솔트레이 승",
-        "무승부",
-        "언더 3.5"
-      ],
-      "aria_label": "레알 솔트레이크 vs FC 댈러스 10:30 분석 상세",
-      "source_date": "2026-08-20"
-    },
-    {
-      "id": "16454616",
-      "url": "https://bbongtv4.com/premium/soccer/16454616",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/20 (목)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 사운더스 FC",
-      "team2": "오스틴 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 22.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 시애틀 사운더스 FC 승리",
-      "ai_picks": [
-        "시애틀 사운더 승"
-      ],
-      "aria_label": "시애틀 사운더스 FC vs 오스틴 FC 10:30 분석 상세",
       "source_date": "2026-08-20"
     },
     {
@@ -789,6 +688,29 @@
       "source_date": "2026-08-20"
     },
     {
+      "id": "16262673",
+      "url": "https://bbongtv4.com/premium/baseball/16262673",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/20 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "밀워키",
+      "team2": "시애틀",
+      "score1": 5,
+      "score2": 7,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "밀워키 승리 및 언더 (총 득점 7.5 이하)",
+      "ai_picks": [],
+      "aria_label": "밀워키 vs 시애틀 08:40 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
       "id": "16454601",
       "url": "https://bbongtv4.com/premium/soccer/16454601",
       "sport": "soccer",
@@ -820,12 +742,12 @@
       "league": "USA MLS",
       "date": "8/20 (목)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "미네소타 유나이티드 FC",
       "team2": "애틀랜타 유나이티드 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 48.0,
         "draw": 27.0,
@@ -863,6 +785,84 @@
         "CR 플라멩구 승"
       ],
       "aria_label": "CR 플라멩구 vs 크루제이루 EC 09:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454614",
+      "url": "https://bbongtv4.com/premium/soccer/16454614",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/20 (목)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 라피즈",
+      "team2": "로스앤젤레스 FC",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "콜로라도 라피즈 승 또는 무승부 (홈팀 무패)",
+      "ai_picks": [
+        "콜로라도 라피 승",
+        "무승부"
+      ],
+      "aria_label": "콜로라도 라피즈 vs 로스앤젤레스 FC 10:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454615",
+      "url": "https://bbongtv4.com/premium/soccer/16454615",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/20 (목)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "레알 솔트레이크",
+      "team2": "FC 댈러스",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 45.0,
+        "draw": 27.0,
+        "away": 28.0
+      },
+      "ai_summary": "레알 솔트레이크 승 또는 무승부 (언더 3.5 추천)",
+      "ai_picks": [
+        "레알 솔트레이 승",
+        "무승부",
+        "언더 3.5"
+      ],
+      "aria_label": "레알 솔트레이크 vs FC 댈러스 10:30 분석 상세",
+      "source_date": "2026-08-20"
+    },
+    {
+      "id": "16454616",
+      "url": "https://bbongtv4.com/premium/soccer/16454616",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/20 (목)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시애틀 사운더스 FC",
+      "team2": "오스틴 FC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 시애틀 사운더스 FC 승리",
+      "ai_picks": [
+        "시애틀 사운더 승"
+      ],
+      "aria_label": "시애틀 사운더스 FC vs 오스틴 FC 10:30 분석 상세",
       "source_date": "2026-08-20"
     }
   ]
