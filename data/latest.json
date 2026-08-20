@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T13:51:37.693317+00:00",
+  "scraped_at": "2026-08-20T14:39:55.121934+00:00",
   "kst_yesterday": "2026-08-19",
   "kst_today": "2026-08-20",
   "kst_tomorrow": "2026-08-21",
@@ -526,12 +526,12 @@
       "league": "USA MLS",
       "date": "8/20 (목)",
       "time": "08:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "올랜도 시티 SC",
       "team2": "시카고 파이어",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 28.0,
         "draw": 22.0,
