@@ -1,32 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-21",
-  "scraped_at": "2026-08-20T23:44:22.204039+00:00",
+  "scraped_at": "2026-08-21T01:36:32.474302+00:00",
   "count": 2,
   "matches": [
-    {
-      "id": "16455252",
-      "url": "https://bbongtv4.com/premium/soccer/16455252",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/21 (금)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LDU 키토",
-      "team2": "미라소우 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 22.0,
-        "away": 18.0
-      },
-      "ai_summary": "LDU 키토 승",
-      "ai_picks": [],
-      "aria_label": "LDU 키토 vs 미라소우 FC 07:00 분석 상세",
-      "source_date": "2026-08-21"
-    },
     {
       "id": "16455264",
       "url": "https://bbongtv4.com/premium/soccer/16455264",
@@ -48,6 +25,29 @@
       "ai_summary": "코린치앙스 승 (1골 차 박빙 승부 예상)",
       "ai_picks": [],
       "aria_label": "코린치앙스 vs 로사리오 센트랄 09:30 분석 상세",
+      "source_date": "2026-08-21"
+    },
+    {
+      "id": "16455252",
+      "url": "https://bbongtv4.com/premium/soccer/16455252",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "8/21 (금)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "LDU 키토",
+      "team2": "미라소우 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "LDU 키토 승",
+      "ai_picks": [],
+      "aria_label": "LDU 키토 vs 미라소우 FC 07:00 분석 상세",
       "source_date": "2026-08-21"
     }
   ]
