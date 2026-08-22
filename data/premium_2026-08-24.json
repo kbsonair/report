@@ -1,7 +1,366 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-24",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-22T23:27:50.194856+00:00",
-  "count": 0,
-  "matches": []
+  "scraped_at": "2026-08-22T23:55:37.927676+00:00",
+  "count": 14,
+  "matches": [
+    {
+      "id": "16458777",
+      "url": "https://bbongtv4.com/premium/soccer/16458777",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/24 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "아틀레티코 마드리드",
+      "team2": "비야레알",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "아틀레티코 마드리드 승",
+      "ai_picks": [
+        "아틀레티코 마 승"
+      ],
+      "aria_label": "아틀레티코 마드리드 vs 비야레알 00:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458816",
+      "url": "https://bbongtv4.com/premium/soccer/16458816",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/24 (월)",
+      "time": "00:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴캐슬 유나이티드 FC",
+      "team2": "리버풀 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "리버풀 FC 승",
+      "ai_picks": [
+        "리버풀 FC 승"
+      ],
+      "aria_label": "뉴캐슬 유나이티드 FC vs 리버풀 FC 00:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458832",
+      "url": "https://bbongtv4.com/premium/soccer/16458832",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/24 (월)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "포르투나 뒤셀도르프",
+      "team2": "SC 프라이부르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "SC 프라이부르크 승",
+      "ai_picks": [
+        "SC 프라이부르 승"
+      ],
+      "aria_label": "포르투나 뒤셀도르프 vs SC 프라이부르크 00:59 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458833",
+      "url": "https://bbongtv4.com/premium/soccer/16458833",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/24 (월)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "Phonix Lubeck",
+      "team2": "SC 파더보른 07",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 10.0,
+        "away": 85.0
+      },
+      "ai_summary": "SC 파더보른 07 승",
+      "ai_picks": [
+        "SC 파더보른 07 승"
+      ],
+      "aria_label": "Phonix Lubeck vs SC 파더보른 07 00:59 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458834",
+      "url": "https://bbongtv4.com/premium/soccer/16458834",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/24 (월)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "RW 에센",
+      "team2": "FC 장크트파울리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "FC 장크트파울리 승",
+      "ai_picks": [
+        "FC 장크트파울 승"
+      ],
+      "aria_label": "RW 에센 vs FC 장크트파울리 00:59 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458903",
+      "url": "https://bbongtv4.com/premium/soccer/16458903",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "프로시노네 칼초",
+      "team2": "유벤투스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 15.0,
+        "away": 73.0
+      },
+      "ai_summary": "유벤투스 FC 원정 승",
+      "ai_picks": [
+        "유벤투스 FC 승"
+      ],
+      "aria_label": "프로시노네 칼초 vs 유벤투스 FC 01:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458904",
+      "url": "https://bbongtv4.com/premium/soccer/16458904",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "베네치아 FC",
+      "team2": "US 레체",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 33.0,
+        "away": 27.0
+      },
+      "ai_summary": "베네치아 FC 승 또는 무승부 (홈팀 핸디캡 0 추천, 언더 2.5 병행)",
+      "ai_picks": [
+        "베네치아 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "베네치아 FC vs US 레체 01:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458939",
+      "url": "https://bbongtv4.com/premium/soccer/16458939",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/24 (월)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "헤타페 CF",
+      "team2": "라싱 산탄데르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "오버 1.5골 (양 팀 모두 득점 가능성 높음), 승패 시장에서는 헤타페 CF 승 또는 무승부",
+      "ai_picks": [
+        "헤타페 CF 승",
+        "무승부",
+        "오버 1.5"
+      ],
+      "aria_label": "헤타페 CF vs 라싱 산탄데르 02:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458974",
+      "url": "https://bbongtv4.com/premium/soccer/16458974",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "아탈란타 BC",
+      "team2": "US 사수올로 칼초",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "아탈란타 BC 승",
+      "ai_picks": [
+        "아탈란타 BC 승"
+      ],
+      "aria_label": "아탈란타 BC vs US 사수올로 칼초 03:45 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458975",
+      "url": "https://bbongtv4.com/premium/soccer/16458975",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "토리노 FC",
+      "team2": "AC 밀란",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "AC 밀란 승 또는 무승부 (토리노 핸디캡 +1 추천, 언더 2.5 유력)",
+      "ai_picks": [
+        "AC 밀란 승",
+        "무승부",
+        "토리노 FC +1",
+        "언더 2.5"
+      ],
+      "aria_label": "토리노 FC vs AC 밀란 03:45 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16464665",
+      "url": "https://bbongtv4.com/premium/soccer/16464665",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "스타드 렌 FC",
+      "team2": "파리 생제르맹 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "스타드 렌 FC 승 또는 언더 3.5골",
+      "ai_picks": [
+        "스타드 렌 FC 승",
+        "언더 3.5"
+      ],
+      "aria_label": "스타드 렌 FC vs 파리 생제르맹 FC 03:45 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16459002",
+      "url": "https://bbongtv4.com/premium/soccer/16459002",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/24 (월)",
+      "time": "04:30",
+      "status": "예정",
+      "result": null,
+      "team1": "엘체 CF",
+      "team2": "FC 바르셀로나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 10.0,
+        "away": 85.0
+      },
+      "ai_summary": "FC 바르셀로나 승 (원정 승)",
+      "ai_picks": [
+        "FC 바르셀로나 승"
+      ],
+      "aria_label": "엘체 CF vs FC 바르셀로나 04:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16459034",
+      "url": "https://bbongtv4.com/premium/soccer/16459034",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/24 (월)",
+      "time": "05:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴잉글랜드 레볼루션",
+      "team2": "뉴욕 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 뉴잉글랜드 레볼루션 승리",
+      "ai_picks": [
+        "뉴잉글랜드 레 승"
+      ],
+      "aria_label": "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 05:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16459057",
+      "url": "https://bbongtv4.com/premium/soccer/16459057",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/24 (월)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타 유나이티드 FC",
+      "team2": "스포팅 캔자스시티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 애틀랜타 유나이티드 FC 승리",
+      "ai_picks": [
+        "애틀랜타 유나 승"
+      ],
+      "aria_label": "애틀랜타 유나이티드 FC vs 스포팅 캔자스시티 08:00 분석 상세",
+      "source_date": "2026-08-24"
+    }
+  ]
 }
