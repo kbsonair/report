@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T17:28:32.460855+00:00",
+  "scraped_at": "2026-08-22T17:56:16.555671+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16457592",
-      "url": "https://bbongtv4.com/premium/soccer/16457592",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/23 (일)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아틀레틱 빌바오",
-      "team2": "세비야 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 24.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 아틀레틱 빌바오 근소 우세, 언더 2.5 추천",
-      "ai_picks": [
-        "아틀레틱 빌바 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아틀레틱 빌바오 vs 세비야 FC 00:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457697",
-      "url": "https://bbongtv4.com/premium/soccer/16457697",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/23 (일)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "RC 랑스",
-      "team2": "AJ 오세르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "RC 랑스 승 + 오버 2.5골",
-      "ai_picks": [
-        "RC 랑스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "RC 랑스 vs AJ 오세르 00:15 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16457715",
       "url": "https://bbongtv4.com/premium/soccer/16457715",
@@ -1245,6 +1193,58 @@
         "언더 3.5"
       ],
       "aria_label": "산호세 어스퀘이크스 vs 미네소타 유나이티드 FC 11:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457592",
+      "url": "https://bbongtv4.com/premium/soccer/16457592",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/23 (일)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아틀레틱 빌바오",
+      "team2": "세비야 FC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "draw": 24.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 아틀레틱 빌바오 근소 우세, 언더 2.5 추천",
+      "ai_picks": [
+        "아틀레틱 빌바 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아틀레틱 빌바오 vs 세비야 FC 00:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457697",
+      "url": "https://bbongtv4.com/premium/soccer/16457697",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/23 (일)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "RC 랑스",
+      "team2": "AJ 오세르",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "RC 랑스 승 + 오버 2.5골",
+      "ai_picks": [
+        "RC 랑스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "RC 랑스 vs AJ 오세르 00:15 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
