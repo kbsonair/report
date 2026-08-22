@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T09:57:05.248728+00:00",
+  "scraped_at": "2026-08-22T10:31:53.275022+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16456708",
-      "url": "https://bbongtv4.com/premium/soccer/16456708",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/22 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "반라우레 하치노헤",
-      "team2": "베갈타 센다이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 27.0,
-        "away": 55.0
-      },
-      "ai_summary": "베갈타 센다이 승 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "베갈타 센다이 승",
-        "언더 2.5"
-      ],
-      "aria_label": "반라우레 하치노헤 vs 베갈타 센다이 17:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16260691",
       "url": "https://bbongtv4.com/premium/baseball/16260691",
@@ -2135,6 +2109,32 @@
         "오버 2.5"
       ],
       "aria_label": "콘사도레 삿포로 vs RB 오미야 아르디자 15:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456708",
+      "url": "https://bbongtv4.com/premium/soccer/16456708",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/22 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "반라우레 하치노헤",
+      "team2": "베갈타 센다이",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 18.0,
+        "draw": 27.0,
+        "away": 55.0
+      },
+      "ai_summary": "베갈타 센다이 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "베갈타 센다이 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 하치노헤 vs 베갈타 센다이 17:00 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
