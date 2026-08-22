@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T05:47:14.830522+00:00",
+  "scraped_at": "2026-08-22T06:46:41.839186+00:00",
   "kst_yesterday": "2026-08-21",
   "kst_today": "2026-08-22",
   "kst_tomorrow": "2026-08-23",
@@ -1829,12 +1829,12 @@
       "league": "MLB",
       "date": "8/22 (토)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀",
       "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 50.0,
         "away": 50.0
@@ -1853,12 +1853,12 @@
       "league": "MLB",
       "date": "8/22 (토)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA다저스",
       "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 62.0,
         "away": 38.0

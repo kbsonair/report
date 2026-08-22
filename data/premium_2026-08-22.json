@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T05:47:12.611324+00:00",
+  "scraped_at": "2026-08-22T06:46:39.035170+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16262698",
-      "url": "https://bbongtv4.com/premium/baseball/16262698",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/22 (토)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "away": 50.0
-      },
-      "ai_summary": "시애틀 승 / 언더 (저득점 경기 예상)",
-      "ai_picks": [
-        "시애틀 승"
-      ],
-      "aria_label": "시애틀 vs 시카고컵스 11:10 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16262699",
-      "url": "https://bbongtv4.com/premium/baseball/16262699",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/22 (토)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA다저스",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "LA다저스 승"
-      ],
-      "aria_label": "LA다저스 vs 피츠버그 11:10 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16263951",
       "url": "https://bbongtv4.com/premium/baseball/16263951",
@@ -2135,6 +2087,54 @@
         "언더 186.5"
       ],
       "aria_label": "토론토 vs 포틀랜드 11:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16262698",
+      "url": "https://bbongtv4.com/premium/baseball/16262698",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/22 (토)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀",
+      "team2": "시카고컵스",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "시애틀 승 / 언더 (저득점 경기 예상)",
+      "ai_picks": [
+        "시애틀 승"
+      ],
+      "aria_label": "시애틀 vs 시카고컵스 11:10 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16262699",
+      "url": "https://bbongtv4.com/premium/baseball/16262699",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/22 (토)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA다저스",
+      "team2": "피츠버그",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "LA다저스 승"
+      ],
+      "aria_label": "LA다저스 vs 피츠버그 11:10 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
