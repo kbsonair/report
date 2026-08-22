@@ -1,295 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-22",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T16:29:16.791643+00:00",
+  "scraped_at": "2026-08-22T16:57:40.269053+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16457275",
-      "url": "https://bbongtv4.com/premium/soccer/16457275",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에버턴 FC",
-      "team2": "크리스탈 팰리스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "에버턴 FC 승리",
-      "ai_picks": [
-        "에버턴 FC 승"
-      ],
-      "aria_label": "에버턴 FC vs 크리스탈 팰리스 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457276",
-      "url": "https://bbongtv4.com/premium/soccer/16457276",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "입스위치 타운 FC",
-      "team2": "선덜랜드 AFC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 27.0,
-        "away": 33.0
-      },
-      "ai_summary": "홈팀 입스위치 타운 FC 승 또는 언더 2.5",
-      "ai_picks": [
-        "입스위치 타운  승",
-        "언더 2.5"
-      ],
-      "aria_label": "입스위치 타운 FC vs 선덜랜드 AFC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457277",
-      "url": "https://bbongtv4.com/premium/soccer/16457277",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "노팅엄 포리스트 FC",
-      "team2": "리즈 유나이티드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 27.0,
-        "away": 30.0
-      },
-      "ai_summary": "노팅엄 포리스트 FC 승 또는 무승부 (홈팀 0핸디 추천)",
-      "ai_picks": [
-        "노팅엄 포리스 승",
-        "무승부"
-      ],
-      "aria_label": "노팅엄 포리스트 FC vs 리즈 유나이티드 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457312",
-      "url": "https://bbongtv4.com/premium/soccer/16457312",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "블랙번 로버스",
-      "team2": "미들즈브러 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "미들즈브러 FC 승 또는 무승부 (언더 2.5 유력)",
-      "ai_picks": [
-        "미들즈브러 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "블랙번 로버스 vs 미들즈브러 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457313",
-      "url": "https://bbongtv4.com/premium/soccer/16457313",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "더비 카운티 FC",
-      "team2": "카디프 시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 더비 카운티 FC 승 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "더비 카운티 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "더비 카운티 FC vs 카디프 시티 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457314",
-      "url": "https://bbongtv4.com/premium/soccer/16457314",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "프레스턴 노스 엔드 FC",
-      "team2": "울버햄프턴 원더러스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "울버햄프턴 원더러스 FC 승리 (오버 2.5골)",
-      "ai_picks": [
-        "울버햄프턴 원 승",
-        "오버 2.5"
-      ],
-      "aria_label": "프레스턴 노스 엔드 FC vs 울버햄프턴 원더러스 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457315",
-      "url": "https://bbongtv4.com/premium/soccer/16457315",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "퀸즈 파크 레인저스",
-      "team2": "볼턴 원더러스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "퀸즈 파크 레인저스 홈 승",
-      "ai_picks": [
-        "퀸즈 파크 레인 승"
-      ],
-      "aria_label": "퀸즈 파크 레인저스 vs 볼턴 원더러스 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457316",
-      "url": "https://bbongtv4.com/premium/soccer/16457316",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사우샘프턴",
-      "team2": "스토크 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "사우샘프턴 승리",
-      "ai_picks": [
-        "사우샘프턴 승"
-      ],
-      "aria_label": "사우샘프턴 vs 스토크 시티 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457317",
-      "url": "https://bbongtv4.com/premium/soccer/16457317",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "스완지 시티 AFC",
-      "team2": "셰필드 유나이티드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "스완지 시티 AFC 승 또는 무승부 (핸디캡 0 스완지 추천, 언더 2.5 병행)",
-      "ai_picks": [
-        "스완지 시티 AF 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "스완지 시티 AFC vs 셰필드 유나이티드 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457318",
-      "url": "https://bbongtv4.com/premium/soccer/16457318",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트햄 유나이티드",
-      "team2": "찰턴 애슬레틱 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "웨스트햄 유나이티드 승 + 오버 2.5",
-      "ai_picks": [
-        "웨스트햄 유나 승",
-        "오버 2.5"
-      ],
-      "aria_label": "웨스트햄 유나이티드 vs 찰턴 애슬레틱 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457319",
-      "url": "https://bbongtv4.com/premium/soccer/16457319",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "렉섬 AFC",
-      "team2": "왓포드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 30.0,
-        "away": 35.0
-      },
-      "ai_summary": "왓포드 FC 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "왓포드 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "렉섬 AFC vs 왓포드 FC 23:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16457539",
       "url": "https://bbongtv4.com/premium/soccer/16457539",
@@ -2135,6 +1849,292 @@
         "언더 3.5"
       ],
       "aria_label": "Viktoria Koln vs FC 뉘른베르크 22:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457275",
+      "url": "https://bbongtv4.com/premium/soccer/16457275",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에버턴 FC",
+      "team2": "크리스탈 팰리스 FC",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "에버턴 FC 승리",
+      "ai_picks": [
+        "에버턴 FC 승"
+      ],
+      "aria_label": "에버턴 FC vs 크리스탈 팰리스 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457276",
+      "url": "https://bbongtv4.com/premium/soccer/16457276",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "입스위치 타운 FC",
+      "team2": "선덜랜드 AFC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 40.0,
+        "draw": 27.0,
+        "away": 33.0
+      },
+      "ai_summary": "홈팀 입스위치 타운 FC 승 또는 언더 2.5",
+      "ai_picks": [
+        "입스위치 타운  승",
+        "언더 2.5"
+      ],
+      "aria_label": "입스위치 타운 FC vs 선덜랜드 AFC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457277",
+      "url": "https://bbongtv4.com/premium/soccer/16457277",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "노팅엄 포리스트 FC",
+      "team2": "리즈 유나이티드 FC",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 43.0,
+        "draw": 27.0,
+        "away": 30.0
+      },
+      "ai_summary": "노팅엄 포리스트 FC 승 또는 무승부 (홈팀 0핸디 추천)",
+      "ai_picks": [
+        "노팅엄 포리스 승",
+        "무승부"
+      ],
+      "aria_label": "노팅엄 포리스트 FC vs 리즈 유나이티드 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457312",
+      "url": "https://bbongtv4.com/premium/soccer/16457312",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "블랙번 로버스",
+      "team2": "미들즈브러 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "미들즈브러 FC 승 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "블랙번 로버스 vs 미들즈브러 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457313",
+      "url": "https://bbongtv4.com/premium/soccer/16457313",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "더비 카운티 FC",
+      "team2": "카디프 시티",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 더비 카운티 FC 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "더비 카운티 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "더비 카운티 FC vs 카디프 시티 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457314",
+      "url": "https://bbongtv4.com/premium/soccer/16457314",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "프레스턴 노스 엔드 FC",
+      "team2": "울버햄프턴 원더러스 FC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "울버햄프턴 원더러스 FC 승리 (오버 2.5골)",
+      "ai_picks": [
+        "울버햄프턴 원 승",
+        "오버 2.5"
+      ],
+      "aria_label": "프레스턴 노스 엔드 FC vs 울버햄프턴 원더러스 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457315",
+      "url": "https://bbongtv4.com/premium/soccer/16457315",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "퀸즈 파크 레인저스",
+      "team2": "볼턴 원더러스 FC",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "퀸즈 파크 레인저스 홈 승",
+      "ai_picks": [
+        "퀸즈 파크 레인 승"
+      ],
+      "aria_label": "퀸즈 파크 레인저스 vs 볼턴 원더러스 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457316",
+      "url": "https://bbongtv4.com/premium/soccer/16457316",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "사우샘프턴",
+      "team2": "스토크 시티 FC",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "사우샘프턴 승리",
+      "ai_picks": [
+        "사우샘프턴 승"
+      ],
+      "aria_label": "사우샘프턴 vs 스토크 시티 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457317",
+      "url": "https://bbongtv4.com/premium/soccer/16457317",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스완지 시티 AFC",
+      "team2": "셰필드 유나이티드 FC",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "스완지 시티 AFC 승 또는 무승부 (핸디캡 0 스완지 추천, 언더 2.5 병행)",
+      "ai_picks": [
+        "스완지 시티 AF 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "스완지 시티 AFC vs 셰필드 유나이티드 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457318",
+      "url": "https://bbongtv4.com/premium/soccer/16457318",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트햄 유나이티드",
+      "team2": "찰턴 애슬레틱 FC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "웨스트햄 유나이티드 승 + 오버 2.5",
+      "ai_picks": [
+        "웨스트햄 유나 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트햄 유나이티드 vs 찰턴 애슬레틱 FC 23:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457319",
+      "url": "https://bbongtv4.com/premium/soccer/16457319",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "렉섬 AFC",
+      "team2": "왓포드 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 35.0,
+        "draw": 30.0,
+        "away": 35.0
+      },
+      "ai_summary": "왓포드 FC 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "왓포드 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "렉섬 AFC vs 왓포드 FC 23:00 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
