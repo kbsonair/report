@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T19:40:45.337926+00:00",
+  "scraped_at": "2026-08-22T20:27:32.209607+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16457855",
-      "url": "https://bbongtv4.com/premium/soccer/16457855",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/23 (일)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "발렌시아",
-      "team2": "셀타 비고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "발렌시아 승 또는 무승부 (언더 2.5골 유력)",
-      "ai_picks": [
-        "발렌시아 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "발렌시아 vs 셀타 비고 02:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16262700",
       "url": "https://bbongtv4.com/premium/baseball/16262700",
@@ -1245,6 +1218,33 @@
         "오버 2.5"
       ],
       "aria_label": "스파르타 로테르담 vs FC 위트레흐트 01:45 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457855",
+      "url": "https://bbongtv4.com/premium/soccer/16457855",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/23 (일)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "발렌시아",
+      "team2": "셀타 비고",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "발렌시아 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "발렌시아 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "발렌시아 vs 셀타 비고 02:30 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
