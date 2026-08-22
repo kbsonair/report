@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-08-22T14:56:38.220639+00:00",
-  "kst_yesterday": "2026-08-21",
-  "kst_today": "2026-08-22",
-  "kst_tomorrow": "2026-08-23",
+  "scraped_at": "2026-08-22T15:28:37.414721+00:00",
+  "kst_yesterday": "2026-08-22",
+  "kst_today": "2026-08-23",
+  "kst_tomorrow": "2026-08-24",
   "included_dates": [
-    "2026-08-21",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-08-24"
   ],
-  "count": 135,
+  "count": 133,
   "matches": [
     {
       "id": "16457592",
@@ -3385,52 +3385,6 @@
       ],
       "aria_label": "포르튀나 시타르트 vs AZ 알크마르 23:30 분석 상세",
       "source_date": "2026-08-22"
-    },
-    {
-      "id": "16455252",
-      "url": "https://bbongtv4.com/premium/soccer/16455252",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/21 (금)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LDU 키토",
-      "team2": "미라소우 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 22.0,
-        "away": 18.0
-      },
-      "ai_summary": "LDU 키토 승",
-      "ai_picks": [],
-      "aria_label": "LDU 키토 vs 미라소우 FC 07:00 분석 상세",
-      "source_date": "2026-08-21"
-    },
-    {
-      "id": "16455264",
-      "url": "https://bbongtv4.com/premium/soccer/16455264",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "8/21 (금)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "코린치앙스",
-      "team2": "로사리오 센트랄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "코린치앙스 승 (1골 차 박빙 승부 예상)",
-      "ai_picks": [],
-      "aria_label": "코린치앙스 vs 로사리오 센트랄 09:30 분석 상세",
-      "source_date": "2026-08-21"
     }
   ]
 }
