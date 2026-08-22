@@ -1,7 +1,423 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-23",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T03:49:33.679854+00:00",
-  "count": 0,
-  "matches": []
+  "scraped_at": "2026-08-22T04:36:42.071746+00:00",
+  "count": 16,
+  "matches": [
+    {
+      "id": "16457697",
+      "url": "https://bbongtv4.com/premium/soccer/16457697",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/23 (일)",
+      "time": "00:15",
+      "status": "예정",
+      "result": null,
+      "team1": "RC 랑스",
+      "team2": "AJ 오세르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "RC 랑스 승 + 오버 2.5골",
+      "ai_picks": [
+        "RC 랑스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "RC 랑스 vs AJ 오세르 00:15 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457716",
+      "url": "https://bbongtv4.com/premium/soccer/16457716",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "SG 소넨호프 그로스아스파흐",
+      "team2": "아르미니아 빌레펠트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀 아르미니아 빌레펠트 승",
+      "ai_picks": [
+        "아르미니아 빌 승"
+      ],
+      "aria_label": "SG 소넨호프 그로스아스파흐 vs 아르미니아 빌레펠트 00:59 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457810",
+      "url": "https://bbongtv4.com/premium/soccer/16457810",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/23 (일)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "던디 유나이티드 FC",
+      "team2": "던디 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 24.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 던디 유나이티드 FC 승리 및 오버 2.5",
+      "ai_picks": [
+        "던디 유나이티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "던디 유나이티드 FC vs 던디 FC 01:45 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457855",
+      "url": "https://bbongtv4.com/premium/soccer/16457855",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/23 (일)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "발렌시아",
+      "team2": "셀타 비고",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "발렌시아 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "발렌시아 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "발렌시아 vs 셀타 비고 02:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457913",
+      "url": "https://bbongtv4.com/premium/soccer/16457913",
+      "sport": "soccer",
+      "league": "GER SC",
+      "date": "8/23 (일)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "보루시아 도르트문트",
+      "team2": "FC 바이에른 뮌헨",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "보루시아 도르 승"
+      ],
+      "aria_label": "보루시아 도르트문트 vs FC 바이에른 뮌헨 03:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457916",
+      "url": "https://bbongtv4.com/premium/soccer/16457916",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/23 (일)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "르망 FC",
+      "team2": "스타드 브레스트 29",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 27.0,
+        "away": 31.0
+      },
+      "ai_summary": "르망 FC 승 또는 무승부 (핸디캡 0 르망 FC, 총 득점 2.5 언더)",
+      "ai_picks": [
+        "르망 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "르망 FC vs 스타드 브레스트 29 03:45 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457918",
+      "url": "https://bbongtv4.com/premium/soccer/16457918",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/23 (일)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "툴루즈 FC",
+      "team2": "올랭피크 리옹",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 28.0,
+        "away": 32.0
+      },
+      "ai_summary": "툴루즈 FC 승 또는 무승부 (총득점 2.5 언더)",
+      "ai_picks": [
+        "툴루즈 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "툴루즈 FC vs 올랭피크 리옹 03:45 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457925",
+      "url": "https://bbongtv4.com/premium/soccer/16457925",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/23 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 헤이렌베인",
+      "team2": "PEC 즈볼러",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 SC 헤이렌베인 승리",
+      "ai_picks": [
+        "SC 헤이렌베인 승"
+      ],
+      "aria_label": "SC 헤이렌베인 vs PEC 즈볼러 04:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16356841",
+      "url": "https://bbongtv4.com/premium/basket/16356841",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/23 (일)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕",
+      "team2": "인디애나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴욕 승리 (언더 186.5)",
+      "ai_picks": [
+        "뉴욕 승",
+        "언더 186.5"
+      ],
+      "aria_label": "뉴욕 vs 인디애나 08:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458031",
+      "url": "https://bbongtv4.com/premium/soccer/16458031",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "CF 몬트리올",
+      "team2": "LA 갤럭시",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 35.0,
+        "away": 35.0
+      },
+      "ai_summary": "무승부 또는 언더 2.5",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "CF 몬트리올 vs LA 갤럭시 08:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16356842",
+      "url": "https://bbongtv4.com/premium/basket/16356842",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/23 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "LA",
+      "team2": "코네티컷",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "코네티컷 승 + 언더",
+      "ai_picks": [
+        "코네티컷 승"
+      ],
+      "aria_label": "LA vs 코네티컷 10:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458071",
+      "url": "https://bbongtv4.com/premium/soccer/16458071",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "10:30",
+      "status": "예정",
+      "result": null,
+      "team1": "밴쿠버 화이트캡스 FC",
+      "team2": "FC 댈러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 밴쿠버 화이트캡스 FC 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "밴쿠버 화이트 승",
+        "언더 3.5"
+      ],
+      "aria_label": "밴쿠버 화이트캡스 FC vs FC 댈러스 10:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16356843",
+      "url": "https://bbongtv4.com/premium/basket/16356843",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/23 (일)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "피닉스",
+      "team2": "애틀랜타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 5.0,
+        "away": 70.0
+      },
+      "ai_summary": "애틀랜타 승리 + 언더 175.5",
+      "ai_picks": [
+        "애틀랜타 승",
+        "언더 175.5"
+      ],
+      "aria_label": "피닉스 vs 애틀랜타 11:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458078",
+      "url": "https://bbongtv4.com/premium/soccer/16458078",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "로스앤젤레스 FC",
+      "team2": "포틀랜드 팀버스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 로스앤젤레스 FC 승, 언더 3.5 병행 추천",
+      "ai_picks": [
+        "로스앤젤레스 F 승",
+        "언더 3.5"
+      ],
+      "aria_label": "로스앤젤레스 FC vs 포틀랜드 팀버스 11:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458079",
+      "url": "https://bbongtv4.com/premium/soccer/16458079",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "샌디에고 FC",
+      "team2": "콜로라도 라피즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "샌디에고 FC 근소 우세 (1-0 또는 2-1), 토탈 언더 3.5 추천",
+      "ai_picks": [
+        "샌디에고 FC 승",
+        "언더 3.5"
+      ],
+      "aria_label": "샌디에고 FC vs 콜로라도 라피즈 11:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458080",
+      "url": "https://bbongtv4.com/premium/soccer/16458080",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "산호세 어스퀘이크스",
+      "team2": "미네소타 유나이티드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "산호세 어스퀘이크스 승 또는 무승부 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "산호세 어스퀘 승",
+        "무승부",
+        "언더 3.5"
+      ],
+      "aria_label": "산호세 어스퀘이크스 vs 미네소타 유나이티드 FC 11:30 분석 상세",
+      "source_date": "2026-08-23"
+    }
+  ]
 }
