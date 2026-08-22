@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T21:55:46.255499+00:00",
+  "scraped_at": "2026-08-22T22:27:53.444898+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16262701",
-      "url": "https://bbongtv4.com/premium/baseball/16262701",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키",
-      "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "밀워키 승리, 언더 7.5",
-      "ai_picks": [
-        "밀워키 승",
-        "언더 7.5"
-      ],
-      "aria_label": "밀워키 vs 애틀랜타 03:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457945",
-      "url": "https://bbongtv4.com/premium/soccer/16457945",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/23 (일)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "RCD 에스파뇰",
-      "team2": "레알 마드리드 CF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 13.0,
-        "draw": 17.0,
-        "away": 70.0
-      },
-      "ai_summary": "레알 마드리드 CF 원정 승리",
-      "ai_picks": [
-        "레알 마드리드  승"
-      ],
-      "aria_label": "RCD 에스파뇰 vs 레알 마드리드 CF 04:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16262702",
       "url": "https://bbongtv4.com/premium/baseball/16262702",
@@ -1041,6 +991,31 @@
       "source_date": "2026-08-23"
     },
     {
+      "id": "16262701",
+      "url": "https://bbongtv4.com/premium/baseball/16262701",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀워키",
+      "team2": "애틀랜타",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "밀워키 승리, 언더 7.5",
+      "ai_picks": [
+        "밀워키 승",
+        "언더 7.5"
+      ],
+      "aria_label": "밀워키 vs 애틀랜타 03:10 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
       "id": "16457913",
       "url": "https://bbongtv4.com/premium/soccer/16457913",
       "sport": "soccer",
@@ -1245,6 +1220,31 @@
         "SC 헤이렌베인 승"
       ],
       "aria_label": "SC 헤이렌베인 vs PEC 즈볼러 04:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457945",
+      "url": "https://bbongtv4.com/premium/soccer/16457945",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/23 (일)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "RCD 에스파뇰",
+      "team2": "레알 마드리드 CF",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 13.0,
+        "draw": 17.0,
+        "away": 70.0
+      },
+      "ai_summary": "레알 마드리드 CF 원정 승리",
+      "ai_picks": [
+        "레알 마드리드  승"
+      ],
+      "aria_label": "RCD 에스파뇰 vs 레알 마드리드 CF 04:30 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
