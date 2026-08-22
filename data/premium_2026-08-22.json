@@ -1,136 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-22",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T15:55:19.385260+00:00",
+  "scraped_at": "2026-08-22T16:29:16.791643+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16457110",
-      "url": "https://bbongtv4.com/premium/soccer/16457110",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/22 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 에르츠게비르게 아우에",
-      "team2": "TSG 1899 호펜하임",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 10.0,
-        "away": 85.0
-      },
-      "ai_summary": "TSG 1899 호펜하임 승 (대승 예상)",
-      "ai_picks": [
-        "TSG 1899 호펜 승"
-      ],
-      "aria_label": "FC 에르츠게비르게 아우에 vs TSG 1899 호펜하임 22:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457111",
-      "url": "https://bbongtv4.com/premium/soccer/16457111",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/22 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "MSV 뒤스부르크",
-      "team2": "SV 엘페르스베르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "SV 엘페르스베르크 승",
-      "ai_picks": [
-        "SV 엘페르스베 승"
-      ],
-      "aria_label": "MSV 뒤스부르크 vs SV 엘페르스베르크 22:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457112",
-      "url": "https://bbongtv4.com/premium/soccer/16457112",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/22 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "SV Hemelingen",
-      "team2": "하노버 96",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 5.0,
-        "away": 90.0
-      },
-      "ai_summary": "하노버 96 승리",
-      "ai_picks": [
-        "하노버 96 승"
-      ],
-      "aria_label": "SV Hemelingen vs 하노버 96 22:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457114",
-      "url": "https://bbongtv4.com/premium/soccer/16457114",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/22 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "1. FC 자르브뤼켄",
-      "team2": "헤르타 BSC 베를린",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "헤르타 BSC 베를린 승 + 오버 2.5골",
-      "ai_picks": [
-        "헤르타 BSC 베 승",
-        "오버 2.5"
-      ],
-      "aria_label": "1. FC 자르브뤼켄 vs 헤르타 BSC 베를린 22:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16457115",
-      "url": "https://bbongtv4.com/premium/soccer/16457115",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/22 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "Viktoria Koln",
-      "team2": "FC 뉘른베르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "FC 뉘른베르크 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "FC 뉘른베르크 승",
-        "언더 3.5"
-      ],
-      "aria_label": "Viktoria Koln vs FC 뉘른베르크 22:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16457275",
       "url": "https://bbongtv4.com/premium/soccer/16457275",
@@ -2135,6 +2008,133 @@
         "언더 2.5"
       ],
       "aria_label": "밀월 FC vs 노리치 시티 FC 20:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457110",
+      "url": "https://bbongtv4.com/premium/soccer/16457110",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/22 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 에르츠게비르게 아우에",
+      "team2": "TSG 1899 호펜하임",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 5.0,
+        "draw": 10.0,
+        "away": 85.0
+      },
+      "ai_summary": "TSG 1899 호펜하임 승 (대승 예상)",
+      "ai_picks": [
+        "TSG 1899 호펜 승"
+      ],
+      "aria_label": "FC 에르츠게비르게 아우에 vs TSG 1899 호펜하임 22:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457111",
+      "url": "https://bbongtv4.com/premium/soccer/16457111",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/22 (토)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "MSV 뒤스부르크",
+      "team2": "SV 엘페르스베르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "SV 엘페르스베르크 승",
+      "ai_picks": [
+        "SV 엘페르스베 승"
+      ],
+      "aria_label": "MSV 뒤스부르크 vs SV 엘페르스베르크 22:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457112",
+      "url": "https://bbongtv4.com/premium/soccer/16457112",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/22 (토)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SV Hemelingen",
+      "team2": "하노버 96",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "하노버 96 승리",
+      "ai_picks": [
+        "하노버 96 승"
+      ],
+      "aria_label": "SV Hemelingen vs 하노버 96 22:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457114",
+      "url": "https://bbongtv4.com/premium/soccer/16457114",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/22 (토)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "1. FC 자르브뤼켄",
+      "team2": "헤르타 BSC 베를린",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "헤르타 BSC 베를린 승 + 오버 2.5골",
+      "ai_picks": [
+        "헤르타 BSC 베 승",
+        "오버 2.5"
+      ],
+      "aria_label": "1. FC 자르브뤼켄 vs 헤르타 BSC 베를린 22:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16457115",
+      "url": "https://bbongtv4.com/premium/soccer/16457115",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/22 (토)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "Viktoria Koln",
+      "team2": "FC 뉘른베르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "FC 뉘른베르크 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "FC 뉘른베르크 승",
+        "언더 3.5"
+      ],
+      "aria_label": "Viktoria Koln vs FC 뉘른베르크 22:30 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
