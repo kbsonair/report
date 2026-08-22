@@ -1,87 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T17:56:16.555671+00:00",
+  "scraped_at": "2026-08-22T18:39:32.089214+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16457715",
-      "url": "https://bbongtv4.com/premium/soccer/16457715",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/23 (일)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "SV 아인트라흐트 트리어 05",
-      "team2": "RB 라이프치히",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 2.0,
-        "draw": 3.0,
-        "away": 95.0
-      },
-      "ai_summary": "RB 라이프치히 대승 (핸디캡 -3.5 커버 및 합계 4.5 오버 추천)",
-      "ai_picks": [
-        "RB 라이프치히 -3.5",
-        "오버 4.5",
-        "RB 라이프치히 승"
-      ],
-      "aria_label": "SV 아인트라흐트 트리어 05 vs RB 라이프치히 00:59 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457716",
-      "url": "https://bbongtv4.com/premium/soccer/16457716",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/23 (일)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "SG 소넨호프 그로스아스파흐",
-      "team2": "아르미니아 빌레펠트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 12.0,
-        "draw": 18.0,
-        "away": 70.0
-      },
-      "ai_summary": "원정팀 아르미니아 빌레펠트 승",
-      "ai_picks": [
-        "아르미니아 빌 승"
-      ],
-      "aria_label": "SG 소넨호프 그로스아스파흐 vs 아르미니아 빌레펠트 00:59 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457717",
-      "url": "https://bbongtv4.com/premium/soccer/16457717",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/23 (일)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "1860 뮌헨",
-      "team2": "홀슈타인 킬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 15.0,
-        "away": 65.0
-      },
-      "ai_summary": "홀슈타인 킬 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "홀슈타인 킬 승",
-        "언더 3.5"
-      ],
-      "aria_label": "1860 뮌헨 vs 홀슈타인 킬 00:59 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16457799",
       "url": "https://bbongtv4.com/premium/soccer/16457799",
@@ -1245,6 +1167,84 @@
         "오버 2.5"
       ],
       "aria_label": "RC 랑스 vs AJ 오세르 00:15 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457715",
+      "url": "https://bbongtv4.com/premium/soccer/16457715",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SV 아인트라흐트 트리어 05",
+      "team2": "RB 라이프치히",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 2.0,
+        "draw": 3.0,
+        "away": 95.0
+      },
+      "ai_summary": "RB 라이프치히 대승 (핸디캡 -3.5 커버 및 합계 4.5 오버 추천)",
+      "ai_picks": [
+        "RB 라이프치히 -3.5",
+        "오버 4.5",
+        "RB 라이프치히 승"
+      ],
+      "aria_label": "SV 아인트라흐트 트리어 05 vs RB 라이프치히 00:59 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457716",
+      "url": "https://bbongtv4.com/premium/soccer/16457716",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "SG 소넨호프 그로스아스파흐",
+      "team2": "아르미니아 빌레펠트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀 아르미니아 빌레펠트 승",
+      "ai_picks": [
+        "아르미니아 빌 승"
+      ],
+      "aria_label": "SG 소넨호프 그로스아스파흐 vs 아르미니아 빌레펠트 00:59 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457717",
+      "url": "https://bbongtv4.com/premium/soccer/16457717",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "1860 뮌헨",
+      "team2": "홀슈타인 킬",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 15.0,
+        "away": 65.0
+      },
+      "ai_summary": "홀슈타인 킬 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "홀슈타인 킬 승",
+        "언더 3.5"
+      ],
+      "aria_label": "1860 뮌헨 vs 홀슈타인 킬 00:59 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
