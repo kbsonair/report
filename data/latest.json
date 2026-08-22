@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T09:30:30.447536+00:00",
+  "scraped_at": "2026-08-22T09:57:07.913318+00:00",
   "kst_yesterday": "2026-08-21",
   "kst_today": "2026-08-22",
   "kst_tomorrow": "2026-08-23",
@@ -1488,12 +1488,12 @@
       "league": "MLB",
       "date": "8/22 (토)",
       "time": "08:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "볼티모어",
       "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 3,
       "prob": {
         "home": 38.0,
         "away": 62.0

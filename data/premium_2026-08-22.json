@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T09:30:28.226450+00:00",
+  "scraped_at": "2026-08-22T09:57:05.248728+00:00",
   "count": 84,
   "matches": [
     {
@@ -1654,12 +1654,12 @@
       "league": "MLB",
       "date": "8/22 (토)",
       "time": "08:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "볼티모어",
       "team2": "탬파베이",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 3,
       "prob": {
         "home": 38.0,
         "away": 62.0
