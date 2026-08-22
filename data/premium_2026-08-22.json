@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T07:58:56.328845+00:00",
+  "scraped_at": "2026-08-22T08:40:33.177077+00:00",
   "count": 84,
   "matches": [
     {
@@ -77,32 +77,6 @@
         "소프트뱅크 승"
       ],
       "aria_label": "소프트뱅크 vs 오릭스 14:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456681",
-      "url": "https://bbongtv4.com/premium/soccer/16456681",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/22 (토)",
-      "time": "15:00",
-      "status": "예정",
-      "result": null,
-      "team1": "콘사도레 삿포로",
-      "team2": "RB 오미야 아르디자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 25.0,
-        "away": 40.0
-      },
-      "ai_summary": "RB 오미야 아르디자 승 또는 오버 2.5골",
-      "ai_picks": [
-        "RB 오미야 아르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "콘사도레 삿포로 vs RB 오미야 아르디자 15:00 분석 상세",
       "source_date": "2026-08-22"
     },
     {
@@ -2135,6 +2109,32 @@
         "LA다저스 승"
       ],
       "aria_label": "LA다저스 vs 피츠버그 11:10 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456681",
+      "url": "https://bbongtv4.com/premium/soccer/16456681",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/22 (토)",
+      "time": "15:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콘사도레 삿포로",
+      "team2": "RB 오미야 아르디자",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "draw": 25.0,
+        "away": 40.0
+      },
+      "ai_summary": "RB 오미야 아르디자 승 또는 오버 2.5골",
+      "ai_picks": [
+        "RB 오미야 아르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "콘사도레 삿포로 vs RB 오미야 아르디자 15:00 분석 상세",
       "source_date": "2026-08-22"
     }
   ]

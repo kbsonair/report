@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T07:58:59.031805+00:00",
+  "scraped_at": "2026-08-22T08:40:35.565478+00:00",
   "kst_yesterday": "2026-08-21",
   "kst_today": "2026-08-22",
   "kst_tomorrow": "2026-08-23",
@@ -1952,12 +1952,12 @@
       "league": "JPN D2",
       "date": "8/22 (토)",
       "time": "15:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콘사도레 삿포로",
       "team2": "RB 오미야 아르디자",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 35.0,
         "draw": 25.0,
