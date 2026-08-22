@@ -1,212 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T13:56:51.834950+00:00",
+  "scraped_at": "2026-08-22T14:29:18.147988+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16260692",
-      "url": "https://bbongtv4.com/premium/baseball/16260692",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/22 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SSG",
-      "team2": "KT",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 5.0,
-        "away": 57.0
-      },
-      "ai_summary": "KT 승리 유력, 다만 아빌라의 호투로 접전 양상이 예상되며 언더(낮은 총점) 경기 전개가 유력합니다",
-      "ai_picks": [
-        "KT 승"
-      ],
-      "aria_label": "SSG vs KT 19:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16260693",
-      "url": "https://bbongtv4.com/premium/baseball/16260693",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/22 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한화",
-      "team2": "LG",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 5.0,
-        "away": 60.0
-      },
-      "ai_summary": "LG 승리",
-      "ai_picks": [
-        "LG 승"
-      ],
-      "aria_label": "한화 vs LG 19:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16260694",
-      "url": "https://bbongtv4.com/premium/baseball/16260694",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/22 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "두산",
-      "team2": "롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
-      },
-      "ai_summary": "두산 승",
-      "ai_picks": [
-        "두산 승"
-      ],
-      "aria_label": "두산 vs 롯데 19:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16260695",
-      "url": "https://bbongtv4.com/premium/baseball/16260695",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/22 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NC",
-      "team2": "삼성",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "삼성 승리",
-      "ai_picks": [
-        "삼성 승"
-      ],
-      "aria_label": "NC vs 삼성 19:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456875",
-      "url": "https://bbongtv4.com/premium/soccer/16456875",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/22 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "헐 시티 AFC",
-      "team2": "맨체스터 유나이티드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "맨체스터 유나이티드 승, 오버 2.5골",
-      "ai_picks": [
-        "맨체스터 유나 승",
-        "오버 2.5"
-      ],
-      "aria_label": "헐 시티 AFC vs 맨체스터 유나이티드 20:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456879",
-      "url": "https://bbongtv4.com/premium/soccer/16456879",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "버밍엄 시티 FC",
-      "team2": "브리스톨 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 버밍엄 시티 FC 승리 (1골 차 저득점 경기 예상)",
-      "ai_picks": [
-        "버밍엄 시티 FC 승"
-      ],
-      "aria_label": "버밍엄 시티 FC vs 브리스톨 시티 FC 20:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456880",
-      "url": "https://bbongtv4.com/premium/soccer/16456880",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "링컨 시티 FC",
-      "team2": "포츠머스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "언더 2.5 추천, 승부 예측은 링컨 시티 FC 승 또는 무승부",
-      "ai_picks": [
-        "링컨 시티 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "링컨 시티 FC vs 포츠머스 FC 20:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456881",
-      "url": "https://bbongtv4.com/premium/soccer/16456881",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/22 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "밀월 FC",
-      "team2": "노리치 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "밀월 FC 승리 (언더 2.5 보완)",
-      "ai_picks": [
-        "밀월 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "밀월 FC vs 노리치 시티 FC 20:30 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16457110",
       "url": "https://bbongtv4.com/premium/soccer/16457110",
@@ -1595,6 +1392,105 @@
       "source_date": "2026-08-22"
     },
     {
+      "id": "16260692",
+      "url": "https://bbongtv4.com/premium/baseball/16260692",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/22 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SSG",
+      "team2": "KT",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 5.0,
+        "away": 57.0
+      },
+      "ai_summary": "KT 승리 유력, 다만 아빌라의 호투로 접전 양상이 예상되며 언더(낮은 총점) 경기 전개가 유력합니다",
+      "ai_picks": [
+        "KT 승"
+      ],
+      "aria_label": "SSG vs KT 19:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16260693",
+      "url": "https://bbongtv4.com/premium/baseball/16260693",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/22 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한화",
+      "team2": "LG",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 5.0,
+        "away": 60.0
+      },
+      "ai_summary": "LG 승리",
+      "ai_picks": [
+        "LG 승"
+      ],
+      "aria_label": "한화 vs LG 19:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16260694",
+      "url": "https://bbongtv4.com/premium/baseball/16260694",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/22 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "두산",
+      "team2": "롯데",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "두산 승",
+      "ai_picks": [
+        "두산 승"
+      ],
+      "aria_label": "두산 vs 롯데 19:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16260695",
+      "url": "https://bbongtv4.com/premium/baseball/16260695",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/22 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NC",
+      "team2": "삼성",
+      "score1": 6,
+      "score2": 8,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "삼성 승리",
+      "ai_picks": [
+        "삼성 승"
+      ],
+      "aria_label": "NC vs 삼성 19:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
       "id": "16456781",
       "url": "https://bbongtv4.com/premium/soccer/16456781",
       "sport": "soccer",
@@ -2135,6 +2031,110 @@
         "바이어 04 레버 -2.5"
       ],
       "aria_label": "SV 베헨 비스바덴 vs 바이어 04 레버쿠젠 20:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456875",
+      "url": "https://bbongtv4.com/premium/soccer/16456875",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/22 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "헐 시티 AFC",
+      "team2": "맨체스터 유나이티드",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "맨체스터 유나이티드 승, 오버 2.5골",
+      "ai_picks": [
+        "맨체스터 유나 승",
+        "오버 2.5"
+      ],
+      "aria_label": "헐 시티 AFC vs 맨체스터 유나이티드 20:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456879",
+      "url": "https://bbongtv4.com/premium/soccer/16456879",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "버밍엄 시티 FC",
+      "team2": "브리스톨 시티 FC",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 버밍엄 시티 FC 승리 (1골 차 저득점 경기 예상)",
+      "ai_picks": [
+        "버밍엄 시티 FC 승"
+      ],
+      "aria_label": "버밍엄 시티 FC vs 브리스톨 시티 FC 20:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456880",
+      "url": "https://bbongtv4.com/premium/soccer/16456880",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "링컨 시티 FC",
+      "team2": "포츠머스 FC",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5 추천, 승부 예측은 링컨 시티 FC 승 또는 무승부",
+      "ai_picks": [
+        "링컨 시티 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "링컨 시티 FC vs 포츠머스 FC 20:30 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456881",
+      "url": "https://bbongtv4.com/premium/soccer/16456881",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/22 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀월 FC",
+      "team2": "노리치 시티 FC",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "밀월 FC 승리 (언더 2.5 보완)",
+      "ai_picks": [
+        "밀월 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "밀월 FC vs 노리치 시티 FC 20:30 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
