@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T05:04:04.806091+00:00",
+  "scraped_at": "2026-08-22T05:47:12.611324+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16262696",
-      "url": "https://bbongtv4.com/premium/baseball/16262696",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/22 (토)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "애리조나 승리 + 언더",
-      "ai_picks": [
-        "애리조나 승"
-      ],
-      "aria_label": "애리조나 vs 신시내티 10:40 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16262697",
-      "url": "https://bbongtv4.com/premium/baseball/16262697",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/22 (토)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "샌디에이고 승리",
-      "ai_picks": [
-        "샌디에이고 승"
-      ],
-      "aria_label": "샌디에이고 vs 미네소타 10:40 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16262698",
       "url": "https://bbongtv4.com/premium/baseball/16262698",
@@ -2110,6 +2062,54 @@
         "클리블랜드 승"
       ],
       "aria_label": "콜로라도 vs 클리블랜드 09:40 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16262696",
+      "url": "https://bbongtv4.com/premium/baseball/16262696",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/22 (토)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나",
+      "team2": "신시내티",
+      "score1": 9,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "애리조나 승리 + 언더",
+      "ai_picks": [
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs 신시내티 10:40 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16262697",
+      "url": "https://bbongtv4.com/premium/baseball/16262697",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/22 (토)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고",
+      "team2": "미네소타",
+      "score1": 6,
+      "score2": 2,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "샌디에이고 승리",
+      "ai_picks": [
+        "샌디에이고 승"
+      ],
+      "aria_label": "샌디에이고 vs 미네소타 10:40 분석 상세",
       "source_date": "2026-08-22"
     },
     {
