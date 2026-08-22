@@ -1,87 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T18:39:32.089214+00:00",
+  "scraped_at": "2026-08-22T19:04:53.514891+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16457799",
-      "url": "https://bbongtv4.com/premium/soccer/16457799",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/23 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인터밀란",
-      "team2": "AC 몬차",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "인터밀란 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "인터밀란 승",
-        "언더 3.5"
-      ],
-      "aria_label": "인터밀란 vs AC 몬차 01:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457800",
-      "url": "https://bbongtv4.com/premium/soccer/16457800",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/23 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "우디네세 칼초",
-      "team2": "코모 1907",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "코모 1907 승 또는 언더 2.5",
-      "ai_picks": [
-        "코모 1907 승",
-        "언더 2.5"
-      ],
-      "aria_label": "우디네세 칼초 vs 코모 1907 01:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457801",
-      "url": "https://bbongtv4.com/premium/soccer/16457801",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/23 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "브렌트퍼드 FC",
-      "team2": "토트넘 홋스퍼 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 23.0,
-        "away": 32.0
-      },
-      "ai_summary": "브렌트퍼드 FC 승 및 오버 2.5골",
-      "ai_picks": [
-        "브렌트퍼드 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "브렌트퍼드 FC vs 토트넘 홋스퍼 FC 01:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16457810",
       "url": "https://bbongtv4.com/premium/soccer/16457810",
@@ -1245,6 +1167,84 @@
         "언더 3.5"
       ],
       "aria_label": "1860 뮌헨 vs 홀슈타인 킬 00:59 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457799",
+      "url": "https://bbongtv4.com/premium/soccer/16457799",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/23 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인터밀란",
+      "team2": "AC 몬차",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "인터밀란 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "인터밀란 승",
+        "언더 3.5"
+      ],
+      "aria_label": "인터밀란 vs AC 몬차 01:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457800",
+      "url": "https://bbongtv4.com/premium/soccer/16457800",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/23 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "우디네세 칼초",
+      "team2": "코모 1907",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "코모 1907 승 또는 언더 2.5",
+      "ai_picks": [
+        "코모 1907 승",
+        "언더 2.5"
+      ],
+      "aria_label": "우디네세 칼초 vs 코모 1907 01:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457801",
+      "url": "https://bbongtv4.com/premium/soccer/16457801",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/23 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브렌트퍼드 FC",
+      "team2": "토트넘 홋스퍼 FC",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 23.0,
+        "away": 32.0
+      },
+      "ai_summary": "브렌트퍼드 FC 승 및 오버 2.5골",
+      "ai_picks": [
+        "브렌트퍼드 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "브렌트퍼드 FC vs 토트넘 홋스퍼 FC 01:30 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
