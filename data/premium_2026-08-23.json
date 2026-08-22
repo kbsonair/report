@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T19:04:53.514891+00:00",
+  "scraped_at": "2026-08-22T19:40:45.337926+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16457810",
-      "url": "https://bbongtv4.com/premium/soccer/16457810",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "8/23 (일)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "던디 유나이티드 FC",
-      "team2": "던디 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 24.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 던디 유나이티드 FC 승리 및 오버 2.5",
-      "ai_picks": [
-        "던디 유나이티 승",
-        "오버 2.5"
-      ],
-      "aria_label": "던디 유나이티드 FC vs 던디 FC 01:45 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16457811",
-      "url": "https://bbongtv4.com/premium/soccer/16457811",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/23 (일)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스파르타 로테르담",
-      "team2": "FC 위트레흐트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "스파르타 로테르담 승 (총점 2.5 오버 병행 추천)",
-      "ai_picks": [
-        "스파르타 로테 승",
-        "오버 2.5"
-      ],
-      "aria_label": "스파르타 로테르담 vs FC 위트레흐트 01:45 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16457855",
       "url": "https://bbongtv4.com/premium/soccer/16457855",
@@ -1245,6 +1193,58 @@
         "오버 2.5"
       ],
       "aria_label": "브렌트퍼드 FC vs 토트넘 홋스퍼 FC 01:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457810",
+      "url": "https://bbongtv4.com/premium/soccer/16457810",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "8/23 (일)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "던디 유나이티드 FC",
+      "team2": "던디 FC",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 24.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 던디 유나이티드 FC 승리 및 오버 2.5",
+      "ai_picks": [
+        "던디 유나이티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "던디 유나이티드 FC vs 던디 FC 01:45 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16457811",
+      "url": "https://bbongtv4.com/premium/soccer/16457811",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/23 (일)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스파르타 로테르담",
+      "team2": "FC 위트레흐트",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "스파르타 로테르담 승 (총점 2.5 오버 병행 추천)",
+      "ai_picks": [
+        "스파르타 로테 승",
+        "오버 2.5"
+      ],
+      "aria_label": "스파르타 로테르담 vs FC 위트레흐트 01:45 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
