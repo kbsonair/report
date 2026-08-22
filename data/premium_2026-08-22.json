@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T04:36:40.263069+00:00",
+  "scraped_at": "2026-08-22T05:04:04.806091+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16262695",
-      "url": "https://bbongtv4.com/premium/baseball/16262695",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/22 (토)",
-      "time": "09:40",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "클리블랜드 승리",
-      "ai_picks": [
-        "클리블랜드 승"
-      ],
-      "aria_label": "콜로라도 vs 클리블랜드 09:40 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16262696",
       "url": "https://bbongtv4.com/premium/baseball/16262696",
@@ -74,31 +50,6 @@
         "샌디에이고 승"
       ],
       "aria_label": "샌디에이고 vs 미네소타 10:40 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16356840",
-      "url": "https://bbongtv4.com/premium/basket/16356840",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/22 (토)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토론토",
-      "team2": "포틀랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "포틀랜드 승, 언더 186.5",
-      "ai_picks": [
-        "포틀랜드 승",
-        "언더 186.5"
-      ],
-      "aria_label": "토론토 vs 포틀랜드 11:00 분석 상세",
       "source_date": "2026-08-22"
     },
     {
@@ -2135,6 +2086,55 @@
         "휴스턴 승"
       ],
       "aria_label": "휴스턴 vs 애슬레틱스 09:10 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16262695",
+      "url": "https://bbongtv4.com/premium/baseball/16262695",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/22 (토)",
+      "time": "09:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도",
+      "team2": "클리블랜드",
+      "score1": 1,
+      "score2": 9,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "클리블랜드 승리",
+      "ai_picks": [
+        "클리블랜드 승"
+      ],
+      "aria_label": "콜로라도 vs 클리블랜드 09:40 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16356840",
+      "url": "https://bbongtv4.com/premium/basket/16356840",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/22 (토)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토론토",
+      "team2": "포틀랜드",
+      "score1": 82,
+      "score2": 79,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "포틀랜드 승, 언더 186.5",
+      "ai_picks": [
+        "포틀랜드 승",
+        "언더 186.5"
+      ],
+      "aria_label": "토론토 vs 포틀랜드 11:00 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
