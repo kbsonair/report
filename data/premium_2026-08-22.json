@@ -1,84 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T08:40:33.177077+00:00",
+  "scraped_at": "2026-08-22T09:30:28.226450+00:00",
   "count": 84,
   "matches": [
-    {
-      "id": "16263951",
-      "url": "https://bbongtv4.com/premium/baseball/16263951",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/22 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요미우리",
-      "team2": "히로시마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 10.0,
-        "away": 42.0
-      },
-      "ai_summary": "요미우리 근소 우세 (로스코어 접전 예상), 언더 추천",
-      "ai_picks": [
-        "요미우리 승"
-      ],
-      "aria_label": "요미우리 vs 히로시마 14:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16263952",
-      "url": "https://bbongtv4.com/premium/baseball/16263952",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/22 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "주니치",
-      "team2": "야쿠르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 12.0,
-        "away": 40.0
-      },
-      "ai_summary": "주니치 승 (로우 스코어 접전 예상, 언더 추천)",
-      "ai_picks": [
-        "주니치 승"
-      ],
-      "aria_label": "주니치 vs 야쿠르트 14:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16263954",
-      "url": "https://bbongtv4.com/premium/baseball/16263954",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/22 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "소프트뱅크",
-      "team2": "오릭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 8.0,
-        "away": 30.0
-      },
-      "ai_summary": "소프트뱅크 승리",
-      "ai_picks": [
-        "소프트뱅크 승"
-      ],
-      "aria_label": "소프트뱅크 vs 오릭스 14:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
     {
       "id": "16456708",
       "url": "https://bbongtv4.com/premium/soccer/16456708",
@@ -2109,6 +2034,81 @@
         "LA다저스 승"
       ],
       "aria_label": "LA다저스 vs 피츠버그 11:10 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16263951",
+      "url": "https://bbongtv4.com/premium/baseball/16263951",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/22 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요미우리",
+      "team2": "히로시마",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 10.0,
+        "away": 42.0
+      },
+      "ai_summary": "요미우리 근소 우세 (로스코어 접전 예상), 언더 추천",
+      "ai_picks": [
+        "요미우리 승"
+      ],
+      "aria_label": "요미우리 vs 히로시마 14:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16263952",
+      "url": "https://bbongtv4.com/premium/baseball/16263952",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/22 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "주니치",
+      "team2": "야쿠르트",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 48.0,
+        "draw": 12.0,
+        "away": 40.0
+      },
+      "ai_summary": "주니치 승 (로우 스코어 접전 예상, 언더 추천)",
+      "ai_picks": [
+        "주니치 승"
+      ],
+      "aria_label": "주니치 vs 야쿠르트 14:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16263954",
+      "url": "https://bbongtv4.com/premium/baseball/16263954",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/22 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소프트뱅크",
+      "team2": "오릭스",
+      "score1": 7,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 8.0,
+        "away": 30.0
+      },
+      "ai_summary": "소프트뱅크 승리",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "소프트뱅크 vs 오릭스 14:00 분석 상세",
       "source_date": "2026-08-22"
     },
     {
