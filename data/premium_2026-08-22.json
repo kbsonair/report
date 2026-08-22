@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-22",
-  "scraped_at": "2026-08-22T11:28:04.065018+00:00",
+  "scraped_at": "2026-08-22T11:55:51.382605+00:00",
   "count": 84,
   "matches": [
     {
@@ -103,59 +103,6 @@
         "언더 6.5"
       ],
       "aria_label": "치바롯데 vs 니혼햄 18:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456744",
-      "url": "https://bbongtv4.com/premium/soccer/16456744",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "8/22 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "가시마 앤틀러스",
-      "team2": "아비스파 후쿠오카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 27.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 가시마 앤틀러스 승 (1-0 또는 1-1 저득점 경기 예상, 언더 2.5 유력)",
-      "ai_picks": [
-        "가시마 앤틀러 승",
-        "언더 2.5"
-      ],
-      "aria_label": "가시마 앤틀러스 vs 아비스파 후쿠오카 18:00 분석 상세",
-      "source_date": "2026-08-22"
-    },
-    {
-      "id": "16456747",
-      "url": "https://bbongtv4.com/premium/soccer/16456747",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "8/22 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "블라우블리츠 아키타",
-      "team2": "반포레 고후",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 28.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 블라우블리츠 아키타 승 또는 무승부 (언더 1.5 병행 추천)",
-      "ai_picks": [
-        "블라우블리츠  승",
-        "무승부",
-        "언더 1.5"
-      ],
-      "aria_label": "블라우블리츠 아키타 vs 반포레 고후 18:00 분석 상세",
       "source_date": "2026-08-22"
     },
     {
@@ -2135,6 +2082,59 @@
         "언더 2.5"
       ],
       "aria_label": "반라우레 하치노헤 vs 베갈타 센다이 17:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456744",
+      "url": "https://bbongtv4.com/premium/soccer/16456744",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/22 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "가시마 앤틀러스",
+      "team2": "아비스파 후쿠오카",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 50.0,
+        "draw": 27.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 가시마 앤틀러스 승 (1-0 또는 1-1 저득점 경기 예상, 언더 2.5 유력)",
+      "ai_picks": [
+        "가시마 앤틀러 승",
+        "언더 2.5"
+      ],
+      "aria_label": "가시마 앤틀러스 vs 아비스파 후쿠오카 18:00 분석 상세",
+      "source_date": "2026-08-22"
+    },
+    {
+      "id": "16456747",
+      "url": "https://bbongtv4.com/premium/soccer/16456747",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "8/22 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "블라우블리츠 아키타",
+      "team2": "반포레 고후",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 블라우블리츠 아키타 승 또는 무승부 (언더 1.5 병행 추천)",
+      "ai_picks": [
+        "블라우블리츠  승",
+        "무승부",
+        "언더 1.5"
+      ],
+      "aria_label": "블라우블리츠 아키타 vs 반포레 고후 18:00 분석 상세",
       "source_date": "2026-08-22"
     }
   ]
