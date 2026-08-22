@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T21:30:02.505781+00:00",
+  "scraped_at": "2026-08-22T21:55:46.255499+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "16262700",
-      "url": "https://bbongtv4.com/premium/baseball/16262700",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "02:35",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕양키스",
-      "team2": "토론토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "토론토 승 (저득점 접전 예상, 시즈의 선발 우위 기반)",
-      "ai_picks": [
-        "토론토 승"
-      ],
-      "aria_label": "뉴욕양키스 vs 토론토 02:35 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16262701",
       "url": "https://bbongtv4.com/premium/baseball/16262701",
@@ -1041,6 +1017,30 @@
       "source_date": "2026-08-23"
     },
     {
+      "id": "16262700",
+      "url": "https://bbongtv4.com/premium/baseball/16262700",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "02:35",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "뉴욕양키스",
+      "team2": "토론토",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "토론토 승 (저득점 접전 예상, 시즈의 선발 우위 기반)",
+      "ai_picks": [
+        "토론토 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 토론토 02:35 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
       "id": "16457913",
       "url": "https://bbongtv4.com/premium/soccer/16457913",
       "sport": "soccer",
@@ -1229,12 +1229,12 @@
       "league": "HOL D1",
       "date": "8/23 (일)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "SC 헤이렌베인",
       "team2": "PEC 즈볼러",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 55.0,
         "draw": 25.0,
