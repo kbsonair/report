@@ -1,109 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-23",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T14:57:51.912820+00:00",
+  "scraped_at": "2026-08-23T15:30:49.268219+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16458575",
-      "url": "https://bbongtv4.com/premium/soccer/16458575",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/23 (일)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "PSV 에인트호번",
-      "team2": "FC 흐로닝언",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 72.0,
-        "draw": 14.0,
-        "away": 14.0
-      },
-      "ai_summary": "PSV 에인트호번 승 (핸디캡 -1.5 포함 고려)",
-      "ai_picks": [
-        "PSV 에인트호번 승"
-      ],
-      "aria_label": "PSV 에인트호번 vs FC 흐로닝언 21:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458586",
-      "url": "https://bbongtv4.com/premium/soccer/16458586",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/23 (일)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브라이턴 & 호브 앨비언",
-      "team2": "애스턴 빌라 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 25.0,
-        "away": 35.0
-      },
-      "ai_summary": "양 팀 합계 2.5골 오버 (다득점 경기 예상)",
-      "ai_picks": [
-        "오버 2.5"
-      ],
-      "aria_label": "브라이턴 & 호브 앨비언 vs 애스턴 빌라 FC 22:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458587",
-      "url": "https://bbongtv4.com/premium/soccer/16458587",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/23 (일)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "맨체스터 시티",
-      "team2": "AFC 본머스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "맨체스터 시티 승리 (핸디캡 -1 추천)",
-      "ai_picks": [
-        "맨체스터 시티 승"
-      ],
-      "aria_label": "맨체스터 시티 vs AFC 본머스 22:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458588",
-      "url": "https://bbongtv4.com/premium/soccer/16458588",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/23 (일)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "앙제 SCO",
-      "team2": "릴 OSC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "릴 OSC 승",
-      "ai_picks": [
-        "릴 OSC 승"
-      ],
-      "aria_label": "앙제 SCO vs 릴 OSC 22:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16458687",
       "url": "https://bbongtv4.com/premium/soccer/16458687",
@@ -1981,6 +1881,106 @@
         "언더 2.5"
       ],
       "aria_label": "웨스트 브로미치 앨비언 vs 번리 FC 20:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458575",
+      "url": "https://bbongtv4.com/premium/soccer/16458575",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/23 (일)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "PSV 에인트호번",
+      "team2": "FC 흐로닝언",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 72.0,
+        "draw": 14.0,
+        "away": 14.0
+      },
+      "ai_summary": "PSV 에인트호번 승 (핸디캡 -1.5 포함 고려)",
+      "ai_picks": [
+        "PSV 에인트호번 승"
+      ],
+      "aria_label": "PSV 에인트호번 vs FC 흐로닝언 21:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458586",
+      "url": "https://bbongtv4.com/premium/soccer/16458586",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/23 (일)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "브라이턴 & 호브 앨비언",
+      "team2": "애스턴 빌라 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 25.0,
+        "away": 35.0
+      },
+      "ai_summary": "양 팀 합계 2.5골 오버 (다득점 경기 예상)",
+      "ai_picks": [
+        "오버 2.5"
+      ],
+      "aria_label": "브라이턴 & 호브 앨비언 vs 애스턴 빌라 FC 22:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458587",
+      "url": "https://bbongtv4.com/premium/soccer/16458587",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/23 (일)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "맨체스터 시티",
+      "team2": "AFC 본머스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "맨체스터 시티 승리 (핸디캡 -1 추천)",
+      "ai_picks": [
+        "맨체스터 시티 승"
+      ],
+      "aria_label": "맨체스터 시티 vs AFC 본머스 22:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458588",
+      "url": "https://bbongtv4.com/premium/soccer/16458588",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/23 (일)",
+      "time": "22:00",
+      "status": "예정",
+      "result": null,
+      "team1": "앙제 SCO",
+      "team2": "릴 OSC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "릴 OSC 승",
+      "ai_picks": [
+        "릴 OSC 승"
+      ],
+      "aria_label": "앙제 SCO vs 릴 OSC 22:00 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
