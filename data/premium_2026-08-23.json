@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T11:55:47.010211+00:00",
+  "scraped_at": "2026-08-23T12:50:48.243814+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16263962",
-      "url": "https://bbongtv4.com/premium/baseball/16263962",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/23 (일)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바롯데",
-      "team2": "니혼햄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 15.0,
-        "away": 40.0
-      },
-      "ai_summary": "치바롯데 홈 승리 또는 언더 (저득점 경기 예상)",
-      "ai_picks": [
-        "치바롯데 승"
-      ],
-      "aria_label": "치바롯데 vs 니혼햄 17:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16263959",
       "url": "https://bbongtv4.com/premium/baseball/16263959",
@@ -151,32 +126,6 @@
         "삼성 승"
       ],
       "aria_label": "NC vs 삼성 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458478",
-      "url": "https://bbongtv4.com/premium/soccer/16458478",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/23 (일)",
-      "time": "19:15",
-      "status": "예정",
-      "result": null,
-      "team1": "고 어헤드 이글스",
-      "team2": "ADO 덴하흐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "고 어헤드 이글스 홈 승리 + 언더 3.5",
-      "ai_picks": [
-        "고 어헤드 이글 승",
-        "언더 3.5"
-      ],
-      "aria_label": "고 어헤드 이글스 vs ADO 덴하흐 19:15 분석 상세",
       "source_date": "2026-08-23"
     },
     {
@@ -1981,6 +1930,57 @@
         "세이부 승"
       ],
       "aria_label": "라쿠텐 vs 세이부 16:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16263962",
+      "url": "https://bbongtv4.com/premium/baseball/16263962",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/23 (일)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "치바롯데",
+      "team2": "니혼햄",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 45.0,
+        "draw": 15.0,
+        "away": 40.0
+      },
+      "ai_summary": "치바롯데 홈 승리 또는 언더 (저득점 경기 예상)",
+      "ai_picks": [
+        "치바롯데 승"
+      ],
+      "aria_label": "치바롯데 vs 니혼햄 17:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458478",
+      "url": "https://bbongtv4.com/premium/soccer/16458478",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/23 (일)",
+      "time": "19:15",
+      "status": "예정",
+      "result": null,
+      "team1": "고 어헤드 이글스",
+      "team2": "ADO 덴하흐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "고 어헤드 이글스 홈 승리 + 언더 3.5",
+      "ai_picks": [
+        "고 어헤드 이글 승",
+        "언더 3.5"
+      ],
+      "aria_label": "고 어헤드 이글스 vs ADO 덴하흐 19:15 분석 상세",
       "source_date": "2026-08-23"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T11:55:49.687678+00:00",
+  "scraped_at": "2026-08-23T12:50:51.183399+00:00",
   "kst_yesterday": "2026-08-22",
   "kst_today": "2026-08-23",
   "kst_tomorrow": "2026-08-24",
@@ -2083,12 +2083,12 @@
       "league": "NPB",
       "date": "8/23 (일)",
       "time": "17:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "치바롯데",
       "team2": "니혼햄",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 45.0,
         "draw": 15.0,
