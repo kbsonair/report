@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-22T23:55:35.409466+00:00",
+  "scraped_at": "2026-08-23T01:43:46.801056+00:00",
   "count": 71,
   "matches": [
-    {
-      "id": "16262702",
-      "url": "https://bbongtv4.com/premium/baseball/16262702",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "마이애미",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "마이애미 승리 (언더 추천)",
-      "ai_picks": [
-        "마이애미 승"
-      ],
-      "aria_label": "마이애미 vs 워싱턴 05:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16262703",
       "url": "https://bbongtv4.com/premium/baseball/16262703",
@@ -1807,6 +1783,30 @@
         "레알 마드리드  승"
       ],
       "aria_label": "RCD 에스파뇰 vs 레알 마드리드 CF 04:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262702",
+      "url": "https://bbongtv4.com/premium/baseball/16262702",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "마이애미",
+      "team2": "워싱턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "마이애미 승리 (언더 추천)",
+      "ai_picks": [
+        "마이애미 승"
+      ],
+      "aria_label": "마이애미 vs 워싱턴 05:10 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
