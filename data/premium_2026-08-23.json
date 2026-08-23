@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T07:39:34.702235+00:00",
+  "scraped_at": "2026-08-23T08:01:32.015179+00:00",
   "count": 71,
   "matches": [
     {
@@ -1141,12 +1141,12 @@
       "league": "MLB",
       "date": "8/23 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미",
       "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 60.0,
         "away": 40.0
