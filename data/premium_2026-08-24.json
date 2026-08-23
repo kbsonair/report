@@ -1,58 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T22:56:47.529366+00:00",
+  "scraped_at": "2026-08-23T23:28:27.742366+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16262723",
-      "url": "https://bbongtv4.com/premium/baseball/16262723",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "클리블랜드 승리",
-      "ai_picks": [
-        "클리블랜드 승"
-      ],
-      "aria_label": "콜로라도 vs 클리블랜드 04:10 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16356844",
-      "url": "https://bbongtv4.com/premium/basket/16356844",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/24 (월)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "댈러스",
-      "team2": "시애틀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "댈러스 승리, 총점 언더 173.5",
-      "ai_picks": [
-        "댈러스 승",
-        "언더 173.5"
-      ],
-      "aria_label": "댈러스 vs 시애틀 05:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16262725",
       "url": "https://bbongtv4.com/premium/baseball/16262725",
@@ -148,31 +99,6 @@
         "애리조나 승"
       ],
       "aria_label": "애리조나 vs 신시내티 05:15 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16459034",
-      "url": "https://bbongtv4.com/premium/soccer/16459034",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/24 (월)",
-      "time": "05:30",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴잉글랜드 레볼루션",
-      "team2": "뉴욕 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 뉴잉글랜드 레볼루션 승리",
-      "ai_picks": [
-        "뉴잉글랜드 레 승"
-      ],
-      "aria_label": "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 05:30 분석 상세",
       "source_date": "2026-08-24"
     },
     {
@@ -778,6 +704,30 @@
       "source_date": "2026-08-24"
     },
     {
+      "id": "16262723",
+      "url": "https://bbongtv4.com/premium/baseball/16262723",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도",
+      "team2": "클리블랜드",
+      "score1": 2,
+      "score2": 7,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "클리블랜드 승리",
+      "ai_picks": [
+        "클리블랜드 승"
+      ],
+      "aria_label": "콜로라도 vs 클리블랜드 04:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
       "id": "16459002",
       "url": "https://bbongtv4.com/premium/soccer/16459002",
       "sport": "soccer",
@@ -800,6 +750,56 @@
         "FC 바르셀로나 승"
       ],
       "aria_label": "엘체 CF vs FC 바르셀로나 04:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16356844",
+      "url": "https://bbongtv4.com/premium/basket/16356844",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/24 (월)",
+      "time": "05:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "댈러스",
+      "team2": "시애틀",
+      "score1": 92,
+      "score2": 70,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "댈러스 승리, 총점 언더 173.5",
+      "ai_picks": [
+        "댈러스 승",
+        "언더 173.5"
+      ],
+      "aria_label": "댈러스 vs 시애틀 05:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16459034",
+      "url": "https://bbongtv4.com/premium/soccer/16459034",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/24 (월)",
+      "time": "05:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "뉴잉글랜드 레볼루션",
+      "team2": "뉴욕 시티 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 뉴잉글랜드 레볼루션 승리",
+      "ai_picks": [
+        "뉴잉글랜드 레 승"
+      ],
+      "aria_label": "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 05:30 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
