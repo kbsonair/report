@@ -1,109 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T13:58:03.984832+00:00",
+  "scraped_at": "2026-08-23T14:32:02.707914+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16260697",
-      "url": "https://bbongtv4.com/premium/baseball/16260697",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/23 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SSG",
-      "team2": "KT",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 7.0,
-        "away": 55.0
-      },
-      "ai_summary": "KT 승리 예상, 다만 아빌라의 호투로 SSG +1.5 핸디캡 커버 및 언더 9.5 가능성 높음",
-      "ai_picks": [
-        "KT 승",
-        "SSG +1.5",
-        "언더 9.5"
-      ],
-      "aria_label": "SSG vs KT 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16260698",
-      "url": "https://bbongtv4.com/premium/baseball/16260698",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/23 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한화",
-      "team2": "LG",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "LG 승리",
-      "ai_picks": [
-        "LG 승"
-      ],
-      "aria_label": "한화 vs LG 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16260699",
-      "url": "https://bbongtv4.com/premium/baseball/16260699",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/23 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "두산",
-      "team2": "롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "두산 승리",
-      "ai_picks": [
-        "두산 승"
-      ],
-      "aria_label": "두산 vs 롯데 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16260700",
-      "url": "https://bbongtv4.com/premium/baseball/16260700",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/23 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NC",
-      "team2": "삼성",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 5.0,
-        "away": 55.0
-      },
-      "ai_summary": "삼성 승리 유력, 언더 흐름 예상",
-      "ai_picks": [
-        "삼성 승"
-      ],
-      "aria_label": "NC vs 삼성 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16458575",
       "url": "https://bbongtv4.com/premium/soccer/16458575",
@@ -1697,6 +1597,106 @@
         "한신 승"
       ],
       "aria_label": "요코하마 vs 한신 18:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16260697",
+      "url": "https://bbongtv4.com/premium/baseball/16260697",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/23 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SSG",
+      "team2": "KT",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 38.0,
+        "draw": 7.0,
+        "away": 55.0
+      },
+      "ai_summary": "KT 승리 예상, 다만 아빌라의 호투로 SSG +1.5 핸디캡 커버 및 언더 9.5 가능성 높음",
+      "ai_picks": [
+        "KT 승",
+        "SSG +1.5",
+        "언더 9.5"
+      ],
+      "aria_label": "SSG vs KT 19:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16260698",
+      "url": "https://bbongtv4.com/premium/baseball/16260698",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/23 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한화",
+      "team2": "LG",
+      "score1": 3,
+      "score2": 12,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "LG 승리",
+      "ai_picks": [
+        "LG 승"
+      ],
+      "aria_label": "한화 vs LG 19:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16260699",
+      "url": "https://bbongtv4.com/premium/baseball/16260699",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/23 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "두산",
+      "team2": "롯데",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "두산 승리",
+      "ai_picks": [
+        "두산 승"
+      ],
+      "aria_label": "두산 vs 롯데 19:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16260700",
+      "url": "https://bbongtv4.com/premium/baseball/16260700",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/23 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NC",
+      "team2": "삼성",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 40.0,
+        "draw": 5.0,
+        "away": 55.0
+      },
+      "ai_summary": "삼성 승리 유력, 언더 흐름 예상",
+      "ai_picks": [
+        "삼성 승"
+      ],
+      "aria_label": "NC vs 삼성 19:00 분석 상세",
       "source_date": "2026-08-23"
     },
     {
