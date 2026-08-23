@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T10:57:27.991254+00:00",
+  "scraped_at": "2026-08-23T11:28:11.308130+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16263961",
-      "url": "https://bbongtv4.com/premium/baseball/16263961",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/23 (일)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라쿠텐",
-      "team2": "세이부",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 5.0,
-        "away": 70.0
-      },
-      "ai_summary": "원정팀 세이부 승",
-      "ai_picks": [
-        "세이부 승"
-      ],
-      "aria_label": "라쿠텐 vs 세이부 16:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16263962",
       "url": "https://bbongtv4.com/premium/baseball/16263962",
@@ -1981,6 +1956,31 @@
         "언더 3.5"
       ],
       "aria_label": "산호세 어스퀘이크스 vs 미네소타 유나이티드 FC 11:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16263961",
+      "url": "https://bbongtv4.com/premium/baseball/16263961",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/23 (일)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라쿠텐",
+      "team2": "세이부",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "draw": 5.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀 세이부 승",
+      "ai_picks": [
+        "세이부 승"
+      ],
+      "aria_label": "라쿠텐 vs 세이부 16:00 분석 상세",
       "source_date": "2026-08-23"
     }
   ]

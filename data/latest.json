@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T10:57:30.995336+00:00",
+  "scraped_at": "2026-08-23T11:28:14.462789+00:00",
   "kst_yesterday": "2026-08-22",
   "kst_today": "2026-08-23",
   "kst_tomorrow": "2026-08-24",
@@ -2058,12 +2058,12 @@
       "league": "NPB",
       "date": "8/23 (일)",
       "time": "16:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "라쿠텐",
       "team2": "세이부",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 25.0,
         "draw": 5.0,
