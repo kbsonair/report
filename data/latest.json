@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T16:59:08.774573+00:00",
+  "scraped_at": "2026-08-23T17:29:04.925126+00:00",
   "kst_yesterday": "2026-08-23",
   "kst_today": "2026-08-24",
   "kst_tomorrow": "2026-08-25",
@@ -2767,12 +2767,12 @@
       "league": "HOL D1",
       "date": "8/23 (일)",
       "time": "23:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SC 캄뷔르",
       "team2": "페예노르트",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 8.0,
         "draw": 12.0,

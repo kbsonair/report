@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-23",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T16:59:07.619984+00:00",
+  "scraped_at": "2026-08-23T17:29:03.838498+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16458772",
-      "url": "https://bbongtv4.com/premium/soccer/16458772",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/23 (일)",
-      "time": "23:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 캄뷔르",
-      "team2": "페예노르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 8.0,
-        "draw": 12.0,
-        "away": 80.0
-      },
-      "ai_summary": "페예노르트 승 (핸디캡 -1.5 커버), 오버 3.5",
-      "ai_picks": [
-        "페예노르트 승",
-        "페예노르트 -1.5",
-        "오버 3.5"
-      ],
-      "aria_label": "SC 캄뷔르 vs 페예노르트 23:45 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16457592",
       "url": "https://bbongtv4.com/premium/soccer/16457592",
@@ -1981,6 +1954,33 @@
         "뒤나모 드레스 승"
       ],
       "aria_label": "SV Westfalia Rhynern vs 뒤나모 드레스덴 22:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458772",
+      "url": "https://bbongtv4.com/premium/soccer/16458772",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/23 (일)",
+      "time": "23:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SC 캄뷔르",
+      "team2": "페예노르트",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "페예노르트 승 (핸디캡 -1.5 커버), 오버 3.5",
+      "ai_picks": [
+        "페예노르트 승",
+        "페예노르트 -1.5",
+        "오버 3.5"
+      ],
+      "aria_label": "SC 캄뷔르 vs 페예노르트 23:45 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
