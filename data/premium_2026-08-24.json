@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T18:34:38.222786+00:00",
+  "scraped_at": "2026-08-23T19:01:48.102752+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16458903",
-      "url": "https://bbongtv4.com/premium/soccer/16458903",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/24 (월)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "프로시노네 칼초",
-      "team2": "유벤투스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 12.0,
-        "draw": 15.0,
-        "away": 73.0
-      },
-      "ai_summary": "유벤투스 FC 원정 승",
-      "ai_picks": [
-        "유벤투스 FC 승"
-      ],
-      "aria_label": "프로시노네 칼초 vs 유벤투스 FC 01:30 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16458904",
-      "url": "https://bbongtv4.com/premium/soccer/16458904",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/24 (월)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "베네치아 FC",
-      "team2": "US 레체",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 33.0,
-        "away": 27.0
-      },
-      "ai_summary": "베네치아 FC 승 또는 무승부 (홈팀 핸디캡 0 추천, 언더 2.5 병행)",
-      "ai_picks": [
-        "베네치아 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "베네치아 FC vs US 레체 01:30 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16458939",
       "url": "https://bbongtv4.com/premium/soccer/16458939",
@@ -800,6 +748,58 @@
         "FC 장크트파울 승"
       ],
       "aria_label": "RW 에센 vs FC 장크트파울리 00:59 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458903",
+      "url": "https://bbongtv4.com/premium/soccer/16458903",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "프로시노네 칼초",
+      "team2": "유벤투스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 15.0,
+        "away": 73.0
+      },
+      "ai_summary": "유벤투스 FC 원정 승",
+      "ai_picks": [
+        "유벤투스 FC 승"
+      ],
+      "aria_label": "프로시노네 칼초 vs 유벤투스 FC 01:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458904",
+      "url": "https://bbongtv4.com/premium/soccer/16458904",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "베네치아 FC",
+      "team2": "US 레체",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 33.0,
+        "away": 27.0
+      },
+      "ai_summary": "베네치아 FC 승 또는 무승부 (홈팀 핸디캡 0 추천, 언더 2.5 병행)",
+      "ai_picks": [
+        "베네치아 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "베네치아 FC vs US 레체 01:30 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
