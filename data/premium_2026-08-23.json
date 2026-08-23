@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T12:50:48.243814+00:00",
+  "scraped_at": "2026-08-23T13:34:42.222909+00:00",
   "count": 78,
   "matches": [
-    {
-      "id": "16263959",
-      "url": "https://bbongtv4.com/premium/baseball/16263959",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/23 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마",
-      "team2": "한신",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "away": 68.0
-      },
-      "ai_summary": "한신 승리 (로스코어 투수전, 언더 유력)",
-      "ai_picks": [
-        "한신 승"
-      ],
-      "aria_label": "요코하마 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16260697",
       "url": "https://bbongtv4.com/premium/baseball/16260697",
@@ -126,264 +102,6 @@
         "삼성 승"
       ],
       "aria_label": "NC vs 삼성 19:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458480",
-      "url": "https://bbongtv4.com/premium/soccer/16458480",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 마치다 젤비아",
-      "team2": "우라와 레드 다이아몬즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "홈팀 FC 마치다 젤비아 승",
-      "ai_picks": [
-        "FC 마치다 젤비 승"
-      ],
-      "aria_label": "FC 마치다 젤비아 vs 우라와 레드 다이아몬즈 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458481",
-      "url": "https://bbongtv4.com/premium/soccer/16458481",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "대전 하나 시티즌",
-      "team2": "강원 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "강원 FC 승",
-      "ai_picks": [
-        "강원 FC 승"
-      ],
-      "aria_label": "대전 하나 시티즌 vs 강원 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458482",
-      "url": "https://bbongtv4.com/premium/soccer/16458482",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "광주 FC",
-      "team2": "인천 유나이티드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "인천 유나이티드 FC 승, 언더 2.5 병행 추천",
-      "ai_picks": [
-        "인천 유나이티 승",
-        "언더 2.5"
-      ],
-      "aria_label": "광주 FC vs 인천 유나이티드 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458484",
-      "url": "https://bbongtv4.com/premium/soccer/16458484",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "충남 아산 FC",
-      "team2": "용인 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "충남 아산 FC 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "충남 아산 FC 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "충남 아산 FC vs 용인 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458485",
-      "url": "https://bbongtv4.com/premium/soccer/16458485",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "충북 청주 FC",
-      "team2": "경남 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "무승부 또는 충북 청주 FC 근소 우위 (언더 2.5 유력)",
-      "ai_picks": [
-        "무승부",
-        "충북 청주 FC 승",
-        "언더 2.5"
-      ],
-      "aria_label": "충북 청주 FC vs 경남 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458486",
-      "url": "https://bbongtv4.com/premium/soccer/16458486",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "전남 드래곤즈",
-      "team2": "화성 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "화성 FC 원정 승리",
-      "ai_picks": [
-        "화성 FC 승"
-      ],
-      "aria_label": "전남 드래곤즈 vs 화성 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458487",
-      "url": "https://bbongtv4.com/premium/soccer/16458487",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "8/23 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "서울 이랜드 FC",
-      "team2": "파주 프런티어 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 18.0,
-        "away": 22.0
-      },
-      "ai_summary": "서울 이랜드 FC 홈 승리",
-      "ai_picks": [
-        "서울 이랜드 FC 승"
-      ],
-      "aria_label": "서울 이랜드 FC vs 파주 프런티어 FC 19:30 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458488",
-      "url": "https://bbongtv4.com/premium/soccer/16458488",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/23 (일)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SpVgg 그로이터 퓌르트",
-      "team2": "VfL 보훔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "VfL 보훔 승",
-      "ai_picks": [
-        "VfL 보훔 승"
-      ],
-      "aria_label": "SpVgg 그로이터 퓌르트 vs VfL 보훔 20:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458489",
-      "url": "https://bbongtv4.com/premium/soccer/16458489",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/23 (일)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SSV Jeddeloh",
-      "team2": "FC 하이덴하임",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 5.0,
-        "away": 90.0
-      },
-      "ai_summary": "FC 하이덴하임 승 (핸디캡 -2.5 커버 가능)",
-      "ai_picks": [
-        "FC 하이덴하임 승",
-        "FC 하이덴하임 -2.5"
-      ],
-      "aria_label": "SSV Jeddeloh vs FC 하이덴하임 20:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458491",
-      "url": "https://bbongtv4.com/premium/soccer/16458491",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "8/23 (일)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트 브로미치 앨비언",
-      "team2": "번리 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "웨스트 브로미치 앨비언 승 또는 무승부 (언더 2.5골 유력)",
-      "ai_picks": [
-        "웨스트 브로미 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "웨스트 브로미치 앨비언 vs 번리 FC 20:00 분석 상세",
       "source_date": "2026-08-23"
     },
     {
@@ -1958,6 +1676,30 @@
       "source_date": "2026-08-23"
     },
     {
+      "id": "16263959",
+      "url": "https://bbongtv4.com/premium/baseball/16263959",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/23 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요코하마",
+      "team2": "한신",
+      "score1": 3,
+      "score2": 5,
+      "prob": {
+        "home": 32.0,
+        "away": 68.0
+      },
+      "ai_summary": "한신 승리 (로스코어 투수전, 언더 유력)",
+      "ai_picks": [
+        "한신 승"
+      ],
+      "aria_label": "요코하마 vs 한신 18:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
       "id": "16458478",
       "url": "https://bbongtv4.com/premium/soccer/16458478",
       "sport": "soccer",
@@ -1981,6 +1723,264 @@
         "언더 3.5"
       ],
       "aria_label": "고 어헤드 이글스 vs ADO 덴하흐 19:15 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458480",
+      "url": "https://bbongtv4.com/premium/soccer/16458480",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC 마치다 젤비아",
+      "team2": "우라와 레드 다이아몬즈",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 FC 마치다 젤비아 승",
+      "ai_picks": [
+        "FC 마치다 젤비 승"
+      ],
+      "aria_label": "FC 마치다 젤비아 vs 우라와 레드 다이아몬즈 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458481",
+      "url": "https://bbongtv4.com/premium/soccer/16458481",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대전 하나 시티즌",
+      "team2": "강원 FC",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "강원 FC 승",
+      "ai_picks": [
+        "강원 FC 승"
+      ],
+      "aria_label": "대전 하나 시티즌 vs 강원 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458482",
+      "url": "https://bbongtv4.com/premium/soccer/16458482",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "광주 FC",
+      "team2": "인천 유나이티드 FC",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "인천 유나이티드 FC 승, 언더 2.5 병행 추천",
+      "ai_picks": [
+        "인천 유나이티 승",
+        "언더 2.5"
+      ],
+      "aria_label": "광주 FC vs 인천 유나이티드 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458484",
+      "url": "https://bbongtv4.com/premium/soccer/16458484",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "충남 아산 FC",
+      "team2": "용인 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "충남 아산 FC 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "충남 아산 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "충남 아산 FC vs 용인 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458485",
+      "url": "https://bbongtv4.com/premium/soccer/16458485",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "충북 청주 FC",
+      "team2": "경남 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "무승부 또는 충북 청주 FC 근소 우위 (언더 2.5 유력)",
+      "ai_picks": [
+        "무승부",
+        "충북 청주 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "충북 청주 FC vs 경남 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458486",
+      "url": "https://bbongtv4.com/premium/soccer/16458486",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "전남 드래곤즈",
+      "team2": "화성 FC",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "화성 FC 원정 승리",
+      "ai_picks": [
+        "화성 FC 승"
+      ],
+      "aria_label": "전남 드래곤즈 vs 화성 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458487",
+      "url": "https://bbongtv4.com/premium/soccer/16458487",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "8/23 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "서울 이랜드 FC",
+      "team2": "파주 프런티어 FC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 18.0,
+        "away": 22.0
+      },
+      "ai_summary": "서울 이랜드 FC 홈 승리",
+      "ai_picks": [
+        "서울 이랜드 FC 승"
+      ],
+      "aria_label": "서울 이랜드 FC vs 파주 프런티어 FC 19:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458488",
+      "url": "https://bbongtv4.com/premium/soccer/16458488",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SpVgg 그로이터 퓌르트",
+      "team2": "VfL 보훔",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "VfL 보훔 승",
+      "ai_picks": [
+        "VfL 보훔 승"
+      ],
+      "aria_label": "SpVgg 그로이터 퓌르트 vs VfL 보훔 20:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458489",
+      "url": "https://bbongtv4.com/premium/soccer/16458489",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/23 (일)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "SSV Jeddeloh",
+      "team2": "FC 하이덴하임",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "FC 하이덴하임 승 (핸디캡 -2.5 커버 가능)",
+      "ai_picks": [
+        "FC 하이덴하임 승",
+        "FC 하이덴하임 -2.5"
+      ],
+      "aria_label": "SSV Jeddeloh vs FC 하이덴하임 20:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458491",
+      "url": "https://bbongtv4.com/premium/soccer/16458491",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "8/23 (일)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트 브로미치 앨비언",
+      "team2": "번리 FC",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "웨스트 브로미치 앨비언 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "웨스트 브로미 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "웨스트 브로미치 앨비언 vs 번리 FC 20:00 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
