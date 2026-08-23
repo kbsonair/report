@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T04:05:19.771561+00:00",
+  "scraped_at": "2026-08-23T04:55:30.346549+00:00",
   "kst_yesterday": "2026-08-22",
   "kst_today": "2026-08-23",
   "kst_tomorrow": "2026-08-24",
@@ -1340,12 +1340,12 @@
       "league": "MLB",
       "date": "8/23 (일)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "애리조나",
       "team2": "신시내티",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 11,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -1364,12 +1364,12 @@
       "league": "MLB",
       "date": "8/23 (일)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도",
       "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 30.0,
         "away": 70.0
@@ -1465,12 +1465,12 @@
       "league": "MLB",
       "date": "8/23 (일)",
       "time": "09:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌디에이고",
       "team2": "미네소타",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 5,
       "prob": {
         "home": 55.0,
         "away": 45.0

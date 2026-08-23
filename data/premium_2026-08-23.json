@@ -1,82 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T04:05:16.953754+00:00",
+  "scraped_at": "2026-08-23T04:55:27.318492+00:00",
   "count": 71,
   "matches": [
-    {
-      "id": "16262710",
-      "url": "https://bbongtv4.com/premium/baseball/16262710",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "09:10",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "애리조나 승리",
-      "ai_picks": [
-        "애리조나 승"
-      ],
-      "aria_label": "애리조나 vs 신시내티 09:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16262711",
-      "url": "https://bbongtv4.com/premium/baseball/16262711",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "09:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "클리블랜드 승리 및 오버(총점 11.5 이상)",
-      "ai_picks": [
-        "클리블랜드 승",
-        "오버 11.5"
-      ],
-      "aria_label": "콜로라도 vs 클리블랜드 09:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16262712",
-      "url": "https://bbongtv4.com/premium/baseball/16262712",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "09:40",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "샌디에이고 승",
-      "ai_picks": [
-        "샌디에이고 승"
-      ],
-      "aria_label": "샌디에이고 vs 미네소타 09:40 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16356843",
       "url": "https://bbongtv4.com/premium/basket/16356843",
@@ -1684,6 +1611,55 @@
       "source_date": "2026-08-23"
     },
     {
+      "id": "16262710",
+      "url": "https://bbongtv4.com/premium/baseball/16262710",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "09:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애리조나",
+      "team2": "신시내티",
+      "score1": 5,
+      "score2": 11,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "애리조나 승리",
+      "ai_picks": [
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs 신시내티 09:10 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262711",
+      "url": "https://bbongtv4.com/premium/baseball/16262711",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "09:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도",
+      "team2": "클리블랜드",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "클리블랜드 승리 및 오버(총점 11.5 이상)",
+      "ai_picks": [
+        "클리블랜드 승",
+        "오버 11.5"
+      ],
+      "aria_label": "콜로라도 vs 클리블랜드 09:10 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
       "id": "16458054",
       "url": "https://bbongtv4.com/premium/soccer/16458054",
       "sport": "soccer",
@@ -1757,6 +1733,30 @@
         "세인트루이스  승"
       ],
       "aria_label": "세인트루이스 시티 SC vs 휴스턴 다이너모 09:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262712",
+      "url": "https://bbongtv4.com/premium/baseball/16262712",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "09:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고",
+      "team2": "미네소타",
+      "score1": 7,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "샌디에이고 승",
+      "ai_picks": [
+        "샌디에이고 승"
+      ],
+      "aria_label": "샌디에이고 vs 미네소타 09:40 분석 상세",
       "source_date": "2026-08-23"
     },
     {
