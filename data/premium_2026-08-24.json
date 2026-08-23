@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T17:29:01.836959+00:00",
+  "scraped_at": "2026-08-23T17:54:26.428223+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16458777",
-      "url": "https://bbongtv4.com/premium/soccer/16458777",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/24 (월)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아틀레티코 마드리드",
-      "team2": "비야레알",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "아틀레티코 마드리드 승",
-      "ai_picks": [
-        "아틀레티코 마 승"
-      ],
-      "aria_label": "아틀레티코 마드리드 vs 비야레알 00:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16458813",
-      "url": "https://bbongtv4.com/premium/soccer/16458813",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/24 (월)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "르아브르 AC",
-      "team2": "AS 모나코 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "AS 모나코 FC 승 및 오버 2.5",
-      "ai_picks": [
-        "AS 모나코 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "르아브르 AC vs AS 모나코 FC 00:15 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16458816",
       "url": "https://bbongtv4.com/premium/soccer/16458816",
@@ -800,6 +749,57 @@
         "밀워키 승"
       ],
       "aria_label": "밀워키 vs 애틀랜타 08:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458777",
+      "url": "https://bbongtv4.com/premium/soccer/16458777",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/24 (월)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아틀레티코 마드리드",
+      "team2": "비야레알",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "아틀레티코 마드리드 승",
+      "ai_picks": [
+        "아틀레티코 마 승"
+      ],
+      "aria_label": "아틀레티코 마드리드 vs 비야레알 00:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458813",
+      "url": "https://bbongtv4.com/premium/soccer/16458813",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/24 (월)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "르아브르 AC",
+      "team2": "AS 모나코 FC",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "AS 모나코 FC 승 및 오버 2.5",
+      "ai_picks": [
+        "AS 모나코 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "르아브르 AC vs AS 모나코 FC 00:15 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
