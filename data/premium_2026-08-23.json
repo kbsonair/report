@@ -1,106 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-23",
-  "scraped_at": "2026-08-23T03:06:36.362315+00:00",
+  "scraped_at": "2026-08-23T04:05:16.953754+00:00",
   "count": 71,
   "matches": [
-    {
-      "id": "16262706",
-      "url": "https://bbongtv4.com/premium/baseball/16262706",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고화이트삭스",
-      "team2": "뉴욕메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "뉴욕메츠 승리",
-      "ai_picks": [
-        "뉴욕메츠 승"
-      ],
-      "aria_label": "시카고화이트삭스 vs 뉴욕메츠 08:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16262707",
-      "url": "https://bbongtv4.com/premium/baseball/16262707",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "휴스턴",
-      "team2": "애슬레틱스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "휴스턴 승리",
-      "ai_picks": [
-        "휴스턴 승"
-      ],
-      "aria_label": "휴스턴 vs 애슬레틱스 08:10 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16262708",
-      "url": "https://bbongtv4.com/premium/baseball/16262708",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티",
-      "team2": "디트로이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "캔자스시티 승리 및 총점 8.5 오버",
-      "ai_picks": [
-        "캔자스시티 승",
-        "오버 8.5"
-      ],
-      "aria_label": "캔자스시티 vs 디트로이트 08:15 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16262709",
-      "url": "https://bbongtv4.com/premium/baseball/16262709",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/23 (일)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "보스턴",
-      "team2": "샌프란시스코",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "보스턴 승리",
-      "ai_picks": [
-        "보스턴 승"
-      ],
-      "aria_label": "보스턴 vs 샌프란시스코 08:15 분석 상세",
-      "source_date": "2026-08-23"
-    },
     {
       "id": "16262710",
       "url": "https://bbongtv4.com/premium/baseball/16262710",
@@ -172,56 +75,6 @@
         "샌디에이고 승"
       ],
       "aria_label": "샌디에이고 vs 미네소타 09:40 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16356842",
-      "url": "https://bbongtv4.com/premium/basket/16356842",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/23 (일)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LA",
-      "team2": "코네티컷",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "코네티컷 승 + 언더",
-      "ai_picks": [
-        "코네티컷 승"
-      ],
-      "aria_label": "LA vs 코네티컷 10:00 분석 상세",
-      "source_date": "2026-08-23"
-    },
-    {
-      "id": "16458071",
-      "url": "https://bbongtv4.com/premium/soccer/16458071",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/23 (일)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "밴쿠버 화이트캡스 FC",
-      "team2": "FC 댈러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 22.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈팀 밴쿠버 화이트캡스 FC 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "밴쿠버 화이트 승",
-        "언더 3.5"
-      ],
-      "aria_label": "밴쿠버 화이트캡스 FC vs FC 댈러스 10:30 분석 상세",
       "source_date": "2026-08-23"
     },
     {
@@ -1582,6 +1435,103 @@
       "source_date": "2026-08-23"
     },
     {
+      "id": "16262706",
+      "url": "https://bbongtv4.com/premium/baseball/16262706",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고화이트삭스",
+      "team2": "뉴욕메츠",
+      "score1": 5,
+      "score2": 10,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "뉴욕메츠 승리",
+      "ai_picks": [
+        "뉴욕메츠 승"
+      ],
+      "aria_label": "시카고화이트삭스 vs 뉴욕메츠 08:10 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262707",
+      "url": "https://bbongtv4.com/premium/baseball/16262707",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "휴스턴",
+      "team2": "애슬레틱스",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "휴스턴 승리",
+      "ai_picks": [
+        "휴스턴 승"
+      ],
+      "aria_label": "휴스턴 vs 애슬레틱스 08:10 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262708",
+      "url": "https://bbongtv4.com/premium/baseball/16262708",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티",
+      "team2": "디트로이트",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "캔자스시티 승리 및 총점 8.5 오버",
+      "ai_picks": [
+        "캔자스시티 승",
+        "오버 8.5"
+      ],
+      "aria_label": "캔자스시티 vs 디트로이트 08:15 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16262709",
+      "url": "https://bbongtv4.com/premium/baseball/16262709",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/23 (일)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보스턴",
+      "team2": "샌프란시스코",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "보스턴 승리",
+      "ai_picks": [
+        "보스턴 승"
+      ],
+      "aria_label": "보스턴 vs 샌프란시스코 08:15 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
       "id": "16458031",
       "url": "https://bbongtv4.com/premium/soccer/16458031",
       "sport": "soccer",
@@ -1740,12 +1690,12 @@
       "league": "USA MLS",
       "date": "8/23 (일)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "오스틴 FC",
       "team2": "필라델피아 유니언",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
@@ -1807,6 +1757,56 @@
         "세인트루이스  승"
       ],
       "aria_label": "세인트루이스 시티 SC vs 휴스턴 다이너모 09:30 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16356842",
+      "url": "https://bbongtv4.com/premium/basket/16356842",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/23 (일)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "LA",
+      "team2": "코네티컷",
+      "score1": 77,
+      "score2": 68,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "코네티컷 승 + 언더",
+      "ai_picks": [
+        "코네티컷 승"
+      ],
+      "aria_label": "LA vs 코네티컷 10:00 분석 상세",
+      "source_date": "2026-08-23"
+    },
+    {
+      "id": "16458071",
+      "url": "https://bbongtv4.com/premium/soccer/16458071",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/23 (일)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밴쿠버 화이트캡스 FC",
+      "team2": "FC 댈러스",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 22.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 밴쿠버 화이트캡스 FC 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "밴쿠버 화이트 승",
+        "언더 3.5"
+      ],
+      "aria_label": "밴쿠버 화이트캡스 FC vs FC 댈러스 10:30 분석 상세",
       "source_date": "2026-08-23"
     }
   ]
