@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T19:40:11.190532+00:00",
+  "scraped_at": "2026-08-23T20:27:48.462424+00:00",
   "kst_yesterday": "2026-08-23",
   "kst_today": "2026-08-24",
   "kst_tomorrow": "2026-08-25",
@@ -220,12 +220,12 @@
       "league": "SPA D1",
       "date": "8/24 (월)",
       "time": "02:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "헤타페 CF",
       "team2": "라싱 산탄데르",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 45.0,
         "draw": 25.0,

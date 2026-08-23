@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T19:40:08.675804+00:00",
+  "scraped_at": "2026-08-23T20:27:46.463191+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16458939",
-      "url": "https://bbongtv4.com/premium/soccer/16458939",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/24 (월)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "헤타페 CF",
-      "team2": "라싱 산탄데르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "오버 1.5골 (양 팀 모두 득점 가능성 높음), 승패 시장에서는 헤타페 CF 승 또는 무승부",
-      "ai_picks": [
-        "헤타페 CF 승",
-        "무승부",
-        "오버 1.5"
-      ],
-      "aria_label": "헤타페 CF vs 라싱 산탄데르 02:30 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16262715",
       "url": "https://bbongtv4.com/premium/baseball/16262715",
@@ -800,6 +773,33 @@
         "언더 2.5"
       ],
       "aria_label": "베네치아 FC vs US 레체 01:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458939",
+      "url": "https://bbongtv4.com/premium/soccer/16458939",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/24 (월)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "헤타페 CF",
+      "team2": "라싱 산탄데르",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "오버 1.5골 (양 팀 모두 득점 가능성 높음), 승패 시장에서는 헤타페 CF 승 또는 무승부",
+      "ai_picks": [
+        "헤타페 CF 승",
+        "무승부",
+        "오버 1.5"
+      ],
+      "aria_label": "헤타페 CF vs 라싱 산탄데르 02:30 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
