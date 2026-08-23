@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T20:57:32.102101+00:00",
+  "scraped_at": "2026-08-23T21:29:14.789548+00:00",
   "count": 32,
   "matches": [
     {
@@ -172,85 +172,6 @@
         "텍사스 승"
       ],
       "aria_label": "텍사스 vs LA엔젤스 03:35 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16458974",
-      "url": "https://bbongtv4.com/premium/soccer/16458974",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/24 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "아탈란타 BC",
-      "team2": "US 사수올로 칼초",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "아탈란타 BC 승",
-      "ai_picks": [
-        "아탈란타 BC 승"
-      ],
-      "aria_label": "아탈란타 BC vs US 사수올로 칼초 03:45 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16458975",
-      "url": "https://bbongtv4.com/premium/soccer/16458975",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/24 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "토리노 FC",
-      "team2": "AC 밀란",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "AC 밀란 승 또는 무승부 (토리노 핸디캡 +1 추천, 언더 2.5 유력)",
-      "ai_picks": [
-        "AC 밀란 승",
-        "무승부",
-        "토리노 FC +1",
-        "언더 2.5"
-      ],
-      "aria_label": "토리노 FC vs AC 밀란 03:45 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16464665",
-      "url": "https://bbongtv4.com/premium/soccer/16464665",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/24 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스타드 렌 FC",
-      "team2": "파리 생제르맹 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "스타드 렌 FC 승 또는 언더 3.5골",
-      "ai_picks": [
-        "스타드 렌 FC 승",
-        "언더 3.5"
-      ],
-      "aria_label": "스타드 렌 FC vs 파리 생제르맹 FC 03:45 분석 상세",
       "source_date": "2026-08-24"
     },
     {
@@ -800,6 +721,85 @@
         "오버 1.5"
       ],
       "aria_label": "헤타페 CF vs 라싱 산탄데르 02:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458974",
+      "url": "https://bbongtv4.com/premium/soccer/16458974",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아탈란타 BC",
+      "team2": "US 사수올로 칼초",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "아탈란타 BC 승",
+      "ai_picks": [
+        "아탈란타 BC 승"
+      ],
+      "aria_label": "아탈란타 BC vs US 사수올로 칼초 03:45 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16458975",
+      "url": "https://bbongtv4.com/premium/soccer/16458975",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토리노 FC",
+      "team2": "AC 밀란",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "AC 밀란 승 또는 무승부 (토리노 핸디캡 +1 추천, 언더 2.5 유력)",
+      "ai_picks": [
+        "AC 밀란 승",
+        "무승부",
+        "토리노 FC +1",
+        "언더 2.5"
+      ],
+      "aria_label": "토리노 FC vs AC 밀란 03:45 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16464665",
+      "url": "https://bbongtv4.com/premium/soccer/16464665",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/24 (월)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스타드 렌 FC",
+      "team2": "파리 생제르맹 FC",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "스타드 렌 FC 승 또는 언더 3.5골",
+      "ai_picks": [
+        "스타드 렌 FC 승",
+        "언더 3.5"
+      ],
+      "aria_label": "스타드 렌 FC vs 파리 생제르맹 FC 03:45 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
