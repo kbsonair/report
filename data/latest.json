@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T22:27:59.243498+00:00",
+  "scraped_at": "2026-08-23T22:56:49.800320+00:00",
   "kst_yesterday": "2026-08-23",
   "kst_today": "2026-08-24",
   "kst_tomorrow": "2026-08-25",
@@ -393,12 +393,12 @@
       "league": "MLB",
       "date": "8/24 (월)",
       "time": "03:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스",
       "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 3,
       "prob": {
         "home": 58.0,
         "away": 42.0

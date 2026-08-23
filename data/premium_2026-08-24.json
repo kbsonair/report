@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T22:27:57.306353+00:00",
+  "scraped_at": "2026-08-23T22:56:47.529366+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16262722",
-      "url": "https://bbongtv4.com/premium/baseball/16262722",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "03:35",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스",
-      "team2": "LA엔젤스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "텍사스 승리",
-      "ai_picks": [
-        "텍사스 승"
-      ],
-      "aria_label": "텍사스 vs LA엔젤스 03:35 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16262723",
       "url": "https://bbongtv4.com/premium/baseball/16262723",
@@ -696,6 +672,30 @@
         "휴스턴 승"
       ],
       "aria_label": "휴스턴 vs 애슬레틱스 03:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16262722",
+      "url": "https://bbongtv4.com/premium/baseball/16262722",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "03:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "텍사스",
+      "team2": "LA엔젤스",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "텍사스 승리",
+      "ai_picks": [
+        "텍사스 승"
+      ],
+      "aria_label": "텍사스 vs LA엔젤스 03:35 분석 상세",
       "source_date": "2026-08-24"
     },
     {
