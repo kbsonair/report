@@ -1,112 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-24T18:04:36.592170+00:00",
+  "scraped_at": "2026-08-24T19:05:25.289800+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16459406",
-      "url": "https://bbongtv4.com/premium/soccer/16459406",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/25 (화)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "VSG Altglienicke",
-      "team2": "VfL 볼프스부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "VfL 볼프스부르크 승리",
-      "ai_picks": [
-        "VfL 볼프스부르 승"
-      ],
-      "aria_label": "VSG Altglienicke vs VfL 볼프스부르크 00:59 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16459407",
-      "url": "https://bbongtv4.com/premium/soccer/16459407",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/25 (화)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 페를",
-      "team2": "함부르크 SV",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "함부르크 SV 승",
-      "ai_picks": [
-        "함부르크 SV 승"
-      ],
-      "aria_label": "SC 페를 vs 함부르크 SV 00:59 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16459408",
-      "url": "https://bbongtv4.com/premium/soccer/16459408",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/25 (화)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "뷔르츠부르크 키커스",
-      "team2": "FC 쾰른",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 10.0,
-        "away": 75.0
-      },
-      "ai_summary": "FC 쾰른 승리 (언더 3.5 병행 추천)",
-      "ai_picks": [
-        "FC 쾰른 승",
-        "언더 3.5"
-      ],
-      "aria_label": "뷔르츠부르크 키커스 vs FC 쾰른 00:59 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16459420",
-      "url": "https://bbongtv4.com/premium/soccer/16459420",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/25 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "볼로냐 FC 1909",
-      "team2": "SS 라치오",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "볼로냐 FC 1909 승 또는 무승부 (홈 핸디캡 0 추천, 언더 2.5 병행)",
-      "ai_picks": [
-        "볼로냐 FC 1909 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "볼로냐 FC 1909 vs SS 라치오 01:30 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16459442",
       "url": "https://bbongtv4.com/premium/soccer/16459442",
@@ -505,6 +402,109 @@
         "퀸즐랜드 라이 승"
       ],
       "aria_label": "퀸즐랜드 라이온스 FC vs North Sunshine Eagles 18:30 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459406",
+      "url": "https://bbongtv4.com/premium/soccer/16459406",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "VSG Altglienicke",
+      "team2": "VfL 볼프스부르크",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "VfL 볼프스부르크 승리",
+      "ai_picks": [
+        "VfL 볼프스부르 승"
+      ],
+      "aria_label": "VSG Altglienicke vs VfL 볼프스부르크 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459407",
+      "url": "https://bbongtv4.com/premium/soccer/16459407",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SC 페를",
+      "team2": "함부르크 SV",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "함부르크 SV 승",
+      "ai_picks": [
+        "함부르크 SV 승"
+      ],
+      "aria_label": "SC 페를 vs 함부르크 SV 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459408",
+      "url": "https://bbongtv4.com/premium/soccer/16459408",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뷔르츠부르크 키커스",
+      "team2": "FC 쾰른",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 10.0,
+        "away": 75.0
+      },
+      "ai_summary": "FC 쾰른 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "FC 쾰른 승",
+        "언더 3.5"
+      ],
+      "aria_label": "뷔르츠부르크 키커스 vs FC 쾰른 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459420",
+      "url": "https://bbongtv4.com/premium/soccer/16459420",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/25 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "볼로냐 FC 1909",
+      "team2": "SS 라치오",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "볼로냐 FC 1909 승 또는 무승부 (홈 핸디캡 0 추천, 언더 2.5 병행)",
+      "ai_picks": [
+        "볼로냐 FC 1909 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "볼로냐 FC 1909 vs SS 라치오 01:30 분석 상세",
       "source_date": "2026-08-25"
     }
   ]
