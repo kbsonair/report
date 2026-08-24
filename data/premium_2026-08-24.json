@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-24T03:07:08.599965+00:00",
+  "scraped_at": "2026-08-24T04:10:25.198924+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16262729",
-      "url": "https://bbongtv4.com/premium/baseball/16262729",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키",
-      "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "밀워키 승리 (언더 흐름 유력)",
-      "ai_picks": [
-        "밀워키 승"
-      ],
-      "aria_label": "밀워키 vs 애틀랜타 08:10 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16458777",
       "url": "https://bbongtv4.com/premium/soccer/16458777",
@@ -800,6 +776,30 @@
         "애틀랜타 유나 승"
       ],
       "aria_label": "애틀랜타 유나이티드 FC vs 스포팅 캔자스시티 08:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16262729",
+      "url": "https://bbongtv4.com/premium/baseball/16262729",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "밀워키",
+      "team2": "애틀랜타",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "밀워키 승리 (언더 흐름 유력)",
+      "ai_picks": [
+        "밀워키 승"
+      ],
+      "aria_label": "밀워키 vs 애틀랜타 08:10 분석 상세",
       "source_date": "2026-08-24"
     }
   ]

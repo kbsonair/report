@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T03:07:10.805797+00:00",
+  "scraped_at": "2026-08-24T04:10:27.270075+00:00",
   "kst_yesterday": "2026-08-23",
   "kst_today": "2026-08-24",
   "kst_tomorrow": "2026-08-25",
@@ -1023,12 +1023,12 @@
       "league": "MLB",
       "date": "8/24 (월)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "밀워키",
       "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 4,
       "prob": {
         "home": 55.0,
         "away": 45.0
