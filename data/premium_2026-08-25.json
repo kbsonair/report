@@ -1,7 +1,240 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-25",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-23T23:55:36.226596+00:00",
-  "count": 0,
-  "matches": []
+  "scraped_at": "2026-08-24T01:41:32.515379+00:00",
+  "count": 9,
+  "matches": [
+    {
+      "id": "16459406",
+      "url": "https://bbongtv4.com/premium/soccer/16459406",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "VSG Altglienicke",
+      "team2": "VfL 볼프스부르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "VfL 볼프스부르크 승리",
+      "ai_picks": [
+        "VfL 볼프스부르 승"
+      ],
+      "aria_label": "VSG Altglienicke vs VfL 볼프스부르크 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459407",
+      "url": "https://bbongtv4.com/premium/soccer/16459407",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 페를",
+      "team2": "함부르크 SV",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "함부르크 SV 승",
+      "ai_picks": [
+        "함부르크 SV 승"
+      ],
+      "aria_label": "SC 페를 vs 함부르크 SV 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459408",
+      "url": "https://bbongtv4.com/premium/soccer/16459408",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "뷔르츠부르크 키커스",
+      "team2": "FC 쾰른",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 10.0,
+        "away": 75.0
+      },
+      "ai_summary": "FC 쾰른 승리 (언더 3.5 병행 추천)",
+      "ai_picks": [
+        "FC 쾰른 승",
+        "언더 3.5"
+      ],
+      "aria_label": "뷔르츠부르크 키커스 vs FC 쾰른 00:59 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459420",
+      "url": "https://bbongtv4.com/premium/soccer/16459420",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/25 (화)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "볼로냐 FC 1909",
+      "team2": "SS 라치오",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "볼로냐 FC 1909 승 또는 무승부 (홈 핸디캡 0 추천, 언더 2.5 병행)",
+      "ai_picks": [
+        "볼로냐 FC 1909 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "볼로냐 FC 1909 vs SS 라치오 01:30 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459442",
+      "url": "https://bbongtv4.com/premium/soccer/16459442",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/25 (화)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "CA 오사수나",
+      "team2": "레반테 UD",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 CA 오사수나 승",
+      "ai_picks": [
+        "CA 오사수나 승"
+      ],
+      "aria_label": "CA 오사수나 vs 레반테 UD 02:30 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459458",
+      "url": "https://bbongtv4.com/premium/soccer/16459458",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/25 (화)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "AS 로마",
+      "team2": "ACF 피오렌티나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "AS 로마 승리 (2-0 또는 2-1 스코어라인 예상, 언더 2.5 병행 추천)",
+      "ai_picks": [
+        "AS 로마 승",
+        "언더 2.5"
+      ],
+      "aria_label": "AS 로마 vs ACF 피오렌티나 03:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459459",
+      "url": "https://bbongtv4.com/premium/soccer/16459459",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "할레셔 FC",
+      "team2": "FC 샬케 04",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 샬케 04 승",
+      "ai_picks": [
+        "FC 샬케 04 승"
+      ],
+      "aria_label": "할레셔 FC vs FC 샬케 04 03:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459460",
+      "url": "https://bbongtv4.com/premium/soccer/16459460",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/25 (화)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "풀럼 FC",
+      "team2": "첼시 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "첼시 FC 승 (오버 2.5골 병행 추천)",
+      "ai_picks": [
+        "첼시 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "풀럼 FC vs 첼시 FC 04:00 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459472",
+      "url": "https://bbongtv4.com/premium/soccer/16459472",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/25 (화)",
+      "time": "04:30",
+      "status": "예정",
+      "result": null,
+      "team1": "말라가 CF",
+      "team2": "데포르티보 라코루냐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "말라가 CF 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "말라가 CF 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "말라가 CF vs 데포르티보 라코루냐 04:30 분석 상세",
+      "source_date": "2026-08-25"
+    }
+  ]
 }

@@ -1,106 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-23T23:55:33.726855+00:00",
+  "scraped_at": "2026-08-24T01:41:30.400518+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16262725",
-      "url": "https://bbongtv4.com/premium/baseball/16262725",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "시카고컵스 승 (언더 7.5 추천)",
-      "ai_picks": [
-        "시카고컵스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "시애틀 vs 시카고컵스 05:10 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16262726",
-      "url": "https://bbongtv4.com/premium/baseball/16262726",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "샌디에이고 승리 + 언더",
-      "ai_picks": [
-        "샌디에이고 승"
-      ],
-      "aria_label": "샌디에이고 vs 미네소타 05:10 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16262727",
-      "url": "https://bbongtv4.com/premium/baseball/16262727",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA다저스",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "LA다저스 승"
-      ],
-      "aria_label": "LA다저스 vs 피츠버그 05:10 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16262728",
-      "url": "https://bbongtv4.com/premium/baseball/16262728",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/24 (월)",
-      "time": "05:15",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "애리조나 승리 + 합계 오버",
-      "ai_picks": [
-        "애리조나 승"
-      ],
-      "aria_label": "애리조나 vs 신시내티 05:15 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16356845",
       "url": "https://bbongtv4.com/premium/basket/16356845",
@@ -173,31 +76,6 @@
         "라스베가스 승"
       ],
       "aria_label": "토론토 vs 라스베가스 08:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16459057",
-      "url": "https://bbongtv4.com/premium/soccer/16459057",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/24 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "애틀랜타 유나이티드 FC",
-      "team2": "스포팅 캔자스시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 애틀랜타 유나이티드 FC 승리",
-      "ai_picks": [
-        "애틀랜타 유나 승"
-      ],
-      "aria_label": "애틀랜타 유나이티드 FC vs 스포팅 캔자스시티 08:00 분석 상세",
       "source_date": "2026-08-24"
     },
     {
@@ -778,6 +656,103 @@
       "source_date": "2026-08-24"
     },
     {
+      "id": "16262725",
+      "url": "https://bbongtv4.com/premium/baseball/16262725",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시애틀",
+      "team2": "시카고컵스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "시카고컵스 승 (언더 7.5 추천)",
+      "ai_picks": [
+        "시카고컵스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "시애틀 vs 시카고컵스 05:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16262726",
+      "url": "https://bbongtv4.com/premium/baseball/16262726",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고",
+      "team2": "미네소타",
+      "score1": 7,
+      "score2": 5,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "샌디에이고 승리 + 언더",
+      "ai_picks": [
+        "샌디에이고 승"
+      ],
+      "aria_label": "샌디에이고 vs 미네소타 05:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16262727",
+      "url": "https://bbongtv4.com/premium/baseball/16262727",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA다저스",
+      "team2": "피츠버그",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "LA다저스 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "LA다저스 승"
+      ],
+      "aria_label": "LA다저스 vs 피츠버그 05:10 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16262728",
+      "url": "https://bbongtv4.com/premium/baseball/16262728",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/24 (월)",
+      "time": "05:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애리조나",
+      "team2": "신시내티",
+      "score1": 5,
+      "score2": 11,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "애리조나 승리 + 합계 오버",
+      "ai_picks": [
+        "애리조나 승"
+      ],
+      "aria_label": "애리조나 vs 신시내티 05:15 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
       "id": "16459034",
       "url": "https://bbongtv4.com/premium/soccer/16459034",
       "sport": "soccer",
@@ -800,6 +775,31 @@
         "뉴잉글랜드 레 승"
       ],
       "aria_label": "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 05:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16459057",
+      "url": "https://bbongtv4.com/premium/soccer/16459057",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/24 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애틀랜타 유나이티드 FC",
+      "team2": "스포팅 캔자스시티",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 애틀랜타 유나이티드 FC 승리",
+      "ai_picks": [
+        "애틀랜타 유나 승"
+      ],
+      "aria_label": "애틀랜타 유나이티드 FC vs 스포팅 캔자스시티 08:00 분석 상세",
       "source_date": "2026-08-24"
     }
   ]
