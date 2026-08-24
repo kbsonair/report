@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-24T21:48:20.165582+00:00",
+  "scraped_at": "2026-08-24T22:30:35.111562+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16459472",
-      "url": "https://bbongtv4.com/premium/soccer/16459472",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/25 (화)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "말라가 CF",
-      "team2": "데포르티보 라코루냐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "말라가 CF 승 또는 무승부 (언더 2.5골)",
-      "ai_picks": [
-        "말라가 CF 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "말라가 CF vs 데포르티보 라코루냐 04:30 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16262730",
       "url": "https://bbongtv4.com/premium/baseball/16262730",
@@ -505,6 +478,33 @@
         "오버 2.5"
       ],
       "aria_label": "풀럼 FC vs 첼시 FC 04:00 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459472",
+      "url": "https://bbongtv4.com/premium/soccer/16459472",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/25 (화)",
+      "time": "04:30",
+      "status": "예정",
+      "result": null,
+      "team1": "말라가 CF",
+      "team2": "데포르티보 라코루냐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "말라가 CF 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "말라가 CF 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "말라가 CF vs 데포르티보 라코루냐 04:30 분석 상세",
       "source_date": "2026-08-25"
     }
   ]
