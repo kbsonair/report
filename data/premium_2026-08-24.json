@@ -1,83 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-24",
-  "scraped_at": "2026-08-24T01:41:30.400518+00:00",
+  "scraped_at": "2026-08-24T03:07:08.599965+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16356845",
-      "url": "https://bbongtv4.com/premium/basket/16356845",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/24 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고",
-      "team2": "인디애나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "인디애나 승",
-      "ai_picks": [
-        "인디애나 승"
-      ],
-      "aria_label": "시카고 vs 인디애나 08:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16356846",
-      "url": "https://bbongtv4.com/premium/basket/16356846",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/24 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포틀랜드",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 5.0,
-        "away": 50.0
-      },
-      "ai_summary": "워싱턴 승 또는 오버 접근 추천",
-      "ai_picks": [
-        "워싱턴 승"
-      ],
-      "aria_label": "포틀랜드 vs 워싱턴 08:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
-    {
-      "id": "16356847",
-      "url": "https://bbongtv4.com/premium/basket/16356847",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/24 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토론토",
-      "team2": "라스베가스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 5.0,
-        "away": 80.0
-      },
-      "ai_summary": "원정팀(라스베가스) 승",
-      "ai_picks": [
-        "라스베가스 승"
-      ],
-      "aria_label": "토론토 vs 라스베가스 08:00 분석 상세",
-      "source_date": "2026-08-24"
-    },
     {
       "id": "16262729",
       "url": "https://bbongtv4.com/premium/baseball/16262729",
@@ -775,6 +701,80 @@
         "뉴잉글랜드 레 승"
       ],
       "aria_label": "뉴잉글랜드 레볼루션 vs 뉴욕 시티 FC 05:30 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16356845",
+      "url": "https://bbongtv4.com/premium/basket/16356845",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/24 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고",
+      "team2": "인디애나",
+      "score1": 90,
+      "score2": 113,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "인디애나 승",
+      "ai_picks": [
+        "인디애나 승"
+      ],
+      "aria_label": "시카고 vs 인디애나 08:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16356846",
+      "url": "https://bbongtv4.com/premium/basket/16356846",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/24 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "포틀랜드",
+      "team2": "워싱턴",
+      "score1": 100,
+      "score2": 105,
+      "prob": {
+        "home": 45.0,
+        "draw": 5.0,
+        "away": 50.0
+      },
+      "ai_summary": "워싱턴 승 또는 오버 접근 추천",
+      "ai_picks": [
+        "워싱턴 승"
+      ],
+      "aria_label": "포틀랜드 vs 워싱턴 08:00 분석 상세",
+      "source_date": "2026-08-24"
+    },
+    {
+      "id": "16356847",
+      "url": "https://bbongtv4.com/premium/basket/16356847",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/24 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토론토",
+      "team2": "라스베가스",
+      "score1": 78,
+      "score2": 88,
+      "prob": {
+        "home": 15.0,
+        "draw": 5.0,
+        "away": 80.0
+      },
+      "ai_summary": "원정팀(라스베가스) 승",
+      "ai_picks": [
+        "라스베가스 승"
+      ],
+      "aria_label": "토론토 vs 라스베가스 08:00 분석 상세",
       "source_date": "2026-08-24"
     },
     {
