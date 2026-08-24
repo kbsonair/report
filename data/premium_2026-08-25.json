@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-24T21:04:03.175954+00:00",
+  "scraped_at": "2026-08-24T21:48:20.165582+00:00",
   "count": 20,
   "matches": [
-    {
-      "id": "16459458",
-      "url": "https://bbongtv4.com/premium/soccer/16459458",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/25 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AS 로마",
-      "team2": "ACF 피오렌티나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "AS 로마 승리 (2-0 또는 2-1 스코어라인 예상, 언더 2.5 병행 추천)",
-      "ai_picks": [
-        "AS 로마 승",
-        "언더 2.5"
-      ],
-      "aria_label": "AS 로마 vs ACF 피오렌티나 03:45 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16459459",
-      "url": "https://bbongtv4.com/premium/soccer/16459459",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "8/25 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "할레셔 FC",
-      "team2": "FC 샬케 04",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 8.0,
-        "draw": 12.0,
-        "away": 80.0
-      },
-      "ai_summary": "FC 샬케 04 승",
-      "ai_picks": [
-        "FC 샬케 04 승"
-      ],
-      "aria_label": "할레셔 FC vs FC 샬케 04 03:45 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16459460",
-      "url": "https://bbongtv4.com/premium/soccer/16459460",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/25 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "풀럼 FC",
-      "team2": "첼시 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 22.0,
-        "away": 50.0
-      },
-      "ai_summary": "첼시 FC 승 (오버 2.5골 병행 추천)",
-      "ai_picks": [
-        "첼시 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "풀럼 FC vs 첼시 FC 04:00 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16459472",
       "url": "https://bbongtv4.com/premium/soccer/16459472",
@@ -505,6 +428,83 @@
         "CA 오사수나 승"
       ],
       "aria_label": "CA 오사수나 vs 레반테 UD 02:30 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459458",
+      "url": "https://bbongtv4.com/premium/soccer/16459458",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/25 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "AS 로마",
+      "team2": "ACF 피오렌티나",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "AS 로마 승리 (2-0 또는 2-1 스코어라인 예상, 언더 2.5 병행 추천)",
+      "ai_picks": [
+        "AS 로마 승",
+        "언더 2.5"
+      ],
+      "aria_label": "AS 로마 vs ACF 피오렌티나 03:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459459",
+      "url": "https://bbongtv4.com/premium/soccer/16459459",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "8/25 (화)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "할레셔 FC",
+      "team2": "FC 샬케 04",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 12.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 샬케 04 승",
+      "ai_picks": [
+        "FC 샬케 04 승"
+      ],
+      "aria_label": "할레셔 FC vs FC 샬케 04 03:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16459460",
+      "url": "https://bbongtv4.com/premium/soccer/16459460",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/25 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "풀럼 FC",
+      "team2": "첼시 FC",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "첼시 FC 승 (오버 2.5골 병행 추천)",
+      "ai_picks": [
+        "첼시 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "풀럼 FC vs 첼시 FC 04:00 분석 상세",
       "source_date": "2026-08-25"
     }
   ]
