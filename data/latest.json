@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T13:24:45.720602+00:00",
+  "scraped_at": "2026-08-24T14:23:48.581748+00:00",
   "kst_yesterday": "2026-08-23",
   "kst_today": "2026-08-24",
   "kst_tomorrow": "2026-08-25",
@@ -8,7 +8,7 @@
     "2026-08-24",
     "2026-08-25"
   ],
-  "count": 129,
+  "count": 130,
   "matches": [
     {
       "id": "16459406",
@@ -486,6 +486,31 @@
         "신시내티 승"
       ],
       "aria_label": "샌프란시스코 vs 신시내티 10:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16460013",
+      "url": "https://bbongtv4.com/premium/soccer/16460013",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/25 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "퀸즐랜드 라이온스 FC",
+      "team2": "North Sunshine Eagles",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "퀸즐랜드 라이온스 FC 승",
+      "ai_picks": [
+        "퀸즐랜드 라이 승"
+      ],
+      "aria_label": "퀸즐랜드 라이온스 FC vs North Sunshine Eagles 18:30 분석 상세",
       "source_date": "2026-08-25"
     },
     {
