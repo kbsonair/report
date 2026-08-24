@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T19:48:28.279524+00:00",
+  "scraped_at": "2026-08-24T20:34:37.395656+00:00",
   "kst_yesterday": "2026-08-24",
   "kst_today": "2026-08-25",
   "kst_tomorrow": "2026-08-26",
@@ -220,12 +220,12 @@
       "league": "SPA D1",
       "date": "8/25 (화)",
       "time": "02:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "CA 오사수나",
       "team2": "레반테 UD",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 48.0,
         "draw": 25.0,
