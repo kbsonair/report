@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T03:02:18.521230+00:00",
+  "scraped_at": "2026-08-25T04:03:59.500584+00:00",
   "kst_yesterday": "2026-08-24",
   "kst_today": "2026-08-25",
   "kst_tomorrow": "2026-08-26",
@@ -8,7 +8,7 @@
     "2026-08-25",
     "2026-08-26"
   ],
-  "count": 95,
+  "count": 96,
   "matches": [
     {
       "id": "16460070",
@@ -1043,12 +1043,12 @@
       "league": "MLB",
       "date": "8/25 (화)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시카고화이트삭스",
       "team2": "텍사스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 11,
       "prob": {
         "home": 50.0,
         "away": 50.0
@@ -1406,6 +1406,32 @@
         "오릭스 승"
       ],
       "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16260701",
+      "url": "https://bbongtv4.com/premium/baseball/16260701",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/25 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SSG",
+      "team2": "한화",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 13.0,
+        "away": 45.0
+      },
+      "ai_summary": "한화 승 또는 무승부",
+      "ai_picks": [
+        "한화 승",
+        "무승부"
+      ],
+      "aria_label": "SSG vs 한화 18:30 분석 상세",
       "source_date": "2026-08-25"
     },
     {

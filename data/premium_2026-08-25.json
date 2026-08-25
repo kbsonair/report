@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-25T03:02:16.160102+00:00",
-  "count": 35,
+  "scraped_at": "2026-08-25T04:03:57.324158+00:00",
+  "count": 36,
   "matches": [
-    {
-      "id": "16262733",
-      "url": "https://bbongtv4.com/premium/baseball/16262733",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고화이트삭스",
-      "team2": "텍사스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "away": 50.0
-      },
-      "ai_summary": "시카고화이트삭스 승 (근소 우세)",
-      "ai_picks": [
-        "시카고화이트삭 승"
-      ],
-      "aria_label": "시카고화이트삭스 vs 텍사스 08:40 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16262734",
       "url": "https://bbongtv4.com/premium/baseball/16262734",
@@ -325,6 +301,32 @@
         "오릭스 승"
       ],
       "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16260701",
+      "url": "https://bbongtv4.com/premium/baseball/16260701",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/25 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SSG",
+      "team2": "한화",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 13.0,
+        "away": 45.0
+      },
+      "ai_summary": "한화 승 또는 무승부",
+      "ai_picks": [
+        "한화 승",
+        "무승부"
+      ],
+      "aria_label": "SSG vs 한화 18:30 분석 상세",
       "source_date": "2026-08-25"
     },
     {
@@ -836,6 +838,30 @@
         "언더 8.5"
       ],
       "aria_label": "워싱턴 vs 콜로라도 07:45 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262733",
+      "url": "https://bbongtv4.com/premium/baseball/16262733",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시카고화이트삭스",
+      "team2": "텍사스",
+      "score1": 2,
+      "score2": 11,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "시카고화이트삭스 승 (근소 우세)",
+      "ai_picks": [
+        "시카고화이트삭 승"
+      ],
+      "aria_label": "시카고화이트삭스 vs 텍사스 08:40 분석 상세",
       "source_date": "2026-08-25"
     },
     {
