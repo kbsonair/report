@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-26",
-  "scraped_at": "2026-08-25T19:49:04.908831+00:00",
+  "scraped_at": "2026-08-25T20:33:27.867924+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "16460089",
-      "url": "https://bbongtv4.com/premium/soccer/16460089",
-      "sport": "soccer",
-      "league": "ENG LC",
-      "date": "8/26 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카디프 시티",
-      "team2": "노리치 시티 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "노리치 시티 FC 승 및 오버 2.5골",
-      "ai_picks": [
-        "노리치 시티 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "카디프 시티 vs 노리치 시티 FC 03:00 분석 상세",
-      "source_date": "2026-08-26"
-    },
     {
       "id": "16460029",
       "url": "https://bbongtv4.com/premium/soccer/16460029",
@@ -1113,6 +1087,32 @@
         "오버 2.5"
       ],
       "aria_label": "Sabah Baku vs 하포엘 베르셰바 FC 01:45 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16460089",
+      "url": "https://bbongtv4.com/premium/soccer/16460089",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "8/26 (수)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "카디프 시티",
+      "team2": "노리치 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "노리치 시티 FC 승 및 오버 2.5골",
+      "ai_picks": [
+        "노리치 시티 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "카디프 시티 vs 노리치 시티 FC 03:00 분석 상세",
       "source_date": "2026-08-26"
     }
   ]
