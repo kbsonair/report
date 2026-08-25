@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-25T04:58:13.356206+00:00",
+  "scraped_at": "2026-08-25T05:39:30.389116+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "16262734",
-      "url": "https://bbongtv4.com/premium/baseball/16262734",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:38",
-      "status": "예정",
-      "result": null,
-      "team1": "LA엔젤스",
-      "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "클리블랜드 승리 (언더 8.5)",
-      "ai_picks": [
-        "클리블랜드 승",
-        "언더 8.5"
-      ],
-      "aria_label": "LA엔젤스 vs 클리블랜드 10:38 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16262735",
       "url": "https://bbongtv4.com/premium/baseball/16262735",
@@ -911,6 +886,31 @@
         "애틀랜타 승"
       ],
       "aria_label": "LA vs 애틀랜타 09:00 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262734",
+      "url": "https://bbongtv4.com/premium/baseball/16262734",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:38",
+      "status": "예정",
+      "result": null,
+      "team1": "LA엔젤스",
+      "team2": "클리블랜드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "클리블랜드 승리 (언더 8.5)",
+      "ai_picks": [
+        "클리블랜드 승",
+        "언더 8.5"
+      ],
+      "aria_label": "LA엔젤스 vs 클리블랜드 10:38 분석 상세",
       "source_date": "2026-08-25"
     }
   ]
