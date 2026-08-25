@@ -1,131 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-25T05:39:30.389116+00:00",
+  "scraped_at": "2026-08-25T06:04:08.438628+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "16262735",
-      "url": "https://bbongtv4.com/premium/baseball/16262735",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나",
-      "team2": "시카고컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "시카고컵스 승리",
-      "ai_picks": [
-        "시카고컵스 승"
-      ],
-      "aria_label": "애리조나 vs 시카고컵스 10:40 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16262736",
-      "url": "https://bbongtv4.com/premium/baseball/16262736",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애슬레틱스",
-      "team2": "미네소타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "미네소타 승리",
-      "ai_picks": [
-        "미네소타 승"
-      ],
-      "aria_label": "애슬레틱스 vs 미네소타 10:40 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16262737",
-      "url": "https://bbongtv4.com/premium/baseball/16262737",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "필라델피아 승, 언더 6.5",
-      "ai_picks": [
-        "필라델피아 승",
-        "언더 6.5"
-      ],
-      "aria_label": "시애틀 vs 필라델피아 10:40 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16262738",
-      "url": "https://bbongtv4.com/premium/baseball/16262738",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "샌디에이고 승, 언더 7.5",
-      "ai_picks": [
-        "샌디에이고 승",
-        "언더 7.5"
-      ],
-      "aria_label": "샌디에이고 vs 피츠버그 10:40 분석 상세",
-      "source_date": "2026-08-25"
-    },
-    {
-      "id": "16262739",
-      "url": "https://bbongtv4.com/premium/baseball/16262739",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/25 (화)",
-      "time": "10:45",
-      "status": "예정",
-      "result": null,
-      "team1": "샌프란시스코",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "away": 72.0
-      },
-      "ai_summary": "원정팀(신시내티) 승, 언더 추천",
-      "ai_picks": [
-        "신시내티 승"
-      ],
-      "aria_label": "샌프란시스코 vs 신시내티 10:45 분석 상세",
-      "source_date": "2026-08-25"
-    },
     {
       "id": "16263963",
       "url": "https://bbongtv4.com/premium/baseball/16263963",
@@ -895,12 +773,12 @@
       "league": "MLB",
       "date": "8/25 (화)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA엔젤스",
       "team2": "클리블랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 4,
       "prob": {
         "home": 30.0,
         "away": 70.0
@@ -911,6 +789,128 @@
         "언더 8.5"
       ],
       "aria_label": "LA엔젤스 vs 클리블랜드 10:38 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262735",
+      "url": "https://bbongtv4.com/premium/baseball/16262735",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나",
+      "team2": "시카고컵스",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시카고컵스 승리",
+      "ai_picks": [
+        "시카고컵스 승"
+      ],
+      "aria_label": "애리조나 vs 시카고컵스 10:40 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262736",
+      "url": "https://bbongtv4.com/premium/baseball/16262736",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애슬레틱스",
+      "team2": "미네소타",
+      "score1": 6,
+      "score2": 9,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "미네소타 승리",
+      "ai_picks": [
+        "미네소타 승"
+      ],
+      "aria_label": "애슬레틱스 vs 미네소타 10:40 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262737",
+      "url": "https://bbongtv4.com/premium/baseball/16262737",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시애틀",
+      "team2": "필라델피아",
+      "score1": 9,
+      "score2": 2,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "필라델피아 승, 언더 6.5",
+      "ai_picks": [
+        "필라델피아 승",
+        "언더 6.5"
+      ],
+      "aria_label": "시애틀 vs 필라델피아 10:40 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262738",
+      "url": "https://bbongtv4.com/premium/baseball/16262738",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고",
+      "team2": "피츠버그",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "샌디에이고 승, 언더 7.5",
+      "ai_picks": [
+        "샌디에이고 승",
+        "언더 7.5"
+      ],
+      "aria_label": "샌디에이고 vs 피츠버그 10:40 분석 상세",
+      "source_date": "2026-08-25"
+    },
+    {
+      "id": "16262739",
+      "url": "https://bbongtv4.com/premium/baseball/16262739",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/25 (화)",
+      "time": "10:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "샌프란시스코",
+      "team2": "신시내티",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 28.0,
+        "away": 72.0
+      },
+      "ai_summary": "원정팀(신시내티) 승, 언더 추천",
+      "ai_picks": [
+        "신시내티 승"
+      ],
+      "aria_label": "샌프란시스코 vs 신시내티 10:45 분석 상세",
       "source_date": "2026-08-25"
     }
   ]
