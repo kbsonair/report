@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-26",
-  "scraped_at": "2026-08-25T20:33:27.867924+00:00",
+  "scraped_at": "2026-08-25T21:00:56.805344+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "16460029",
-      "url": "https://bbongtv4.com/premium/soccer/16460029",
-      "sport": "soccer",
-      "league": "ENG LC",
-      "date": "8/26 (수)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "돈캐스터 로버스 FC",
-      "team2": "미들즈브러 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "미들즈브러 FC 승 + 오버 2.5골",
-      "ai_picks": [
-        "미들즈브러 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "돈캐스터 로버스 FC vs 미들즈브러 FC 03:30 분석 상세",
-      "source_date": "2026-08-26"
-    },
     {
       "id": "16460108",
       "url": "https://bbongtv4.com/premium/soccer/16460108",
@@ -1096,12 +1070,12 @@
       "league": "ENG LC",
       "date": "8/26 (수)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "카디프 시티",
       "team2": "노리치 시티 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 30.0,
         "draw": 25.0,
@@ -1113,6 +1087,32 @@
         "오버 2.5"
       ],
       "aria_label": "카디프 시티 vs 노리치 시티 FC 03:00 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16460029",
+      "url": "https://bbongtv4.com/premium/soccer/16460029",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "8/26 (수)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "돈캐스터 로버스 FC",
+      "team2": "미들즈브러 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "미들즈브러 FC 승 + 오버 2.5골",
+      "ai_picks": [
+        "미들즈브러 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "돈캐스터 로버스 FC vs 미들즈브러 FC 03:30 분석 상세",
       "source_date": "2026-08-26"
     }
   ]
