@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-25",
-  "scraped_at": "2026-08-25T04:03:57.324158+00:00",
+  "scraped_at": "2026-08-25T04:58:13.356206+00:00",
   "count": 36,
   "matches": [
     {
@@ -896,12 +896,12 @@
       "league": "WNBA",
       "date": "8/25 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA",
       "team2": "애틀랜타",
-      "score1": null,
-      "score2": null,
+      "score1": 71,
+      "score2": 78,
       "prob": {
         "home": 25.0,
         "away": 75.0
