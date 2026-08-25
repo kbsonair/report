@@ -1,0 +1,83 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-08-27",
+  "source_date": "2026-08-27",
+  "scraped_at": "2026-08-25T15:47:31.611869+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "16461029",
+      "url": "https://bbongtv4.com/premium/soccer/16461029",
+      "sport": "soccer",
+      "league": "FIFA IC",
+      "date": "8/27 (목)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "알아흘리(KSA)",
+      "team2": "오클랜드 FC(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "알아흘리(KSA) 승",
+      "ai_picks": [
+        "알아흘리(KSA) 승"
+      ],
+      "aria_label": "알아흘리(KSA) vs 오클랜드 FC(N) 03:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16461094",
+      "url": "https://bbongtv4.com/premium/soccer/16461094",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "8/27 (목)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르티보 톨루카",
+      "team2": "오스틴 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "데포르티보 톨루카 승",
+      "ai_picks": [
+        "데포르티보 톨 승"
+      ],
+      "aria_label": "데포르티보 톨루카 vs 오스틴 FC 09:30 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16461103",
+      "url": "https://bbongtv4.com/premium/soccer/16461103",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "8/27 (목)",
+      "time": "11:45",
+      "status": "예정",
+      "result": null,
+      "team1": "클루브 아메리카",
+      "team2": "콜럼버스 크루",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "클루브 아메리카 승",
+      "ai_picks": [
+        "클루브 아메리 승"
+      ],
+      "aria_label": "클루브 아메리카 vs 콜럼버스 크루 11:45 분석 상세",
+      "source_date": "2026-08-27"
+    }
+  ]
+}
