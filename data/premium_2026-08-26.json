@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-26",
-  "scraped_at": "2026-08-26T04:48:25.180338+00:00",
+  "scraped_at": "2026-08-26T05:37:37.058560+00:00",
   "count": 66,
   "matches": [
     {
@@ -149,55 +149,6 @@
         "오버 8.5"
       ],
       "aria_label": "샌프란시스코 vs 신시내티 10:45 분석 상세",
-      "source_date": "2026-08-26"
-    },
-    {
-      "id": "16356852",
-      "url": "https://bbongtv4.com/premium/basket/16356852",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/26 (수)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "피닉스",
-      "team2": "워싱턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "워싱턴 승리",
-      "ai_picks": [
-        "워싱턴 승"
-      ],
-      "aria_label": "피닉스 vs 워싱턴 11:00 분석 상세",
-      "source_date": "2026-08-26"
-    },
-    {
-      "id": "16460177",
-      "url": "https://bbongtv4.com/premium/soccer/16460177",
-      "sport": "soccer",
-      "league": "CNCF LC",
-      "date": "8/26 (수)",
-      "time": "11:30",
-      "status": "예정",
-      "result": null,
-      "team1": "클루브 레온",
-      "team2": "레알 솔트레이크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "클루브 레온 승",
-      "ai_picks": [
-        "클루브 레온 승"
-      ],
-      "aria_label": "클루브 레온 vs 레알 솔트레이크 11:30 분석 상세",
       "source_date": "2026-08-26"
     },
     {
@@ -1679,6 +1630,55 @@
         "CF 몬테레이 승"
       ],
       "aria_label": "CF 몬테레이 vs 시카고 파이어 09:30 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16356852",
+      "url": "https://bbongtv4.com/premium/basket/16356852",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/26 (수)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피닉스",
+      "team2": "워싱턴",
+      "score1": 84,
+      "score2": 94,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "워싱턴 승리",
+      "ai_picks": [
+        "워싱턴 승"
+      ],
+      "aria_label": "피닉스 vs 워싱턴 11:00 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16460177",
+      "url": "https://bbongtv4.com/premium/soccer/16460177",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "8/26 (수)",
+      "time": "11:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "클루브 레온",
+      "team2": "레알 솔트레이크",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "클루브 레온 승",
+      "ai_picks": [
+        "클루브 레온 승"
+      ],
+      "aria_label": "클루브 레온 vs 레알 솔트레이크 11:30 분석 상세",
       "source_date": "2026-08-26"
     }
   ]
