@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-26",
   "source_date": "2026-08-26",
-  "scraped_at": "2026-08-26T14:24:28.774067+00:00",
+  "scraped_at": "2026-08-26T16:04:28.872979+00:00",
   "count": 66,
   "matches": [
-    {
-      "id": "16461680",
-      "url": "https://bbongtv4.com/premium/soccer/16461680",
-      "sport": "soccer",
-      "league": "AFF SC",
-      "date": "8/26 (수)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베트남",
-      "team2": "태국",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "베트남 승",
-      "ai_picks": [
-        "베트남 승"
-      ],
-      "aria_label": "베트남 vs 태국 22:00 분석 상세",
-      "source_date": "2026-08-26"
-    },
     {
       "id": "16460070",
       "url": "https://bbongtv4.com/premium/soccer/16460070",
@@ -1679,6 +1654,31 @@
         "언더 2.5"
       ],
       "aria_label": "강원 FC vs 광주 FC 19:30 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16461680",
+      "url": "https://bbongtv4.com/premium/soccer/16461680",
+      "sport": "soccer",
+      "league": "AFF SC",
+      "date": "8/26 (수)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "베트남",
+      "team2": "태국",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "베트남 승",
+      "ai_picks": [
+        "베트남 승"
+      ],
+      "aria_label": "베트남 vs 태국 22:00 분석 상세",
       "source_date": "2026-08-26"
     }
   ]
