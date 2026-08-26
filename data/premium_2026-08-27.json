@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-27",
-  "scraped_at": "2026-08-26T18:07:55.482063+00:00",
+  "scraped_at": "2026-08-26T20:12:31.782037+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "16460971",
-      "url": "https://bbongtv4.com/premium/soccer/16460971",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/27 (목)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SK 라피트 빈",
-      "team2": "하트 오브 미들로시언 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 22.0,
-        "away": 23.0
-      },
-      "ai_summary": "홈팀 SK 라피트 빈 승",
-      "ai_picks": [
-        "SK 라피트 빈 승"
-      ],
-      "aria_label": "SK 라피트 빈 vs 하트 오브 미들로시언 FC 01:45 분석 상세",
-      "source_date": "2026-08-27"
-    },
     {
       "id": "16262755",
       "url": "https://bbongtv4.com/premium/baseball/16262755",
@@ -631,6 +606,31 @@
         "클루브 아메리 승"
       ],
       "aria_label": "클루브 아메리카 vs 콜럼버스 크루 11:45 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16460971",
+      "url": "https://bbongtv4.com/premium/soccer/16460971",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/27 (목)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "SK 라피트 빈",
+      "team2": "하트 오브 미들로시언 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 SK 라피트 빈 승",
+      "ai_picks": [
+        "SK 라피트 빈 승"
+      ],
+      "aria_label": "SK 라피트 빈 vs 하트 오브 미들로시언 FC 01:45 분석 상세",
       "source_date": "2026-08-27"
     }
   ]
