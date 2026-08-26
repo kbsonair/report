@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-26",
-  "scraped_at": "2026-08-26T11:33:37.089323+00:00",
+  "scraped_at": "2026-08-26T12:01:14.674774+00:00",
   "count": 66,
   "matches": [
     {
@@ -281,31 +281,6 @@
         "삼성 승"
       ],
       "aria_label": "키움 vs 삼성 18:30 분석 상세",
-      "source_date": "2026-08-26"
-    },
-    {
-      "id": "16460844",
-      "url": "https://bbongtv4.com/premium/soccer/16460844",
-      "sport": "soccer",
-      "league": "AUS FFA",
-      "date": "8/26 (수)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "프레스턴 라이온스",
-      "team2": "사우스 멜버른 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 25.0,
-        "away": 30.0
-      },
-      "ai_summary": "프레스턴 라이온스 승 (1골 차 박빙 승부 예상)",
-      "ai_picks": [
-        "프레스턴 라이 승"
-      ],
-      "aria_label": "프레스턴 라이온스 vs 사우스 멜버른 FC 18:30 분석 상세",
       "source_date": "2026-08-26"
     },
     {
@@ -1679,6 +1654,31 @@
         "클루브 레온 승"
       ],
       "aria_label": "클루브 레온 vs 레알 솔트레이크 11:30 분석 상세",
+      "source_date": "2026-08-26"
+    },
+    {
+      "id": "16460844",
+      "url": "https://bbongtv4.com/premium/soccer/16460844",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "8/26 (수)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "프레스턴 라이온스",
+      "team2": "사우스 멜버른 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "프레스턴 라이온스 승 (1골 차 박빙 승부 예상)",
+      "ai_picks": [
+        "프레스턴 라이 승"
+      ],
+      "aria_label": "프레스턴 라이온스 vs 사우스 멜버른 FC 18:30 분석 상세",
       "source_date": "2026-08-26"
     }
   ]
