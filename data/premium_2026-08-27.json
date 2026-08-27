@@ -1,261 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-08-27",
   "source_date": "2026-08-27",
-  "scraped_at": "2026-08-27T08:26:27.895506+00:00",
+  "scraped_at": "2026-08-27T19:15:16.227577+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "16263975",
-      "url": "https://bbongtv4.com/premium/baseball/16263975",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/27 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트",
-      "team2": "요미우리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 5.0,
-        "away": 65.0
-      },
-      "ai_summary": "요미우리 승리 (야쿠르트 핸디캡 +1.5, 총점 언더 8.5 참고)",
-      "ai_picks": [
-        "요미우리 승",
-        "야쿠르트 +1.5",
-        "언더 8.5"
-      ],
-      "aria_label": "야쿠르트 vs 요미우리 18:00 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16263976",
-      "url": "https://bbongtv4.com/premium/baseball/16263976",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/27 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "주니치",
-      "team2": "한신",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 10.0,
-        "away": 40.0
-      },
-      "ai_summary": "주니치 승",
-      "ai_picks": [
-        "주니치 승"
-      ],
-      "aria_label": "주니치 vs 한신 18:00 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16263977",
-      "url": "https://bbongtv4.com/premium/baseball/16263977",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/27 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마",
-      "team2": "요코하마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 18.0,
-        "away": 30.0
-      },
-      "ai_summary": "히로시마 승리 (저득점 경기 전망, 언더 유력)",
-      "ai_picks": [
-        "히로시마 승"
-      ],
-      "aria_label": "히로시마 vs 요코하마 18:00 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16263978",
-      "url": "https://bbongtv4.com/premium/baseball/16263978",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/27 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바롯데",
-      "team2": "소프트뱅크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 5.0,
-        "away": 55.0
-      },
-      "ai_summary": "소프트뱅크 승",
-      "ai_picks": [
-        "소프트뱅크 승"
-      ],
-      "aria_label": "치바롯데 vs 소프트뱅크 18:00 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16263979",
-      "url": "https://bbongtv4.com/premium/baseball/16263979",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/27 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스",
-      "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 18.0,
-        "away": 30.0
-      },
-      "ai_summary": "오릭스 승리",
-      "ai_picks": [
-        "오릭스 승"
-      ],
-      "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16260711",
-      "url": "https://bbongtv4.com/premium/baseball/16260711",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/27 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "SSG",
-      "team2": "한화",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 10.0,
-        "away": 30.0
-      },
-      "ai_summary": "홈팀 SSG 승리",
-      "ai_picks": [
-        "SSG 승"
-      ],
-      "aria_label": "SSG vs 한화 18:30 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16260712",
-      "url": "https://bbongtv4.com/premium/baseball/16260712",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/27 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KIA",
-      "team2": "롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
-      },
-      "ai_summary": "KIA 승리 및 다득점(오버) 경기 예상",
-      "ai_picks": [
-        "KIA 승"
-      ],
-      "aria_label": "KIA vs 롯데 18:30 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16260713",
-      "url": "https://bbongtv4.com/premium/baseball/16260713",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/27 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "LG",
-      "team2": "NC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 10.0,
-        "away": 45.0
-      },
-      "ai_summary": "NC 다이노스 승리 (선발 이닝 소화력 우위 및 최근 투구 안정감 기반)",
-      "ai_picks": [
-        "NC 승"
-      ],
-      "aria_label": "LG vs NC 18:30 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16260714",
-      "url": "https://bbongtv4.com/premium/baseball/16260714",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/27 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KT",
-      "team2": "두산",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 12.0,
-        "away": 30.0
-      },
-      "ai_summary": "KT 승리",
-      "ai_picks": [
-        "KT 승"
-      ],
-      "aria_label": "KT vs 두산 18:30 분석 상세",
-      "source_date": "2026-08-27"
-    },
-    {
-      "id": "16260715",
-      "url": "https://bbongtv4.com/premium/baseball/16260715",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "8/27 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "키움",
-      "team2": "삼성",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 10.0,
-        "away": 65.0
-      },
-      "ai_summary": "삼성 승리",
-      "ai_picks": [
-        "삼성 승"
-      ],
-      "aria_label": "키움 vs 삼성 18:30 분석 상세",
-      "source_date": "2026-08-27"
-    },
     {
       "id": "16460971",
       "url": "https://bbongtv4.com/premium/soccer/16460971",
@@ -883,6 +631,258 @@
         "클루브 아메리 승"
       ],
       "aria_label": "클루브 아메리카 vs 콜럼버스 크루 11:45 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16263975",
+      "url": "https://bbongtv4.com/premium/baseball/16263975",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/27 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트",
+      "team2": "요미우리",
+      "score1": 2,
+      "score2": 9,
+      "prob": {
+        "home": 30.0,
+        "draw": 5.0,
+        "away": 65.0
+      },
+      "ai_summary": "요미우리 승리 (야쿠르트 핸디캡 +1.5, 총점 언더 8.5 참고)",
+      "ai_picks": [
+        "요미우리 승",
+        "야쿠르트 +1.5",
+        "언더 8.5"
+      ],
+      "aria_label": "야쿠르트 vs 요미우리 18:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16263976",
+      "url": "https://bbongtv4.com/premium/baseball/16263976",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/27 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "주니치",
+      "team2": "한신",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 50.0,
+        "draw": 10.0,
+        "away": 40.0
+      },
+      "ai_summary": "주니치 승",
+      "ai_picks": [
+        "주니치 승"
+      ],
+      "aria_label": "주니치 vs 한신 18:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16263977",
+      "url": "https://bbongtv4.com/premium/baseball/16263977",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/27 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "히로시마",
+      "team2": "요코하마",
+      "score1": 1,
+      "score2": 6,
+      "prob": {
+        "home": 52.0,
+        "draw": 18.0,
+        "away": 30.0
+      },
+      "ai_summary": "히로시마 승리 (저득점 경기 전망, 언더 유력)",
+      "ai_picks": [
+        "히로시마 승"
+      ],
+      "aria_label": "히로시마 vs 요코하마 18:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16263978",
+      "url": "https://bbongtv4.com/premium/baseball/16263978",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/27 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "치바롯데",
+      "team2": "소프트뱅크",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 40.0,
+        "draw": 5.0,
+        "away": 55.0
+      },
+      "ai_summary": "소프트뱅크 승",
+      "ai_picks": [
+        "소프트뱅크 승"
+      ],
+      "aria_label": "치바롯데 vs 소프트뱅크 18:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16263979",
+      "url": "https://bbongtv4.com/premium/baseball/16263979",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/27 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "오릭스",
+      "team2": "라쿠텐",
+      "score1": 4,
+      "score2": 12,
+      "prob": {
+        "home": 52.0,
+        "draw": 18.0,
+        "away": 30.0
+      },
+      "ai_summary": "오릭스 승리",
+      "ai_picks": [
+        "오릭스 승"
+      ],
+      "aria_label": "오릭스 vs 라쿠텐 18:00 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16260711",
+      "url": "https://bbongtv4.com/premium/baseball/16260711",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/27 (목)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SSG",
+      "team2": "한화",
+      "score1": 13,
+      "score2": 6,
+      "prob": {
+        "home": 60.0,
+        "draw": 10.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 SSG 승리",
+      "ai_picks": [
+        "SSG 승"
+      ],
+      "aria_label": "SSG vs 한화 18:30 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16260712",
+      "url": "https://bbongtv4.com/premium/baseball/16260712",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/27 (목)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "KIA",
+      "team2": "롯데",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "KIA 승리 및 다득점(오버) 경기 예상",
+      "ai_picks": [
+        "KIA 승"
+      ],
+      "aria_label": "KIA vs 롯데 18:30 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16260713",
+      "url": "https://bbongtv4.com/premium/baseball/16260713",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/27 (목)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LG",
+      "team2": "NC",
+      "score1": 3,
+      "score2": 13,
+      "prob": {
+        "home": 45.0,
+        "draw": 10.0,
+        "away": 45.0
+      },
+      "ai_summary": "NC 다이노스 승리 (선발 이닝 소화력 우위 및 최근 투구 안정감 기반)",
+      "ai_picks": [
+        "NC 승"
+      ],
+      "aria_label": "LG vs NC 18:30 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16260714",
+      "url": "https://bbongtv4.com/premium/baseball/16260714",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/27 (목)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KT",
+      "team2": "두산",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 58.0,
+        "draw": 12.0,
+        "away": 30.0
+      },
+      "ai_summary": "KT 승리",
+      "ai_picks": [
+        "KT 승"
+      ],
+      "aria_label": "KT vs 두산 18:30 분석 상세",
+      "source_date": "2026-08-27"
+    },
+    {
+      "id": "16260715",
+      "url": "https://bbongtv4.com/premium/baseball/16260715",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "8/27 (목)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "키움",
+      "team2": "삼성",
+      "score1": 2,
+      "score2": 15,
+      "prob": {
+        "home": 25.0,
+        "draw": 10.0,
+        "away": 65.0
+      },
+      "ai_summary": "삼성 승리",
+      "ai_picks": [
+        "삼성 승"
+      ],
+      "aria_label": "키움 vs 삼성 18:30 분석 상세",
       "source_date": "2026-08-27"
     }
   ]

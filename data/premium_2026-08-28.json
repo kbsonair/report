@@ -1,219 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-08-28",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-28",
-  "scraped_at": "2026-08-27T08:26:30.579235+00:00",
+  "scraped_at": "2026-08-27T19:15:15.255072+00:00",
   "count": 48,
   "matches": [
-    {
-      "id": "16461710",
-      "url": "https://bbongtv4.com/premium/soccer/16461710",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "쿠오피온 팔로세우라",
-      "team2": "섐록 로버스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "쿠오피온 팔로세우라 승, 총득점 2.5 언더",
-      "ai_picks": [
-        "쿠오피온 팔로 승",
-        "언더 2.5"
-      ],
-      "aria_label": "쿠오피온 팔로세우라 vs 섐록 로버스 FC 00:00 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461712",
-      "url": "https://bbongtv4.com/premium/soccer/16461712",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/28 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FC Ararat-Armenia",
-      "team2": "CS 우니베르시타테아 크라이오바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "원정팀 CS 우니베르시타테아 크라이오바 승 또는 무승부 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "CS 우니베르시 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "FC Ararat-Armenia vs CS 우니베르시타테아 크라이오바 00:59 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461713",
-      "url": "https://bbongtv4.com/premium/soccer/16461713",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "8/28 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 이베리아 1999",
-      "team2": "야기엘로니아 비아위스토크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 30.0,
-        "away": 50.0
-      },
-      "ai_summary": "야기엘로니아 비아위스토크 승 (언더 2.5 병행 추천)",
-      "ai_picks": [
-        "야기엘로니아  승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC 이베리아 1999 vs 야기엘로니아 비아위스토크 00:59 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461716",
-      "url": "https://bbongtv4.com/premium/soccer/16461716",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "FK 야블로네츠",
-      "team2": "레인저스 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 30.0,
-        "away": 35.0
-      },
-      "ai_summary": "언더 2.5 (총 득점 2골 이하 예상), 90분 결과는 홈팀 근소 승리 또는 무승부",
-      "ai_picks": [
-        "언더 2.5",
-        "FK 야블로네츠 승",
-        "무승부"
-      ],
-      "aria_label": "FK 야블로네츠 vs 레인저스 FC 00:59 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461717",
-      "url": "https://bbongtv4.com/premium/soccer/16461717",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "마카비 텔아비브 FC",
-      "team2": "FC 루가노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 22.0,
-        "away": 33.0
-      },
-      "ai_summary": "홈팀 마카비 텔아비브 FC 승 및 오버 2.5골",
-      "ai_picks": [
-        "마카비 텔아비 승",
-        "오버 2.5"
-      ],
-      "aria_label": "마카비 텔아비브 FC vs FC 루가노 00:59 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461718",
-      "url": "https://bbongtv4.com/premium/soccer/16461718",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "카라바흐 FK",
-      "team2": "FC 트벤터",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "카라바흐 FK 무패(승 또는 무승부) 및 언더 2.5골",
-      "ai_picks": [
-        "카라바흐 FK 승",
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "카라바흐 FK vs FC 트벤터 00:59 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461725",
-      "url": "https://bbongtv4.com/premium/soccer/16461725",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 프라이부르크",
-      "team2": "머더웰 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "홈팀 SC 프라이부르크 승",
-      "ai_picks": [
-        "SC 프라이부르 승"
-      ],
-      "aria_label": "SC 프라이부르크 vs 머더웰 FC 01:45 분석 상세",
-      "source_date": "2026-08-28"
-    },
-    {
-      "id": "16461726",
-      "url": "https://bbongtv4.com/premium/soccer/16461726",
-      "sport": "soccer",
-      "league": "UEFA ECL",
-      "date": "8/28 (금)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AS 모나코 FC",
-      "team2": "구르니크 자브제",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "AS 모나코 FC 승 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "AS 모나코 FC 승",
-        "AS 모나코 FC -1.5"
-      ],
-      "aria_label": "AS 모나코 FC vs 구르니크 자브제 01:45 분석 상세",
-      "source_date": "2026-08-28"
-    },
     {
       "id": "16461727",
       "url": "https://bbongtv4.com/premium/soccer/16461727",
@@ -1242,6 +1032,216 @@
         "언더 166.5"
       ],
       "aria_label": "피닉스 vs 워싱턴 11:00 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461710",
+      "url": "https://bbongtv4.com/premium/soccer/16461710",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "쿠오피온 팔로세우라",
+      "team2": "섐록 로버스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "쿠오피온 팔로세우라 승, 총득점 2.5 언더",
+      "ai_picks": [
+        "쿠오피온 팔로 승",
+        "언더 2.5"
+      ],
+      "aria_label": "쿠오피온 팔로세우라 vs 섐록 로버스 FC 00:00 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461712",
+      "url": "https://bbongtv4.com/premium/soccer/16461712",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/28 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC Ararat-Armenia",
+      "team2": "CS 우니베르시타테아 크라이오바",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "원정팀 CS 우니베르시타테아 크라이오바 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "CS 우니베르시 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "FC Ararat-Armenia vs CS 우니베르시타테아 크라이오바 00:59 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461713",
+      "url": "https://bbongtv4.com/premium/soccer/16461713",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "8/28 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 이베리아 1999",
+      "team2": "야기엘로니아 비아위스토크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 30.0,
+        "away": 50.0
+      },
+      "ai_summary": "야기엘로니아 비아위스토크 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "야기엘로니아  승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC 이베리아 1999 vs 야기엘로니아 비아위스토크 00:59 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461716",
+      "url": "https://bbongtv4.com/premium/soccer/16461716",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FK 야블로네츠",
+      "team2": "레인저스 FC",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 35.0,
+        "draw": 30.0,
+        "away": 35.0
+      },
+      "ai_summary": "언더 2.5 (총 득점 2골 이하 예상), 90분 결과는 홈팀 근소 승리 또는 무승부",
+      "ai_picks": [
+        "언더 2.5",
+        "FK 야블로네츠 승",
+        "무승부"
+      ],
+      "aria_label": "FK 야블로네츠 vs 레인저스 FC 00:59 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461717",
+      "url": "https://bbongtv4.com/premium/soccer/16461717",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "00:59",
+      "status": "예정",
+      "result": null,
+      "team1": "마카비 텔아비브 FC",
+      "team2": "FC 루가노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 22.0,
+        "away": 33.0
+      },
+      "ai_summary": "홈팀 마카비 텔아비브 FC 승 및 오버 2.5골",
+      "ai_picks": [
+        "마카비 텔아비 승",
+        "오버 2.5"
+      ],
+      "aria_label": "마카비 텔아비브 FC vs FC 루가노 00:59 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461718",
+      "url": "https://bbongtv4.com/premium/soccer/16461718",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "카라바흐 FK",
+      "team2": "FC 트벤터",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "카라바흐 FK 무패(승 또는 무승부) 및 언더 2.5골",
+      "ai_picks": [
+        "카라바흐 FK 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "카라바흐 FK vs FC 트벤터 00:59 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461725",
+      "url": "https://bbongtv4.com/premium/soccer/16461725",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 프라이부르크",
+      "team2": "머더웰 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "홈팀 SC 프라이부르크 승",
+      "ai_picks": [
+        "SC 프라이부르 승"
+      ],
+      "aria_label": "SC 프라이부르크 vs 머더웰 FC 01:45 분석 상세",
+      "source_date": "2026-08-28"
+    },
+    {
+      "id": "16461726",
+      "url": "https://bbongtv4.com/premium/soccer/16461726",
+      "sport": "soccer",
+      "league": "UEFA ECL",
+      "date": "8/28 (금)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "AS 모나코 FC",
+      "team2": "구르니크 자브제",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "AS 모나코 FC 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "AS 모나코 FC 승",
+        "AS 모나코 FC -1.5"
+      ],
+      "aria_label": "AS 모나코 FC vs 구르니크 자브제 01:45 분석 상세",
       "source_date": "2026-08-28"
     }
   ]
