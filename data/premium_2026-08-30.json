@@ -1,309 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-30",
-  "scraped_at": "2026-08-29T19:48:22.976945+00:00",
+  "scraped_at": "2026-08-29T22:30:08.952117+00:00",
   "count": 46,
   "matches": [
-    {
-      "id": "16356861",
-      "url": "https://bbongtv4.com/premium/basket/16356861",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/30 (일)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕",
-      "team2": "시카고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 5.0,
-        "away": 30.0
-      },
-      "ai_summary": "뉴욕 홈 승리",
-      "ai_picks": [
-        "뉴욕 승"
-      ],
-      "aria_label": "뉴욕 vs 시카고 02:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16471841",
-      "url": "https://bbongtv4.com/premium/baseball/16471841",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/30 (일)",
-      "time": "02:05",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕양키스",
-      "team2": "보스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 5.0,
-        "away": 45.0
-      },
-      "ai_summary": "뉴욕양키스 근소 우세, 언더(저득점) 흐름 추천",
-      "ai_picks": [
-        "뉴욕양키스 승"
-      ],
-      "aria_label": "뉴욕양키스 vs 보스턴 02:05 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16262792",
-      "url": "https://bbongtv4.com/premium/baseball/16262792",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/30 (일)",
-      "time": "02:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트",
-      "team2": "LA다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "LA다저스 승",
-      "ai_picks": [
-        "LA다저스 승"
-      ],
-      "aria_label": "디트로이트 vs LA다저스 02:10 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16262793",
-      "url": "https://bbongtv4.com/premium/baseball/16262793",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/30 (일)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타",
-      "team2": "시카고화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "시카고화이트삭스 승",
-      "ai_picks": [
-        "시카고화이트삭 승"
-      ],
-      "aria_label": "미네소타 vs 시카고화이트삭스 03:10 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16262794",
-      "url": "https://bbongtv4.com/premium/baseball/16262794",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/30 (일)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트루이스",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "세인트루이스 승리 + 언더(8.5 이하)",
-      "ai_picks": [
-        "세인트루이스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "세인트루이스 vs 피츠버그 03:15 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16262795",
-      "url": "https://bbongtv4.com/premium/baseball/16262795",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/30 (일)",
-      "time": "03:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고컵스",
-      "team2": "신시내티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "신시내티 승 (근소한 우위)",
-      "ai_picks": [
-        "신시내티 승"
-      ],
-      "aria_label": "시카고컵스 vs 신시내티 03:20 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464171",
-      "url": "https://bbongtv4.com/premium/soccer/16464171",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/30 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "유벤투스 FC",
-      "team2": "파르마 칼초 1913",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "유벤투스 FC 승 (핸디캡 -1 승 추천)",
-      "ai_picks": [
-        "유벤투스 FC 승",
-        "유벤투스 FC -1"
-      ],
-      "aria_label": "유벤투스 FC vs 파르마 칼초 1913 03:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464172",
-      "url": "https://bbongtv4.com/premium/soccer/16464172",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/30 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AJ 오세르",
-      "team2": "앙제 SCO",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "홈팀 AJ 오세르 승리 (저득점 경기 예상, 2.5 언더 추천)",
-      "ai_picks": [
-        "AJ 오세르 승",
-        "언더 2.5"
-      ],
-      "aria_label": "AJ 오세르 vs 앙제 SCO 03:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464173",
-      "url": "https://bbongtv4.com/premium/soccer/16464173",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/30 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스타드 브레스트 29",
-      "team2": "툴루즈 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 27.0,
-        "away": 35.0
-      },
-      "ai_summary": "무승부 또는 양팀 모두 득점(오버 접근 권장)",
-      "ai_picks": [
-        "무승부"
-      ],
-      "aria_label": "스타드 브레스트 29 vs 툴루즈 FC 03:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464174",
-      "url": "https://bbongtv4.com/premium/soccer/16464174",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/30 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "FC 로리앙",
-      "team2": "트루아 AC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "홈팀 FC 로리앙 승 (저득점 경기 예상, 2.5 언더 병행 추천)",
-      "ai_picks": [
-        "FC 로리앙 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC 로리앙 vs 트루아 AC 03:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464175",
-      "url": "https://bbongtv4.com/premium/soccer/16464175",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/30 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "올랭피크 리옹",
-      "team2": "르아브르 AC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 20.0,
-        "away": 18.0
-      },
-      "ai_summary": "올랭피크 리옹 승",
-      "ai_picks": [
-        "올랭피크 리옹 승"
-      ],
-      "aria_label": "올랭피크 리옹 vs 르아브르 AC 03:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464181",
-      "url": "https://bbongtv4.com/premium/soccer/16464181",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/30 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "PEC 즈볼러",
-      "team2": "NEC 네이메헌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "NEC 네이메헌 승",
-      "ai_picks": [
-        "NEC 네이메헌 승"
-      ],
-      "aria_label": "PEC 즈볼러 vs NEC 네이메헌 04:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
     {
       "id": "16262796",
       "url": "https://bbongtv4.com/premium/baseball/16262796",
@@ -326,32 +26,6 @@
         "토론토 승"
       ],
       "aria_label": "토론토 vs 시애틀 04:07 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464209",
-      "url": "https://bbongtv4.com/premium/soccer/16464209",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/30 (일)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "세비야 FC",
-      "team2": "아틀레티코 마드리드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "무승부 또는 세비야 FC +1 핸디캡 승",
-      "ai_picks": [
-        "무승부",
-        "세비야 FC +1"
-      ],
-      "aria_label": "세비야 FC vs 아틀레티코 마드리드 04:30 분석 상세",
       "source_date": "2026-08-30"
     },
     {
@@ -1133,6 +807,31 @@
       "source_date": "2026-08-30"
     },
     {
+      "id": "16356861",
+      "url": "https://bbongtv4.com/premium/basket/16356861",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/30 (일)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴욕",
+      "team2": "시카고",
+      "score1": 85,
+      "score2": 66,
+      "prob": {
+        "home": 65.0,
+        "draw": 5.0,
+        "away": 30.0
+      },
+      "ai_summary": "뉴욕 홈 승리",
+      "ai_picks": [
+        "뉴욕 승"
+      ],
+      "aria_label": "뉴욕 vs 시카고 02:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
       "id": "16464090",
       "url": "https://bbongtv4.com/premium/soccer/16464090",
       "sport": "soccer",
@@ -1157,6 +856,307 @@
         "언더 3.5"
       ],
       "aria_label": "레알 소시에다드 vs RCD 에스파뇰 02:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16471841",
+      "url": "https://bbongtv4.com/premium/baseball/16471841",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "02:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴욕양키스",
+      "team2": "보스턴",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴욕양키스 근소 우세, 언더(저득점) 흐름 추천",
+      "ai_picks": [
+        "뉴욕양키스 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 보스턴 02:05 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16262792",
+      "url": "https://bbongtv4.com/premium/baseball/16262792",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "02:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트",
+      "team2": "LA다저스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "LA다저스 승",
+      "ai_picks": [
+        "LA다저스 승"
+      ],
+      "aria_label": "디트로이트 vs LA다저스 02:10 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16262793",
+      "url": "https://bbongtv4.com/premium/baseball/16262793",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타",
+      "team2": "시카고화이트삭스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "시카고화이트삭스 승",
+      "ai_picks": [
+        "시카고화이트삭 승"
+      ],
+      "aria_label": "미네소타 vs 시카고화이트삭스 03:10 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16262794",
+      "url": "https://bbongtv4.com/premium/baseball/16262794",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세인트루이스",
+      "team2": "피츠버그",
+      "score1": 2,
+      "score2": 6,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "세인트루이스 승리 + 언더(8.5 이하)",
+      "ai_picks": [
+        "세인트루이스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "세인트루이스 vs 피츠버그 03:15 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16262795",
+      "url": "https://bbongtv4.com/premium/baseball/16262795",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "03:20",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시카고컵스",
+      "team2": "신시내티",
+      "score1": 17,
+      "score2": 5,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "신시내티 승 (근소한 우위)",
+      "ai_picks": [
+        "신시내티 승"
+      ],
+      "aria_label": "시카고컵스 vs 신시내티 03:20 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464171",
+      "url": "https://bbongtv4.com/premium/soccer/16464171",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/30 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "유벤투스 FC",
+      "team2": "파르마 칼초 1913",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "유벤투스 FC 승 (핸디캡 -1 승 추천)",
+      "ai_picks": [
+        "유벤투스 FC 승",
+        "유벤투스 FC -1"
+      ],
+      "aria_label": "유벤투스 FC vs 파르마 칼초 1913 03:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464172",
+      "url": "https://bbongtv4.com/premium/soccer/16464172",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/30 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "AJ 오세르",
+      "team2": "앙제 SCO",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "홈팀 AJ 오세르 승리 (저득점 경기 예상, 2.5 언더 추천)",
+      "ai_picks": [
+        "AJ 오세르 승",
+        "언더 2.5"
+      ],
+      "aria_label": "AJ 오세르 vs 앙제 SCO 03:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464173",
+      "url": "https://bbongtv4.com/premium/soccer/16464173",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/30 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스타드 브레스트 29",
+      "team2": "툴루즈 FC",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 27.0,
+        "away": 35.0
+      },
+      "ai_summary": "무승부 또는 양팀 모두 득점(오버 접근 권장)",
+      "ai_picks": [
+        "무승부"
+      ],
+      "aria_label": "스타드 브레스트 29 vs 툴루즈 FC 03:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464174",
+      "url": "https://bbongtv4.com/premium/soccer/16464174",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/30 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "FC 로리앙",
+      "team2": "트루아 AC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 FC 로리앙 승 (저득점 경기 예상, 2.5 언더 병행 추천)",
+      "ai_picks": [
+        "FC 로리앙 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC 로리앙 vs 트루아 AC 03:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464175",
+      "url": "https://bbongtv4.com/premium/soccer/16464175",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/30 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "올랭피크 리옹",
+      "team2": "르아브르 AC",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 20.0,
+        "away": 18.0
+      },
+      "ai_summary": "올랭피크 리옹 승",
+      "ai_picks": [
+        "올랭피크 리옹 승"
+      ],
+      "aria_label": "올랭피크 리옹 vs 르아브르 AC 03:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464181",
+      "url": "https://bbongtv4.com/premium/soccer/16464181",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/30 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "PEC 즈볼러",
+      "team2": "NEC 네이메헌",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "NEC 네이메헌 승",
+      "ai_picks": [
+        "NEC 네이메헌 승"
+      ],
+      "aria_label": "PEC 즈볼러 vs NEC 네이메헌 04:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464209",
+      "url": "https://bbongtv4.com/premium/soccer/16464209",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/30 (일)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "세비야 FC",
+      "team2": "아틀레티코 마드리드",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "무승부 또는 세비야 FC +1 핸디캡 승",
+      "ai_picks": [
+        "무승부",
+        "세비야 FC +1"
+      ],
+      "aria_label": "세비야 FC vs 아틀레티코 마드리드 04:30 분석 상세",
       "source_date": "2026-08-30"
     }
   ]
