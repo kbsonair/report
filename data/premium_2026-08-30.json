@@ -1,216 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-30",
-  "scraped_at": "2026-08-29T17:12:18.017012+00:00",
+  "scraped_at": "2026-08-29T19:48:22.976945+00:00",
   "count": 46,
   "matches": [
-    {
-      "id": "16463833",
-      "url": "https://bbongtv4.com/premium/soccer/16463833",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/30 (일)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "레반테 UD",
-      "team2": "레알 베티스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 23.0,
-        "away": 55.0
-      },
-      "ai_summary": "레알 베티스 원정 승리 및 언더 2.5",
-      "ai_picks": [
-        "레알 베티스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "레반테 UD vs 레알 베티스 00:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16463949",
-      "url": "https://bbongtv4.com/premium/soccer/16463949",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "8/30 (일)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "RC 스트라스부르",
-      "team2": "RC 랑스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 23.0,
-        "away": 55.0
-      },
-      "ai_summary": "RC 랑스 승",
-      "ai_picks": [
-        "RC 랑스 승"
-      ],
-      "aria_label": "RC 스트라스부르 vs RC 랑스 00:15 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464073",
-      "url": "https://bbongtv4.com/premium/soccer/16464073",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/30 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "ACF 피오렌티나",
-      "team2": "프로시노네 칼초",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "ACF 피오렌티나 승",
-      "ai_picks": [
-        "ACF 피오렌티나 승"
-      ],
-      "aria_label": "ACF 피오렌티나 vs 프로시노네 칼초 01:30 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464074",
-      "url": "https://bbongtv4.com/premium/soccer/16464074",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/30 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "AC 몬차",
-      "team2": "우디네세 칼초",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 30.0,
-        "away": 42.0
-      },
-      "ai_summary": "우디네세 칼초 승",
-      "ai_picks": [
-        "우디네세 칼초 승"
-      ],
-      "aria_label": "AC 몬차 vs 우디네세 칼초 01:30 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464075",
-      "url": "https://bbongtv4.com/premium/soccer/16464075",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "8/30 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "US 사수올로 칼초",
-      "team2": "토리노 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 28.0,
-        "away": 34.0
-      },
-      "ai_summary": "2.5 언더 (저득점 경기 예상), 승무패 접근 시 무승부 또는 토리노 FC 승",
-      "ai_picks": [
-        "언더 2.5",
-        "무승부",
-        "토리노 FC 승"
-      ],
-      "aria_label": "US 사수올로 칼초 vs 토리노 FC 01:30 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464076",
-      "url": "https://bbongtv4.com/premium/soccer/16464076",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "8/30 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "보루시아 도르트문트",
-      "team2": "함부르크 SV",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "보루시아 도르트문트 승 (핸디캡 -1 승 추천)",
-      "ai_picks": [
-        "보루시아 도르 승",
-        "보루시아 도르 -1"
-      ],
-      "aria_label": "보루시아 도르트문트 vs 함부르크 SV 01:30 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464077",
-      "url": "https://bbongtv4.com/premium/soccer/16464077",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "8/30 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "토트넘 홋스퍼 FC",
-      "team2": "뉴캐슬 유나이티드 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 25.0,
-        "away": 35.0
-      },
-      "ai_summary": "양팀 모두 득점 (오버 2.5) 및 뉴캐슬 유나이티드 FC 승 또는 무승부",
-      "ai_picks": [
-        "뉴캐슬 유나이 승",
-        "무승부",
-        "오버 2.5"
-      ],
-      "aria_label": "토트넘 홋스퍼 FC vs 뉴캐슬 유나이티드 FC 01:30 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464089",
-      "url": "https://bbongtv4.com/premium/soccer/16464089",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/30 (일)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AZ 알크마르",
-      "team2": "고 어헤드 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 22.0,
-        "away": 18.0
-      },
-      "ai_summary": "홈팀 AZ 알크마르 승 및 2.5 오버",
-      "ai_picks": [
-        "AZ 알크마르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "AZ 알크마르 vs 고 어헤드 이글스 01:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
     {
       "id": "16356861",
       "url": "https://bbongtv4.com/premium/basket/16356861",
@@ -234,33 +27,6 @@
         "뉴욕 승"
       ],
       "aria_label": "뉴욕 vs 시카고 02:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16464090",
-      "url": "https://bbongtv4.com/premium/soccer/16464090",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "8/30 (일)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "레알 소시에다드",
-      "team2": "RCD 에스파뇰",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "레알 소시에다드 승 또는 무승부 (3.5 언더 추천)",
-      "ai_picks": [
-        "레알 소시에다 승",
-        "무승부",
-        "언더 3.5"
-      ],
-      "aria_label": "레알 소시에다드 vs RCD 에스파뇰 02:00 분석 상세",
       "source_date": "2026-08-30"
     },
     {
@@ -1157,6 +923,240 @@
         "샌디에고 FC 승"
       ],
       "aria_label": "샌디에고 FC vs LA 갤럭시 11:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16463833",
+      "url": "https://bbongtv4.com/premium/soccer/16463833",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/30 (일)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "레반테 UD",
+      "team2": "레알 베티스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "레알 베티스 원정 승리 및 언더 2.5",
+      "ai_picks": [
+        "레알 베티스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "레반테 UD vs 레알 베티스 00:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16463949",
+      "url": "https://bbongtv4.com/premium/soccer/16463949",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "8/30 (일)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "RC 스트라스부르",
+      "team2": "RC 랑스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "RC 랑스 승",
+      "ai_picks": [
+        "RC 랑스 승"
+      ],
+      "aria_label": "RC 스트라스부르 vs RC 랑스 00:15 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464073",
+      "url": "https://bbongtv4.com/premium/soccer/16464073",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/30 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "ACF 피오렌티나",
+      "team2": "프로시노네 칼초",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "ACF 피오렌티나 승",
+      "ai_picks": [
+        "ACF 피오렌티나 승"
+      ],
+      "aria_label": "ACF 피오렌티나 vs 프로시노네 칼초 01:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464074",
+      "url": "https://bbongtv4.com/premium/soccer/16464074",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/30 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "AC 몬차",
+      "team2": "우디네세 칼초",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 28.0,
+        "draw": 30.0,
+        "away": 42.0
+      },
+      "ai_summary": "우디네세 칼초 승",
+      "ai_picks": [
+        "우디네세 칼초 승"
+      ],
+      "aria_label": "AC 몬차 vs 우디네세 칼초 01:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464075",
+      "url": "https://bbongtv4.com/premium/soccer/16464075",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "8/30 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "US 사수올로 칼초",
+      "team2": "토리노 FC",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "draw": 28.0,
+        "away": 34.0
+      },
+      "ai_summary": "2.5 언더 (저득점 경기 예상), 승무패 접근 시 무승부 또는 토리노 FC 승",
+      "ai_picks": [
+        "언더 2.5",
+        "무승부",
+        "토리노 FC 승"
+      ],
+      "aria_label": "US 사수올로 칼초 vs 토리노 FC 01:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464076",
+      "url": "https://bbongtv4.com/premium/soccer/16464076",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "8/30 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보루시아 도르트문트",
+      "team2": "함부르크 SV",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "보루시아 도르트문트 승 (핸디캡 -1 승 추천)",
+      "ai_picks": [
+        "보루시아 도르 승",
+        "보루시아 도르 -1"
+      ],
+      "aria_label": "보루시아 도르트문트 vs 함부르크 SV 01:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464077",
+      "url": "https://bbongtv4.com/premium/soccer/16464077",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "8/30 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토트넘 홋스퍼 FC",
+      "team2": "뉴캐슬 유나이티드 FC",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 40.0,
+        "draw": 25.0,
+        "away": 35.0
+      },
+      "ai_summary": "양팀 모두 득점 (오버 2.5) 및 뉴캐슬 유나이티드 FC 승 또는 무승부",
+      "ai_picks": [
+        "뉴캐슬 유나이 승",
+        "무승부",
+        "오버 2.5"
+      ],
+      "aria_label": "토트넘 홋스퍼 FC vs 뉴캐슬 유나이티드 FC 01:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464089",
+      "url": "https://bbongtv4.com/premium/soccer/16464089",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/30 (일)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "AZ 알크마르",
+      "team2": "고 어헤드 이글스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "홈팀 AZ 알크마르 승 및 2.5 오버",
+      "ai_picks": [
+        "AZ 알크마르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "AZ 알크마르 vs 고 어헤드 이글스 01:45 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16464090",
+      "url": "https://bbongtv4.com/premium/soccer/16464090",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "8/30 (일)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레알 소시에다드",
+      "team2": "RCD 에스파뇰",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "레알 소시에다드 승 또는 무승부 (3.5 언더 추천)",
+      "ai_picks": [
+        "레알 소시에다 승",
+        "무승부",
+        "언더 3.5"
+      ],
+      "aria_label": "레알 소시에다드 vs RCD 에스파뇰 02:00 분석 상세",
       "source_date": "2026-08-30"
     }
   ]
