@@ -1,8 +1,8 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-08-30",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-30",
-  "scraped_at": "2026-08-29T13:12:05.128540+00:00",
-  "count": 43,
+  "scraped_at": "2026-08-29T17:12:18.017012+00:00",
+  "count": 46,
   "matches": [
     {
       "id": "16463833",
@@ -261,6 +261,31 @@
         "언더 3.5"
       ],
       "aria_label": "레알 소시에다드 vs RCD 에스파뇰 02:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16471841",
+      "url": "https://bbongtv4.com/premium/baseball/16471841",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "02:05",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕양키스",
+      "team2": "보스턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴욕양키스 근소 우세, 언더(저득점) 흐름 추천",
+      "ai_picks": [
+        "뉴욕양키스 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 보스턴 02:05 분석 상세",
       "source_date": "2026-08-30"
     },
     {
@@ -711,6 +736,30 @@
       "source_date": "2026-08-30"
     },
     {
+      "id": "16262802",
+      "url": "https://bbongtv4.com/premium/baseball/16262802",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "08:15",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕양키스",
+      "team2": "보스턴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴욕양키스 승리",
+      "ai_picks": [
+        "뉴욕양키스 승"
+      ],
+      "aria_label": "뉴욕양키스 vs 보스턴 08:15 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
       "id": "16262803",
       "url": "https://bbongtv4.com/premium/baseball/16262803",
       "sport": "baseball",
@@ -1009,6 +1058,30 @@
         "피닉스 승"
       ],
       "aria_label": "피닉스 vs 토론토 11:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16262805",
+      "url": "https://bbongtv4.com/premium/baseball/16262805",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/30 (일)",
+      "time": "11:05",
+      "status": "예정",
+      "result": null,
+      "team1": "애슬레틱스",
+      "team2": "볼티모어",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "볼티모어 승리",
+      "ai_picks": [
+        "볼티모어 승"
+      ],
+      "aria_label": "애슬레틱스 vs 볼티모어 11:05 분석 상세",
       "source_date": "2026-08-30"
     },
     {
