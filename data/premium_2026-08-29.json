@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-29",
   "source_date": "2026-08-29",
-  "scraped_at": "2026-08-30T00:41:44.477471+00:00",
+  "scraped_at": "2026-08-30T06:21:15.017036+00:00",
   "count": 88,
   "matches": [
     {
@@ -759,12 +759,12 @@
       "league": "KBO",
       "date": "8/29 (토)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "롯데",
       "team2": "LG",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 8,
       "prob": {
         "home": 38.0,
         "draw": 7.0,
