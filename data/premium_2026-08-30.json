@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-08-30",
   "source_date": "2026-08-30",
-  "scraped_at": "2026-08-30T16:47:51.650551+00:00",
+  "scraped_at": "2026-08-30T19:40:09.577753+00:00",
   "count": 77,
   "matches": [
-    {
-      "id": "16465097",
-      "url": "https://bbongtv4.com/premium/soccer/16465097",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "8/30 (일)",
-      "time": "23:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SC 텔스타",
-      "team2": "AFC 아약스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "AFC 아약스 승 및 2.5 오버",
-      "ai_picks": [
-        "AFC 아약스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "SC 텔스타 vs AFC 아약스 23:45 분석 상세",
-      "source_date": "2026-08-30"
-    },
     {
       "id": "16463833",
       "url": "https://bbongtv4.com/premium/soccer/16463833",
@@ -1951,6 +1925,32 @@
         "언더 2.5"
       ],
       "aria_label": "세인트 미렌 FC vs 머더웰 FC 23:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16465097",
+      "url": "https://bbongtv4.com/premium/soccer/16465097",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "8/30 (일)",
+      "time": "23:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SC 텔스타",
+      "team2": "AFC 아약스",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "AFC 아약스 승 및 2.5 오버",
+      "ai_picks": [
+        "AFC 아약스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "SC 텔스타 vs AFC 아약스 23:45 분석 상세",
       "source_date": "2026-08-30"
     }
   ]
