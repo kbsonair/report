@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-30",
-  "scraped_at": "2026-08-30T06:21:13.657249+00:00",
+  "scraped_at": "2026-08-30T12:12:46.301866+00:00",
   "count": 77,
   "matches": [
-    {
-      "id": "16263995",
-      "url": "https://bbongtv4.com/premium/baseball/16263995",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/30 (일)",
-      "time": "13:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니혼햄",
-      "team2": "치바롯데",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 15.0,
-        "away": 30.0
-      },
-      "ai_summary": "니혼햄 승리, 언더 8.5 추천",
-      "ai_picks": [
-        "니혼햄 승",
-        "언더 8.5"
-      ],
-      "aria_label": "니혼햄 vs 치바롯데 13:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16263996",
-      "url": "https://bbongtv4.com/premium/baseball/16263996",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/30 (일)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스",
-      "team2": "소프트뱅크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 7.0,
-        "away": 55.0
-      },
-      "ai_summary": "소프트뱅크 승 (단, 저득점 접전 예상으로 언더 6.5 병행 추천)",
-      "ai_picks": [
-        "소프트뱅크 승",
-        "언더 6.5"
-      ],
-      "aria_label": "오릭스 vs 소프트뱅크 14:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
-    {
-      "id": "16263997",
-      "url": "https://bbongtv4.com/premium/baseball/16263997",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "8/30 (일)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부",
-      "team2": "라쿠텐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 5.0,
-        "away": 30.0
-      },
-      "ai_summary": "세이부 승리",
-      "ai_picks": [
-        "세이부 승"
-      ],
-      "aria_label": "세이부 vs 라쿠텐 17:00 분석 상세",
-      "source_date": "2026-08-30"
-    },
     {
       "id": "16260726",
       "url": "https://bbongtv4.com/premium/baseball/16260726",
@@ -1364,12 +1287,12 @@
       "league": "MLB",
       "date": "8/30 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "워싱턴",
       "team2": "마이애미",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1388,12 +1311,12 @@
       "league": "MLB",
       "date": "8/30 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애틀랜타",
       "team2": "콜로라도",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "draw": 5.0,
@@ -1413,12 +1336,12 @@
       "league": "MLB",
       "date": "8/30 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴욕메츠",
       "team2": "휴스턴",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 2,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1437,12 +1360,12 @@
       "league": "MLB",
       "date": "8/30 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "클리블랜드",
       "team2": "캔자스시티",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 8,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1461,12 +1384,12 @@
       "league": "MLB",
       "date": "8/30 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "탬파베이",
       "team2": "샌디에이고",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 6,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1951,6 +1874,83 @@
         "샌디에고 FC 승"
       ],
       "aria_label": "샌디에고 FC vs LA 갤럭시 11:30 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16263995",
+      "url": "https://bbongtv4.com/premium/baseball/16263995",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/30 (일)",
+      "time": "13:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니혼햄",
+      "team2": "치바롯데",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "니혼햄 승리, 언더 8.5 추천",
+      "ai_picks": [
+        "니혼햄 승",
+        "언더 8.5"
+      ],
+      "aria_label": "니혼햄 vs 치바롯데 13:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16263996",
+      "url": "https://bbongtv4.com/premium/baseball/16263996",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/30 (일)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오릭스",
+      "team2": "소프트뱅크",
+      "score1": 3,
+      "score2": 6,
+      "prob": {
+        "home": 38.0,
+        "draw": 7.0,
+        "away": 55.0
+      },
+      "ai_summary": "소프트뱅크 승 (단, 저득점 접전 예상으로 언더 6.5 병행 추천)",
+      "ai_picks": [
+        "소프트뱅크 승",
+        "언더 6.5"
+      ],
+      "aria_label": "오릭스 vs 소프트뱅크 14:00 분석 상세",
+      "source_date": "2026-08-30"
+    },
+    {
+      "id": "16263997",
+      "url": "https://bbongtv4.com/premium/baseball/16263997",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "8/30 (일)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부",
+      "team2": "라쿠텐",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 65.0,
+        "draw": 5.0,
+        "away": 30.0
+      },
+      "ai_summary": "세이부 승리",
+      "ai_picks": [
+        "세이부 승"
+      ],
+      "aria_label": "세이부 vs 라쿠텐 17:00 분석 상세",
       "source_date": "2026-08-30"
     }
   ]
