@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-30T22:06:10.266961+00:00",
+  "scraped_at": "2026-08-31T00:39:40.199797+00:00",
   "kst_yesterday": "2026-08-30",
   "kst_today": "2026-08-31",
   "kst_tomorrow": "2026-09-01",
@@ -8,8 +8,136 @@
     "2026-08-31",
     "2026-09-01"
   ],
-  "count": 105,
+  "count": 111,
   "matches": [
+    {
+      "id": "16466101",
+      "url": "https://bbongtv4.com/premium/soccer/16466101",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/1 (화)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "US 레체",
+      "team2": "AS 로마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 13.0,
+        "draw": 22.0,
+        "away": 65.0
+      },
+      "ai_summary": "AS 로마 승 + 총 득점 2.5 언더",
+      "ai_picks": [
+        "AS 로마 승",
+        "언더 2.5"
+      ],
+      "aria_label": "US 레체 vs AS 로마 01:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466122",
+      "url": "https://bbongtv4.com/premium/soccer/16466122",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/1 (화)",
+      "time": "02:30",
+      "status": "예정",
+      "result": null,
+      "team1": "CA 오사수나",
+      "team2": "헤타페 CF",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 CA 오사수나 승 (저득점 경기 예상, 언더 2.5 유력)",
+      "ai_picks": [
+        "CA 오사수나 승",
+        "언더 2.5"
+      ],
+      "aria_label": "CA 오사수나 vs 헤타페 CF 02:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466139",
+      "url": "https://bbongtv4.com/premium/soccer/16466139",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/1 (화)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "아탈란타 BC",
+      "team2": "볼로냐 FC 1909",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "아탈란타 BC 승 + 언더 2.5골",
+      "ai_picks": [
+        "아탈란타 BC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아탈란타 BC vs 볼로냐 FC 1909 03:45 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466141",
+      "url": "https://bbongtv4.com/premium/soccer/16466141",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/1 (화)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애스턴 빌라 FC",
+      "team2": "아스날 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "아스날 FC 승리",
+      "ai_picks": [
+        "아스날 FC 승"
+      ],
+      "aria_label": "애스턴 빌라 FC vs 아스날 FC 04:00 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466150",
+      "url": "https://bbongtv4.com/premium/soccer/16466150",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/1 (화)",
+      "time": "04:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 바르셀로나",
+      "team2": "라요 바예카노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "FC 바르셀로나 승",
+      "ai_picks": [
+        "FC 바르셀로나 승"
+      ],
+      "aria_label": "FC 바르셀로나 vs 라요 바예카노 04:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
     {
       "id": "16465100",
       "url": "https://bbongtv4.com/premium/soccer/16465100",
@@ -370,12 +498,12 @@
       "league": "MLB",
       "date": "8/31 (월)",
       "time": "03:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "밀워키",
       "team2": "텍사스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 7,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -394,12 +522,12 @@
       "league": "MLB",
       "date": "8/31 (월)",
       "time": "03:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트루이스",
       "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 5,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -545,12 +673,12 @@
       "league": "MLB",
       "date": "8/31 (월)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애슬레틱스",
       "team2": "볼티모어",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 8,
       "prob": {
         "home": 30.0,
         "away": 70.0
@@ -569,12 +697,12 @@
       "league": "MLB",
       "date": "8/31 (월)",
       "time": "05:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA엔젤스",
       "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 25.0,
         "draw": 5.0,
@@ -594,12 +722,12 @@
       "league": "USA MLS",
       "date": "8/31 (월)",
       "time": "05:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜럼버스 크루",
       "team2": "뉴잉글랜드 레볼루션",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 30.0,
         "draw": 25.0,
@@ -620,12 +748,12 @@
       "league": "WNBA",
       "date": "8/31 (월)",
       "time": "06:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀",
       "team2": "LA",
-      "score1": null,
-      "score2": null,
+      "score1": 74,
+      "score2": 90,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -709,6 +837,32 @@
         "댈러스 승"
       ],
       "aria_label": "댈러스 vs 코네티컷 09:00 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16465943",
+      "url": "https://bbongtv4.com/premium/soccer/16465943",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/31 (월)",
+      "time": "21:00",
+      "status": "예정",
+      "result": null,
+      "team1": "페르십 반둥",
+      "team2": "Manila Digger FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 17.0,
+        "away": 13.0
+      },
+      "ai_summary": "페르십 반둥 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "페르십 반둥 승",
+        "페르십 반둥 -1.5"
+      ],
+      "aria_label": "페르십 반둥 vs Manila Digger FC 21:00 분석 상세",
       "source_date": "2026-08-31"
     },
     {

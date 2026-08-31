@@ -1,157 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-31",
-  "scraped_at": "2026-08-30T22:06:07.626524+00:00",
-  "count": 28,
+  "scraped_at": "2026-08-31T00:39:38.191619+00:00",
+  "count": 29,
   "matches": [
-    {
-      "id": "16262815",
-      "url": "https://bbongtv4.com/premium/baseball/16262815",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/31 (월)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키",
-      "team2": "텍사스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "밀워키 승리",
-      "ai_picks": [
-        "밀워키 승"
-      ],
-      "aria_label": "밀워키 vs 텍사스 03:10 분석 상세",
-      "source_date": "2026-08-31"
-    },
-    {
-      "id": "16262816",
-      "url": "https://bbongtv4.com/premium/baseball/16262816",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/31 (월)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트루이스",
-      "team2": "피츠버그",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "피츠버그 승, 언더 8.5",
-      "ai_picks": [
-        "피츠버그 승",
-        "언더 8.5"
-      ],
-      "aria_label": "세인트루이스 vs 피츠버그 03:15 분석 상세",
-      "source_date": "2026-08-31"
-    },
-    {
-      "id": "16262819",
-      "url": "https://bbongtv4.com/premium/baseball/16262819",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/31 (월)",
-      "time": "05:05",
-      "status": "예정",
-      "result": null,
-      "team1": "애슬레틱스",
-      "team2": "볼티모어",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "볼티모어 승리",
-      "ai_picks": [
-        "볼티모어 승"
-      ],
-      "aria_label": "애슬레틱스 vs 볼티모어 05:05 분석 상세",
-      "source_date": "2026-08-31"
-    },
-    {
-      "id": "16262820",
-      "url": "https://bbongtv4.com/premium/baseball/16262820",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "8/31 (월)",
-      "time": "05:07",
-      "status": "예정",
-      "result": null,
-      "team1": "LA엔젤스",
-      "team2": "필라델피아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 5.0,
-        "away": 70.0
-      },
-      "ai_summary": "필라델피아 승리",
-      "ai_picks": [
-        "필라델피아 승"
-      ],
-      "aria_label": "LA엔젤스 vs 필라델피아 05:07 분석 상세",
-      "source_date": "2026-08-31"
-    },
-    {
-      "id": "16464307",
-      "url": "https://bbongtv4.com/premium/soccer/16464307",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "8/31 (월)",
-      "time": "05:30",
-      "status": "예정",
-      "result": null,
-      "team1": "콜럼버스 크루",
-      "team2": "뉴잉글랜드 레볼루션",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "뉴잉글랜드 레볼루션 승 또는 양팀 모두 득점(BTTS) / 2.5 오버",
-      "ai_picks": [
-        "뉴잉글랜드 레 승",
-        "오버 2.5"
-      ],
-      "aria_label": "콜럼버스 크루 vs 뉴잉글랜드 레볼루션 05:30 분석 상세",
-      "source_date": "2026-08-31"
-    },
-    {
-      "id": "16356864",
-      "url": "https://bbongtv4.com/premium/basket/16356864",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "8/31 (월)",
-      "time": "06:00",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀",
-      "team2": "LA",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "LA 승",
-      "ai_picks": [
-        "LA 승"
-      ],
-      "aria_label": "시애틀 vs LA 06:00 분석 상세",
-      "source_date": "2026-08-31"
-    },
     {
       "id": "16356865",
       "url": "https://bbongtv4.com/premium/basket/16356865",
@@ -224,6 +76,32 @@
         "댈러스 승"
       ],
       "aria_label": "댈러스 vs 코네티컷 09:00 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16465943",
+      "url": "https://bbongtv4.com/premium/soccer/16465943",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "8/31 (월)",
+      "time": "21:00",
+      "status": "예정",
+      "result": null,
+      "team1": "페르십 반둥",
+      "team2": "Manila Digger FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 17.0,
+        "away": 13.0
+      },
+      "ai_summary": "페르십 반둥 승 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "페르십 반둥 승",
+        "페르십 반둥 -1.5"
+      ],
+      "aria_label": "페르십 반둥 vs Manila Digger FC 21:00 분석 상세",
       "source_date": "2026-08-31"
     },
     {
@@ -580,6 +458,55 @@
       "source_date": "2026-08-31"
     },
     {
+      "id": "16262815",
+      "url": "https://bbongtv4.com/premium/baseball/16262815",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/31 (월)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "밀워키",
+      "team2": "텍사스",
+      "score1": 4,
+      "score2": 7,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "밀워키 승리",
+      "ai_picks": [
+        "밀워키 승"
+      ],
+      "aria_label": "밀워키 vs 텍사스 03:10 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16262816",
+      "url": "https://bbongtv4.com/premium/baseball/16262816",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/31 (월)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세인트루이스",
+      "team2": "피츠버그",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "피츠버그 승, 언더 8.5",
+      "ai_picks": [
+        "피츠버그 승",
+        "언더 8.5"
+      ],
+      "aria_label": "세인트루이스 vs 피츠버그 03:15 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
       "id": "16465317",
       "url": "https://bbongtv4.com/premium/soccer/16465317",
       "sport": "soccer",
@@ -703,6 +630,105 @@
         "셀타 비고 승"
       ],
       "aria_label": "셀타 비고 vs 아틀레틱 빌바오 04:30 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16262819",
+      "url": "https://bbongtv4.com/premium/baseball/16262819",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/31 (월)",
+      "time": "05:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애슬레틱스",
+      "team2": "볼티모어",
+      "score1": 5,
+      "score2": 8,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "볼티모어 승리",
+      "ai_picks": [
+        "볼티모어 승"
+      ],
+      "aria_label": "애슬레틱스 vs 볼티모어 05:05 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16262820",
+      "url": "https://bbongtv4.com/premium/baseball/16262820",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "8/31 (월)",
+      "time": "05:07",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA엔젤스",
+      "team2": "필라델피아",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 25.0,
+        "draw": 5.0,
+        "away": 70.0
+      },
+      "ai_summary": "필라델피아 승리",
+      "ai_picks": [
+        "필라델피아 승"
+      ],
+      "aria_label": "LA엔젤스 vs 필라델피아 05:07 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16464307",
+      "url": "https://bbongtv4.com/premium/soccer/16464307",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "8/31 (월)",
+      "time": "05:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜럼버스 크루",
+      "team2": "뉴잉글랜드 레볼루션",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "뉴잉글랜드 레볼루션 승 또는 양팀 모두 득점(BTTS) / 2.5 오버",
+      "ai_picks": [
+        "뉴잉글랜드 레 승",
+        "오버 2.5"
+      ],
+      "aria_label": "콜럼버스 크루 vs 뉴잉글랜드 레볼루션 05:30 분석 상세",
+      "source_date": "2026-08-31"
+    },
+    {
+      "id": "16356864",
+      "url": "https://bbongtv4.com/premium/basket/16356864",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "8/31 (월)",
+      "time": "06:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀",
+      "team2": "LA",
+      "score1": 74,
+      "score2": 90,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "LA 승",
+      "ai_picks": [
+        "LA 승"
+      ],
+      "aria_label": "시애틀 vs LA 06:00 분석 상세",
       "source_date": "2026-08-31"
     }
   ]
