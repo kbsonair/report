@@ -1,112 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-01",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-01",
-  "scraped_at": "2026-08-31T14:05:45.130835+00:00",
+  "scraped_at": "2026-08-31T20:11:48.791694+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "2001034937",
-      "url": "https://bbongtv4.com/premium/basket/2001034937",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "00:30",
-      "status": "예정",
-      "result": null,
-      "team1": "리투아니아",
-      "team2": "보스니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "홈 105점·99점 흐름, 시장 열세에도 리투아니아 반등 여지",
-      "ai_picks": [
-        "리투아니아 승",
-        "오버 166.5",
-        "리투아니아 +1.5 승"
-      ],
-      "aria_label": "리투아니아 vs 보스니아 00:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001033199",
-      "url": "https://bbongtv4.com/premium/basket/2001033199",
-      "sport": "basket",
-      "league": "농구 아시아컵 예선",
-      "date": "9/1 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "쿠웨이트",
-      "team2": "바레인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "away": 73.0
-      },
-      "ai_summary": "바레인 3승0패와 +27 득실차, 원정 접전 변수는 남는 경기",
-      "ai_picks": [
-        "바레인 승",
-        "오버 161.5",
-        "쿠웨이트 +10.5 승"
-      ],
-      "aria_label": "쿠웨이트 vs 바레인 01:00 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001034653",
-      "url": "https://bbongtv4.com/premium/basket/2001034653",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "그리스",
-      "team2": "스페인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "스페인 최근 5연승, 평균 20점차 압도적 흐름이 변수",
-      "ai_picks": [
-        "스페인 승",
-        "언더 160.5"
-      ],
-      "aria_label": "그리스 vs 스페인 01:00 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16466101",
-      "url": "https://bbongtv4.com/premium/soccer/16466101",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/1 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "US 레체",
-      "team2": "AS 로마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 13.0,
-        "draw": 17.0,
-        "away": 70.0
-      },
-      "ai_summary": "AS 로마, 최근 6경기 중 5경기 무실점으로 수비 우위 뚜렷",
-      "ai_picks": [
-        "AS 로마 승",
-        "언더 2.5"
-      ],
-      "aria_label": "US 레체 vs AS 로마 01:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
     {
       "id": "2001034936",
       "url": "https://bbongtv4.com/premium/basket/2001034936",
@@ -130,33 +27,6 @@
         "이탈리아 +6.5 승"
       ],
       "aria_label": "이탈리아 vs 세르비아 02:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16466122",
-      "url": "https://bbongtv4.com/premium/soccer/16466122",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/1 (화)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "CA 오사수나",
-      "team2": "헤타페 CF",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 31.0,
-        "away": 24.0
-      },
-      "ai_summary": "xG 1.65 대 0.74, 오사수나 공격 질이 앞서는 홈 경기",
-      "ai_picks": [
-        "CA 오사수나 승",
-        "오버 1.5",
-        "CA 오사수나 -0.5 승"
-      ],
-      "aria_label": "CA 오사수나 vs 헤타페 CF 02:30 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -271,8 +141,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "아탈란타 BC",
-      "team2": "볼로냐 FC 1909",
+      "team1": "아탈란타",
+      "team2": "볼로냐",
       "score1": null,
       "score2": null,
       "prob": {
@@ -282,11 +152,11 @@
       },
       "ai_summary": "첫 경기 2-1 승 대 0-1 패, 홈 흐름과 저득점 전적이 맞물림",
       "ai_picks": [
-        "아탈란타 BC 승",
+        "아탈란타 승",
         "언더 2.5",
-        "아탈란타 BC -0.5 승"
+        "아탈란타 -0.5 승"
       ],
-      "aria_label": "아탈란타 BC vs 볼로냐 FC 1909 03:45 분석 상세",
+      "aria_label": "아탈란타 vs 볼로냐 03:45 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -298,8 +168,8 @@
       "time": "04:00",
       "status": "예정",
       "result": null,
-      "team1": "애스턴 빌라 FC",
-      "team2": "아스날 FC",
+      "team1": "아스톤빌라",
+      "team2": "아스날",
       "score1": null,
       "score2": null,
       "prob": {
@@ -309,11 +179,11 @@
       },
       "ai_summary": "애스턴 빌라 FC 대거 결장, 아스날 FC 공격진 초반 기세가 변수",
       "ai_picks": [
-        "아스날 FC 승",
+        "아스날 승",
         "오버 2.5",
-        "애스턴 빌라 FC +1.5 승"
+        "아스톤빌라 +1.5 승"
       ],
-      "aria_label": "애스턴 빌라 FC vs 아스날 FC 04:00 분석 상세",
+      "aria_label": "아스톤빌라 vs 아스날 04:00 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -404,8 +274,8 @@
       "time": "04:30",
       "status": "예정",
       "result": null,
-      "team1": "FC 바르셀로나",
-      "team2": "라요 바예카노",
+      "team1": "바르셀로나",
+      "team2": "라요바예카노",
       "score1": null,
       "score2": null,
       "prob": {
@@ -415,11 +285,11 @@
       },
       "ai_summary": "바르셀로나, 최근 2경기 7득점·무실점의 압도적 흐름이 우세 근거",
       "ai_picks": [
-        "FC 바르셀로나 승",
+        "바르셀로나 승",
         "오버 3.5",
-        "FC 바르셀로나 -2.5 승"
+        "바르셀로나 -2.5 승"
       ],
-      "aria_label": "FC 바르셀로나 vs 라요 바예카노 04:30 분석 상세",
+      "aria_label": "바르셀로나 vs 라요바예카노 04:30 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -483,8 +353,8 @@
       "time": "07:05",
       "status": "예정",
       "result": null,
-      "team1": "애틀랜타",
-      "team2": "샌프란시스코",
+      "team1": "애틀란타 브레이브스",
+      "team2": "SF 자이언츠",
       "score1": null,
       "score2": null,
       "prob": {
@@ -493,11 +363,11 @@
       },
       "ai_summary": "홈 3연승과 팀 방어율 3.55, 애틀랜타가 낮은 점수로 앞선다",
       "ai_picks": [
-        "애틀랜타 승",
+        "애틀란타 브레이브스 승",
         "언더 8.5",
-        "샌프란시스코 +1.5 승"
+        "SF 자이언츠 +1.5 승"
       ],
-      "aria_label": "애틀랜타 vs 샌프란시스코 07:05 분석 상세",
+      "aria_label": "애틀란타 브레이브스 vs SF 자이언츠 07:05 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -509,8 +379,8 @@
       "time": "07:40",
       "status": "예정",
       "result": null,
-      "team1": "탬파베이",
-      "team2": "뉴욕메츠",
+      "team1": "탬파베이 레이스",
+      "team2": "NY 메츠",
       "score1": null,
       "score2": null,
       "prob": {
@@ -519,11 +389,11 @@
       },
       "ai_summary": "이안 세이모얼 방어율 4.21, 로버트 스토크 7.40…선발 맞대결에서 탬파베이 우위",
       "ai_picks": [
-        "탬파베이 승",
+        "탬파베이 레이스 승",
         "오버 8",
-        "탬파베이 -1.5 승"
+        "탬파베이 레이스 -1.5 승"
       ],
-      "aria_label": "탬파베이 vs 뉴욕메츠 07:40 분석 상세",
+      "aria_label": "탬파베이 레이스 vs NY 메츠 07:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -535,8 +405,8 @@
       "time": "07:40",
       "status": "예정",
       "result": null,
-      "team1": "신시내티",
-      "team2": "샌디에이고",
+      "team1": "신시내티 레즈",
+      "team2": "샌디에이고 파드레스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -545,11 +415,11 @@
       },
       "ai_summary": "팀 투구 3.94 대 4.67, 선발 격차와 원정 3패가 맞선다",
       "ai_picks": [
-        "샌디에이고 승",
+        "샌디에이고 파드레스 승",
         "오버 9",
-        "신시내티 +1.5 승"
+        "신시내티 레즈 +1.5 승"
       ],
-      "aria_label": "신시내티 vs 샌디에이고 07:40 분석 상세",
+      "aria_label": "신시내티 레즈 vs 샌디에이고 파드레스 07:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -561,8 +431,8 @@
       "time": "07:45",
       "status": "예정",
       "result": null,
-      "team1": "워싱턴",
-      "team2": "마이애미",
+      "team1": "워싱턴 내셔널스",
+      "team2": "마이애미 말린스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -572,9 +442,9 @@
       "ai_summary": "양 팀 선발 방어율 3점대, 최근 맞대결 득점 편차가 큰 경기 흐름",
       "ai_picks": [
         "오버 8.5",
-        "워싱턴 +1.5 승"
+        "워싱턴 내셔널스 +1.5 승"
       ],
-      "aria_label": "워싱턴 vs 마이애미 07:45 분석 상세",
+      "aria_label": "워싱턴 내셔널스 vs 마이애미 말린스 07:45 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -586,8 +456,8 @@
       "time": "07:45",
       "status": "예정",
       "result": null,
-      "team1": "보스턴",
-      "team2": "시애틀",
+      "team1": "보스턴 레드삭스",
+      "team2": "시애틀 매리너스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -596,10 +466,10 @@
       },
       "ai_summary": "파이턴 토레 방어율 3.09, 조지 킬바이보다 마운드 우위 뚜렷",
       "ai_picks": [
-        "보스턴 승",
+        "보스턴 레드삭스 승",
         "언더 7.5"
       ],
-      "aria_label": "보스턴 vs 시애틀 07:45 분석 상세",
+      "aria_label": "보스턴 레드삭스 vs 시애틀 매리너스 07:45 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -713,8 +583,8 @@
       "time": "08:40",
       "status": "예정",
       "result": null,
-      "team1": "미네소타",
-      "team2": "디트로이트",
+      "team1": "미네소타 트윈스",
+      "team2": "디트로이트 타이거스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -723,10 +593,10 @@
       },
       "ai_summary": "미네소타 타선의 초반 집중력, 디트로이트의 저득점 흐름과 대조",
       "ai_picks": [
-        "미네소타 승",
+        "미네소타 트윈스 승",
         "언더 8.5"
       ],
-      "aria_label": "미네소타 vs 디트로이트 08:40 분석 상세",
+      "aria_label": "미네소타 트윈스 vs 디트로이트 타이거스 08:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -738,8 +608,8 @@
       "time": "08:40",
       "status": "예정",
       "result": null,
-      "team1": "시카고컵스",
-      "team2": "밀워키",
+      "team1": "시카고 컵스",
+      "team2": "밀워키 브루어스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -749,9 +619,9 @@
       "ai_summary": "선발 방어율 2.26 대 2.79, 마운드 우위와 후반 집중력 모두 저득점 흐름",
       "ai_picks": [
         "언더 9.5",
-        "밀워키 승"
+        "밀워키 브루어스 승"
       ],
-      "aria_label": "시카고컵스 vs 밀워키 08:40 분석 상세",
+      "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -763,8 +633,8 @@
       "time": "09:05",
       "status": "예정",
       "result": null,
-      "team1": "텍사스",
-      "team2": "애슬레틱스",
+      "team1": "텍사스 레인저스",
+      "team2": "오클랜드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -773,11 +643,11 @@
       },
       "ai_summary": "선발 WHIP 1.18 대 1.46, 팀 투구 격차가 승부의 핵심 변수",
       "ai_picks": [
-        "텍사스 승",
+        "텍사스 레인저스 승",
         "오버 7.5",
-        "애슬레틱스 +1.5 승"
+        "오클랜드 +1.5 승"
       ],
-      "aria_label": "텍사스 vs 애슬레틱스 09:05 분석 상세",
+      "aria_label": "텍사스 레인저스 vs 오클랜드 09:05 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -789,8 +659,8 @@
       "time": "09:10",
       "status": "예정",
       "result": null,
-      "team1": "휴스턴",
-      "team2": "시카고화이트삭스",
+      "team1": "휴스턴 애스트로스",
+      "team2": "시카고 화이트삭스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -799,10 +669,10 @@
       },
       "ai_summary": "피터 람버트 방어율 3.66, 홈런 친화 구장과 맞물려 득점 흐름 주목",
       "ai_picks": [
-        "휴스턴 승",
+        "휴스턴 애스트로스 승",
         "오버 8.5"
       ],
-      "aria_label": "휴스턴 vs 시카고화이트삭스 09:10 분석 상세",
+      "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 09:10 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -916,8 +786,8 @@
       "time": "09:40",
       "status": "예정",
       "result": null,
-      "team1": "콜로라도",
-      "team2": "볼티모어",
+      "team1": "콜로라도 로키스",
+      "team2": "볼티모어 오리올스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -926,11 +796,11 @@
       },
       "ai_summary": "원정 평균득점 7.17, 콜로라도 4연패가 만든 흐름 차이",
       "ai_picks": [
-        "볼티모어 승",
+        "볼티모어 오리올스 승",
         "오버 10.5",
-        "볼티모어 -1.5 승"
+        "볼티모어 오리올스 -1.5 승"
       ],
-      "aria_label": "콜로라도 vs 볼티모어 09:40 분석 상세",
+      "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 09:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -942,8 +812,8 @@
       "time": "10:38",
       "status": "예정",
       "result": null,
-      "team1": "LA엔젤스",
-      "team2": "뉴욕양키스",
+      "team1": "LA 에인절스",
+      "team2": "NY 양키스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -952,11 +822,11 @@
       },
       "ai_summary": "홈 최근 6경기 0승6패 부진, 선발 2.94가 격차를 좁힐 변수",
       "ai_picks": [
-        "뉴욕양키스 승",
+        "NY 양키스 승",
         "언더 8.5",
-        "뉴욕양키스 -1.5 승"
+        "NY 양키스 -1.5 승"
       ],
-      "aria_label": "LA엔젤스 vs 뉴욕양키스 10:38 분석 상세",
+      "aria_label": "LA 에인절스 vs NY 양키스 10:38 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -968,8 +838,8 @@
       "time": "10:40",
       "status": "예정",
       "result": null,
-      "team1": "애리조나",
-      "team2": "필라델피아",
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "필라델피아 필리스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -978,11 +848,11 @@
       },
       "ai_summary": "에런 놀라 방어율 5.03, 양 팀 불펜 대기 13명으로 후반 득점 변수",
       "ai_picks": [
-        "필라델피아 승",
+        "필라델피아 필리스 승",
         "오버 8.5",
-        "애리조나 +1.5 승"
+        "애리조나 다이아몬드백스 +1.5 승"
       ],
-      "aria_label": "애리조나 vs 필라델피아 10:40 분석 상세",
+      "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 10:40 분석 상세",
       "source_date": "2026-09-01"
     },
     {
@@ -1262,6 +1132,136 @@
         "삼성 라이온즈 -1.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 롯데 자이언츠 18:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001034937",
+      "url": "https://bbongtv4.com/premium/basket/2001034937",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "00:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "리투아니아",
+      "team2": "보스니아",
+      "score1": 78,
+      "score2": 73,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "홈 105점·99점 흐름, 시장 열세에도 리투아니아 반등 여지",
+      "ai_picks": [
+        "리투아니아 승",
+        "오버 166.5",
+        "리투아니아 +1.5 승"
+      ],
+      "aria_label": "리투아니아 vs 보스니아 00:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001033199",
+      "url": "https://bbongtv4.com/premium/basket/2001033199",
+      "sport": "basket",
+      "league": "농구 아시아컵 예선",
+      "date": "9/1 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "쿠웨이트",
+      "team2": "바레인",
+      "score1": 67,
+      "score2": 95,
+      "prob": {
+        "home": 27.0,
+        "away": 73.0
+      },
+      "ai_summary": "바레인 3승0패와 +27 득실차, 원정 접전 변수는 남는 경기",
+      "ai_picks": [
+        "바레인 승",
+        "오버 161.5",
+        "쿠웨이트 +10.5 승"
+      ],
+      "aria_label": "쿠웨이트 vs 바레인 01:00 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001034653",
+      "url": "https://bbongtv4.com/premium/basket/2001034653",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "그리스",
+      "team2": "스페인",
+      "score1": 108,
+      "score2": 106,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "스페인 최근 5연승, 평균 20점차 압도적 흐름이 변수",
+      "ai_picks": [
+        "스페인 승",
+        "언더 160.5"
+      ],
+      "aria_label": "그리스 vs 스페인 01:00 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466101",
+      "url": "https://bbongtv4.com/premium/soccer/16466101",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/1 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레체",
+      "team2": "로마",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 13.0,
+        "draw": 17.0,
+        "away": 70.0
+      },
+      "ai_summary": "AS 로마, 최근 6경기 중 5경기 무실점으로 수비 우위 뚜렷",
+      "ai_picks": [
+        "로마 승",
+        "언더 2.5"
+      ],
+      "aria_label": "레체 vs 로마 01:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466122",
+      "url": "https://bbongtv4.com/premium/soccer/16466122",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/1 (화)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오사수나",
+      "team2": "헤타페",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 31.0,
+        "away": 24.0
+      },
+      "ai_summary": "xG 1.65 대 0.74, 오사수나 공격 질이 앞서는 홈 경기",
+      "ai_picks": [
+        "오사수나 승",
+        "오버 1.5",
+        "오사수나 -0.5 승"
+      ],
+      "aria_label": "오사수나 vs 헤타페 02:30 분석 상세",
       "source_date": "2026-09-01"
     }
   ]
