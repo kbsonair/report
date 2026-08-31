@@ -1,297 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-01",
-  "scraped_at": "2026-08-31T20:11:48.791694+00:00",
+  "scraped_at": "2026-08-31T23:55:10.174976+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "2001034936",
-      "url": "https://bbongtv4.com/premium/basket/2001034936",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "이탈리아",
-      "team2": "세르비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "이탈리아 최근 4경기 평균 90점대, 세르비아도 득점력 유지",
-      "ai_picks": [
-        "오버 171",
-        "이탈리아 +6.5 승"
-      ],
-      "aria_label": "이탈리아 vs 세르비아 02:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001034655",
-      "url": "https://bbongtv4.com/premium/basket/2001034655",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포르투갈",
-      "team2": "조지아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "시장 1.57 원정 우위, 포르투갈 홈 득점력과 핸디가 변수",
-      "ai_picks": [
-        "조지아 승",
-        "오버 158.5",
-        "포르투갈 +3.5 승"
-      ],
-      "aria_label": "포르투갈 vs 조지아 03:00 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001034654",
-      "url": "https://bbongtv4.com/premium/basket/2001034654",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "몬테네그로",
-      "team2": "우크라이나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "O. 코브리알 평균 25점, 우크라이나 공격력이 우위에 있다",
-      "ai_picks": [
-        "우크라이나 승",
-        "우크라이나 -3.5 승"
-      ],
-      "aria_label": "몬테네그로 vs 우크라이나 03:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2007016416",
-      "url": "https://bbongtv4.com/premium/soccer/2007016416",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/1 (화)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아메드스포르",
-      "team2": "트라브존스포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "draw": 23.0,
-        "away": 50.0
-      },
-      "ai_summary": "트라브존스포르, xG 1.56·점유율 56.5%로 공격 주도권 확보",
-      "ai_picks": [
-        "트라브존스포르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "아메드스포르 vs 트라브존스포르 03:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2007204030",
-      "url": "https://bbongtv4.com/premium/soccer/2007204030",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/1 (화)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "베식타시",
-      "team2": "코룸",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "베식타시, 홈 1실점 수비력과 코룸 결장 변수로 우위 점칠 수 있다",
-      "ai_picks": [
-        "베식타시 승",
-        "언더 2.5"
-      ],
-      "aria_label": "베식타시 vs 코룸 03:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16466139",
-      "url": "https://bbongtv4.com/premium/soccer/16466139",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/1 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "아탈란타",
-      "team2": "볼로냐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 28.0,
-        "away": 24.0
-      },
-      "ai_summary": "첫 경기 2-1 승 대 0-1 패, 홈 흐름과 저득점 전적이 맞물림",
-      "ai_picks": [
-        "아탈란타 승",
-        "언더 2.5",
-        "아탈란타 -0.5 승"
-      ],
-      "aria_label": "아탈란타 vs 볼로냐 03:45 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16466141",
-      "url": "https://bbongtv4.com/premium/soccer/16466141",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/1 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아스톤빌라",
-      "team2": "아스날",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "애스턴 빌라 FC 대거 결장, 아스날 FC 공격진 초반 기세가 변수",
-      "ai_picks": [
-        "아스날 승",
-        "오버 2.5",
-        "아스톤빌라 +1.5 승"
-      ],
-      "aria_label": "아스톤빌라 vs 아스날 04:00 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2007203962",
-      "url": "https://bbongtv4.com/premium/soccer/2007203962",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/1 (화)",
-      "time": "04:15",
-      "status": "예정",
-      "result": null,
-      "team1": "벤피카",
-      "team2": "에스토릴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 15.0,
-        "away": 7.0
-      },
-      "ai_summary": "득9 실2 벤피카, 에스토릴 무득점 2경기가 만든 홈 우위 구도",
-      "ai_picks": [
-        "벤피카 승",
-        "오버 3.5",
-        "에스토릴 +2.5 승"
-      ],
-      "aria_label": "벤피카 vs 에스토릴 04:15 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2007203993",
-      "url": "https://bbongtv4.com/premium/soccer/2007203993",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/1 (화)",
-      "time": "04:15",
-      "status": "예정",
-      "result": null,
-      "team1": "브라가",
-      "team2": "비토리아 기마랑에스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 51.0,
-        "draw": 27.0,
-        "away": 22.0
-      },
-      "ai_summary": "브라가, 최근 맞대결 우세와 시장 배당에서 근소한 우위",
-      "ai_picks": [
-        "브라가 승",
-        "오버 2.5"
-      ],
-      "aria_label": "브라가 vs 비토리아 기마랑에스 04:15 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001034935",
-      "url": "https://bbongtv4.com/premium/basket/2001034935",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아이슬란드",
-      "team2": "튀르키예",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "away": 90.0
-      },
-      "ai_summary": "튀르키예 7연승, 최근 5경기 모두 80점 이상 득점의 강세",
-      "ai_picks": [
-        "튀르키예 승",
-        "오버 171.5",
-        "아이슬란드 +15.5 승"
-      ],
-      "aria_label": "아이슬란드 vs 튀르키예 04:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16466150",
-      "url": "https://bbongtv4.com/premium/soccer/16466150",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/1 (화)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "바르셀로나",
-      "team2": "라요바예카노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 15.0,
-        "away": 5.0
-      },
-      "ai_summary": "바르셀로나, 최근 2경기 7득점·무실점의 압도적 흐름이 우세 근거",
-      "ai_picks": [
-        "바르셀로나 승",
-        "오버 3.5",
-        "바르셀로나 -2.5 승"
-      ],
-      "aria_label": "바르셀로나 vs 라요바예카노 04:30 분석 상세",
-      "source_date": "2026-09-01"
-    },
     {
       "id": "2007208670",
       "url": "https://bbongtv4.com/premium/soccer/2007208670",
@@ -1238,6 +950,31 @@
       "source_date": "2026-09-01"
     },
     {
+      "id": "2001034936",
+      "url": "https://bbongtv4.com/premium/basket/2001034936",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "이탈리아",
+      "team2": "세르비아",
+      "score1": 64,
+      "score2": 76,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "이탈리아 최근 4경기 평균 90점대, 세르비아도 득점력 유지",
+      "ai_picks": [
+        "오버 171",
+        "이탈리아 +6.5 승"
+      ],
+      "aria_label": "이탈리아 vs 세르비아 02:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
       "id": "16466122",
       "url": "https://bbongtv4.com/premium/soccer/16466122",
       "sport": "soccer",
@@ -1262,6 +999,269 @@
         "오사수나 -0.5 승"
       ],
       "aria_label": "오사수나 vs 헤타페 02:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001034655",
+      "url": "https://bbongtv4.com/premium/basket/2001034655",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "포르투갈",
+      "team2": "조지아",
+      "score1": 90,
+      "score2": 98,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "시장 1.57 원정 우위, 포르투갈 홈 득점력과 핸디가 변수",
+      "ai_picks": [
+        "조지아 승",
+        "오버 158.5",
+        "포르투갈 +3.5 승"
+      ],
+      "aria_label": "포르투갈 vs 조지아 03:00 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001034654",
+      "url": "https://bbongtv4.com/premium/basket/2001034654",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몬테네그로",
+      "team2": "우크라이나",
+      "score1": 89,
+      "score2": 98,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "O. 코브리알 평균 25점, 우크라이나 공격력이 우위에 있다",
+      "ai_picks": [
+        "우크라이나 승",
+        "우크라이나 -3.5 승"
+      ],
+      "aria_label": "몬테네그로 vs 우크라이나 03:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2007016416",
+      "url": "https://bbongtv4.com/premium/soccer/2007016416",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/1 (화)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아메드스포르",
+      "team2": "트라브존스포르",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 27.0,
+        "draw": 23.0,
+        "away": 50.0
+      },
+      "ai_summary": "트라브존스포르, xG 1.56·점유율 56.5%로 공격 주도권 확보",
+      "ai_picks": [
+        "트라브존스포르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "아메드스포르 vs 트라브존스포르 03:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2007204030",
+      "url": "https://bbongtv4.com/premium/soccer/2007204030",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/1 (화)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베식타시",
+      "team2": "코룸",
+      "score1": 6,
+      "score2": 2,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "베식타시, 홈 1실점 수비력과 코룸 결장 변수로 우위 점칠 수 있다",
+      "ai_picks": [
+        "베식타시 승",
+        "언더 2.5"
+      ],
+      "aria_label": "베식타시 vs 코룸 03:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466139",
+      "url": "https://bbongtv4.com/premium/soccer/16466139",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/1 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아탈란타",
+      "team2": "볼로냐",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 28.0,
+        "away": 24.0
+      },
+      "ai_summary": "첫 경기 2-1 승 대 0-1 패, 홈 흐름과 저득점 전적이 맞물림",
+      "ai_picks": [
+        "아탈란타 승",
+        "언더 2.5",
+        "아탈란타 -0.5 승"
+      ],
+      "aria_label": "아탈란타 vs 볼로냐 03:45 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466141",
+      "url": "https://bbongtv4.com/premium/soccer/16466141",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/1 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아스톤빌라",
+      "team2": "아스날",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "애스턴 빌라 FC 대거 결장, 아스날 FC 공격진 초반 기세가 변수",
+      "ai_picks": [
+        "아스날 승",
+        "오버 2.5",
+        "아스톤빌라 +1.5 승"
+      ],
+      "aria_label": "아스톤빌라 vs 아스날 04:00 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2007203962",
+      "url": "https://bbongtv4.com/premium/soccer/2007203962",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/1 (화)",
+      "time": "04:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "벤피카",
+      "team2": "에스토릴",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 78.0,
+        "draw": 15.0,
+        "away": 7.0
+      },
+      "ai_summary": "득9 실2 벤피카, 에스토릴 무득점 2경기가 만든 홈 우위 구도",
+      "ai_picks": [
+        "벤피카 승",
+        "오버 3.5",
+        "에스토릴 +2.5 승"
+      ],
+      "aria_label": "벤피카 vs 에스토릴 04:15 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2007203993",
+      "url": "https://bbongtv4.com/premium/soccer/2007203993",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/1 (화)",
+      "time": "04:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브라가",
+      "team2": "비토리아 기마랑에스",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 51.0,
+        "draw": 27.0,
+        "away": 22.0
+      },
+      "ai_summary": "브라가, 최근 맞대결 우세와 시장 배당에서 근소한 우위",
+      "ai_picks": [
+        "브라가 승",
+        "오버 2.5"
+      ],
+      "aria_label": "브라가 vs 비토리아 기마랑에스 04:15 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001034935",
+      "url": "https://bbongtv4.com/premium/basket/2001034935",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아이슬란드",
+      "team2": "튀르키예",
+      "score1": 73,
+      "score2": 110,
+      "prob": {
+        "home": 10.0,
+        "away": 90.0
+      },
+      "ai_summary": "튀르키예 7연승, 최근 5경기 모두 80점 이상 득점의 강세",
+      "ai_picks": [
+        "튀르키예 승",
+        "오버 171.5",
+        "아이슬란드 +15.5 승"
+      ],
+      "aria_label": "아이슬란드 vs 튀르키예 04:30 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16466150",
+      "url": "https://bbongtv4.com/premium/soccer/16466150",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/1 (화)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바르셀로나",
+      "team2": "라요바예카노",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 80.0,
+        "draw": 15.0,
+        "away": 5.0
+      },
+      "ai_summary": "바르셀로나, 최근 2경기 7득점·무실점의 압도적 흐름이 우세 근거",
+      "ai_picks": [
+        "바르셀로나 승",
+        "오버 3.5",
+        "바르셀로나 -2.5 승"
+      ],
+      "aria_label": "바르셀로나 vs 라요바예카노 04:30 분석 상세",
       "source_date": "2026-09-01"
     }
   ]
