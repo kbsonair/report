@@ -1,9 +1,35 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-08-31",
-  "scraped_at": "2026-08-31T06:14:35.313775+00:00",
-  "count": 30,
+  "scraped_at": "2026-08-31T14:05:42.592074+00:00",
+  "count": 31,
   "matches": [
+    {
+      "id": "2001034707",
+      "url": "https://bbongtv4.com/premium/basket/2001034707",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "8/31 (월)",
+      "time": "20:30",
+      "status": "예정",
+      "result": null,
+      "team1": "중국",
+      "team2": "레바논",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "레바논 최근 5경기 4승, 중국은 홈에서 대패 포함 기복 뚜렷",
+      "ai_picks": [
+        "중국 승",
+        "언더 167.5",
+        "레바논 +4.5 승"
+      ],
+      "aria_label": "중국 vs 레바논 20:30 분석 상세",
+      "source_date": "2026-08-31"
+    },
     {
       "id": "16465943",
       "url": "https://bbongtv4.com/premium/soccer/16465943",
@@ -14,7 +40,7 @@
       "status": "예정",
       "result": null,
       "team1": "페르십 반둥",
-      "team2": "Manila Digger FC",
+      "team2": "마닐라 디거 FC",
       "score1": null,
       "score2": null,
       "prob": {
@@ -25,9 +51,9 @@
       "ai_summary": "페르십 반둥 승 (핸디캡 -1.5 커버 가능)",
       "ai_picks": [
         "페르십 반둥 승",
-        "페르십 반둥 -1.5"
+        "페르십 반둥 -1.5 승"
       ],
-      "aria_label": "페르십 반둥 vs Manila Digger FC 21:00 분석 상세",
+      "aria_label": "페르십 반둥 vs 마닐라 디거 FC 21:00 분석 상세",
       "source_date": "2026-08-31"
     },
     {
@@ -38,20 +64,19 @@
       "date": "8/31 (월)",
       "time": "00:00",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "레알 마드리드 CF",
       "team2": "말라가 CF",
       "score1": 4,
       "score2": 0,
       "prob": {
-        "home": 85.0,
-        "draw": 10.0,
-        "away": 5.0
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
       },
-      "ai_summary": "레알 마드리드 CF 대승 (핸디캡 -2 이상)",
+      "ai_summary": "레알 마드리드 CF, 시즌 3연승·경기당 득점 3.3으로 압도적 흐름",
       "ai_picks": [
-        "레알 마드리드  승",
-        "레알 마드리드  -2"
+        "레알 마드리드 CF 승"
       ],
       "aria_label": "레알 마드리드 CF vs 말라가 CF 00:00 분석 상세",
       "source_date": "2026-08-31"
@@ -64,7 +89,7 @@
       "date": "8/31 (월)",
       "time": "00:15",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "스타드 렌 FC",
       "team2": "르망 FC",
       "score1": 3,
@@ -74,10 +99,9 @@
         "draw": 20.0,
         "away": 20.0
       },
-      "ai_summary": "홈팀 스타드 렌 FC 승 + 2.5 오버",
+      "ai_summary": "스타드 렌 FC, 홈에서 꾸준한 득점력과 상대전적 우위가 강점",
       "ai_picks": [
-        "스타드 렌 FC 승",
-        "오버 2.5"
+        "스타드 렌 FC 승"
       ],
       "aria_label": "스타드 렌 FC vs 르망 FC 00:15 분석 상세",
       "source_date": "2026-08-31"
@@ -102,7 +126,7 @@
       },
       "ai_summary": "홈팀 FC 아우크스부르크 승",
       "ai_picks": [
-        "FC 아우크스부 승"
+        "FC 아우크스부르크 승"
       ],
       "aria_label": "FC 아우크스부르크 vs FC 샬케 04 00:30 분석 상세",
       "source_date": "2026-08-31"
@@ -115,20 +139,19 @@
       "date": "8/31 (월)",
       "time": "00:30",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "맨체스터 유나이티드",
       "team2": "입스위치 타운 FC",
       "score1": 5,
       "score2": 2,
       "prob": {
-        "home": 62.0,
-        "draw": 20.0,
-        "away": 18.0
+        "home": 58.0,
+        "draw": 22.0,
+        "away": 20.0
       },
-      "ai_summary": "맨체스터 유나이티드 승 (양팀 득점 및 2.5 오버 병행 추천)",
+      "ai_summary": "맨체스터 유나이티드, 점유율 66%·슈팅 27개로 공격 주도권 뚜렷",
       "ai_picks": [
-        "맨체스터 유나 승",
-        "오버 2.5"
+        "맨체스터 유나이티드 승"
       ],
       "aria_label": "맨체스터 유나이티드 vs 입스위치 타운 FC 00:30 분석 상세",
       "source_date": "2026-08-31"
@@ -141,18 +164,17 @@
       "date": "8/31 (월)",
       "time": "01:15",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "워싱턴",
       "team2": "마이애미",
       "score1": 2,
       "score2": 6,
       "prob": {
-        "home": 48.0,
-        "away": 52.0
+        "home": 56.0,
+        "away": 44.0
       },
-      "ai_summary": "워싱턴 핸디캡 승 및 언더 8.5",
+      "ai_summary": "워싱턴, 최근 2경기 연속 다득점 승리로 홈 분위기 상승세",
       "ai_picks": [
-        "언더 8.5",
         "워싱턴 승"
       ],
       "aria_label": "워싱턴 vs 마이애미 01:15 분석 상세",
@@ -166,20 +188,19 @@
       "date": "8/31 (월)",
       "time": "01:30",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "SSC 나폴리",
       "team2": "코모 1907",
       "score1": 1,
       "score2": 2,
       "prob": {
-        "home": 50.0,
-        "draw": 27.0,
-        "away": 23.0
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
       },
-      "ai_summary": "홈팀 SSC 나폴리 승 (저득점 경기 예상, 2.5 언더 유력)",
+      "ai_summary": "코모 1907, 최근 맞대결 6경기서 2승3무1패로 나폴리에 앞서",
       "ai_picks": [
-        "SSC 나폴리 승",
-        "언더 2.5"
+        "무승부"
       ],
       "aria_label": "SSC 나폴리 vs 코모 1907 01:30 분석 상세",
       "source_date": "2026-08-31"
@@ -192,21 +213,19 @@
       "date": "8/31 (월)",
       "time": "02:30",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "데포르티보 라코루냐",
       "team2": "발렌시아",
       "score1": 3,
       "score2": 1,
       "prob": {
         "home": 40.0,
-        "draw": 33.0,
-        "away": 27.0
+        "draw": 40.0,
+        "away": 20.0
       },
-      "ai_summary": "2.5 언더 (홈팀 소폭 우세, 무승부 가능성 높음)",
+      "ai_summary": "데포르티보 라코루냐, 최근 2경기 연속 무승부 속 안정된 수비력 부각",
       "ai_picks": [
-        "언더 2.5",
-        "데포르티보 라 승",
-        "무승부"
+        "데포르티보 라코루냐 승"
       ],
       "aria_label": "데포르티보 라코루냐 vs 발렌시아 02:30 분석 상세",
       "source_date": "2026-08-31"
@@ -219,19 +238,18 @@
       "date": "8/31 (월)",
       "time": "02:35",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "뉴욕양키스",
       "team2": "보스턴",
       "score1": 16,
       "score2": 1,
       "prob": {
-        "home": 40.0,
-        "away": 60.0
+        "home": 59.0,
+        "away": 41.0
       },
-      "ai_summary": "보스턴 승, 언더 7.5",
+      "ai_summary": "최근 맞대결 9대2와 1대0, 홈 흐름이 선명한 양키 스타디움전",
       "ai_picks": [
-        "보스턴 승",
-        "언더 7.5"
+        "뉴욕양키스 승"
       ],
       "aria_label": "뉴욕양키스 vs 보스턴 02:35 분석 상세",
       "source_date": "2026-08-31"
@@ -244,19 +262,18 @@
       "date": "8/31 (월)",
       "time": "02:35",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "애틀랜타",
       "team2": "콜로라도",
       "score1": 3,
       "score2": 2,
       "prob": {
-        "home": 72.0,
-        "away": 28.0
+        "home": 67.0,
+        "away": 33.0
       },
-      "ai_summary": "애틀랜타 승리 (핸디캡 -1.5 추천)",
+      "ai_summary": "팀 방어율 3.55 대 5.49, 홈 마운드 안정감이 승부축",
       "ai_picks": [
-        "애틀랜타 승",
-        "애틀랜타 -1.5"
+        "애틀랜타 승"
       ],
       "aria_label": "애틀랜타 vs 콜로라도 02:35 분석 상세",
       "source_date": "2026-08-31"
@@ -269,18 +286,18 @@
       "date": "8/31 (월)",
       "time": "02:37",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "토론토",
       "team2": "시애틀",
       "score1": 7,
       "score2": 0,
       "prob": {
-        "home": 35.0,
-        "away": 65.0
+        "home": 54.0,
+        "away": 46.0
       },
-      "ai_summary": "시애틀 승",
+      "ai_summary": "로건 길버트 방어율 3.42, 토론토 최근 2경기 타선 폭발로 흐름 우위",
       "ai_picks": [
-        "시애틀 승"
+        "토론토 승"
       ],
       "aria_label": "토론토 vs 시애틀 02:37 분석 상세",
       "source_date": "2026-08-31"
@@ -293,16 +310,16 @@
       "date": "8/31 (월)",
       "time": "02:40",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "클리블랜드",
       "team2": "캔자스시티",
       "score1": 11,
       "score2": 1,
       "prob": {
-        "home": 58.0,
-        "away": 42.0
+        "home": 61.0,
+        "away": 39.0
       },
-      "ai_summary": "클리블랜드 승리",
+      "ai_summary": "파커 메시크 방어율 2.46, 선발 맞대결에서 클리블랜드가 앞선다",
       "ai_picks": [
         "클리블랜드 승"
       ],
@@ -317,16 +334,16 @@
       "date": "8/31 (월)",
       "time": "02:40",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "디트로이트",
       "team2": "LA다저스",
       "score1": 1,
       "score2": 6,
       "prob": {
-        "home": 33.0,
-        "away": 67.0
+        "home": 37.0,
+        "away": 63.0
       },
-      "ai_summary": "LA다저스 승리",
+      "ai_summary": "타일러 글래스나우 방어율 2.79, 선발 맞대결에서 LA다저스가 앞선다",
       "ai_picks": [
         "LA다저스 승"
       ],
@@ -341,16 +358,16 @@
       "date": "8/31 (월)",
       "time": "02:40",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "탬파베이",
       "team2": "샌디에이고",
       "score1": 5,
       "score2": 4,
       "prob": {
-        "home": 60.0,
-        "away": 40.0
+        "home": 67.0,
+        "away": 33.0
       },
-      "ai_summary": "탬파베이 승리 (저득점 경기 전망, 언더 유력)",
+      "ai_summary": "선발 라스무센 방어율 2.95, 홈 타선 OPS .733이 승부의 중심",
       "ai_picks": [
         "탬파베이 승"
       ],
@@ -365,20 +382,19 @@
       "date": "8/31 (월)",
       "time": "03:00",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "SC 캄뷔르",
       "team2": "FC 트벤터",
       "score1": 1,
       "score2": 4,
       "prob": {
-        "home": 10.0,
-        "draw": 15.0,
+        "home": 15.0,
+        "draw": 10.0,
         "away": 75.0
       },
-      "ai_summary": "FC 트벤터 승 및 2.5 오버",
+      "ai_summary": "트벤터, 시즌 득점력과 점유율 모두 앞서며 원정에서도 우위",
       "ai_picks": [
-        "FC 트벤터 승",
-        "오버 2.5"
+        "FC 트벤터 승"
       ],
       "aria_label": "SC 캄뷔르 vs FC 트벤터 03:00 분석 상세",
       "source_date": "2026-08-31"
@@ -391,16 +407,16 @@
       "date": "8/31 (월)",
       "time": "03:10",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "밀워키",
       "team2": "텍사스",
       "score1": 4,
       "score2": 7,
       "prob": {
-        "home": 62.0,
-        "away": 38.0
+        "home": 75.0,
+        "away": 25.0
       },
-      "ai_summary": "밀워키 승리",
+      "ai_summary": "밀워키, 최근 2경기 모두 3점차 이상 승리로 홈 강세 뚜렷",
       "ai_picks": [
         "밀워키 승"
       ],
@@ -415,19 +431,18 @@
       "date": "8/31 (월)",
       "time": "03:15",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "세인트루이스",
       "team2": "피츠버그",
       "score1": 4,
       "score2": 5,
       "prob": {
-        "home": 35.0,
-        "away": 65.0
+        "home": 54.0,
+        "away": 46.0
       },
-      "ai_summary": "피츠버그 승, 언더 8.5",
+      "ai_summary": "세인트루이스와 피츠버그, 시즌 득실 차이 속 접전 양상 뚜렷",
       "ai_picks": [
-        "피츠버그 승",
-        "언더 8.5"
+        "세인트루이스 승"
       ],
       "aria_label": "세인트루이스 vs 피츠버그 03:15 분석 상세",
       "source_date": "2026-08-31"
@@ -440,17 +455,17 @@
       "date": "8/31 (월)",
       "time": "03:45",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "칼리아리 칼초",
       "team2": "인터밀란",
       "score1": 0,
       "score2": 1,
       "prob": {
-        "home": 12.0,
-        "draw": 18.0,
-        "away": 70.0
+        "home": 15.0,
+        "draw": 10.0,
+        "away": 75.0
       },
-      "ai_summary": "인터밀란 승",
+      "ai_summary": "인터밀란, 점유율 67.5%와 xG 2.43으로 공격력에서 확실한 우위",
       "ai_picks": [
         "인터밀란 승"
       ],
@@ -465,20 +480,19 @@
       "date": "8/31 (월)",
       "time": "03:45",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "SS 라치오",
       "team2": "제노아 CFC",
       "score1": 1,
       "score2": 0,
       "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
       },
-      "ai_summary": "홈팀(SS 라치오) 승 또는 2.5 언더",
+      "ai_summary": "라치오 최근 2경기 무실점, 제노아 득점 침묵이 이어지는 흐름",
       "ai_picks": [
-        "SS 라치오 승",
-        "언더 2.5"
+        "SS 라치오 승"
       ],
       "aria_label": "SS 라치오 vs 제노아 CFC 03:45 분석 상세",
       "source_date": "2026-08-31"
@@ -491,20 +505,19 @@
       "date": "8/31 (월)",
       "time": "03:45",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "AS 모나코 FC",
       "team2": "올림피크 마르세유",
       "score1": 2,
       "score2": 0,
       "prob": {
-        "home": 40.0,
+        "home": 48.0,
         "draw": 25.0,
-        "away": 35.0
+        "away": 27.0
       },
-      "ai_summary": "양팀 모두 득점 및 2.5 오버 (홈팀 근소 우위)",
+      "ai_summary": "모나코 최근 2경기 무실점, 수비 안정감이 승부의 변수",
       "ai_picks": [
-        "AS 모나코 FC 승",
-        "오버 2.5"
+        "AS 모나코 FC 승"
       ],
       "aria_label": "AS 모나코 FC vs 올림피크 마르세유 03:45 분석 상세",
       "source_date": "2026-08-31"
@@ -517,7 +530,7 @@
       "date": "8/31 (월)",
       "time": "04:00",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "애틀랜타",
       "team2": "미네소타",
       "score1": 89,
@@ -526,7 +539,7 @@
         "home": 35.0,
         "away": 65.0
       },
-      "ai_summary": "미네소타 승",
+      "ai_summary": "미네소타 원정 12승2패, 애틀랜타 홈 강세와 맞붙는 상위권 대결",
       "ai_picks": [
         "미네소타 승"
       ],
@@ -541,19 +554,19 @@
       "date": "8/31 (월)",
       "time": "04:30",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "셀타 비고",
       "team2": "아틀레틱 빌바오",
       "score1": 0,
       "score2": 2,
       "prob": {
-        "home": 45.0,
-        "draw": 27.0,
-        "away": 28.0
+        "home": 30.0,
+        "draw": 40.0,
+        "away": 30.0
       },
-      "ai_summary": "홈팀 셀타 비고 승",
+      "ai_summary": "양 팀 모두 득점력 저조, 결장 변수로 셀타 비고 전력 누수 우려",
       "ai_picks": [
-        "셀타 비고 승"
+        "무승부"
       ],
       "aria_label": "셀타 비고 vs 아틀레틱 빌바오 04:30 분석 상세",
       "source_date": "2026-08-31"
@@ -566,16 +579,16 @@
       "date": "8/31 (월)",
       "time": "05:05",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "애슬레틱스",
       "team2": "볼티모어",
       "score1": 5,
       "score2": 8,
       "prob": {
-        "home": 30.0,
-        "away": 70.0
+        "home": 40.0,
+        "away": 60.0
       },
-      "ai_summary": "볼티모어 승리",
+      "ai_summary": "선발 방어율 6.37 대 4.97, 마운드 열세와 뒷바람이 총득점 상승 요인",
       "ai_picks": [
         "볼티모어 승"
       ],
@@ -590,17 +603,16 @@
       "date": "8/31 (월)",
       "time": "05:07",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "LA엔젤스",
       "team2": "필라델피아",
       "score1": 2,
       "score2": 5,
       "prob": {
-        "home": 25.0,
-        "draw": 5.0,
-        "away": 70.0
+        "home": 32.0,
+        "away": 68.0
       },
-      "ai_summary": "필라델피아 승리",
+      "ai_summary": "잭 휠러 방어율 3.31·WHIP 1.09, 선발 맞대결에서 필라델피아가 앞선다",
       "ai_picks": [
         "필라델피아 승"
       ],
@@ -615,20 +627,19 @@
       "date": "8/31 (월)",
       "time": "05:30",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "콜럼버스 크루",
       "team2": "뉴잉글랜드 레볼루션",
       "score1": 1,
       "score2": 3,
       "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
       },
-      "ai_summary": "뉴잉글랜드 레볼루션 승 또는 양팀 모두 득점(BTTS) / 2.5 오버",
+      "ai_summary": "뉴잉글랜드 레볼루션 최근 3경기 xG 2.41, 공격 효율과 슈팅 수 모두 앞선다",
       "ai_picks": [
-        "뉴잉글랜드 레 승",
-        "오버 2.5"
+        "뉴잉글랜드 레볼루션 승"
       ],
       "aria_label": "콜럼버스 크루 vs 뉴잉글랜드 레볼루션 05:30 분석 상세",
       "source_date": "2026-08-31"
@@ -641,18 +652,18 @@
       "date": "8/31 (월)",
       "time": "06:00",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "시애틀",
       "team2": "LA",
       "score1": 74,
       "score2": 90,
       "prob": {
-        "home": 38.0,
-        "away": 62.0
+        "home": 53.0,
+        "away": 47.0
       },
-      "ai_summary": "LA 승",
+      "ai_summary": "시애틀 최근 6경기 1승, LA도 원정 4연패로 하락세 겹친다",
       "ai_picks": [
-        "LA 승"
+        "시애틀 승"
       ],
       "aria_label": "시애틀 vs LA 06:00 분석 상세",
       "source_date": "2026-08-31"
@@ -665,17 +676,16 @@
       "date": "8/31 (월)",
       "time": "08:00",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "포틀랜드",
       "team2": "골든스테이트",
       "score1": 69,
       "score2": 86,
       "prob": {
-        "home": 38.0,
-        "draw": 5.0,
-        "away": 57.0
+        "home": 23.0,
+        "away": 77.0
       },
-      "ai_summary": "골든스테이트 승",
+      "ai_summary": "골든스테이트 최근 3연승, 원정 실점 74.07로 수비 안정감 뚜렷",
       "ai_picks": [
         "골든스테이트 승"
       ],
@@ -690,19 +700,19 @@
       "date": "8/31 (월)",
       "time": "08:00",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "세인트루이스 시티 SC",
       "team2": "FC 댈러스",
       "score1": 3,
       "score2": 3,
       "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
+        "home": 43.0,
+        "draw": 29.0,
+        "away": 28.0
       },
-      "ai_summary": "세인트루이스 시티 SC 승",
+      "ai_summary": "세인트루이스 시티 SC, 홈 6경기 5승1무로 강한 홈세가 변수",
       "ai_picks": [
-        "세인트루이스  승"
+        "세인트루이스 시티 SC 승"
       ],
       "aria_label": "세인트루이스 시티 SC vs FC 댈러스 08:00 분석 상세",
       "source_date": "2026-08-31"
@@ -715,17 +725,16 @@
       "date": "8/31 (월)",
       "time": "08:20",
       "status": "종료",
-      "result": "미적중",
+      "result": null,
       "team1": "시카고컵스",
       "team2": "신시내티",
       "score1": 5,
       "score2": 7,
       "prob": {
         "home": 55.0,
-        "draw": 5.0,
-        "away": 40.0
+        "away": 45.0
       },
-      "ai_summary": "시카고컵스 승리, 언더 추천",
+      "ai_summary": "체이스 번스 방어율 2.79, 선발 맞대결에서 신시내티가 마운드 우위",
       "ai_picks": [
         "시카고컵스 승"
       ],
@@ -740,16 +749,16 @@
       "date": "8/31 (월)",
       "time": "09:00",
       "status": "종료",
-      "result": "적중",
+      "result": null,
       "team1": "댈러스",
       "team2": "코네티컷",
       "score1": 97,
       "score2": 71,
       "prob": {
-        "home": 78.0,
-        "away": 22.0
+        "home": 72.0,
+        "away": 28.0
       },
-      "ai_summary": "댈러스 승",
+      "ai_summary": "최근 6경기 5승과 홈 평균득점 89.71, 댈러스 흐름 우위",
       "ai_picks": [
         "댈러스 승"
       ],
