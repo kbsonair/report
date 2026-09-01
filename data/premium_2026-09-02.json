@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-02",
-  "scraped_at": "2026-09-01T17:53:10.747733+00:00",
+  "scraped_at": "2026-09-01T20:48:34.367273+00:00",
   "count": 50,
   "matches": [
-    {
-      "id": "2007208088",
-      "url": "https://bbongtv4.com/premium/soccer/2007208088",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/2 (수)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "알 힐랄",
-      "team2": "알 아흘리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "알 힐랄, 경기당 4득점의 화력과 홈 강세로 우위 뚜렷",
-      "ai_picks": [
-        "알 힐랄 승",
-        "오버 3.5"
-      ],
-      "aria_label": "알 힐랄 vs 알 아흘리 03:00 분석 상세",
-      "source_date": "2026-09-02"
-    },
     {
       "id": "16466889",
       "url": "https://bbongtv4.com/premium/soccer/16466889",
@@ -1289,6 +1263,32 @@
         "오버 2.5"
       ],
       "aria_label": "사수올로 vs 프로시노네 22:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007208088",
+      "url": "https://bbongtv4.com/premium/soccer/2007208088",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/2 (수)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 힐랄",
+      "team2": "알 아흘리",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "알 힐랄, 경기당 4득점의 화력과 홈 강세로 우위 뚜렷",
+      "ai_picks": [
+        "알 힐랄 승",
+        "오버 3.5"
+      ],
+      "aria_label": "알 힐랄 vs 알 아흘리 03:00 분석 상세",
       "source_date": "2026-09-02"
     }
   ]
