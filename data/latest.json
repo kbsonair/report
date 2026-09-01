@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-01T09:35:19.792712+00:00",
+  "scraped_at": "2026-09-01T14:17:40.906820+00:00",
   "kst_yesterday": "2026-08-31",
   "kst_today": "2026-09-01",
   "kst_tomorrow": "2026-09-02",
@@ -412,13 +412,13 @@
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 54.0,
-        "away": 46.0
+        "home": 58.0,
+        "away": 42.0
       },
-      "ai_summary": "보스턴 레드삭스, 팀 타율 .249와 홈런 138개로 시애틀보다 공격력 앞서",
+      "ai_summary": "보스턴 타선 OPS .728, 시애틀보다 장타·출루 모두 앞서 득점 기대 높다",
       "ai_picks": [
         "보스턴 레드삭스 승",
-        "오버 8.5"
+        "오버 7.5"
       ],
       "aria_label": "보스턴 레드삭스 vs 시애틀 매리너스 07:45 분석 상세",
       "source_date": "2026-09-02"
@@ -937,7 +937,8 @@
       },
       "ai_summary": "FC서울 여자 최근 맞대결 2연승, 홈에서 득점력 우위 뚜렷",
       "ai_picks": [
-        "FC서울 여자 승"
+        "FC서울 여자 승",
+        "언더 2.5"
       ],
       "aria_label": "FC서울 여자 vs 인천 현대제철 여자 19:00 분석 상세",
       "source_date": "2026-09-02"
@@ -962,7 +963,8 @@
       },
       "ai_summary": "수원FC 여자, 원정 9연승과 평균 3.11득점의 강력한 공격력",
       "ai_picks": [
-        "수원FC 여자 승"
+        "수원FC 여자 승",
+        "언더 2.5"
       ],
       "aria_label": "화천 W vs 수원FC 여자 19:00 분석 상세",
       "source_date": "2026-09-02"
@@ -987,7 +989,8 @@
       },
       "ai_summary": "경주 여자 원정 9경기 5승, 강한 원정력으로 우세한 흐름",
       "ai_picks": [
-        "경주 여자 승"
+        "경주 여자 승",
+        "오버 2.5"
       ],
       "aria_label": "세종 스포츠토토 여자 vs 경주 여자 19:00 분석 상세",
       "source_date": "2026-09-02"
@@ -2293,12 +2296,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "치바 롯데 마리너스",
       "team2": "세이부 라이온스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 36.0,
         "away": 64.0
@@ -2318,12 +2321,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "중일 드래곤즈",
       "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 5,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -2343,12 +2346,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "닛폰햄 파이터스",
       "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -2369,12 +2372,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "라쿠텐 골든 이글스",
       "team2": "오릭스 버팔로스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 1,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -2395,12 +2398,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "야쿠르트 스왈로즈",
       "team2": "한신 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 6,
       "prob": {
         "home": 20.0,
         "away": 80.0
@@ -2420,12 +2423,12 @@
       "league": "NPB",
       "date": "9/1 (화)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요미우리 자이언츠",
       "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -2445,12 +2448,12 @@
       "league": "KBO",
       "date": "9/1 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "두산 베어스",
       "team2": "LG 트윈스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -2470,12 +2473,12 @@
       "league": "KBO",
       "date": "9/1 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "키움 히어로즈",
       "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 4,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -2496,12 +2499,12 @@
       "league": "KBO",
       "date": "9/1 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "KT 위즈",
       "team2": "한화 이글스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 1,
       "prob": {
         "home": 63.0,
         "away": 37.0
@@ -2521,12 +2524,12 @@
       "league": "KBO",
       "date": "9/1 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NC 다이노스",
       "team2": "KIA 타이거즈",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 2,
       "prob": {
         "home": 47.0,
         "away": 53.0
@@ -2546,12 +2549,12 @@
       "league": "KBO",
       "date": "9/1 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "삼성 라이온즈",
       "team2": "롯데 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 67.0,
         "away": 33.0
