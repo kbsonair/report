@@ -1,113 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-01",
-  "scraped_at": "2026-09-01T04:23:21.057879+00:00",
+  "scraped_at": "2026-09-01T09:35:17.684922+00:00",
   "count": 50,
   "matches": [
-    {
-      "id": "16262830",
-      "url": "https://bbongtv4.com/premium/baseball/16262830",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/1 (화)",
-      "time": "09:40",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "원정 평균득점 7.17, 콜로라도 4연패가 만든 흐름 차이",
-      "ai_picks": [
-        "볼티모어 오리올스 승",
-        "오버 10.5",
-        "볼티모어 오리올스 -1.5 승"
-      ],
-      "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 09:40 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16262831",
-      "url": "https://bbongtv4.com/premium/baseball/16262831",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/1 (화)",
-      "time": "10:38",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 에인절스",
-      "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "홈 최근 6경기 0승6패 부진, 선발 2.94가 격차를 좁힐 변수",
-      "ai_picks": [
-        "NY 양키스 승",
-        "언더 8.5",
-        "NY 양키스 -1.5 승"
-      ],
-      "aria_label": "LA 에인절스 vs NY 양키스 10:38 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "16262832",
-      "url": "https://bbongtv4.com/premium/baseball/16262832",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/1 (화)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나 다이아몬드백스",
-      "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "에런 놀라 방어율 5.03, 양 팀 불펜 대기 13명으로 후반 득점 변수",
-      "ai_picks": [
-        "필라델피아 필리스 승",
-        "오버 8.5",
-        "애리조나 다이아몬드백스 +1.5 승"
-      ],
-      "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 10:40 분석 상세",
-      "source_date": "2026-09-01"
-    },
-    {
-      "id": "2001035603",
-      "url": "https://bbongtv4.com/premium/basket/2001035603",
-      "sport": "basket",
-      "league": "농구 월드컵 예선",
-      "date": "9/1 (화)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "멕시코",
-      "team2": "브라질",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "away": 64.0
-      },
-      "ai_summary": "브라질 4연승에 멕시코 98점 반등, 원정 우세와 화력전 구도",
-      "ai_picks": [
-        "브라질 승",
-        "오버 174.5",
-        "브라질 -4.5 승"
-      ],
-      "aria_label": "멕시코 vs 브라질 11:10 분석 상세",
-      "source_date": "2026-09-01"
-    },
     {
       "id": "2000355297",
       "url": "https://bbongtv4.com/premium/baseball/2000355297",
@@ -1288,6 +1184,110 @@
         "언더 1.5"
       ],
       "aria_label": "티그레 vs 바라카스 센트럴 09:15 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16262830",
+      "url": "https://bbongtv4.com/premium/baseball/16262830",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/1 (화)",
+      "time": "09:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "볼티모어 오리올스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "원정 평균득점 7.17, 콜로라도 4연패가 만든 흐름 차이",
+      "ai_picks": [
+        "볼티모어 오리올스 승",
+        "오버 10.5",
+        "볼티모어 오리올스 -1.5 승"
+      ],
+      "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 09:40 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16262831",
+      "url": "https://bbongtv4.com/premium/baseball/16262831",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/1 (화)",
+      "time": "10:38",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "LA 에인절스",
+      "team2": "NY 양키스",
+      "score1": 10,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "홈 최근 6경기 0승6패 부진, 선발 2.94가 격차를 좁힐 변수",
+      "ai_picks": [
+        "NY 양키스 승",
+        "언더 8.5",
+        "NY 양키스 -1.5 승"
+      ],
+      "aria_label": "LA 에인절스 vs NY 양키스 10:38 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "16262832",
+      "url": "https://bbongtv4.com/premium/baseball/16262832",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/1 (화)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "필라델피아 필리스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "에런 놀라 방어율 5.03, 양 팀 불펜 대기 13명으로 후반 득점 변수",
+      "ai_picks": [
+        "필라델피아 필리스 승",
+        "오버 8.5",
+        "애리조나 다이아몬드백스 +1.5 승"
+      ],
+      "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 10:40 분석 상세",
+      "source_date": "2026-09-01"
+    },
+    {
+      "id": "2001035603",
+      "url": "https://bbongtv4.com/premium/basket/2001035603",
+      "sport": "basket",
+      "league": "농구 월드컵 예선",
+      "date": "9/1 (화)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "멕시코",
+      "team2": "브라질",
+      "score1": 79,
+      "score2": 74,
+      "prob": {
+        "home": 36.0,
+        "away": 64.0
+      },
+      "ai_summary": "브라질 4연승에 멕시코 98점 반등, 원정 우세와 화력전 구도",
+      "ai_picks": [
+        "브라질 승",
+        "오버 174.5",
+        "브라질 -4.5 승"
+      ],
+      "aria_label": "멕시코 vs 브라질 11:10 분석 상세",
       "source_date": "2026-09-01"
     }
   ]

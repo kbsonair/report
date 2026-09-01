@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-01T04:23:23.342954+00:00",
+  "scraped_at": "2026-09-01T09:35:19.792712+00:00",
   "kst_yesterday": "2026-08-31",
   "kst_today": "2026-09-01",
   "kst_tomorrow": "2026-09-02",
@@ -8,7 +8,7 @@
     "2026-09-01",
     "2026-09-02"
   ],
-  "count": 130,
+  "count": 131,
   "matches": [
     {
       "id": "2007208088",
@@ -34,6 +34,31 @@
         "오버 3.5"
       ],
       "aria_label": "알 힐랄 vs 알 아흘리 03:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16466889",
+      "url": "https://bbongtv4.com/premium/soccer/16466889",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "HEBC 함부르크",
+      "team2": "도르트문트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 2.0,
+        "draw": 3.0,
+        "away": 95.0
+      },
+      "ai_summary": "보루시아 도르트문트 승",
+      "ai_picks": [
+        "도르트문트 승"
+      ],
+      "aria_label": "HEBC 함부르크 vs 도르트문트 03:45 분석 상세",
       "source_date": "2026-09-02"
     },
     {
@@ -542,9 +567,11 @@
         "home": 47.0,
         "away": 53.0
       },
-      "ai_summary": "양 팀 방어율 4.62 대 4.15, 시카고 화이트삭스 투수진이 근소하게 앞선다",
+      "ai_summary": "선발 방어율 7.71 대 3.32, 시카고 근소 우세와 다득점 변수",
       "ai_picks": [
-        "시카고 화이트삭스 승"
+        "시카고 화이트삭스 승",
+        "오버 8.5",
+        "휴스턴 애스트로스 +1.5 승"
       ],
       "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 09:10 분석 상세",
       "source_date": "2026-09-02"
@@ -2162,12 +2189,12 @@
       "league": "MLB",
       "date": "9/1 (화)",
       "time": "09:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도 로키스",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -2188,12 +2215,12 @@
       "league": "MLB",
       "date": "9/1 (화)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "LA 에인절스",
       "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
+      "score1": 10,
+      "score2": 1,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -2214,12 +2241,12 @@
       "league": "MLB",
       "date": "9/1 (화)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -2240,12 +2267,12 @@
       "league": "농구 월드컵 예선",
       "date": "9/1 (화)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "멕시코",
       "team2": "브라질",
-      "score1": null,
-      "score2": null,
+      "score1": 79,
+      "score2": 74,
       "prob": {
         "home": 36.0,
         "away": 64.0
