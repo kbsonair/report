@@ -1,268 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-02",
-  "scraped_at": "2026-09-01T20:48:34.367273+00:00",
+  "scraped_at": "2026-09-01T23:09:35.577861+00:00",
   "count": 50,
   "matches": [
-    {
-      "id": "16466889",
-      "url": "https://bbongtv4.com/premium/soccer/16466889",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "HEBC 함부르크",
-      "team2": "도르트문트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 2.0,
-        "draw": 3.0,
-        "away": 95.0
-      },
-      "ai_summary": "보루시아 도르트문트 승",
-      "ai_picks": [
-        "도르트문트 승"
-      ],
-      "aria_label": "HEBC 함부르크 vs 도르트문트 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207391",
-      "url": "https://bbongtv4.com/premium/soccer/2007207391",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "링컨 시티",
-      "team2": "블랙번",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 34.0,
-        "away": 34.0
-      },
-      "ai_summary": "양 팀 모두 경기당 실점 1.7, 수비 불안이 총득점 오버에 무게를 더한다",
-      "ai_picks": [
-        "오버 2.5",
-        "블랙번 +0.5 승"
-      ],
-      "aria_label": "링컨 시티 vs 블랙번 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207392",
-      "url": "https://bbongtv4.com/premium/soccer/2007207392",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "포츠머스",
-      "team2": "더비",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 30.0,
-        "away": 27.0
-      },
-      "ai_summary": "포츠머스 경기당 득점 1.7, 더비 수비 흔들려 다득점 흐름 예상",
-      "ai_picks": [
-        "오버 2.5",
-        "포츠머스 승"
-      ],
-      "aria_label": "포츠머스 vs 더비 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207393",
-      "url": "https://bbongtv4.com/premium/soccer/2007207393",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "프레스턴",
-      "team2": "브리스톨 시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 30.0,
-        "away": 42.0
-      },
-      "ai_summary": "프레스턴 3연패 부진, 브리스톨 시티 최근 2경기 무패로 분위기 앞선다",
-      "ai_picks": [
-        "브리스톨 시티 승",
-        "오버 2.5"
-      ],
-      "aria_label": "프레스턴 vs 브리스톨 시티 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207394",
-      "url": "https://bbongtv4.com/premium/soccer/2007207394",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "셰필드 유나이티드",
-      "team2": "볼턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "draw": 34.0,
-        "away": 22.0
-      },
-      "ai_summary": "셰필드 유나이티드, 최근 3경기 모두 무승부…공격 효율 저하와 홈 이점이 맞물린다",
-      "ai_picks": [
-        "셰필드 유나이티드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "셰필드 유나이티드 vs 볼턴 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207395",
-      "url": "https://bbongtv4.com/premium/soccer/2007207395",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스완지 시티",
-      "team2": "왓포드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 26.0,
-        "away": 22.0
-      },
-      "ai_summary": "스완지 시티, 홈 무실점과 점유율 60%로 경기 주도 가능성 높아",
-      "ai_picks": [
-        "스완지 시티 승",
-        "언더 2.5"
-      ],
-      "aria_label": "스완지 시티 vs 왓포드 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207969",
-      "url": "https://bbongtv4.com/premium/soccer/2007207969",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트햄",
-      "team2": "울버햄튼",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 30.0,
-        "away": 38.0
-      },
-      "ai_summary": "울버햄튼 경기당 3득점, 웨스트햄보다 공격력·득점 분포 모두 앞선다",
-      "ai_picks": [
-        "오버 2.5",
-        "울버햄튼 +0.5 승"
-      ],
-      "aria_label": "웨스트햄 vs 울버햄튼 03:45 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "16466930",
-      "url": "https://bbongtv4.com/premium/soccer/16466930",
-      "sport": "soccer",
-      "league": "ITA Cup",
-      "date": "9/2 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토리노",
-      "team2": "몬차",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "양 팀 모두 득실차 -0.33, 결장 변수로 접전 예상되나 토리노 홈 이점",
-      "ai_picks": [
-        "토리노 승",
-        "언더 2.5"
-      ],
-      "aria_label": "토리노 vs 몬차 04:00 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007207390",
-      "url": "https://bbongtv4.com/premium/soccer/2007207390",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "버밍엄",
-      "team2": "사우샘프턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "사우샘프턴 경기당 득점 3.0, 공격 효율이 승부의 변수",
-      "ai_picks": [
-        "오버 2.5",
-        "사우샘프턴 +0.5 승"
-      ],
-      "aria_label": "버밍엄 vs 사우샘프턴 04:00 분석 상세",
-      "source_date": "2026-09-02"
-    },
-    {
-      "id": "2007208713",
-      "url": "https://bbongtv4.com/premium/soccer/2007208713",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/2 (수)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "스톡 시티",
-      "team2": "노리치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 23.0,
-        "away": 54.0
-      },
-      "ai_summary": "노리치 최근 xG 1.97로 공격 효율 앞서, 스톡 시티 수비 붕괴가 변수",
-      "ai_picks": [
-        "노리치 승",
-        "오버 2.5"
-      ],
-      "aria_label": "스톡 시티 vs 노리치 04:00 분석 상세",
-      "source_date": "2026-09-02"
-    },
     {
       "id": "2000353963",
       "url": "https://bbongtv4.com/premium/baseball/2000353963",
@@ -1289,6 +1030,265 @@
         "오버 3.5"
       ],
       "aria_label": "알 힐랄 vs 알 아흘리 03:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16466889",
+      "url": "https://bbongtv4.com/premium/soccer/16466889",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "HEBC 함부르크",
+      "team2": "도르트문트",
+      "score1": 0,
+      "score2": 5,
+      "prob": {
+        "home": 2.0,
+        "draw": 3.0,
+        "away": 95.0
+      },
+      "ai_summary": "보루시아 도르트문트 승",
+      "ai_picks": [
+        "도르트문트 승"
+      ],
+      "aria_label": "HEBC 함부르크 vs 도르트문트 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207391",
+      "url": "https://bbongtv4.com/premium/soccer/2007207391",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "링컨 시티",
+      "team2": "블랙번",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 32.0,
+        "draw": 34.0,
+        "away": 34.0
+      },
+      "ai_summary": "양 팀 모두 경기당 실점 1.7, 수비 불안이 총득점 오버에 무게를 더한다",
+      "ai_picks": [
+        "오버 2.5",
+        "블랙번 +0.5 승"
+      ],
+      "aria_label": "링컨 시티 vs 블랙번 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207392",
+      "url": "https://bbongtv4.com/premium/soccer/2007207392",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "포츠머스",
+      "team2": "더비",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 43.0,
+        "draw": 30.0,
+        "away": 27.0
+      },
+      "ai_summary": "포츠머스 경기당 득점 1.7, 더비 수비 흔들려 다득점 흐름 예상",
+      "ai_picks": [
+        "오버 2.5",
+        "포츠머스 승"
+      ],
+      "aria_label": "포츠머스 vs 더비 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207393",
+      "url": "https://bbongtv4.com/premium/soccer/2007207393",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "프레스턴",
+      "team2": "브리스톨 시티",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 28.0,
+        "draw": 30.0,
+        "away": 42.0
+      },
+      "ai_summary": "프레스턴 3연패 부진, 브리스톨 시티 최근 2경기 무패로 분위기 앞선다",
+      "ai_picks": [
+        "브리스톨 시티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "프레스턴 vs 브리스톨 시티 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207394",
+      "url": "https://bbongtv4.com/premium/soccer/2007207394",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "셰필드 유나이티드",
+      "team2": "볼턴",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 44.0,
+        "draw": 34.0,
+        "away": 22.0
+      },
+      "ai_summary": "셰필드 유나이티드, 최근 3경기 모두 무승부…공격 효율 저하와 홈 이점이 맞물린다",
+      "ai_picks": [
+        "셰필드 유나이티드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "셰필드 유나이티드 vs 볼턴 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207395",
+      "url": "https://bbongtv4.com/premium/soccer/2007207395",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스완지 시티",
+      "team2": "왓포드",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 52.0,
+        "draw": 26.0,
+        "away": 22.0
+      },
+      "ai_summary": "스완지 시티, 홈 무실점과 점유율 60%로 경기 주도 가능성 높아",
+      "ai_picks": [
+        "스완지 시티 승",
+        "언더 2.5"
+      ],
+      "aria_label": "스완지 시티 vs 왓포드 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207969",
+      "url": "https://bbongtv4.com/premium/soccer/2007207969",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트햄",
+      "team2": "울버햄튼",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 32.0,
+        "draw": 30.0,
+        "away": 38.0
+      },
+      "ai_summary": "울버햄튼 경기당 3득점, 웨스트햄보다 공격력·득점 분포 모두 앞선다",
+      "ai_picks": [
+        "오버 2.5",
+        "울버햄튼 +0.5 승"
+      ],
+      "aria_label": "웨스트햄 vs 울버햄튼 03:45 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16466930",
+      "url": "https://bbongtv4.com/premium/soccer/16466930",
+      "sport": "soccer",
+      "league": "ITA Cup",
+      "date": "9/2 (수)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토리노",
+      "team2": "몬차",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "양 팀 모두 득실차 -0.33, 결장 변수로 접전 예상되나 토리노 홈 이점",
+      "ai_picks": [
+        "토리노 승",
+        "언더 2.5"
+      ],
+      "aria_label": "토리노 vs 몬차 04:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007207390",
+      "url": "https://bbongtv4.com/premium/soccer/2007207390",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "버밍엄",
+      "team2": "사우샘프턴",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "사우샘프턴 경기당 득점 3.0, 공격 효율이 승부의 변수",
+      "ai_picks": [
+        "오버 2.5",
+        "사우샘프턴 +0.5 승"
+      ],
+      "aria_label": "버밍엄 vs 사우샘프턴 04:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2007208713",
+      "url": "https://bbongtv4.com/premium/soccer/2007208713",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/2 (수)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스톡 시티",
+      "team2": "노리치",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 23.0,
+        "draw": 23.0,
+        "away": 54.0
+      },
+      "ai_summary": "노리치 최근 xG 1.97로 공격 효율 앞서, 스톡 시티 수비 붕괴가 변수",
+      "ai_picks": [
+        "노리치 승",
+        "오버 2.5"
+      ],
+      "aria_label": "스톡 시티 vs 노리치 04:00 분석 상세",
       "source_date": "2026-09-02"
     }
   ]
