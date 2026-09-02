@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-02",
   "source_date": "2026-09-02",
-  "scraped_at": "2026-09-02T15:02:48.446598+00:00",
+  "scraped_at": "2026-09-02T18:47:22.524660+00:00",
   "count": 65,
   "matches": [
-    {
-      "id": "16467565",
-      "url": "https://bbongtv4.com/premium/soccer/16467565",
-      "sport": "soccer",
-      "league": "ITA Cup",
-      "date": "9/2 (수)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사수올로",
-      "team2": "프로시노네",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "사수올로 홈 2경기 2승, 프로시노네 원정 득점력도 만만치 않다",
-      "ai_picks": [
-        "사수올로 승",
-        "오버 2.5"
-      ],
-      "aria_label": "사수올로 vs 프로시노네 22:00 분석 상세",
-      "source_date": "2026-09-02"
-    },
     {
       "id": "2007208088",
       "url": "https://bbongtv4.com/premium/soccer/2007208088",
@@ -1675,6 +1649,32 @@
         "오버 2.5"
       ],
       "aria_label": "V-바렌 나가사키 vs 감바 오사카 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467565",
+      "url": "https://bbongtv4.com/premium/soccer/16467565",
+      "sport": "soccer",
+      "league": "ITA Cup",
+      "date": "9/2 (수)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "사수올로",
+      "team2": "프로시노네",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "사수올로 홈 2경기 2승, 프로시노네 원정 득점력도 만만치 않다",
+      "ai_picks": [
+        "사수올로 승",
+        "오버 2.5"
+      ],
+      "aria_label": "사수올로 vs 프로시노네 22:00 분석 상세",
       "source_date": "2026-09-02"
     }
   ]
