@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-02",
-  "scraped_at": "2026-09-02T05:55:19.679425+00:00",
+  "scraped_at": "2026-09-02T10:57:43.121813+00:00",
   "count": 65,
   "matches": [
-    {
-      "id": "2000353969",
-      "url": "https://bbongtv4.com/premium/baseball/2000353969",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/2 (수)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "LA 다저스, 시즌 득실차 +0.33과 1위 순위로 체급 우위 뚜렷",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
-      "source_date": "2026-09-02"
-    },
     {
       "id": "2000355303",
       "url": "https://bbongtv4.com/premium/baseball/2000355303",
@@ -372,7 +347,7 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "가이나레 돗토리",
+      "team1": "가이너레 토토리",
       "team2": "오미야 아르디자",
       "score1": null,
       "score2": null,
@@ -385,7 +360,7 @@
       "ai_picks": [
         "오미야 아르디자 승"
       ],
-      "aria_label": "가이나레 돗토리 vs 오미야 아르디자 19:00 분석 상세",
+      "aria_label": "가이너레 토토리 vs 오미야 아르디자 19:00 분석 상세",
       "source_date": "2026-09-02"
     },
     {
@@ -526,7 +501,7 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "자스파구사쓰 군마",
+      "team1": "쿠사츠",
       "team2": "알비렉스 니가타",
       "score1": null,
       "score2": null,
@@ -539,7 +514,7 @@
       "ai_picks": [
         "알비렉스 니가타 승"
       ],
-      "aria_label": "자스파구사쓰 군마 vs 알비렉스 니가타 19:00 분석 상세",
+      "aria_label": "쿠사츠 vs 알비렉스 니가타 19:00 분석 상세",
       "source_date": "2026-09-02"
     },
     {
@@ -576,7 +551,7 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "FC 오사카",
+      "team1": "오사카",
       "team2": "반포레 고후",
       "score1": null,
       "score2": null,
@@ -590,7 +565,7 @@
         "언더 2.5",
         "무승부"
       ],
-      "aria_label": "FC 오사카 vs 반포레 고후 19:00 분석 상세",
+      "aria_label": "오사카 vs 반포레 고후 19:00 분석 상세",
       "source_date": "2026-09-02"
     },
     {
@@ -1675,6 +1650,31 @@
         "언더 7.5"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 10:40 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "2000353969",
+      "url": "https://bbongtv4.com/premium/baseball/2000353969",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/2 (수)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "세인트루이스 카디널스",
+      "score1": 8,
+      "score2": 13,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "LA 다저스, 시즌 득실차 +0.33과 1위 순위로 체급 우위 뚜렷",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
       "source_date": "2026-09-02"
     }
   ]
