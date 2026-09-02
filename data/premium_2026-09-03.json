@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-02T18:47:21.318262+00:00",
+  "scraped_at": "2026-09-02T21:38:39.404585+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "2000353978",
-      "url": "https://bbongtv4.com/premium/baseball/2000353978",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "01:40",
-      "status": "예정",
-      "result": null,
-      "team1": "신시내티 레즈",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "선발 방어율 5.14 대 3.45, 원정 하락세와 마운드 우위 충돌",
-      "ai_picks": [
-        "샌디에이고 파드레스 승",
-        "오버 9.5",
-        "신시내티 레즈 +1.5 승"
-      ],
-      "aria_label": "신시내티 레즈 vs 샌디에이고 파드레스 01:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353989",
-      "url": "https://bbongtv4.com/premium/baseball/2000353989",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "02:05",
-      "status": "예정",
-      "result": null,
-      "team1": "워싱턴 내셔널스",
-      "team2": "애틀란타 브레이브스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "팀 방어율 3.55 대 4.67, 애틀란타 마운드 우위가 승부 축",
-      "ai_picks": [
-        "애틀란타 브레이브스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "워싱턴 내셔널스 vs 애틀란타 브레이브스 02:05 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007203742",
-      "url": "https://bbongtv4.com/premium/soccer/2007203742",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/3 (목)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트 트루이던",
-      "team2": "로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "득8 실1 로얄 유니온, 무패 홈팀 상대로 수비 우위 선명",
-      "ai_picks": [
-        "로얄 유니온 SG 승",
-        "오버 2.5"
-      ],
-      "aria_label": "세인트 트루이던 vs 로얄 유니온 SG 03:30 분석 상세",
-      "source_date": "2026-09-03"
-    },
     {
       "id": "2000353988",
       "url": "https://bbongtv4.com/premium/baseball/2000353988",
@@ -104,269 +27,6 @@
         "오버 7.5"
       ],
       "aria_label": "텍사스 레인저스 vs 오클랜드 03:35 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "16467786",
-      "url": "https://bbongtv4.com/premium/soccer/16467786",
-      "sport": "soccer",
-      "league": "GERC",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "VfL 오스나브뤼크",
-      "team2": "바이에른",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 5.0,
-        "away": 90.0
-      },
-      "ai_summary": "원정팀 FC 바이에른 뮌헨 승",
-      "ai_picks": [
-        "바이에른 승"
-      ],
-      "aria_label": "VfL 오스나브뤼크 vs 바이에른 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007196996",
-      "url": "https://bbongtv4.com/premium/soccer/2007196996",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "셀틱",
-      "team2": "애버딘",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 14.0,
-        "away": 8.0
-      },
-      "ai_summary": "셀틱, 시즌 평균 득점 2.7과 홈 강세로 대량 득점 기대 높아진다",
-      "ai_picks": [
-        "셀틱 승",
-        "오버 3.5",
-        "셀틱 -1.5 승"
-      ],
-      "aria_label": "셀틱 vs 애버딘 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007197679",
-      "url": "https://bbongtv4.com/premium/soccer/2007197679",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "던디 FC",
-      "team2": "세인트 존스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈 실점 1, 원정 실점 1.5로 갈리는 던디의 근소 우위",
-      "ai_picks": [
-        "던디 FC 승",
-        "오버 2.5",
-        "던디 FC -0.5 승"
-      ],
-      "aria_label": "던디 FC vs 세인트 존스턴 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007200193",
-      "url": "https://bbongtv4.com/premium/soccer/2007200193",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "킬마녹",
-      "team2": "세인트 미렌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "킬마넉 홈 2경기 평균 실점 4.5, 수비 붕괴가 승부 변수로 작용",
-      "ai_picks": [
-        "세인트 미렌 승",
-        "오버 2.5"
-      ],
-      "aria_label": "킬마녹 vs 세인트 미렌 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007200194",
-      "url": "https://bbongtv4.com/premium/soccer/2007200194",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "머더웰",
-      "team2": "던디 유나이티드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 28.0,
-        "away": 24.0
-      },
-      "ai_summary": "머더웰, 최근 3경기 무패와 홈 강세로 우위…양 팀 득점력도 주목",
-      "ai_picks": [
-        "머더웰 승",
-        "오버 2.5",
-        "던디 유나이티드 +0.5 승"
-      ],
-      "aria_label": "머더웰 vs 던디 유나이티드 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007209955",
-      "url": "https://bbongtv4.com/premium/soccer/2007209955",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "밀월",
-      "team2": "렉섬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 25.0,
-        "away": 21.0
-      },
-      "ai_summary": "밀월, 최근 2승 흐름과 높은 xG로 공격 우위 뚜렷",
-      "ai_picks": [
-        "밀월 승",
-        "오버 2.5",
-        "렉섬 +0.5 승"
-      ],
-      "aria_label": "밀월 vs 렉섬 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007209956",
-      "url": "https://bbongtv4.com/premium/soccer/2007209956",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "퀸즈 파크 레인저스",
-      "team2": "카디프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 26.0,
-        "away": 22.0
-      },
-      "ai_summary": "퀸즈 파크 레인저스, 최근 3경기 5득점·2실점으로 수비 안정감 우위",
-      "ai_picks": [
-        "퀸즈 파크 레인저스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "퀸즈 파크 레인저스 vs 카디프 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007209957",
-      "url": "https://bbongtv4.com/premium/soccer/2007209957",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/3 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트 브로미치 알비온",
-      "team2": "찰턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "찰턴 3연승·실점 0.7, 웨스트 브로미치 알비온 홈 득점력과 맞붙는다",
-      "ai_picks": [
-        "웨스트 브로미치 알비온 승",
-        "오버 2.5"
-      ],
-      "aria_label": "웨스트 브로미치 알비온 vs 찰턴 03:45 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007201140",
-      "url": "https://bbongtv4.com/premium/soccer/2007201140",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/3 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "팔커크",
-      "team2": "레인저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "레인저스, 원정 경기당 슈팅 21.3개와 점유율 62.3%로 공격 주도",
-      "ai_picks": [
-        "레인저스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "팔커크 vs 레인저스 04:00 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2007209958",
-      "url": "https://bbongtv4.com/premium/soccer/2007209958",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/3 (목)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "번리",
-      "team2": "미들즈브러",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "미들즈브러 최근 3경기 xG 2.04, 공격 효율과 득점 분포가 강점",
-      "ai_picks": [
-        "미들즈브러 승",
-        "오버 2.5"
-      ],
-      "aria_label": "번리 vs 미들즈브러 04:00 분석 상세",
       "source_date": "2026-09-03"
     },
     {
@@ -930,6 +590,346 @@
         "삼성 라이온즈 -1.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 롯데 자이언츠 18:30 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353978",
+      "url": "https://bbongtv4.com/premium/baseball/2000353978",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "01:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "신시내티 레즈",
+      "team2": "샌디에이고 파드레스",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "선발 방어율 5.14 대 3.45, 원정 하락세와 마운드 우위 충돌",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "오버 9.5",
+        "신시내티 레즈 +1.5 승"
+      ],
+      "aria_label": "신시내티 레즈 vs 샌디에이고 파드레스 01:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353989",
+      "url": "https://bbongtv4.com/premium/baseball/2000353989",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "02:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "워싱턴 내셔널스",
+      "team2": "애틀란타 브레이브스",
+      "score1": 9,
+      "score2": 5,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "팀 방어율 3.55 대 4.67, 애틀란타 마운드 우위가 승부 축",
+      "ai_picks": [
+        "애틀란타 브레이브스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "워싱턴 내셔널스 vs 애틀란타 브레이브스 02:05 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007203742",
+      "url": "https://bbongtv4.com/premium/soccer/2007203742",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/3 (목)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세인트 트루이던",
+      "team2": "로",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "득8 실1 로얄 유니온, 무패 홈팀 상대로 수비 우위 선명",
+      "ai_picks": [
+        "로얄 유니온 SG 승",
+        "오버 2.5"
+      ],
+      "aria_label": "세인트 트루이던 vs 로얄 유니온 SG 03:30 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16467786",
+      "url": "https://bbongtv4.com/premium/soccer/16467786",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "VfL 오스나브뤼크",
+      "team2": "바이에른",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "원정팀 FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "바이에른 승"
+      ],
+      "aria_label": "VfL 오스나브뤼크 vs 바이에른 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007196996",
+      "url": "https://bbongtv4.com/premium/soccer/2007196996",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "셀틱",
+      "team2": "애버딘",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 78.0,
+        "draw": 14.0,
+        "away": 8.0
+      },
+      "ai_summary": "셀틱, 시즌 평균 득점 2.7과 홈 강세로 대량 득점 기대 높아진다",
+      "ai_picks": [
+        "셀틱 승",
+        "오버 3.5",
+        "셀틱 -1.5 승"
+      ],
+      "aria_label": "셀틱 vs 애버딘 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007197679",
+      "url": "https://bbongtv4.com/premium/soccer/2007197679",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "던디 FC",
+      "team2": "세인트 존스턴",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈 실점 1, 원정 실점 1.5로 갈리는 던디의 근소 우위",
+      "ai_picks": [
+        "던디 FC 승",
+        "오버 2.5",
+        "던디 FC -0.5 승"
+      ],
+      "aria_label": "던디 FC vs 세인트 존스턴 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007200193",
+      "url": "https://bbongtv4.com/premium/soccer/2007200193",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "킬마녹",
+      "team2": "세인트 미렌",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "킬마넉 홈 2경기 평균 실점 4.5, 수비 붕괴가 승부 변수로 작용",
+      "ai_picks": [
+        "세인트 미렌 승",
+        "오버 2.5"
+      ],
+      "aria_label": "킬마녹 vs 세인트 미렌 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007200194",
+      "url": "https://bbongtv4.com/premium/soccer/2007200194",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "머더웰",
+      "team2": "던디 유나이티드",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 28.0,
+        "away": 24.0
+      },
+      "ai_summary": "머더웰, 최근 3경기 무패와 홈 강세로 우위…양 팀 득점력도 주목",
+      "ai_picks": [
+        "머더웰 승",
+        "오버 2.5",
+        "던디 유나이티드 +0.5 승"
+      ],
+      "aria_label": "머더웰 vs 던디 유나이티드 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007209955",
+      "url": "https://bbongtv4.com/premium/soccer/2007209955",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀월",
+      "team2": "렉섬",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 54.0,
+        "draw": 25.0,
+        "away": 21.0
+      },
+      "ai_summary": "밀월, 최근 2승 흐름과 높은 xG로 공격 우위 뚜렷",
+      "ai_picks": [
+        "밀월 승",
+        "오버 2.5",
+        "렉섬 +0.5 승"
+      ],
+      "aria_label": "밀월 vs 렉섬 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007209956",
+      "url": "https://bbongtv4.com/premium/soccer/2007209956",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "퀸즈 파크 레인저스",
+      "team2": "카디프",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "draw": 26.0,
+        "away": 22.0
+      },
+      "ai_summary": "퀸즈 파크 레인저스, 최근 3경기 5득점·2실점으로 수비 안정감 우위",
+      "ai_picks": [
+        "퀸즈 파크 레인저스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "퀸즈 파크 레인저스 vs 카디프 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007209957",
+      "url": "https://bbongtv4.com/premium/soccer/2007209957",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "웨스트 브로미치 알비온",
+      "team2": "찰턴",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "찰턴 3연승·실점 0.7, 웨스트 브로미치 알비온 홈 득점력과 맞붙는다",
+      "ai_picks": [
+        "웨스트 브로미치 알비온 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트 브로미치 알비온 vs 찰턴 03:45 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007201140",
+      "url": "https://bbongtv4.com/premium/soccer/2007201140",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/3 (목)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "팔커크",
+      "team2": "레인저스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "레인저스, 원정 경기당 슈팅 21.3개와 점유율 62.3%로 공격 주도",
+      "ai_picks": [
+        "레인저스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "팔커크 vs 레인저스 04:00 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2007209958",
+      "url": "https://bbongtv4.com/premium/soccer/2007209958",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/3 (목)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "번리",
+      "team2": "미들즈브러",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "미들즈브러 최근 3경기 xG 2.04, 공격 효율과 득점 분포가 강점",
+      "ai_picks": [
+        "미들즈브러 승",
+        "오버 2.5"
+      ],
+      "aria_label": "번리 vs 미들즈브러 04:00 분석 상세",
       "source_date": "2026-09-03"
     }
   ]

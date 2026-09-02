@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-02T18:47:23.628006+00:00",
+  "scraped_at": "2026-09-02T21:38:41.554929+00:00",
   "kst_yesterday": "2026-09-02",
   "kst_today": "2026-09-03",
   "kst_tomorrow": "2026-09-04",
@@ -82,7 +82,8 @@
       },
       "ai_summary": "피츠버그 파이어리츠, 최근 6경기 평균 실점 2.5로 안정된 마운드",
       "ai_picks": [
-        "피츠버그 파이어리츠 승"
+        "피츠버그 파이어리츠 승",
+        "오버 8.5"
       ],
       "aria_label": "피츠버그 파이어리츠 vs SF 자이언츠 01:35 분석 상세",
       "source_date": "2026-09-04"
@@ -106,7 +107,8 @@
       },
       "ai_summary": "클리블랜드 최근 홈 3경기 평균득점 4.67, 타선 반등이 변수",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "언더 7.5"
       ],
       "aria_label": "클리블랜드 가디언스 vs 토론토 블루제이스 02:10 분석 상세",
       "source_date": "2026-09-04"
@@ -156,7 +158,8 @@
       },
       "ai_summary": "선발 방어율 3.33 대 5.31, 휴스턴 최근 맞대결도 앞선다",
       "ai_picks": [
-        "휴스턴 애스트로스 승"
+        "휴스턴 애스트로스 승",
+        "언더 8.5"
       ],
       "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 03:10 분석 상세",
       "source_date": "2026-09-04"
@@ -311,7 +314,8 @@
       },
       "ai_summary": "볼티모어 최근 6경기 평균득점 6.43, 원정 보스턴은 2.33에 그쳐",
       "ai_picks": [
-        "볼티모어 오리올스 승"
+        "볼티모어 오리올스 승",
+        "오버 8.5"
       ],
       "aria_label": "볼티모어 오리올스 vs 보스턴 레드삭스 08:15 분석 상세",
       "source_date": "2026-09-04"
@@ -335,7 +339,9 @@
       },
       "ai_summary": "로건 헨더슨 방어율 2.48, 선발 맞대결에서 밀워키 브루어스가 앞선다",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 8.5",
+        "시카고 컵스 +1.5 승"
       ],
       "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:15 분석 상세",
       "source_date": "2026-09-04"
@@ -359,7 +365,8 @@
       },
       "ai_summary": "마이애미 말린스, 투수진 우위와 시즌 득실차로 접전 우세 가능성",
       "ai_picks": [
-        "마이애미 말린스 승"
+        "마이애미 말린스 승",
+        "언더 9.5"
       ],
       "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
       "source_date": "2026-09-04"
@@ -383,7 +390,8 @@
       },
       "ai_summary": "탬파베이 레이스, 시즌 득실차 +1.37로 텍사스보다 안정적 우위",
       "ai_picks": [
-        "탬파베이 레이스 승"
+        "탬파베이 레이스 승",
+        "오버 7.5"
       ],
       "aria_label": "텍사스 레인저스 vs 탬파베이 레이스 09:05 분석 상세",
       "source_date": "2026-09-04"
@@ -736,12 +744,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "01:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "신시내티 레즈",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -762,12 +770,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "02:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워싱턴 내셔널스",
       "team2": "애틀란타 브레이브스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 5,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -787,12 +795,12 @@
       "league": "BEL D1",
       "date": "9/3 (목)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트 트루이던",
       "team2": "로",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 25.0,
         "draw": 30.0,
@@ -838,12 +846,12 @@
       "league": "GERC",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "VfL 오스나브뤼크",
       "team2": "바이에른",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 5.0,
         "draw": 5.0,
@@ -863,12 +871,12 @@
       "league": "SCO PR",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "셀틱",
       "team2": "애버딘",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 78.0,
         "draw": 14.0,
@@ -890,12 +898,12 @@
       "league": "SCO PR",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "던디 FC",
       "team2": "세인트 존스턴",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 42.0,
         "draw": 30.0,
@@ -917,12 +925,12 @@
       "league": "SCO PR",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "킬마녹",
       "team2": "세인트 미렌",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 25.0,
         "draw": 20.0,
@@ -943,12 +951,12 @@
       "league": "SCO PR",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "머더웰",
       "team2": "던디 유나이티드",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 48.0,
         "draw": 28.0,
@@ -970,12 +978,12 @@
       "league": "ENG LCH",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "밀월",
       "team2": "렉섬",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 54.0,
         "draw": 25.0,
@@ -997,12 +1005,12 @@
       "league": "ENG LCH",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "퀸즈 파크 레인저스",
       "team2": "카디프",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 52.0,
         "draw": 26.0,
@@ -1023,12 +1031,12 @@
       "league": "ENG LCH",
       "date": "9/3 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "웨스트 브로미치 알비온",
       "team2": "찰턴",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 45.0,
         "draw": 30.0,
@@ -1049,12 +1057,12 @@
       "league": "SCO PR",
       "date": "9/3 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "팔커크",
       "team2": "레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 15.0,
         "draw": 20.0,
@@ -1075,12 +1083,12 @@
       "league": "ENG LCH",
       "date": "9/3 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "번리",
       "team2": "미들즈브러",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
