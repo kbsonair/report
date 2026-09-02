@@ -1,8 +1,8 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-03",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-02T10:57:45.606807+00:00",
-  "count": 34,
+  "scraped_at": "2026-09-02T15:02:47.190358+00:00",
+  "count": 36,
   "matches": [
     {
       "id": "2000353978",
@@ -649,6 +649,31 @@
       "source_date": "2026-09-03"
     },
     {
+      "id": "16475668",
+      "url": "https://bbongtv4.com/premium/soccer/16475668",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "9/3 (목)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르티보 톨루카(N)",
+      "team2": "클루브 레온",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "데포르티보 톨루카 승",
+      "ai_picks": [
+        "데포르티보 톨루카(N) 승"
+      ],
+      "aria_label": "데포르티보 톨루카(N) vs 클루브 레온 10:00 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
       "id": "2000353983",
       "url": "https://bbongtv4.com/premium/baseball/2000353983",
       "sport": "baseball",
@@ -698,6 +723,33 @@
         "세인트루이스 카디널스 +1.5 승"
       ],
       "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16475669",
+      "url": "https://bbongtv4.com/premium/soccer/16475669",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "9/3 (목)",
+      "time": "12:30",
+      "status": "예정",
+      "result": null,
+      "team1": "클럽 아메리카",
+      "team2": "몬테레이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 44.0,
+        "draw": 27.0,
+        "away": 29.0
+      },
+      "ai_summary": "홈 평균득점 2.25와 최근 4경기 무패, 주도권은 클럽 아메리카",
+      "ai_picks": [
+        "클럽 아메리카 승",
+        "오버 2.5",
+        "클럽 아메리카 -0.5 승"
+      ],
+      "aria_label": "클럽 아메리카 vs 몬테레이 12:30 분석 상세",
       "source_date": "2026-09-03"
     },
     {
