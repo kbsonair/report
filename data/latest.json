@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-02T01:05:31.630437+00:00",
+  "scraped_at": "2026-09-02T05:55:22.135922+00:00",
   "kst_yesterday": "2026-09-01",
   "kst_today": "2026-09-02",
   "kst_tomorrow": "2026-09-03",
@@ -8,7 +8,7 @@
     "2026-09-02",
     "2026-09-03"
   ],
-  "count": 133,
+  "count": 149,
   "matches": [
     {
       "id": "2000353978",
@@ -110,6 +110,31 @@
         "오버 7.5"
       ],
       "aria_label": "텍사스 레인저스 vs 오클랜드 03:35 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16467786",
+      "url": "https://bbongtv4.com/premium/soccer/16467786",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "VfL 오스나브뤼크",
+      "team2": "바이에른",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "원정팀 FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "바이에른 승"
+      ],
+      "aria_label": "VfL 오스나브뤼크 vs 바이에른 03:45 분석 상세",
       "source_date": "2026-09-03"
     },
     {
@@ -672,7 +697,9 @@
       },
       "ai_summary": "LA 다저스, 시즌 전체 득실차 +0.33으로 체급 우위 뚜렷",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
       ],
       "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
       "source_date": "2026-09-03"
@@ -1137,12 +1164,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "신시내티 레즈",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -1163,12 +1190,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "클리블랜드 가디언스",
       "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "away": 35.0
@@ -1189,12 +1216,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "피츠버그 파이어리츠",
       "team2": "SF 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 13,
+      "score2": 12,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1215,12 +1242,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "탬파베이 레이스",
       "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 2,
       "prob": {
         "home": 63.0,
         "away": 37.0
@@ -1240,12 +1267,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴 레드삭스",
       "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 9,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1265,12 +1292,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "07:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워싱턴 내셔널스",
       "team2": "애틀란타 브레이브스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 5,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -1291,12 +1318,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 컵스",
       "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 9,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1317,12 +1344,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "캔자스시티 로열스",
       "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 6,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1342,12 +1369,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "미네소타 트윈스",
       "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 15,
+      "score2": 2,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -1367,12 +1394,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "09:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스 레인저스",
       "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 5,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1392,12 +1419,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "휴스턴 애스트로스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 5,
       "prob": {
         "home": 47.0,
         "away": 53.0
@@ -1418,12 +1445,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "09:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "콜로라도 로키스",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -1444,12 +1471,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "LA 에인절스",
       "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
+      "score1": 10,
+      "score2": 1,
       "prob": {
         "home": 25.0,
         "away": 75.0
@@ -1469,12 +1496,12 @@
       "league": "MLB",
       "date": "9/2 (수)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -1765,6 +1792,392 @@
         "언더 10.5"
       ],
       "aria_label": "삼성 라이온즈 vs 롯데 자이언츠 18:30 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467524",
+      "url": "https://bbongtv4.com/premium/soccer/16467524",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SC 사가미하라",
+      "team2": "주빌로 이와타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "주빌로 이와타 승 또는 무승부 (언더 2.5 추천)",
+      "ai_picks": [
+        "주빌로 이와타 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "SC 사가미하라 vs 주빌로 이와타 18:30 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467525",
+      "url": "https://bbongtv4.com/premium/soccer/16467525",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "반라우레 하치노헤",
+      "team2": "도치기 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "도치기 시티 FC 승리 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "도치기 시티 FC 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 하치노헤 vs 도치기 시티 FC 18:30 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467536",
+      "url": "https://bbongtv4.com/premium/soccer/16467536",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "에히메",
+      "team2": "블라우블리츠 아키타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 28.0,
+        "away": 30.0
+      },
+      "ai_summary": "에히메 FC 승 또는 언더 2.5",
+      "ai_picks": [
+        "에히메 승",
+        "언더 2.5"
+      ],
+      "aria_label": "에히메 vs 블라우블리츠 아키타 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467537",
+      "url": "https://bbongtv4.com/premium/soccer/16467537",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "가이나레 돗토리",
+      "team2": "오미야 아르디자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "RB 오미야 아르디자 승리",
+      "ai_picks": [
+        "오미야 아르디자 승"
+      ],
+      "aria_label": "가이나레 돗토리 vs 오미야 아르디자 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467538",
+      "url": "https://bbongtv4.com/premium/soccer/16467538",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "기후",
+      "team2": "도쿠시마 보르티스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 25.0,
+        "away": 40.0
+      },
+      "ai_summary": "도쿠시마 보르티스 승 또는 언더 2.5골",
+      "ai_picks": [
+        "도쿠시마 보르티스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "기후 vs 도쿠시마 보르티스 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467539",
+      "url": "https://bbongtv4.com/premium/soccer/16467539",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "기라반츠 기타큐슈",
+      "team2": "이와키 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 28.0,
+        "away": 50.0
+      },
+      "ai_summary": "이와키 FC 승 (로우스코어 원정 승리)",
+      "ai_picks": [
+        "이와키 FC 승"
+      ],
+      "aria_label": "기라반츠 기타큐슈 vs 이와키 FC 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467540",
+      "url": "https://bbongtv4.com/premium/soccer/16467540",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "가고시마 유나이티드 FC",
+      "team2": "콘사도레 삿포로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 24.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 가고시마 유나이티드 FC 승리",
+      "ai_picks": [
+        "가고시마 유나이티드 FC 승"
+      ],
+      "aria_label": "가고시마 유나이티드 FC vs 콘사도레 삿포로 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467541",
+      "url": "https://bbongtv4.com/premium/soccer/16467541",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "츠바이겐 가나자와",
+      "team2": "FC 이마바리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 30.0,
+        "away": 42.0
+      },
+      "ai_summary": "오버 2.5골 / 승패 예측 시 FC 이마바리 근소 우세이나 무승부 가능성도 높음",
+      "ai_picks": [
+        "오버 2.5",
+        "FC 이마바리 승",
+        "무승부"
+      ],
+      "aria_label": "츠바이겐 가나자와 vs FC 이마바리 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467542",
+      "url": "https://bbongtv4.com/premium/soccer/16467542",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "로아소 구마모토",
+      "team2": "오이타 트리니타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 27.0,
+        "away": 45.0
+      },
+      "ai_summary": "오이타 트리니타 승 및 언더 2.5",
+      "ai_picks": [
+        "오이타 트리니타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "로아소 구마모토 vs 오이타 트리니타 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467543",
+      "url": "https://bbongtv4.com/premium/soccer/16467543",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "자스파구사쓰 군마",
+      "team2": "알비렉스 니가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "알비렉스 니가타 승",
+      "ai_picks": [
+        "알비렉스 니가타 승"
+      ],
+      "aria_label": "자스파구사쓰 군마 vs 알비렉스 니가타 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467544",
+      "url": "https://bbongtv4.com/premium/soccer/16467544",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "나라 클럽",
+      "team2": "사간 도스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "사간 도스 승리",
+      "ai_picks": [
+        "사간 도스 승"
+      ],
+      "aria_label": "나라 클럽 vs 사간 도스 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467545",
+      "url": "https://bbongtv4.com/premium/soccer/16467545",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 오사카",
+      "team2": "반포레 고후",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5골 (무승부 또는 1골 차 승부)",
+      "ai_picks": [
+        "언더 2.5",
+        "무승부"
+      ],
+      "aria_label": "FC 오사카 vs 반포레 고후 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467546",
+      "url": "https://bbongtv4.com/premium/soccer/16467546",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레노파 야마구치 FC",
+      "team2": "후지에다 MYFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "후지에다 MYFC 승 및 오버 2.5 추천",
+      "ai_picks": [
+        "후지에다 MYFC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레노파 야마구치 FC vs 후지에다 MYFC 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467547",
+      "url": "https://bbongtv4.com/premium/soccer/16467547",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 류큐",
+      "team2": "요코하마 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "요코하마 FC 승",
+      "ai_picks": [
+        "요코하마 FC 승"
+      ],
+      "aria_label": "FC 류큐 vs 요코하마 FC 19:00 분석 상세",
+      "source_date": "2026-09-02"
+    },
+    {
+      "id": "16467548",
+      "url": "https://bbongtv4.com/premium/soccer/16467548",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/2 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "테게바자로 미야자키",
+      "team2": "카탈레 도야마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "카탈레 도야마 승 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "카탈레 도야마 승",
+        "언더 2.5"
+      ],
+      "aria_label": "테게바자로 미야자키 vs 카탈레 도야마 19:00 분석 상세",
       "source_date": "2026-09-02"
     },
     {

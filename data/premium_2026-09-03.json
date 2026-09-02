@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-03",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-02T01:05:31.547727+00:00",
-  "count": 33,
+  "scraped_at": "2026-09-02T05:55:22.054038+00:00",
+  "count": 34,
   "matches": [
     {
       "id": "2000353978",
@@ -104,6 +104,31 @@
         "오버 7.5"
       ],
       "aria_label": "텍사스 레인저스 vs 오클랜드 03:35 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16467786",
+      "url": "https://bbongtv4.com/premium/soccer/16467786",
+      "sport": "soccer",
+      "league": "GERC",
+      "date": "9/3 (목)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "VfL 오스나브뤼크",
+      "team2": "바이에른",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "원정팀 FC 바이에른 뮌헨 승",
+      "ai_picks": [
+        "바이에른 승"
+      ],
+      "aria_label": "VfL 오스나브뤼크 vs 바이에른 03:45 분석 상세",
       "source_date": "2026-09-03"
     },
     {
@@ -666,7 +691,9 @@
       },
       "ai_summary": "LA 다저스, 시즌 전체 득실차 +0.33으로 체급 우위 뚜렷",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
       ],
       "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
       "source_date": "2026-09-03"
