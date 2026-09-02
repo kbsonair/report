@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-02T21:38:41.554929+00:00",
+  "scraped_at": "2026-09-02T23:33:19.183947+00:00",
   "kst_yesterday": "2026-09-02",
   "kst_today": "2026-09-03",
   "kst_tomorrow": "2026-09-04",
@@ -1109,12 +1109,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "04:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도 로키스",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 32.0,
         "away": 68.0

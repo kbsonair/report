@@ -1,60 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-02T21:38:39.404585+00:00",
+  "scraped_at": "2026-09-02T23:33:16.571783+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "2000353988",
-      "url": "https://bbongtv4.com/premium/baseball/2000353988",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "03:35",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스 레인저스",
-      "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "텍사스 레인저스, 선발 방어율과 홈런 생산력에서 오클랜드에 앞선다",
-      "ai_picks": [
-        "텍사스 레인저스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "텍사스 레인저스 vs 오클랜드 03:35 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353980",
-      "url": "https://bbongtv4.com/premium/baseball/2000353980",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "away": 68.0
-      },
-      "ai_summary": "볼티모어 오리올스, 원정 5승1패와 득점력으로 분위기 우위",
-      "ai_picks": [
-        "볼티모어 오리올스 승",
-        "언더 11",
-        "콜로라도 로키스 +1.5 승"
-      ],
-      "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 04:10 분석 상세",
-      "source_date": "2026-09-03"
-    },
     {
       "id": "2000353975",
       "url": "https://bbongtv4.com/premium/baseball/2000353975",
@@ -670,6 +619,31 @@
       "source_date": "2026-09-03"
     },
     {
+      "id": "2000353988",
+      "url": "https://bbongtv4.com/premium/baseball/2000353988",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "03:35",
+      "status": "예정",
+      "result": null,
+      "team1": "텍사스 레인저스",
+      "team2": "오클랜드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "텍사스 레인저스, 선발 방어율과 홈런 생산력에서 오클랜드에 앞선다",
+      "ai_picks": [
+        "텍사스 레인저스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "텍사스 레인저스 vs 오클랜드 03:35 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
       "id": "16467786",
       "url": "https://bbongtv4.com/premium/soccer/16467786",
       "sport": "soccer",
@@ -930,6 +904,32 @@
         "오버 2.5"
       ],
       "aria_label": "번리 vs 미들즈브러 04:00 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353980",
+      "url": "https://bbongtv4.com/premium/baseball/2000353980",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "볼티모어 오리올스",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 32.0,
+        "away": 68.0
+      },
+      "ai_summary": "볼티모어 오리올스, 원정 5승1패와 득점력으로 분위기 우위",
+      "ai_picks": [
+        "볼티모어 오리올스 승",
+        "언더 11",
+        "콜로라도 로키스 +1.5 승"
+      ],
+      "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 04:10 분석 상세",
       "source_date": "2026-09-03"
     }
   ]
