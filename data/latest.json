@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-02T23:33:19.183947+00:00",
+  "scraped_at": "2026-09-03T01:25:55.751351+00:00",
   "kst_yesterday": "2026-09-02",
   "kst_today": "2026-09-03",
   "kst_tomorrow": "2026-09-04",
@@ -415,7 +415,9 @@
       },
       "ai_summary": "시애틀 매리너스, 홈 평균실점 3점으로 오클랜드보다 마운드 안정감 우위",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "오버 7.5",
+        "시애틀 매리너스 -1.5 승"
       ],
       "aria_label": "시애틀 매리너스 vs 오클랜드 10:40 분석 상세",
       "source_date": "2026-09-04"
@@ -439,7 +441,9 @@
       },
       "ai_summary": "LA 다저스, 시즌 득실차 +0.33으로 세인트루이스보다 안정감 앞선다",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
       ],
       "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
       "source_date": "2026-09-04"
@@ -821,12 +825,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "03:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스 레인저스",
       "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 9,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -1135,12 +1139,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "04:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -1161,12 +1165,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴 레드삭스",
       "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 8,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -1186,12 +1190,12 @@
       "league": "BRA D1",
       "date": "9/3 (목)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "플라멩고 RJ",
       "team2": "미라솔",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 75.0,
         "draw": 17.0,

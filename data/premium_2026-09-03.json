@@ -1,87 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-02T23:33:16.571783+00:00",
+  "scraped_at": "2026-09-03T01:25:53.414901+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "2000353975",
-      "url": "https://bbongtv4.com/premium/baseball/2000353975",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "04:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나 다이아몬드백스",
-      "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "필라델피아 필리스, 최근 4연승과 선발 맞대결에서 우위",
-      "ai_picks": [
-        "필라델피아 필리스 승",
-        "애리조나 다이아몬드백스 +1.5 승",
-        "언더 9.5"
-      ],
-      "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 04:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353976",
-      "url": "https://bbongtv4.com/premium/baseball/2000353976",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "보스턴 레드삭스",
-      "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 57.0,
-        "away": 43.0
-      },
-      "ai_summary": "보스턴 최근 3연패·평균 실점 5.83, 시애틀 원정 3연패로 투수전보단 불안한 흐름",
-      "ai_picks": [
-        "보스턴 레드삭스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "보스턴 레드삭스 vs 시애틀 매리너스 05:10 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2006658948",
-      "url": "https://bbongtv4.com/premium/soccer/2006658948",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/3 (목)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "플라멩고 RJ",
-      "team2": "미라솔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 17.0,
-        "away": 8.0
-      },
-      "ai_summary": "플라멩고 RJ, 최근 6경기 4승과 홈 평균 실점 0.8로 압도적 우위",
-      "ai_picks": [
-        "플라멩고 RJ 승",
-        "오버 2.5",
-        "플라멩고 RJ -1.5 승"
-      ],
-      "aria_label": "플라멩고 RJ vs 미라솔 07:30 분석 상세",
-      "source_date": "2026-09-03"
-    },
     {
       "id": "2000353979",
       "url": "https://bbongtv4.com/premium/baseball/2000353979",
@@ -625,12 +547,12 @@
       "league": "MLB",
       "date": "9/3 (목)",
       "time": "03:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스 레인저스",
       "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 9,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -930,6 +852,84 @@
         "콜로라도 로키스 +1.5 승"
       ],
       "aria_label": "콜로라도 로키스 vs 볼티모어 오리올스 04:10 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353975",
+      "url": "https://bbongtv4.com/premium/baseball/2000353975",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "04:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "필라델피아 필리스",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "필라델피아 필리스, 최근 4연승과 선발 맞대결에서 우위",
+      "ai_picks": [
+        "필라델피아 필리스 승",
+        "애리조나 다이아몬드백스 +1.5 승",
+        "언더 9.5"
+      ],
+      "aria_label": "애리조나 다이아몬드백스 vs 필라델피아 필리스 04:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353976",
+      "url": "https://bbongtv4.com/premium/baseball/2000353976",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보스턴 레드삭스",
+      "team2": "시애틀 매리너스",
+      "score1": 3,
+      "score2": 8,
+      "prob": {
+        "home": 57.0,
+        "away": 43.0
+      },
+      "ai_summary": "보스턴 최근 3연패·평균 실점 5.83, 시애틀 원정 3연패로 투수전보단 불안한 흐름",
+      "ai_picks": [
+        "보스턴 레드삭스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "보스턴 레드삭스 vs 시애틀 매리너스 05:10 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2006658948",
+      "url": "https://bbongtv4.com/premium/soccer/2006658948",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/3 (목)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "플라멩고 RJ",
+      "team2": "미라솔",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 75.0,
+        "draw": 17.0,
+        "away": 8.0
+      },
+      "ai_summary": "플라멩고 RJ, 최근 6경기 4승과 홈 평균 실점 0.8로 압도적 우위",
+      "ai_picks": [
+        "플라멩고 RJ 승",
+        "오버 2.5",
+        "플라멩고 RJ -1.5 승"
+      ],
+      "aria_label": "플라멩고 RJ vs 미라솔 07:30 분석 상세",
       "source_date": "2026-09-03"
     }
   ]
