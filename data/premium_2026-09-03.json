@@ -1,288 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-03",
-  "scraped_at": "2026-09-03T01:25:53.414901+00:00",
+  "scraped_at": "2026-09-03T06:28:56.579217+00:00",
   "count": 36,
   "matches": [
-    {
-      "id": "2000353979",
-      "url": "https://bbongtv4.com/premium/baseball/2000353979",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "클리블랜드 가디언스",
-      "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "away": 53.0
-      },
-      "ai_summary": "딜런 시스 방어율 2.33, 선발 우위로 토론토 블루제이스가 실점 억제 기대",
-      "ai_picks": [
-        "토론토 블루제이스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "클리블랜드 가디언스 vs 토론토 블루제이스 07:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353986",
-      "url": "https://bbongtv4.com/premium/baseball/2000353986",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그 파이어리츠",
-      "team2": "SF 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "피츠버그 최근 6경기 4승, SF 자이언츠는 4패로 흐름 차이 뚜렷",
-      "ai_picks": [
-        "피츠버그 파이어리츠 승",
-        "오버 8.5"
-      ],
-      "aria_label": "피츠버그 파이어리츠 vs SF 자이언츠 07:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353987",
-      "url": "https://bbongtv4.com/premium/baseball/2000353987",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "탬파베이 레이스",
-      "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "탬파베이 최근 홈 3연승, 평균 7득점으로 강한 공격력 유지",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "탬파베이 레이스 vs NY 메츠 07:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353977",
-      "url": "https://bbongtv4.com/premium/baseball/2000353977",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 컵스",
-      "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "자코브 미시오로우스키 방어율 1.73, 선발 맞대결에서 밀워키 브루어스 우위",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353982",
-      "url": "https://bbongtv4.com/premium/baseball/2000353982",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티 로열스",
-      "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "away": 53.0
-      },
-      "ai_summary": "에어리 페레스 방어율 3.44, 마운드 우위가 마이애미에 힘을 더한다",
-      "ai_picks": [
-        "마이애미 말린스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353985",
-      "url": "https://bbongtv4.com/premium/baseball/2000353985",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "미네소타 트윈스",
-      "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "away": 53.0
-      },
-      "ai_summary": "선발 방어율 5.60 대 3.87, 디트로이트 선발진이 실점 억제에 앞선다",
-      "ai_picks": [
-        "디트로이트 타이거스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "미네소타 트윈스 vs 디트로이트 타이거스 08:40 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353981",
-      "url": "https://bbongtv4.com/premium/baseball/2000353981",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "09:10",
-      "status": "예정",
-      "result": null,
-      "team1": "휴스턴 애스트로스",
-      "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "하이덴 웨스네스키의 안정감과 휴스턴 강타선, 홈런 환경이 총득점에 영향",
-      "ai_picks": [
-        "휴스턴 애스트로스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 09:10 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "16475668",
-      "url": "https://bbongtv4.com/premium/soccer/16475668",
-      "sport": "soccer",
-      "league": "CNCF LC",
-      "date": "9/3 (목)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "데포르티보 톨루카(N)",
-      "team2": "클루브 레온",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "데포르티보 톨루카 승",
-      "ai_picks": [
-        "데포르티보 톨루카(N) 승"
-      ],
-      "aria_label": "데포르티보 톨루카(N) vs 클루브 레온 10:00 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353983",
-      "url": "https://bbongtv4.com/premium/baseball/2000353983",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "10:38",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 에인절스",
-      "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "캄 슈리트러 방어율 2.09, 선발·불펜 모두 NY 양키스가 앞선다",
-      "ai_picks": [
-        "NY 양키스 승",
-        "언더 7",
-        "LA 에인절스 +1.5 승"
-      ],
-      "aria_label": "LA 에인절스 vs NY 양키스 10:38 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "2000353984",
-      "url": "https://bbongtv4.com/premium/baseball/2000353984",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/3 (목)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "LA 다저스, 시즌 전체 득실차 +0.33으로 체급 우위 뚜렷",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 7.5",
-        "세인트루이스 카디널스 +1.5 승"
-      ],
-      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
-      "source_date": "2026-09-03"
-    },
-    {
-      "id": "16475669",
-      "url": "https://bbongtv4.com/premium/soccer/16475669",
-      "sport": "soccer",
-      "league": "CNCF LC",
-      "date": "9/3 (목)",
-      "time": "12:30",
-      "status": "예정",
-      "result": null,
-      "team1": "클럽 아메리카",
-      "team2": "몬테레이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "draw": 27.0,
-        "away": 29.0
-      },
-      "ai_summary": "홈 평균득점 2.25와 최근 4경기 무패, 주도권은 클럽 아메리카",
-      "ai_picks": [
-        "클럽 아메리카 승",
-        "오버 2.5",
-        "클럽 아메리카 -0.5 승"
-      ],
-      "aria_label": "클럽 아메리카 vs 몬테레이 12:30 분석 상세",
-      "source_date": "2026-09-03"
-    },
     {
       "id": "2000355308",
       "url": "https://bbongtv4.com/premium/baseball/2000355308",
@@ -930,6 +651,285 @@
         "플라멩고 RJ -1.5 승"
       ],
       "aria_label": "플라멩고 RJ vs 미라솔 07:30 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353979",
+      "url": "https://bbongtv4.com/premium/baseball/2000353979",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "클리블랜드 가디언스",
+      "team2": "토론토 블루제이스",
+      "score1": 0,
+      "score2": 11,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "딜런 시스 방어율 2.33, 선발 우위로 토론토 블루제이스가 실점 억제 기대",
+      "ai_picks": [
+        "토론토 블루제이스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 토론토 블루제이스 07:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353986",
+      "url": "https://bbongtv4.com/premium/baseball/2000353986",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피츠버그 파이어리츠",
+      "team2": "SF 자이언츠",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "피츠버그 최근 6경기 4승, SF 자이언츠는 4패로 흐름 차이 뚜렷",
+      "ai_picks": [
+        "피츠버그 파이어리츠 승",
+        "오버 8.5"
+      ],
+      "aria_label": "피츠버그 파이어리츠 vs SF 자이언츠 07:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353987",
+      "url": "https://bbongtv4.com/premium/baseball/2000353987",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "탬파베이 레이스",
+      "team2": "NY 메츠",
+      "score1": 4,
+      "score2": 10,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "탬파베이 최근 홈 3연승, 평균 7득점으로 강한 공격력 유지",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "탬파베이 레이스 vs NY 메츠 07:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353977",
+      "url": "https://bbongtv4.com/premium/baseball/2000353977",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고 컵스",
+      "team2": "밀워키 브루어스",
+      "score1": 5,
+      "score2": 9,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "자코브 미시오로우스키 방어율 1.73, 선발 맞대결에서 밀워키 브루어스 우위",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353982",
+      "url": "https://bbongtv4.com/premium/baseball/2000353982",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티 로열스",
+      "team2": "마이애미 말린스",
+      "score1": 6,
+      "score2": 9,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "에어리 페레스 방어율 3.44, 마운드 우위가 마이애미에 힘을 더한다",
+      "ai_picks": [
+        "마이애미 말린스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353985",
+      "url": "https://bbongtv4.com/premium/baseball/2000353985",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미네소타 트윈스",
+      "team2": "디트로이트 타이거스",
+      "score1": 6,
+      "score2": 11,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "선발 방어율 5.60 대 3.87, 디트로이트 선발진이 실점 억제에 앞선다",
+      "ai_picks": [
+        "디트로이트 타이거스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "미네소타 트윈스 vs 디트로이트 타이거스 08:40 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353981",
+      "url": "https://bbongtv4.com/premium/baseball/2000353981",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "09:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "휴스턴 애스트로스",
+      "team2": "시카고 화이트삭스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "하이덴 웨스네스키의 안정감과 휴스턴 강타선, 홈런 환경이 총득점에 영향",
+      "ai_picks": [
+        "휴스턴 애스트로스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 09:10 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16475668",
+      "url": "https://bbongtv4.com/premium/soccer/16475668",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "9/3 (목)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "데포르티보 톨루카(N)",
+      "team2": "클루브 레온",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "데포르티보 톨루카 승",
+      "ai_picks": [
+        "데포르티보 톨루카(N) 승"
+      ],
+      "aria_label": "데포르티보 톨루카(N) vs 클루브 레온 10:00 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353983",
+      "url": "https://bbongtv4.com/premium/baseball/2000353983",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "10:38",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 에인절스",
+      "team2": "NY 양키스",
+      "score1": 3,
+      "score2": 7,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "캄 슈리트러 방어율 2.09, 선발·불펜 모두 NY 양키스가 앞선다",
+      "ai_picks": [
+        "NY 양키스 승",
+        "언더 7",
+        "LA 에인절스 +1.5 승"
+      ],
+      "aria_label": "LA 에인절스 vs NY 양키스 10:38 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "2000353984",
+      "url": "https://bbongtv4.com/premium/baseball/2000353984",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/3 (목)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "세인트루이스 카디널스",
+      "score1": 8,
+      "score2": 13,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "LA 다저스, 시즌 전체 득실차 +0.33으로 체급 우위 뚜렷",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
+      ],
+      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
+      "source_date": "2026-09-03"
+    },
+    {
+      "id": "16475669",
+      "url": "https://bbongtv4.com/premium/soccer/16475669",
+      "sport": "soccer",
+      "league": "CNCF LC",
+      "date": "9/3 (목)",
+      "time": "12:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "클럽 아메리카",
+      "team2": "몬테레이",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 44.0,
+        "draw": 27.0,
+        "away": 29.0
+      },
+      "ai_summary": "홈 평균득점 2.25와 최근 4경기 무패, 주도권은 클럽 아메리카",
+      "ai_picks": [
+        "클럽 아메리카 승",
+        "오버 2.5",
+        "클럽 아메리카 -0.5 승"
+      ],
+      "aria_label": "클럽 아메리카 vs 몬테레이 12:30 분석 상세",
       "source_date": "2026-09-03"
     }
   ]
