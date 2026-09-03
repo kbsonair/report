@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T19:19:43.473110+00:00",
+  "scraped_at": "2026-09-03T21:46:31.318243+00:00",
   "kst_yesterday": "2026-09-03",
   "kst_today": "2026-09-04",
   "kst_tomorrow": "2026-09-05",
@@ -187,7 +187,9 @@
       },
       "ai_summary": "클리블랜드 최근 6경기 4승, 디트로이트는 원정 2연패와 대량 실점",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "언더 7.5",
+        "디트로이트 타이거스 +1.5 승"
       ],
       "aria_label": "클리블랜드 가디언스 vs 디트로이트 타이거스 03:10 분석 상세",
       "source_date": "2026-09-05"
@@ -577,7 +579,8 @@
       },
       "ai_summary": "시카고 컵스, 시즌 누적 득실차 +2.62로 체급 우위 뚜렷",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "오버 7.5"
       ],
       "aria_label": "마이애미 말린스 vs 시카고 컵스 08:10 분석 상세",
       "source_date": "2026-09-05"
@@ -728,7 +731,8 @@
       },
       "ai_summary": "캔자스시티 타선의 장타력, 최근 맞대결서 13득점 폭발 경험 주목",
       "ai_picks": [
-        "캔자스시티 로열스 승"
+        "캔자스시티 로열스 승",
+        "언더 9.5"
       ],
       "aria_label": "캔자스시티 로열스 vs 토론토 블루제이스 09:10 분석 상세",
       "source_date": "2026-09-05"
@@ -2404,12 +2408,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "01:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "피츠버그 파이어리츠",
       "team2": "SF 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -2429,12 +2433,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "02:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "클리블랜드 가디언스",
       "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 11,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -2454,12 +2458,12 @@
       "league": "SAU D1",
       "date": "9/4 (금)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "알 디리야",
       "team2": "알",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 25.0,
         "draw": 20.0,
@@ -2505,12 +2509,12 @@
       "league": "BEL D1",
       "date": "9/4 (금)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "겐트",
       "team2": "러벤",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -2531,12 +2535,12 @@
       "league": "BEL D1",
       "date": "9/4 (금)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "안더레흐트",
       "team2": "코르트레이크",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 68.0,
         "draw": 20.0,
@@ -2558,12 +2562,12 @@
       "league": "FRA D1",
       "date": "9/4 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "툴루즈",
       "team2": "릴",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 23.0,
         "draw": 23.0,
@@ -2584,12 +2588,12 @@
       "league": "SCO PR",
       "date": "9/4 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "히버니안",
       "team2": "하츠",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 28.0,
         "draw": 28.0,
@@ -2610,12 +2614,12 @@
       "league": "SPA D1",
       "date": "9/4 (금)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "소시에다드",
       "team2": "셀타비고",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 52.0,
         "draw": 28.0,
