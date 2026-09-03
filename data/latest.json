@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T21:46:31.318243+00:00",
+  "scraped_at": "2026-09-03T23:52:03.641627+00:00",
   "kst_yesterday": "2026-09-03",
   "kst_today": "2026-09-04",
   "kst_tomorrow": "2026-09-05",
@@ -2484,12 +2484,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "03:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "휴스턴 애스트로스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 58.0,
         "away": 42.0
