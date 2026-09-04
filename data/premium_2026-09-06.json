@@ -1,0 +1,80 @@
+{
+  "source_url": "https://bbongtv4.com/premium/2026-09-06",
+  "source_date": "2026-09-06",
+  "scraped_at": "2026-09-04T16:54:08.811490+00:00",
+  "count": 3,
+  "matches": [
+    {
+      "id": "2000360665",
+      "url": "https://bbongtv4.com/premium/baseball/2000360665",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/6 (일)",
+      "time": "07:05",
+      "status": "예정",
+      "result": null,
+      "team1": "필라델피아 필리스",
+      "team2": "애틀란타 브레이브스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "애틀랜타 승, 언더 접근 추천",
+      "ai_picks": [
+        "애틀란타 브레이브스 승"
+      ],
+      "aria_label": "필라델피아 필리스 vs 애틀란타 브레이브스 07:05 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000360666",
+      "url": "https://bbongtv4.com/premium/baseball/2000360666",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/6 (일)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "신시내티 레즈",
+      "team2": "밀워키 브루어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "밀워키 승",
+      "ai_picks": [
+        "밀워키 브루어스 승"
+      ],
+      "aria_label": "신시내티 레즈 vs 밀워키 브루어스 07:40 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000360667",
+      "url": "https://bbongtv4.com/premium/baseball/2000360667",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/6 (일)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "피츠버그 파이어리츠",
+      "team2": "LA 에인절스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "피츠버그 승",
+      "ai_picks": [
+        "피츠버그 파이어리츠 승"
+      ],
+      "aria_label": "피츠버그 파이어리츠 vs LA 에인절스 07:40 분석 상세",
+      "source_date": "2026-09-06"
+    }
+  ]
+}
