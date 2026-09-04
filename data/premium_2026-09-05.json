@@ -1,61 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-05",
-  "scraped_at": "2026-09-04T21:48:12.467043+00:00",
+  "scraped_at": "2026-09-04T23:49:39.255191+00:00",
   "count": 92,
   "matches": [
-    {
-      "id": "2000352954",
-      "url": "https://bbongtv4.com/premium/baseball/2000352954",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/5 (토)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "클리블랜드 가디언스",
-      "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "클리블랜드 최근 6경기 4승, 디트로이트는 원정 2연패와 대량 실점",
-      "ai_picks": [
-        "클리블랜드 가디언스 승",
-        "언더 7.5",
-        "디트로이트 타이거스 +1.5 승"
-      ],
-      "aria_label": "클리블랜드 가디언스 vs 디트로이트 타이거스 03:10 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211596",
-      "url": "https://bbongtv4.com/premium/soccer/2007211596",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/5 (토)",
-      "time": "04:45",
-      "status": "예정",
-      "result": null,
-      "team1": "에스투디안테스 리오 쿠아르토",
-      "team2": "사르미엔토 후닌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 35.0,
-        "away": 40.0
-      },
-      "ai_summary": "에스투디안테스 리오 쿠아르토, 최근 6경기 3득점에 그친 빈공이 변수",
-      "ai_picks": [
-        "언더 1.5",
-        "사르미엔토 후닌 +0.5 승"
-      ],
-      "aria_label": "에스투디안테스 리오 쿠아르토 vs 사르미엔토 후닌 04:45 분석 상세",
-      "source_date": "2026-09-05"
-    },
     {
       "id": "2007210107",
       "url": "https://bbongtv4.com/premium/soccer/2007210107",
@@ -2209,6 +2157,32 @@
       "source_date": "2026-09-05"
     },
     {
+      "id": "2000352954",
+      "url": "https://bbongtv4.com/premium/baseball/2000352954",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/5 (토)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "클리블랜드 가디언스",
+      "team2": "디트로이트 타이거스",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "클리블랜드 최근 6경기 4승, 디트로이트는 원정 2연패와 대량 실점",
+      "ai_picks": [
+        "클리블랜드 가디언스 승",
+        "언더 7.5",
+        "디트로이트 타이거스 +1.5 승"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 디트로이트 타이거스 03:10 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
       "id": "2007013382",
       "url": "https://bbongtv4.com/premium/soccer/2007013382",
       "sport": "soccer",
@@ -2392,6 +2366,32 @@
         "FC 포르투 -1.5 승"
       ],
       "aria_label": "FC 포르투 vs 모레이라 04:15 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211596",
+      "url": "https://bbongtv4.com/premium/soccer/2007211596",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/5 (토)",
+      "time": "04:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에스투디안테스 리오 쿠아르토",
+      "team2": "사르미엔토 후닌",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 35.0,
+        "away": 40.0
+      },
+      "ai_summary": "에스투디안테스 리오 쿠아르토, 최근 6경기 3득점에 그친 빈공이 변수",
+      "ai_picks": [
+        "언더 1.5",
+        "사르미엔토 후닌 +0.5 승"
+      ],
+      "aria_label": "에스투디안테스 리오 쿠아르토 vs 사르미엔토 후닌 04:45 분석 상세",
       "source_date": "2026-09-05"
     }
   ]
