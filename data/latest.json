@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T23:52:03.641627+00:00",
+  "scraped_at": "2026-09-04T03:46:52.380573+00:00",
   "kst_yesterday": "2026-09-03",
   "kst_today": "2026-09-04",
   "kst_tomorrow": "2026-09-05",
@@ -756,7 +756,9 @@
       },
       "ai_summary": "홈 2승1패 콜로라도, 시즌 69승70패 세인트루이스 안정성",
       "ai_picks": [
-        "세인트루이스 카디널스 승"
+        "세인트루이스 카디널스 승",
+        "오버 11.5",
+        "콜로라도 로키스 +1.5 승"
       ],
       "aria_label": "콜로라도 로키스 vs 세인트루이스 카디널스 09:40 분석 상세",
       "source_date": "2026-09-05"
@@ -806,7 +808,9 @@
       },
       "ai_summary": "맥스 프리드 방어율 2.80, 선발·불펜 모두 양키스가 앞선다",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 7.5",
+        "NY 양키스 -1.5 승"
       ],
       "aria_label": "샌디에이고 파드레스 vs NY 양키스 10:40 분석 상세",
       "source_date": "2026-09-05"
@@ -830,7 +834,8 @@
       },
       "ai_summary": "팀 방어율 3.69 대 4.69, 다저스 마운드가 균형 잡는다",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5"
       ],
       "aria_label": "LA 다저스 vs 워싱턴 내셔널스 11:10 분석 상세",
       "source_date": "2026-09-05"
@@ -854,7 +859,8 @@
       },
       "ai_summary": "홈 선발 WHIP 1.04, 상대 팀 방어율 5.45가 가르는 흐름",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "언더 7.5"
       ],
       "aria_label": "시애틀 매리너스 vs 오클랜드 11:10 분석 상세",
       "source_date": "2026-09-05"
@@ -2640,12 +2646,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼티모어 오리올스",
       "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 6,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -2665,12 +2671,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 컵스",
       "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 43.0,
         "away": 57.0
@@ -2691,12 +2697,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "캔자스시티 로열스",
       "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 3,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -3075,8 +3081,8 @@
       "time": "19:30",
       "status": "예정",
       "result": null,
-      "team1": "파",
-      "team2": "파주 프론티어",
+      "team1": "파주 프론티어",
+      "team2": "대구",
       "score1": null,
       "score2": null,
       "prob": {

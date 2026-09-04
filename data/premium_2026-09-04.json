@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-04",
-  "scraped_at": "2026-09-03T23:52:01.360089+00:00",
+  "scraped_at": "2026-09-04T03:46:49.661590+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "2000357560",
-      "url": "https://bbongtv4.com/premium/baseball/2000357560",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "볼티모어 오리올스",
-      "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "볼티모어 최근 6경기 평균득점 6.43, 원정 보스턴은 2.33에 그쳐",
-      "ai_picks": [
-        "볼티모어 오리올스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "볼티모어 오리올스 vs 보스턴 레드삭스 08:15 분석 상세",
-      "source_date": "2026-09-04"
-    },
-    {
-      "id": "2000357561",
-      "url": "https://bbongtv4.com/premium/baseball/2000357561",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 컵스",
-      "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "로건 헨더슨 방어율 2.48, 선발 맞대결에서 밀워키 브루어스가 앞선다",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "오버 8.5",
-        "시카고 컵스 +1.5 승"
-      ],
-      "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:15 분석 상세",
-      "source_date": "2026-09-04"
-    },
-    {
-      "id": "2000357562",
-      "url": "https://bbongtv4.com/premium/baseball/2000357562",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티 로열스",
-      "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "마이애미 말린스, 투수진 우위와 시즌 득실차로 접전 우세 가능성",
-      "ai_picks": [
-        "마이애미 말린스 승",
-        "언더 9.5"
-      ],
-      "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
-      "source_date": "2026-09-04"
-    },
     {
       "id": "2000360645",
       "url": "https://bbongtv4.com/premium/baseball/2000360645",
@@ -446,8 +370,8 @@
       "time": "19:30",
       "status": "예정",
       "result": null,
-      "team1": "파",
-      "team2": "파주 프론티어",
+      "team1": "파주 프론티어",
+      "team2": "대구",
       "score1": null,
       "score2": null,
       "prob": {
@@ -747,6 +671,82 @@
         "언더 2.5"
       ],
       "aria_label": "소시에다드 vs 셀타비고 04:00 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000357560",
+      "url": "https://bbongtv4.com/premium/baseball/2000357560",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "볼티모어 오리올스",
+      "team2": "보스턴 레드삭스",
+      "score1": 5,
+      "score2": 6,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "볼티모어 최근 6경기 평균득점 6.43, 원정 보스턴은 2.33에 그쳐",
+      "ai_picks": [
+        "볼티모어 오리올스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "볼티모어 오리올스 vs 보스턴 레드삭스 08:15 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000357561",
+      "url": "https://bbongtv4.com/premium/baseball/2000357561",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고 컵스",
+      "team2": "밀워키 브루어스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "로건 헨더슨 방어율 2.48, 선발 맞대결에서 밀워키 브루어스가 앞선다",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "오버 8.5",
+        "시카고 컵스 +1.5 승"
+      ],
+      "aria_label": "시카고 컵스 vs 밀워키 브루어스 08:15 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000357562",
+      "url": "https://bbongtv4.com/premium/baseball/2000357562",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "캔자스시티 로열스",
+      "team2": "마이애미 말린스",
+      "score1": 7,
+      "score2": 3,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "마이애미 말린스, 투수진 우위와 시즌 득실차로 접전 우세 가능성",
+      "ai_picks": [
+        "마이애미 말린스 승",
+        "언더 9.5"
+      ],
+      "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
       "source_date": "2026-09-04"
     }
   ]
