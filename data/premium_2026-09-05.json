@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-05",
   "source_date": "2026-09-05",
-  "scraped_at": "2026-09-04T03:46:52.295248+00:00",
-  "count": 91,
+  "scraped_at": "2026-09-04T08:41:06.665265+00:00",
+  "count": 92,
   "matches": [
     {
       "id": "2007209598",
@@ -552,6 +552,30 @@
         "볼티모어 오리올스 +1.5 승"
       ],
       "aria_label": "볼티모어 오리올스 vs 보스턴 레드삭스 08:05 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "16262877",
+      "url": "https://bbongtv4.com/premium/baseball/16262877",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/5 (토)",
+      "time": "08:10",
+      "status": "예정",
+      "result": null,
+      "team1": "클리블랜드 가디언스",
+      "team2": "디트로이트 타이거스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "WHIP 0.99 대 1.47, 원정 선발 우위가 승부축",
+      "ai_picks": [
+        "디트로이트 타이거스 승"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 디트로이트 타이거스 08:10 분석 상세",
       "source_date": "2026-09-05"
     },
     {

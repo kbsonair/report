@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-04",
-  "scraped_at": "2026-09-04T03:46:49.661590+00:00",
+  "scraped_at": "2026-09-04T08:41:03.960999+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "2000360645",
-      "url": "https://bbongtv4.com/premium/baseball/2000360645",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "09:05",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스 레인저스",
-      "team2": "탬파베이 레이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "탬파베이 레이스, 시즌 득실차 +1.37로 텍사스보다 안정적 우위",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "텍사스 레인저스 vs 탬파베이 레이스 09:05 분석 상세",
-      "source_date": "2026-09-04"
-    },
-    {
-      "id": "2000360646",
-      "url": "https://bbongtv4.com/premium/baseball/2000360646",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 매리너스",
-      "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 67.0,
-        "away": 33.0
-      },
-      "ai_summary": "시애틀 매리너스, 홈 평균실점 3점으로 오클랜드보다 마운드 안정감 우위",
-      "ai_picks": [
-        "시애틀 매리너스 승",
-        "오버 7.5",
-        "시애틀 매리너스 -1.5 승"
-      ],
-      "aria_label": "시애틀 매리너스 vs 오클랜드 10:40 분석 상세",
-      "source_date": "2026-09-04"
-    },
-    {
-      "id": "2000360647",
-      "url": "https://bbongtv4.com/premium/baseball/2000360647",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/4 (금)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "LA 다저스, 시즌 득실차 +0.33으로 세인트루이스보다 안정감 앞선다",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 7.5",
-        "세인트루이스 카디널스 +1.5 승"
-      ],
-      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
-      "source_date": "2026-09-04"
-    },
     {
       "id": "2000355310",
       "url": "https://bbongtv4.com/premium/baseball/2000355310",
@@ -747,6 +670,83 @@
         "언더 9.5"
       ],
       "aria_label": "캔자스시티 로열스 vs 마이애미 말린스 08:40 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000360645",
+      "url": "https://bbongtv4.com/premium/baseball/2000360645",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "09:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "텍사스 레인저스",
+      "team2": "탬파베이 레이스",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "탬파베이 레이스, 시즌 득실차 +1.37로 텍사스보다 안정적 우위",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "텍사스 레인저스 vs 탬파베이 레이스 09:05 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000360646",
+      "url": "https://bbongtv4.com/premium/baseball/2000360646",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 매리너스",
+      "team2": "오클랜드",
+      "score1": 4,
+      "score2": 7,
+      "prob": {
+        "home": 67.0,
+        "away": 33.0
+      },
+      "ai_summary": "시애틀 매리너스, 홈 평균실점 3점으로 오클랜드보다 마운드 안정감 우위",
+      "ai_picks": [
+        "시애틀 매리너스 승",
+        "오버 7.5",
+        "시애틀 매리너스 -1.5 승"
+      ],
+      "aria_label": "시애틀 매리너스 vs 오클랜드 10:40 분석 상세",
+      "source_date": "2026-09-04"
+    },
+    {
+      "id": "2000360647",
+      "url": "https://bbongtv4.com/premium/baseball/2000360647",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/4 (금)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "세인트루이스 카디널스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "LA 다저스, 시즌 득실차 +0.33으로 세인트루이스보다 안정감 앞선다",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
+      ],
+      "aria_label": "LA 다저스 vs 세인트루이스 카디널스 11:10 분석 상세",
       "source_date": "2026-09-04"
     }
   ]

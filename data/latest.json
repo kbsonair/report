@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-04T03:46:52.380573+00:00",
+  "scraped_at": "2026-09-04T08:41:06.757434+00:00",
   "kst_yesterday": "2026-09-03",
   "kst_today": "2026-09-04",
   "kst_tomorrow": "2026-09-05",
@@ -8,7 +8,7 @@
     "2026-09-04",
     "2026-09-05"
   ],
-  "count": 156,
+  "count": 157,
   "matches": [
     {
       "id": "2007209598",
@@ -558,6 +558,30 @@
         "볼티모어 오리올스 +1.5 승"
       ],
       "aria_label": "볼티모어 오리올스 vs 보스턴 레드삭스 08:05 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "16262877",
+      "url": "https://bbongtv4.com/premium/baseball/16262877",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/5 (토)",
+      "time": "08:10",
+      "status": "예정",
+      "result": null,
+      "team1": "클리블랜드 가디언스",
+      "team2": "디트로이트 타이거스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "WHIP 0.99 대 1.47, 원정 선발 우위가 승부축",
+      "ai_picks": [
+        "디트로이트 타이거스 승"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 디트로이트 타이거스 08:10 분석 상세",
       "source_date": "2026-09-05"
     },
     {
@@ -2722,12 +2746,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "09:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "텍사스 레인저스",
       "team2": "탬파베이 레이스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 0,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -2747,12 +2771,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀 매리너스",
       "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 7,
       "prob": {
         "home": 67.0,
         "away": 33.0
@@ -2773,12 +2797,12 @@
       "league": "MLB",
       "date": "9/4 (금)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 다저스",
       "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 68.0,
         "away": 32.0
