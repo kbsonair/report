@@ -1,272 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-06",
-  "scraped_at": "2026-09-05T17:13:21.183154+00:00",
+  "scraped_at": "2026-09-05T19:06:36.248043+00:00",
   "count": 116,
   "matches": [
-    {
-      "id": "2007207541",
-      "url": "https://bbongtv4.com/premium/soccer/2007207541",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "9/6 (일)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "랑스",
-      "team2": "로리앙",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "랑스, 기대득점 3.66과 홈 5득점 화력…결장 변수로 핸디는 신중",
-      "ai_picks": [
-        "랑스 승",
-        "오버 2.5",
-        "로리앙 +1.5 승"
-      ],
-      "aria_label": "랑스 vs 로리앙 00:15 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007210007",
-      "url": "https://bbongtv4.com/premium/soccer/2007210007",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/6 (일)",
-      "time": "00:50",
-      "status": "예정",
-      "result": null,
-      "team1": "알 파이살리",
-      "team2": "알",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 30.0,
-        "away": 37.0
-      },
-      "ai_summary": "알 파이살리, 평균 실점 2.5로 수비 불안…핸디캡 변수 주목",
-      "ai_picks": [
-        "오버 2.5",
-        "알 하젬 +0.5 승"
-      ],
-      "aria_label": "알 파이살리 vs 알 하젬 00:50 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007210008",
-      "url": "https://bbongtv4.com/premium/soccer/2007210008",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/6 (일)",
-      "time": "00:55",
-      "status": "예정",
-      "result": null,
-      "team1": "알 타아운",
-      "team2": "알 파테흐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "알 타아운, 최근 맞대결 4연승과 홈 무실점이 우위 근거",
-      "ai_picks": [
-        "알 타아운 승",
-        "언더 3"
-      ],
-      "aria_label": "알 타아운 vs 알 파테흐 00:55 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007201095",
-      "url": "https://bbongtv4.com/premium/soccer/2007201095",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/6 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브란",
-      "team2": "릴레스트롬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 20.0,
-        "away": 22.0
-      },
-      "ai_summary": "브란 홈 평균득점 2.17, 릴레스트롬 원정 실점 1.8로 득점력 차이 뚜렷",
-      "ai_picks": [
-        "브란 승",
-        "언더 3.5",
-        "브란 -0.5 승"
-      ],
-      "aria_label": "브란 vs 릴레스트롬 01:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007207539",
-      "url": "https://bbongtv4.com/premium/soccer/2007207539",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/6 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "인터 밀란",
-      "team2": "나폴리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 25.0,
-        "away": 15.0
-      },
-      "ai_summary": "인터 밀란, 점유율 67.5%와 xG 2.43으로 공격 주도권 뚜렷",
-      "ai_picks": [
-        "인터 밀란 승",
-        "언더 2.5"
-      ],
-      "aria_label": "인터 밀란 vs 나폴리 01:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007207273",
-      "url": "https://bbongtv4.com/premium/soccer/2007207273",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/6 (일)",
-      "time": "01:15",
-      "status": "예정",
-      "result": null,
-      "team1": "KV 메헬렌",
-      "team2": "웨스테를로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "draw": 33.0,
-        "away": 23.0
-      },
-      "ai_summary": "양 팀 모두 실점률 높고 무실점 전무, 오버 2.5에 유리한 환경",
-      "ai_picks": [
-        "오버 2.5",
-        "웨스테를로 +1.5 승"
-      ],
-      "aria_label": "KV 메헬렌 vs 웨스테를로 01:15 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007013381",
-      "url": "https://bbongtv4.com/premium/soccer/2007013381",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/6 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "샬케",
-      "team2": "바이에른",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 8.0,
-        "away": 87.0
-      },
-      "ai_summary": "바이에른 최근 2경기 9득점, 샬케 수비 붕괴로 대량 실점 우려",
-      "ai_picks": [
-        "바이에른 승",
-        "오버 4.5",
-        "샬케 +2.5 승"
-      ],
-      "aria_label": "샬케 vs 바이에른 01:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007208195",
-      "url": "https://bbongtv4.com/premium/soccer/2007208195",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/6 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "헐",
-      "team2": "아스톤빌라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 30.0,
-        "away": 38.0
-      },
-      "ai_summary": "헐, 2경기 무실점 수비와 아스톤빌라 득점력 부진이 맞붙는다",
-      "ai_picks": [
-        "언더 2.5",
-        "헐 +1.5 승"
-      ],
-      "aria_label": "헐 vs 아스톤빌라 01:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007208750",
-      "url": "https://bbongtv4.com/premium/soccer/2007208750",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/6 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "라요바예카노",
-      "team2": "산탄데르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 30.0,
-        "away": 32.0
-      },
-      "ai_summary": "라요바예카노, 시즌 평균 실점 2.7로 수비 불안…산탄데르도 무실점 경기 없어 득점전 양상 예상",
-      "ai_picks": [
-        "오버 2.5",
-        "산탄데르 +0.5 승"
-      ],
-      "aria_label": "라요바예카노 vs 산탄데르 01:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007211598",
-      "url": "https://bbongtv4.com/premium/soccer/2007211598",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/6 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알도시비",
-      "team2": "반필드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "draw": 40.0,
-        "away": 33.0
-      },
-      "ai_summary": "알도시비 최근 6경기 1무5패, 반필드도 원정 득점력 약점",
-      "ai_picks": [
-        "언더 2.5",
-        "반필드 +0.5 승"
-      ],
-      "aria_label": "알도시비 vs 반필드 01:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
     {
       "id": "2007203992",
       "url": "https://bbongtv4.com/premium/soccer/2007203992",
@@ -3014,6 +2751,269 @@
         "시타르트 +0.5 승"
       ],
       "aria_label": "덴 하흐 vs 시타르트 23:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207541",
+      "url": "https://bbongtv4.com/premium/soccer/2007207541",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/6 (일)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "랑스",
+      "team2": "로리앙",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "랑스, 기대득점 3.66과 홈 5득점 화력…결장 변수로 핸디는 신중",
+      "ai_picks": [
+        "랑스 승",
+        "오버 2.5",
+        "로리앙 +1.5 승"
+      ],
+      "aria_label": "랑스 vs 로리앙 00:15 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007210007",
+      "url": "https://bbongtv4.com/premium/soccer/2007210007",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/6 (일)",
+      "time": "00:50",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 파이살리",
+      "team2": "알",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 33.0,
+        "draw": 30.0,
+        "away": 37.0
+      },
+      "ai_summary": "알 파이살리, 평균 실점 2.5로 수비 불안…핸디캡 변수 주목",
+      "ai_picks": [
+        "오버 2.5",
+        "알 하젬 +0.5 승"
+      ],
+      "aria_label": "알 파이살리 vs 알 하젬 00:50 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007210008",
+      "url": "https://bbongtv4.com/premium/soccer/2007210008",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/6 (일)",
+      "time": "00:55",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 타아운",
+      "team2": "알 파테흐",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "알 타아운, 최근 맞대결 4연승과 홈 무실점이 우위 근거",
+      "ai_picks": [
+        "알 타아운 승",
+        "언더 3"
+      ],
+      "aria_label": "알 타아운 vs 알 파테흐 00:55 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007201095",
+      "url": "https://bbongtv4.com/premium/soccer/2007201095",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/6 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브란",
+      "team2": "릴레스트롬",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 58.0,
+        "draw": 20.0,
+        "away": 22.0
+      },
+      "ai_summary": "브란 홈 평균득점 2.17, 릴레스트롬 원정 실점 1.8로 득점력 차이 뚜렷",
+      "ai_picks": [
+        "브란 승",
+        "언더 3.5",
+        "브란 -0.5 승"
+      ],
+      "aria_label": "브란 vs 릴레스트롬 01:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207539",
+      "url": "https://bbongtv4.com/premium/soccer/2007207539",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/6 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인터 밀란",
+      "team2": "나폴리",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 60.0,
+        "draw": 25.0,
+        "away": 15.0
+      },
+      "ai_summary": "인터 밀란, 점유율 67.5%와 xG 2.43으로 공격 주도권 뚜렷",
+      "ai_picks": [
+        "인터 밀란 승",
+        "언더 2.5"
+      ],
+      "aria_label": "인터 밀란 vs 나폴리 01:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207273",
+      "url": "https://bbongtv4.com/premium/soccer/2007207273",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/6 (일)",
+      "time": "01:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KV 메헬렌",
+      "team2": "웨스테를로",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 44.0,
+        "draw": 33.0,
+        "away": 23.0
+      },
+      "ai_summary": "양 팀 모두 실점률 높고 무실점 전무, 오버 2.5에 유리한 환경",
+      "ai_picks": [
+        "오버 2.5",
+        "웨스테를로 +1.5 승"
+      ],
+      "aria_label": "KV 메헬렌 vs 웨스테를로 01:15 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007013381",
+      "url": "https://bbongtv4.com/premium/soccer/2007013381",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샬케",
+      "team2": "바이에른",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 5.0,
+        "draw": 8.0,
+        "away": 87.0
+      },
+      "ai_summary": "바이에른 최근 2경기 9득점, 샬케 수비 붕괴로 대량 실점 우려",
+      "ai_picks": [
+        "바이에른 승",
+        "오버 4.5",
+        "샬케 +2.5 승"
+      ],
+      "aria_label": "샬케 vs 바이에른 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208195",
+      "url": "https://bbongtv4.com/premium/soccer/2007208195",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "헐",
+      "team2": "아스톤빌라",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 32.0,
+        "draw": 30.0,
+        "away": 38.0
+      },
+      "ai_summary": "헐, 2경기 무실점 수비와 아스톤빌라 득점력 부진이 맞붙는다",
+      "ai_picks": [
+        "언더 2.5",
+        "헐 +1.5 승"
+      ],
+      "aria_label": "헐 vs 아스톤빌라 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208750",
+      "url": "https://bbongtv4.com/premium/soccer/2007208750",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라요바예카노",
+      "team2": "산탄데르",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 30.0,
+        "away": 32.0
+      },
+      "ai_summary": "라요바예카노, 시즌 평균 실점 2.7로 수비 불안…산탄데르도 무실점 경기 없어 득점전 양상 예상",
+      "ai_picks": [
+        "오버 2.5",
+        "산탄데르 +0.5 승"
+      ],
+      "aria_label": "라요바예카노 vs 산탄데르 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007211598",
+      "url": "https://bbongtv4.com/premium/soccer/2007211598",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "알도시비",
+      "team2": "반필드",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 27.0,
+        "draw": 40.0,
+        "away": 33.0
+      },
+      "ai_summary": "알도시비 최근 6경기 1무5패, 반필드도 원정 득점력 약점",
+      "ai_picks": [
+        "언더 2.5",
+        "반필드 +0.5 승"
+      ],
+      "aria_label": "알도시비 vs 반필드 01:30 분석 상세",
       "source_date": "2026-09-06"
     }
   ]
