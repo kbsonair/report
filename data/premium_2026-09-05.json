@@ -1,689 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-05",
   "source_date": "2026-09-05",
-  "scraped_at": "2026-09-05T14:52:45.331329+00:00",
+  "scraped_at": "2026-09-05T17:13:22.607922+00:00",
   "count": 99,
   "matches": [
-    {
-      "id": "2007207538",
-      "url": "https://bbongtv4.com/premium/soccer/2007207538",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/5 (토)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "피오렌티나",
-      "team2": "토리노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "draw": 36.0,
-        "away": 30.0
-      },
-      "ai_summary": "맞대결 6경기 4무, 양 팀 0승2패가 겹친 저득점 접전 흐름",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "토리노 +0.5 승"
-      ],
-      "aria_label": "피오렌티나 vs 토리노 22:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007013375",
-      "url": "https://bbongtv4.com/premium/soccer/2007013375",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/5 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "레버쿠젠",
-      "team2": "우니온베를린",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "레버쿠젠, 최근 2경기 6득점 공격력에 비해 실점 관리가 관건",
-      "ai_picks": [
-        "레버쿠젠 승",
-        "오버 3.5",
-        "우니온베를린 +1.5 승"
-      ],
-      "aria_label": "레버쿠젠 vs 우니온베를린 22:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007013376",
-      "url": "https://bbongtv4.com/premium/soccer/2007013376",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/5 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "보루시아 묀헨글라드바흐",
-      "team2": "엘버스베르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "draw": 25.0,
-        "away": 28.0
-      },
-      "ai_summary": "엘버스베르크 최근 2경기 6득점, 공격력 상승세에 주목",
-      "ai_picks": [
-        "오버 2.5",
-        "보루시아 묀헨글라드바흐 승"
-      ],
-      "aria_label": "보루시아 묀헨글라드바흐 vs 엘버스베르크 22:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007013379",
-      "url": "https://bbongtv4.com/premium/soccer/2007013379",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/5 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "호펜하임",
-      "team2": "도르트문트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 24.0,
-        "draw": 20.0,
-        "away": 56.0
-      },
-      "ai_summary": "도르트문트 무실점 개막, 호펜하임 홈 결장 변수로 수비 불안 우려",
-      "ai_picks": [
-        "도르트문트 승",
-        "언더 3.5"
-      ],
-      "aria_label": "호펜하임 vs 도르트문트 22:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007013380",
-      "url": "https://bbongtv4.com/premium/soccer/2007013380",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/5 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "파더보른",
-      "team2": "프라이부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 20.0,
-        "away": 57.0
-      },
-      "ai_summary": "프라이부르크 최근 2경기 9득점, 공격력 우위가 승부에 영향",
-      "ai_picks": [
-        "프라이부르크 승",
-        "오버 2.5"
-      ],
-      "aria_label": "파더보른 vs 프라이부르크 22:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007013383",
-      "url": "https://bbongtv4.com/premium/soccer/2007013383",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/5 (토)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "브레멘",
-      "team2": "라이프치히",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 20.0,
-        "away": 62.0
-      },
-      "ai_summary": "라이프치히 최근 3경기 13득점, 공격력 우위가 승부를 가를 변수",
-      "ai_picks": [
-        "라이프치히 승",
-        "언더 3.5"
-      ],
-      "aria_label": "브레멘 vs 라이프치히 22:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007200033",
-      "url": "https://bbongtv4.com/premium/soccer/2007200033",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "로젠보르그",
-      "team2": "함캄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 63.0,
-        "draw": 22.0,
-        "away": 15.0
-      },
-      "ai_summary": "로젠보르그 홈 평균득점 2.5, 함캄 원정 실점 1.86으로 득점 우위 뚜렷",
-      "ai_picks": [
-        "로젠보르그 승",
-        "언더 3.5"
-      ],
-      "aria_label": "로젠보르그 vs 함캄 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007201142",
-      "url": "https://bbongtv4.com/premium/soccer/2007201142",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "애버딘",
-      "team2": "킬마녹",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "킬마녹 실점 3.5, 애버딘 홈 득점 1로 저득점 접전 예상",
-      "ai_picks": [
-        "애버딘 승",
-        "언더 2.5"
-      ],
-      "aria_label": "애버딘 vs 킬마녹 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007201143",
-      "url": "https://bbongtv4.com/premium/soccer/2007201143",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "던디 유나이티드",
-      "team2": "팔커크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "던디 유나이티드, 최근 xG 1.76과 높은 슈팅으로 공격 주도 우위",
-      "ai_picks": [
-        "던디 유나이티드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "던디 유나이티드 vs 팔커크 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007204692",
-      "url": "https://bbongtv4.com/premium/soccer/2007204692",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "샤를루아",
-      "team2": "로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "로얄 유니온 SG 원정 평균득점 4점, 공격력에서 우위 뚜렷",
-      "ai_picks": [
-        "로얄 유니온 SG 승",
-        "오버 2.5",
-        "샤를루아 +0.5 승"
-      ],
-      "aria_label": "샤를루아 vs 로얄 유니온 SG 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007206796",
-      "url": "https://bbongtv4.com/premium/soccer/2007206796",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "레인저스",
-      "team2": "머더웰",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 28.0,
-        "away": 18.0
-      },
-      "ai_summary": "머더웰 원정 2.5득점·레인저스 홈 부진, 접전과 다득점 흐름이 교차",
-      "ai_picks": [
-        "오버 2.5",
-        "머더웰 +1.5 승"
-      ],
-      "aria_label": "레인저스 vs 머더웰 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007207388",
-      "url": "https://bbongtv4.com/premium/soccer/2007207388",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브렌트퍼드",
-      "team2": "선더랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 22.0,
-        "away": 16.0
-      },
-      "ai_summary": "브렌트퍼드, xG 2.72와 홈 3-0 대승으로 공격력 우위 뚜렷",
-      "ai_picks": [
-        "브렌트퍼드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "브렌트퍼드 vs 선더랜드 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007207389",
-      "url": "https://bbongtv4.com/premium/soccer/2007207389",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브라이턴",
-      "team2": "리즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 29.0,
-        "away": 23.0
-      },
-      "ai_summary": "브라이턴, xG 2.67 및 점유율 73.5%로 공격 주도권 뚜렷",
-      "ai_picks": [
-        "브라이턴 승",
-        "오버 2.5"
-      ],
-      "aria_label": "브라이턴 vs 리즈 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007207400",
-      "url": "https://bbongtv4.com/premium/soccer/2007207400",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에르주룸스포르",
-      "team2": "코냐스포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "draw": 35.0,
-        "away": 29.0
-      },
-      "ai_summary": "양 팀 모두 수비 불안, 최근 3경기 실점 합계 15골이 저득점 경향을 흔든다",
-      "ai_picks": [
-        "오버 2.5",
-        "코냐스포르 +0.5 승"
-      ],
-      "aria_label": "에르주룸스포르 vs 코냐스포르 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007207404",
-      "url": "https://bbongtv4.com/premium/soccer/2007207404",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "풀럼",
-      "team2": "크리스탈팰리스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "draw": 37.0,
-        "away": 29.0
-      },
-      "ai_summary": "풀럼, 점유율 60%와 높은 패스성공률로 주도권 잡지만 결정력은 아쉬워",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "풀럼 vs 크리스탈팰리스 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007207968",
-      "url": "https://bbongtv4.com/premium/soccer/2007207968",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "맨시티",
-      "team2": "코번트리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 15.0,
-        "away": 5.0
-      },
-      "ai_summary": "맨시티, 점유율 69%·슈팅 15.5로 압도적 우위…코번트리 득점력 부진",
-      "ai_picks": [
-        "맨시티 승",
-        "언더 3.5"
-      ],
-      "aria_label": "맨시티 vs 코번트리 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007208181",
-      "url": "https://bbongtv4.com/premium/soccer/2007208181",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "노팅엄",
-      "team2": "토트넘",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 30.0,
-        "away": 27.0
-      },
-      "ai_summary": "노팅엄 최근 2경기 2득점, 토트넘 2경기 연속 무득점 부진",
-      "ai_picks": [
-        "노팅엄 승",
-        "언더 2.5"
-      ],
-      "aria_label": "노팅엄 vs 토트넘 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211162",
-      "url": "https://bbongtv4.com/premium/soccer/2007211162",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "번리",
-      "team2": "브리스톨 시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 33.0,
-        "away": 29.0
-      },
-      "ai_summary": "번리, 홈에서는 무패지만 시즌 실점 2.5로 수비 불안 여전",
-      "ai_picks": [
-        "오버 2.5",
-        "브리스톨 시티 +0.5 승"
-      ],
-      "aria_label": "번리 vs 브리스톨 시티 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211163",
-      "url": "https://bbongtv4.com/premium/soccer/2007211163",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "밀월",
-      "team2": "볼턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "밀월, 최근 xG 2.39와 홈 득점력으로 우세…볼턴은 원정서 득점력 저하",
-      "ai_picks": [
-        "밀월 승",
-        "오버 2.5"
-      ],
-      "aria_label": "밀월 vs 볼턴 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211164",
-      "url": "https://bbongtv4.com/premium/soccer/2007211164",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "포츠머스",
-      "team2": "카디프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 40.0,
-        "away": 30.0
-      },
-      "ai_summary": "카디프 최근 3경기 무패와 높은 기대득점, 원정에서도 득점력 유지",
-      "ai_picks": [
-        "무승부",
-        "오버 2.5",
-        "카디프 +0.5 승"
-      ],
-      "aria_label": "포츠머스 vs 카디프 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211165",
-      "url": "https://bbongtv4.com/premium/soccer/2007211165",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "퀸즈 파크 레인저스",
-      "team2": "미들즈브러",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 26.0,
-        "draw": 26.0,
-        "away": 48.0
-      },
-      "ai_summary": "미들즈브러, 최근 맞대결 5연승·평균 점유율 64.7%로 우위 뚜렷",
-      "ai_picks": [
-        "미들즈브러 승",
-        "오버 2.5"
-      ],
-      "aria_label": "퀸즈 파크 레인저스 vs 미들즈브러 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211166",
-      "url": "https://bbongtv4.com/premium/soccer/2007211166",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "셰필드 유나이티드",
-      "team2": "노리치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "draw": 30.0,
-        "away": 29.0
-      },
-      "ai_summary": "셰필드 유나이티드 홈 무패, 노리치 원정 2연패로 흐름 차이 뚜렷",
-      "ai_picks": [
-        "셰필드 유나이티드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "셰필드 유나이티드 vs 노리치 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211167",
-      "url": "https://bbongtv4.com/premium/soccer/2007211167",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트 브로미치 알비온",
-      "team2": "왓포드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 25.0,
-        "away": 21.0
-      },
-      "ai_summary": "웨스트 브로미치 알비온, 홈 평균득점 2점과 왓포드 원정 부진이 맞물린 경기",
-      "ai_picks": [
-        "웨스트 브로미치 알비온 승",
-        "오버 2.5"
-      ],
-      "aria_label": "웨스트 브로미치 알비온 vs 왓포드 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007211168",
-      "url": "https://bbongtv4.com/premium/soccer/2007211168",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/5 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트햄",
-      "team2": "더비",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "점유율 61% 대 39%, 홈 평균득점 2.5가 우세 근거",
-      "ai_picks": [
-        "웨스트햄 승",
-        "오버 2.5",
-        "더비 +1.5 승"
-      ],
-      "aria_label": "웨스트햄 vs 더비 23:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007208663",
-      "url": "https://bbongtv4.com/premium/soccer/2007208663",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/5 (토)",
-      "time": "23:15",
-      "status": "예정",
-      "result": null,
-      "team1": "아틀레틱 빌바오",
-      "team2": "아틀레티코 마드리드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "아틀레티코 마드리드 승",
-      "ai_picks": [
-        "아틀레티코 마드리드 승"
-      ],
-      "aria_label": "아틀레틱 빌바오 vs 아틀레티코 마드리드 23:15 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007203985",
-      "url": "https://bbongtv4.com/premium/soccer/2007203985",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/5 (토)",
-      "time": "23:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니이메헌",
-      "team2": "페예노르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "페예노르트 원정 승 + 3.5 오버",
-      "ai_picks": [
-        "페예노르트 승",
-        "오버 3.5"
-      ],
-      "aria_label": "니이메헌 vs 페예노르트 23:30 분석 상세",
-      "source_date": "2026-09-05"
-    },
     {
       "id": "2007209598",
       "url": "https://bbongtv4.com/premium/soccer/2007209598",
@@ -2573,6 +1893,686 @@
         "오버 3.5"
       ],
       "aria_label": "산둥 타이산 vs 선전 신펑청 21:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207538",
+      "url": "https://bbongtv4.com/premium/soccer/2007207538",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/5 (토)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피오렌티나",
+      "team2": "토리노",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 34.0,
+        "draw": 36.0,
+        "away": 30.0
+      },
+      "ai_summary": "맞대결 6경기 4무, 양 팀 0승2패가 겹친 저득점 접전 흐름",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "토리노 +0.5 승"
+      ],
+      "aria_label": "피오렌티나 vs 토리노 22:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007013375",
+      "url": "https://bbongtv4.com/premium/soccer/2007013375",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/5 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레버쿠젠",
+      "team2": "우니온베를린",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "레버쿠젠, 최근 2경기 6득점 공격력에 비해 실점 관리가 관건",
+      "ai_picks": [
+        "레버쿠젠 승",
+        "오버 3.5",
+        "우니온베를린 +1.5 승"
+      ],
+      "aria_label": "레버쿠젠 vs 우니온베를린 22:30 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007013376",
+      "url": "https://bbongtv4.com/premium/soccer/2007013376",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/5 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보루시아 묀헨글라드바흐",
+      "team2": "엘버스베르크",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 47.0,
+        "draw": 25.0,
+        "away": 28.0
+      },
+      "ai_summary": "엘버스베르크 최근 2경기 6득점, 공격력 상승세에 주목",
+      "ai_picks": [
+        "오버 2.5",
+        "보루시아 묀헨글라드바흐 승"
+      ],
+      "aria_label": "보루시아 묀헨글라드바흐 vs 엘버스베르크 22:30 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007013379",
+      "url": "https://bbongtv4.com/premium/soccer/2007013379",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/5 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "호펜하임",
+      "team2": "도르트문트",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 24.0,
+        "draw": 20.0,
+        "away": 56.0
+      },
+      "ai_summary": "도르트문트 무실점 개막, 호펜하임 홈 결장 변수로 수비 불안 우려",
+      "ai_picks": [
+        "도르트문트 승",
+        "언더 3.5"
+      ],
+      "aria_label": "호펜하임 vs 도르트문트 22:30 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007013380",
+      "url": "https://bbongtv4.com/premium/soccer/2007013380",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/5 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "파더보른",
+      "team2": "프라이부르크",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 23.0,
+        "draw": 20.0,
+        "away": 57.0
+      },
+      "ai_summary": "프라이부르크 최근 2경기 9득점, 공격력 우위가 승부에 영향",
+      "ai_picks": [
+        "프라이부르크 승",
+        "오버 2.5"
+      ],
+      "aria_label": "파더보른 vs 프라이부르크 22:30 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007013383",
+      "url": "https://bbongtv4.com/premium/soccer/2007013383",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/5 (토)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "브레멘",
+      "team2": "라이프치히",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "라이프치히 최근 3경기 13득점, 공격력 우위가 승부를 가를 변수",
+      "ai_picks": [
+        "라이프치히 승",
+        "언더 3.5"
+      ],
+      "aria_label": "브레멘 vs 라이프치히 22:30 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007200033",
+      "url": "https://bbongtv4.com/premium/soccer/2007200033",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "로젠보르그",
+      "team2": "함캄",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 63.0,
+        "draw": 22.0,
+        "away": 15.0
+      },
+      "ai_summary": "로젠보르그 홈 평균득점 2.5, 함캄 원정 실점 1.86으로 득점 우위 뚜렷",
+      "ai_picks": [
+        "로젠보르그 승",
+        "언더 3.5"
+      ],
+      "aria_label": "로젠보르그 vs 함캄 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007201142",
+      "url": "https://bbongtv4.com/premium/soccer/2007201142",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애버딘",
+      "team2": "킬마녹",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "킬마녹 실점 3.5, 애버딘 홈 득점 1로 저득점 접전 예상",
+      "ai_picks": [
+        "애버딘 승",
+        "언더 2.5"
+      ],
+      "aria_label": "애버딘 vs 킬마녹 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007201143",
+      "url": "https://bbongtv4.com/premium/soccer/2007201143",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "던디 유나이티드",
+      "team2": "팔커크",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "던디 유나이티드, 최근 xG 1.76과 높은 슈팅으로 공격 주도 우위",
+      "ai_picks": [
+        "던디 유나이티드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "던디 유나이티드 vs 팔커크 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007204692",
+      "url": "https://bbongtv4.com/premium/soccer/2007204692",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샤를루아",
+      "team2": "로",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "로얄 유니온 SG 원정 평균득점 4점, 공격력에서 우위 뚜렷",
+      "ai_picks": [
+        "로얄 유니온 SG 승",
+        "오버 2.5",
+        "샤를루아 +0.5 승"
+      ],
+      "aria_label": "샤를루아 vs 로얄 유니온 SG 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007206796",
+      "url": "https://bbongtv4.com/premium/soccer/2007206796",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레인저스",
+      "team2": "머더웰",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 28.0,
+        "away": 18.0
+      },
+      "ai_summary": "머더웰 원정 2.5득점·레인저스 홈 부진, 접전과 다득점 흐름이 교차",
+      "ai_picks": [
+        "오버 2.5",
+        "머더웰 +1.5 승"
+      ],
+      "aria_label": "레인저스 vs 머더웰 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207388",
+      "url": "https://bbongtv4.com/premium/soccer/2007207388",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "브렌트퍼드",
+      "team2": "선더랜드",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 22.0,
+        "away": 16.0
+      },
+      "ai_summary": "브렌트퍼드, xG 2.72와 홈 3-0 대승으로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "브렌트퍼드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "브렌트퍼드 vs 선더랜드 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207389",
+      "url": "https://bbongtv4.com/premium/soccer/2007207389",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "브라이턴",
+      "team2": "리즈",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 29.0,
+        "away": 23.0
+      },
+      "ai_summary": "브라이턴, xG 2.67 및 점유율 73.5%로 공격 주도권 뚜렷",
+      "ai_picks": [
+        "브라이턴 승",
+        "오버 2.5"
+      ],
+      "aria_label": "브라이턴 vs 리즈 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207400",
+      "url": "https://bbongtv4.com/premium/soccer/2007207400",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "에르주룸스포르",
+      "team2": "코냐스포르",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 36.0,
+        "draw": 35.0,
+        "away": 29.0
+      },
+      "ai_summary": "양 팀 모두 수비 불안, 최근 3경기 실점 합계 15골이 저득점 경향을 흔든다",
+      "ai_picks": [
+        "오버 2.5",
+        "코냐스포르 +0.5 승"
+      ],
+      "aria_label": "에르주룸스포르 vs 코냐스포르 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207404",
+      "url": "https://bbongtv4.com/premium/soccer/2007207404",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "풀럼",
+      "team2": "크리스탈팰리스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 34.0,
+        "draw": 37.0,
+        "away": 29.0
+      },
+      "ai_summary": "풀럼, 점유율 60%와 높은 패스성공률로 주도권 잡지만 결정력은 아쉬워",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "풀럼 vs 크리스탈팰리스 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007207968",
+      "url": "https://bbongtv4.com/premium/soccer/2007207968",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "맨시티",
+      "team2": "코번트리",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 80.0,
+        "draw": 15.0,
+        "away": 5.0
+      },
+      "ai_summary": "맨시티, 점유율 69%·슈팅 15.5로 압도적 우위…코번트리 득점력 부진",
+      "ai_picks": [
+        "맨시티 승",
+        "언더 3.5"
+      ],
+      "aria_label": "맨시티 vs 코번트리 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007208181",
+      "url": "https://bbongtv4.com/premium/soccer/2007208181",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "노팅엄",
+      "team2": "토트넘",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 43.0,
+        "draw": 30.0,
+        "away": 27.0
+      },
+      "ai_summary": "노팅엄 최근 2경기 2득점, 토트넘 2경기 연속 무득점 부진",
+      "ai_picks": [
+        "노팅엄 승",
+        "언더 2.5"
+      ],
+      "aria_label": "노팅엄 vs 토트넘 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211162",
+      "url": "https://bbongtv4.com/premium/soccer/2007211162",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "번리",
+      "team2": "브리스톨 시티",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 33.0,
+        "away": 29.0
+      },
+      "ai_summary": "번리, 홈에서는 무패지만 시즌 실점 2.5로 수비 불안 여전",
+      "ai_picks": [
+        "오버 2.5",
+        "브리스톨 시티 +0.5 승"
+      ],
+      "aria_label": "번리 vs 브리스톨 시티 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211163",
+      "url": "https://bbongtv4.com/premium/soccer/2007211163",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀월",
+      "team2": "볼턴",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "밀월, 최근 xG 2.39와 홈 득점력으로 우세…볼턴은 원정서 득점력 저하",
+      "ai_picks": [
+        "밀월 승",
+        "오버 2.5"
+      ],
+      "aria_label": "밀월 vs 볼턴 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211164",
+      "url": "https://bbongtv4.com/premium/soccer/2007211164",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "포츠머스",
+      "team2": "카디프",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 40.0,
+        "away": 30.0
+      },
+      "ai_summary": "카디프 최근 3경기 무패와 높은 기대득점, 원정에서도 득점력 유지",
+      "ai_picks": [
+        "무승부",
+        "오버 2.5",
+        "카디프 +0.5 승"
+      ],
+      "aria_label": "포츠머스 vs 카디프 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211165",
+      "url": "https://bbongtv4.com/premium/soccer/2007211165",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "퀸즈 파크 레인저스",
+      "team2": "미들즈브러",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 26.0,
+        "draw": 26.0,
+        "away": 48.0
+      },
+      "ai_summary": "미들즈브러, 최근 맞대결 5연승·평균 점유율 64.7%로 우위 뚜렷",
+      "ai_picks": [
+        "미들즈브러 승",
+        "오버 2.5"
+      ],
+      "aria_label": "퀸즈 파크 레인저스 vs 미들즈브러 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211166",
+      "url": "https://bbongtv4.com/premium/soccer/2007211166",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "셰필드 유나이티드",
+      "team2": "노리치",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 41.0,
+        "draw": 30.0,
+        "away": 29.0
+      },
+      "ai_summary": "셰필드 유나이티드 홈 무패, 노리치 원정 2연패로 흐름 차이 뚜렷",
+      "ai_picks": [
+        "셰필드 유나이티드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "셰필드 유나이티드 vs 노리치 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211167",
+      "url": "https://bbongtv4.com/premium/soccer/2007211167",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트 브로미치 알비온",
+      "team2": "왓포드",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 25.0,
+        "away": 21.0
+      },
+      "ai_summary": "웨스트 브로미치 알비온, 홈 평균득점 2점과 왓포드 원정 부진이 맞물린 경기",
+      "ai_picks": [
+        "웨스트 브로미치 알비온 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트 브로미치 알비온 vs 왓포드 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007211168",
+      "url": "https://bbongtv4.com/premium/soccer/2007211168",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/5 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트햄",
+      "team2": "더비",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "점유율 61% 대 39%, 홈 평균득점 2.5가 우세 근거",
+      "ai_picks": [
+        "웨스트햄 승",
+        "오버 2.5",
+        "더비 +1.5 승"
+      ],
+      "aria_label": "웨스트햄 vs 더비 23:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007208663",
+      "url": "https://bbongtv4.com/premium/soccer/2007208663",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/5 (토)",
+      "time": "23:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아틀레틱 빌바오",
+      "team2": "아틀레티코 마드리드",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "아틀레티코 마드리드 승",
+      "ai_picks": [
+        "아틀레티코 마드리드 승"
+      ],
+      "aria_label": "아틀레틱 빌바오 vs 아틀레티코 마드리드 23:15 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007203985",
+      "url": "https://bbongtv4.com/premium/soccer/2007203985",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/5 (토)",
+      "time": "23:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니이메헌",
+      "team2": "페예노르트",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "페예노르트 원정 승 + 3.5 오버",
+      "ai_picks": [
+        "페예노르트 승",
+        "오버 3.5"
+      ],
+      "aria_label": "니이메헌 vs 페예노르트 23:30 분석 상세",
       "source_date": "2026-09-05"
     }
   ]
