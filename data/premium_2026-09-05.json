@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-05",
-  "scraped_at": "2026-09-05T08:13:03.728560+00:00",
+  "scraped_at": "2026-09-05T11:52:11.430071+00:00",
   "count": 99,
   "matches": [
-    {
-      "id": "2000355315",
-      "url": "https://bbongtv4.com/premium/baseball/2000355315",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/5 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후쿠오카 소프트뱅크 호크스",
-      "team2": "세이부 라이온스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +1.63으로 체급 우위 뚜렷",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 6.5"
-      ],
-      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 세이부 라이온스 14:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2000355318",
-      "url": "https://bbongtv4.com/premium/baseball/2000355318",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/5 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스 버팔로스",
-      "team2": "치바 롯데 마리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "홈 평균실점 5.5와 원정 평균실점 6.67, 실점 관리가 변수",
-      "ai_picks": [
-        "오릭스 버팔로스 승",
-        "언더 6.5"
-      ],
-      "aria_label": "오릭스 버팔로스 vs 치바 롯데 마리너스 14:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
     {
       "id": "2000356027",
       "url": "https://bbongtv4.com/premium/baseball/2000356027",
@@ -182,33 +132,6 @@
         "SSG 랜더스 +1.5 승"
       ],
       "aria_label": "SSG 랜더스 vs 두산 베어스 17:00 분석 상세",
-      "source_date": "2026-09-05"
-    },
-    {
-      "id": "2007150107",
-      "url": "https://bbongtv4.com/premium/soccer/2007150107",
-      "sport": "soccer",
-      "league": "K리그3",
-      "date": "9/5 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "창",
-      "team2": "창원",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 40.0,
-        "away": 30.0
-      },
-      "ai_summary": "대전 코레일, 원정 실점 1로 안정적 수비…창원 홈 무패 흐름이 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "창원 +0.5 승"
-      ],
-      "aria_label": "창원 vs 대전 코레일 17:00 분석 상세",
       "source_date": "2026-09-05"
     },
     {
@@ -2573,6 +2496,83 @@
         "파추카 -0.5 승"
       ],
       "aria_label": "후아레즈 vs 파추카 12:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2000355315",
+      "url": "https://bbongtv4.com/premium/baseball/2000355315",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/5 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후쿠오카 소프트뱅크 호크스",
+      "team2": "세이부 라이온스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +1.63으로 체급 우위 뚜렷",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 6.5"
+      ],
+      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 세이부 라이온스 14:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2000355318",
+      "url": "https://bbongtv4.com/premium/baseball/2000355318",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/5 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오릭스 버팔로스",
+      "team2": "치바 롯데 마리너스",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "홈 평균실점 5.5와 원정 평균실점 6.67, 실점 관리가 변수",
+      "ai_picks": [
+        "오릭스 버팔로스 승",
+        "언더 6.5"
+      ],
+      "aria_label": "오릭스 버팔로스 vs 치바 롯데 마리너스 14:00 분석 상세",
+      "source_date": "2026-09-05"
+    },
+    {
+      "id": "2007150107",
+      "url": "https://bbongtv4.com/premium/soccer/2007150107",
+      "sport": "soccer",
+      "league": "K리그3",
+      "date": "9/5 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "창",
+      "team2": "창원",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 40.0,
+        "away": 30.0
+      },
+      "ai_summary": "대전 코레일, 원정 실점 1로 안정적 수비…창원 홈 무패 흐름이 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "창원 +0.5 승"
+      ],
+      "aria_label": "창원 vs 대전 코레일 17:00 분석 상세",
       "source_date": "2026-09-05"
     }
   ]
