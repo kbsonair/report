@@ -1,9 +1,371 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-06",
   "source_date": "2026-09-06",
-  "scraped_at": "2026-09-04T23:49:41.407519+00:00",
-  "count": 3,
+  "scraped_at": "2026-09-05T03:45:46.446568+00:00",
+  "count": 37,
   "matches": [
+    {
+      "id": "2007207541",
+      "url": "https://bbongtv4.com/premium/soccer/2007207541",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/6 (일)",
+      "time": "00:15",
+      "status": "예정",
+      "result": null,
+      "team1": "랑스",
+      "team2": "로리앙",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "RC 랑스 승",
+      "ai_picks": [
+        "랑스 승"
+      ],
+      "aria_label": "랑스 vs 로리앙 00:15 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207539",
+      "url": "https://bbongtv4.com/premium/soccer/2007207539",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/6 (일)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "인터 밀란",
+      "team2": "나폴리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "draw": 24.0,
+        "away": 20.0
+      },
+      "ai_summary": "인터밀란 승",
+      "ai_picks": [
+        "인터 밀란 승"
+      ],
+      "aria_label": "인터 밀란 vs 나폴리 01:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007013381",
+      "url": "https://bbongtv4.com/premium/soccer/2007013381",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "샬케",
+      "team2": "바이에른",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 8.0,
+        "away": 87.0
+      },
+      "ai_summary": "FC 바이에른 뮌헨 승 (대승 예상)",
+      "ai_picks": [
+        "바이에른 승"
+      ],
+      "aria_label": "샬케 vs 바이에른 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208195",
+      "url": "https://bbongtv4.com/premium/soccer/2007208195",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "헐",
+      "team2": "아스톤빌라",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "헐 시티 AFC 승 또는 무승부 (언더 2.5골)",
+      "ai_picks": [
+        "헐 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "헐 vs 아스톤빌라 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208750",
+      "url": "https://bbongtv4.com/premium/soccer/2007208750",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/6 (일)",
+      "time": "01:30",
+      "status": "예정",
+      "result": null,
+      "team1": "라요바예카노",
+      "team2": "산탄데르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "라요 바예카노 승 및 오버 2.5",
+      "ai_picks": [
+        "라요바예카노 승",
+        "오버 2.5"
+      ],
+      "aria_label": "라요바예카노 vs 산탄데르 01:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007203992",
+      "url": "https://bbongtv4.com/premium/soccer/2007203992",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/6 (일)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "위트레흐트",
+      "team2": "G.A. 이글스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 28.0,
+        "away": 32.0
+      },
+      "ai_summary": "오버 3.5골 및 고 어헤드 이글스 무패 (무승부 또는 원정팀 승)",
+      "ai_picks": [
+        "오버 3.5",
+        "무승부",
+        "G.A. 이글스 승"
+      ],
+      "aria_label": "위트레흐트 vs G.A. 이글스 01:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007204913",
+      "url": "https://bbongtv4.com/premium/soccer/2007204913",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/6 (일)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "아약스",
+      "team2": "PSV 에인트호번",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "PSV 에인트호번 승 또는 오버 3.5골",
+      "ai_picks": [
+        "PSV 에인트호번 승",
+        "오버 3.5"
+      ],
+      "aria_label": "아약스 vs PSV 에인트호번 03:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2006992766",
+      "url": "https://bbongtv4.com/premium/soccer/2006992766",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/6 (일)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "르아브르",
+      "team2": "브레스트",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 2.5 최우선 공략, 승부 예측은 르아브르 AC 승 또는 무승부",
+      "ai_picks": [
+        "르아브르 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "르아브르 vs 브레스트 03:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207542",
+      "url": "https://bbongtv4.com/premium/soccer/2007207542",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/6 (일)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "니스",
+      "team2": "르망",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 OGC 니스 근소 우세, 언더 2.5 추천",
+      "ai_picks": [
+        "니스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "니스 vs 르망 03:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207646",
+      "url": "https://bbongtv4.com/premium/soccer/2007207646",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/6 (일)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "로마",
+      "team2": "아탈란타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "AS 로마 홈 승리",
+      "ai_picks": [
+        "로마 승"
+      ],
+      "aria_label": "로마 vs 아탈란타 03:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007206797",
+      "url": "https://bbongtv4.com/premium/soccer/2007206797",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세인트 미렌",
+      "team2": "셀틱",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "셀틱 FC 승리",
+      "ai_picks": [
+        "셀틱 승"
+      ],
+      "aria_label": "세인트 미렌 vs 셀틱 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207397",
+      "url": "https://bbongtv4.com/premium/soccer/2007207397",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "빌렘II",
+      "team2": "엑셀시오르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "SBV 엑셀시오르 승 + 오버 2.5",
+      "ai_picks": [
+        "엑셀시오르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "빌렘II vs 엑셀시오르 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007209557",
+      "url": "https://bbongtv4.com/premium/soccer/2007209557",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "비야레알",
+      "team2": "데포르티보 라 코루냐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "비야레알 승 (오버 2.5 병행 추천)",
+      "ai_picks": [
+        "비야레알 승",
+        "오버 2.5"
+      ],
+      "aria_label": "비야레알 vs 데포르티보 라 코루냐 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007211169",
+      "url": "https://bbongtv4.com/premium/soccer/2007211169",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "스완지 시티",
+      "team2": "렉섬",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 스완지 시티 AFC 승리 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "스완지 시티 승",
+        "언더 2.5"
+      ],
+      "aria_label": "스완지 시티 vs 렉섬 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
     {
       "id": "2000360665",
       "url": "https://bbongtv4.com/premium/baseball/2000360665",
@@ -74,6 +436,514 @@
         "피츠버그 파이어리츠 승"
       ],
       "aria_label": "피츠버그 파이어리츠 vs LA 에인절스 07:40 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000360675",
+      "url": "https://bbongtv4.com/premium/baseball/2000360675",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/6 (일)",
+      "time": "08:15",
+      "status": "예정",
+      "result": null,
+      "team1": "샌디에이고 파드레스",
+      "team2": "NY 양키스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "뉴욕양키스 승, 언더 7.5",
+      "ai_picks": [
+        "NY 양키스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs NY 양키스 08:15 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136001",
+      "url": "https://bbongtv4.com/premium/soccer/2007136001",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "샬럿",
+      "team2": "휴스턴 다이나모",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "샬럿 FC 승리, 총 득점 3골 이상(오버) 추천",
+      "ai_picks": [
+        "샬럿 승",
+        "오버 3"
+      ],
+      "aria_label": "샬럿 vs 휴스턴 다이나모 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136002",
+      "url": "https://bbongtv4.com/premium/soccer/2007136002",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "콜럼버스 크루",
+      "team2": "콜로라도 래피즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 23.0,
+        "away": 32.0
+      },
+      "ai_summary": "홈팀 승 또는 오버 2.5",
+      "ai_picks": [
+        "콜럼버스 크루 승",
+        "오버 2.5"
+      ],
+      "aria_label": "콜럼버스 크루 vs 콜로라도 래피즈 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136003",
+      "url": "https://bbongtv4.com/premium/soccer/2007136003",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 신시내티",
+      "team2": "DC 유나이티드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 FC 신시내티 승리",
+      "ai_picks": [
+        "FC 신시내티 승"
+      ],
+      "aria_label": "FC 신시내티 vs DC 유나이티드 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136004",
+      "url": "https://bbongtv4.com/premium/soccer/2007136004",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "인터 마이애미",
+      "team2": "애틀랜타 유나이티드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 18.0,
+        "away": 17.0
+      },
+      "ai_summary": "인터 마이애미 CF 승리 (예상 스코어 3-0 또는 3-1)",
+      "ai_picks": [
+        "인터 마이애미 승"
+      ],
+      "aria_label": "인터 마이애미 vs 애틀랜타 유나이티드 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136005",
+      "url": "https://bbongtv4.com/premium/soccer/2007136005",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "올랜도시티",
+      "team2": "샌디에이고 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "draw": 25.0,
+        "away": 33.0
+      },
+      "ai_summary": "올랜도 시티 SC 승 또는 양팀 모두 득점(오버 3.5)",
+      "ai_picks": [
+        "올랜도시티 승",
+        "오버 3.5"
+      ],
+      "aria_label": "올랜도시티 vs 샌디에이고 FC 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136006",
+      "url": "https://bbongtv4.com/premium/soccer/2007136006",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "필라델피아 유니온",
+      "team2": "CF 몬트리올",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "필라델피아 유니언 승리 (2-0 예상 스코어)",
+      "ai_picks": [
+        "필라델피아 유니온 승"
+      ],
+      "aria_label": "필라델피아 유니온 vs CF 몬트리올 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136007",
+      "url": "https://bbongtv4.com/premium/soccer/2007136007",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "토론토 FC",
+      "team2": "시카고 파이어",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "시카고 파이어 승 또는 무승부 (언더 3.5 강력 추천)",
+      "ai_picks": [
+        "시카고 파이어 승",
+        "무승부",
+        "언더 3.5"
+      ],
+      "aria_label": "토론토 FC vs 시카고 파이어 08:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136008",
+      "url": "https://bbongtv4.com/premium/soccer/2007136008",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "오스틴 FC",
+      "team2": "SJ 어스퀘이크스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 27.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈팀 오스틴 FC 승 또는 언더 3.5",
+      "ai_picks": [
+        "오스틴 FC 승",
+        "언더 3.5"
+      ],
+      "aria_label": "오스틴 FC vs SJ 어스퀘이크스 09:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136009",
+      "url": "https://bbongtv4.com/premium/soccer/2007136009",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "FC 댈러스",
+      "team2": "SKC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "draw": 18.0,
+        "away": 20.0
+      },
+      "ai_summary": "FC 댈러스 승리 (핸디캡 -1.5 추천)",
+      "ai_picks": [
+        "FC 댈러스 승",
+        "FC 댈러스 -1.5 승"
+      ],
+      "aria_label": "FC 댈러스 vs SKC 09:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136010",
+      "url": "https://bbongtv4.com/premium/soccer/2007136010",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "시애틀 사운더스",
+      "team2": "NY 레드불스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 시애틀 사운더스 FC 승 또는 오버 3.5골",
+      "ai_picks": [
+        "시애틀 사운더스 승",
+        "오버 3.5"
+      ],
+      "aria_label": "시애틀 사운더스 vs NY 레드불스 09:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136011",
+      "url": "https://bbongtv4.com/premium/soccer/2007136011",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "10:30",
+      "status": "예정",
+      "result": null,
+      "team1": "LA 갤럭시",
+      "team2": "NE 레볼루션",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 30.0,
+        "away": 37.0
+      },
+      "ai_summary": "언더 3.5 (보조: LA 갤럭시 핸디캡 0)",
+      "ai_picks": [
+        "언더 3.5"
+      ],
+      "aria_label": "LA 갤럭시 vs NE 레볼루션 10:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136012",
+      "url": "https://bbongtv4.com/premium/soccer/2007136012",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "10:30",
+      "status": "예정",
+      "result": null,
+      "team1": "레알 솔트레이크",
+      "team2": "로스앤젤레스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "로스앤젤레스 FC 승",
+      "ai_picks": [
+        "로스앤젤레스 FC 승"
+      ],
+      "aria_label": "레알 솔트레이크 vs 로스앤젤레스 FC 10:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136013",
+      "url": "https://bbongtv4.com/premium/soccer/2007136013",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "포틀랜드 팀버스",
+      "team2": "미네소타 유나이티드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "언더 3.5골 (무승부 또는 홈팀 소폭 우세)",
+      "ai_picks": [
+        "언더 3.5",
+        "무승부"
+      ],
+      "aria_label": "포틀랜드 팀버스 vs 미네소타 유나이티드 11:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007136014",
+      "url": "https://bbongtv4.com/premium/soccer/2007136014",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/6 (일)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "밴쿠버 화이트캡스",
+      "team2": "세인트루이스 시티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 22.0,
+        "away": 23.0
+      },
+      "ai_summary": "홈팀 밴쿠버 화이트캡스 FC 승",
+      "ai_picks": [
+        "밴쿠버 화이트캡스 승"
+      ],
+      "aria_label": "밴쿠버 화이트캡스 vs 세인트루이스 시티 11:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000356032",
+      "url": "https://bbongtv4.com/premium/baseball/2000356032",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/6 (일)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "KIA 타이거즈",
+      "team2": "KT 위즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "draw": 5.0,
+        "away": 55.0
+      },
+      "ai_summary": "KT 승리",
+      "ai_picks": [
+        "KT 위즈 승"
+      ],
+      "aria_label": "KIA 타이거즈 vs KT 위즈 17:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000356034",
+      "url": "https://bbongtv4.com/premium/baseball/2000356034",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/6 (일)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "LG 트윈스",
+      "team2": "삼성 라이온즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "LG 승리",
+      "ai_picks": [
+        "LG 트윈스 승"
+      ],
+      "aria_label": "LG 트윈스 vs 삼성 라이온즈 17:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000356035",
+      "url": "https://bbongtv4.com/premium/baseball/2000356035",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/6 (일)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "롯데 자이언츠",
+      "team2": "한화 이글스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 5.0,
+        "away": 40.0
+      },
+      "ai_summary": "롯데 승리",
+      "ai_picks": [
+        "롯데 자이언츠 승"
+      ],
+      "aria_label": "롯데 자이언츠 vs 한화 이글스 17:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000356036",
+      "url": "https://bbongtv4.com/premium/baseball/2000356036",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/6 (일)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "SSG 랜더스",
+      "team2": "두산 베어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "draw": 15.0,
+        "away": 42.0
+      },
+      "ai_summary": "SSG 소폭 우세 (로스코어 접전 예상, 언더 추천)",
+      "ai_picks": [
+        "SSG 랜더스 승"
+      ],
+      "aria_label": "SSG 랜더스 vs 두산 베어스 17:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2000355322",
+      "url": "https://bbongtv4.com/premium/baseball/2000355322",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/6 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한신 타이거스",
+      "team2": "요코하마 베이스타즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 15.0,
+        "away": 30.0
+      },
+      "ai_summary": "한신 승리 (로스코어 언더 전망)",
+      "ai_picks": [
+        "한신 타이거스 승"
+      ],
+      "aria_label": "한신 타이거스 vs 요코하마 베이스타즈 18:00 분석 상세",
       "source_date": "2026-09-06"
     }
   ]
