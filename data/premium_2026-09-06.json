@@ -1,193 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-06",
-  "scraped_at": "2026-09-05T21:20:45.549882+00:00",
+  "scraped_at": "2026-09-05T23:16:14.604392+00:00",
   "count": 116,
   "matches": [
-    {
-      "id": "2007206797",
-      "url": "https://bbongtv4.com/premium/soccer/2007206797",
-      "sport": "soccer",
-      "league": "SCO PR",
-      "date": "9/6 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세인트 미렌",
-      "team2": "셀틱",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "셀틱, 득실차 +2.25의 압도적 흐름과 원정 5-1 대승 경험이 변수",
-      "ai_picks": [
-        "언더 3.5",
-        "세인트 미렌 +1.5 승"
-      ],
-      "aria_label": "세인트 미렌 vs 셀틱 04:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007207397",
-      "url": "https://bbongtv4.com/premium/soccer/2007207397",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/6 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "빌렘II",
-      "team2": "엑셀시오르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 22.0,
-        "away": 55.0
-      },
-      "ai_summary": "빌렘II, 시즌 평균 실점 3.3으로 수비 불안…엑셀시오르 공격력 우위",
-      "ai_picks": [
-        "엑셀시오르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "빌렘II vs 엑셀시오르 04:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007208118",
-      "url": "https://bbongtv4.com/premium/soccer/2007208118",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/6 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브라간치노",
-      "team2": "바이아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "브라간치노 주축 다수 결장, 바이아 최근 6경기 무패 흐름이 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "바이아 +0.5 승"
-      ],
-      "aria_label": "브라간치노 vs 바이아 04:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007209557",
-      "url": "https://bbongtv4.com/premium/soccer/2007209557",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/6 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "비야레알",
-      "team2": "데포르티보 라 코루냐",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "비야레알 최근 3경기 모두 실점, 데포르티보 라 코루냐 공격력 주목",
-      "ai_picks": [
-        "오버 2.5",
-        "데포르티보 라 코루냐 +1.5 승"
-      ],
-      "aria_label": "비야레알 vs 데포르티보 라 코루냐 04:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007211169",
-      "url": "https://bbongtv4.com/premium/soccer/2007211169",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/6 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "스완지 시티",
-      "team2": "렉섬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 25.0,
-        "away": 23.0
-      },
-      "ai_summary": "스완지 시티, 4경기 1실점의 강력한 수비와 홈 무패 흐름이 우위 근거",
-      "ai_picks": [
-        "스완지 시티 승",
-        "언더 2.5"
-      ],
-      "aria_label": "스완지 시티 vs 렉섬 04:00 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007208198",
-      "url": "https://bbongtv4.com/premium/soccer/2007208198",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/6 (일)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "스포르팅 CP",
-      "team2": "나시오날",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 15.0,
-        "away": 7.0
-      },
-      "ai_summary": "스포르팅 CP 홈 2경기 평균 3득점, 나시오날 원정 1득점에 그쳐",
-      "ai_picks": [
-        "스포르팅 CP 승",
-        "언더 3.5",
-        "나시오날 +2.5 승"
-      ],
-      "aria_label": "스포르팅 CP vs 나시오날 04:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
-    {
-      "id": "2007210105",
-      "url": "https://bbongtv4.com/premium/soccer/2007210105",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/6 (일)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "짐나시아 멘도사",
-      "team2": "보카 주니어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 33.0,
-        "away": 29.0
-      },
-      "ai_summary": "짐나시아 멘도사, 홈 3경기 6득점 1실점의 강력한 수비력 주목",
-      "ai_picks": [
-        "짐나시아 멘도사 +0.5 승",
-        "언더 2.5"
-      ],
-      "aria_label": "짐나시아 멘도사 vs 보카 주니어스 04:30 분석 상세",
-      "source_date": "2026-09-06"
-    },
     {
       "id": "2000360663",
       "url": "https://bbongtv4.com/premium/baseball/2000360663",
@@ -2892,12 +2708,12 @@
       "league": "FRA D1",
       "date": "9/6 (일)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "르아브르",
       "team2": "브레스트",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 27.0,
         "draw": 34.0,
@@ -2918,12 +2734,12 @@
       "league": "BEL D1",
       "date": "9/6 (일)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트 리에주",
       "team2": "안트워프",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 44.0,
         "draw": 29.0,
@@ -2945,12 +2761,12 @@
       "league": "FRA D1",
       "date": "9/6 (일)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니스",
       "team2": "르망",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 41.0,
         "draw": 33.0,
@@ -2971,12 +2787,12 @@
       "league": "BEL D1",
       "date": "9/6 (일)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트 트루이던",
       "team2": "라 알 루비에르",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 0,
       "prob": {
         "home": 62.0,
         "draw": 23.0,
@@ -2997,12 +2813,12 @@
       "league": "ITA D1",
       "date": "9/6 (일)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "로마",
       "team2": "아탈란타",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 63.0,
         "draw": 20.0,
@@ -3014,6 +2830,190 @@
         "오버 2.5"
       ],
       "aria_label": "로마 vs 아탈란타 03:45 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007206797",
+      "url": "https://bbongtv4.com/premium/soccer/2007206797",
+      "sport": "soccer",
+      "league": "SCO PR",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세인트 미렌",
+      "team2": "셀틱",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "셀틱, 득실차 +2.25의 압도적 흐름과 원정 5-1 대승 경험이 변수",
+      "ai_picks": [
+        "언더 3.5",
+        "세인트 미렌 +1.5 승"
+      ],
+      "aria_label": "세인트 미렌 vs 셀틱 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007207397",
+      "url": "https://bbongtv4.com/premium/soccer/2007207397",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "빌렘II",
+      "team2": "엑셀시오르",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 23.0,
+        "draw": 22.0,
+        "away": 55.0
+      },
+      "ai_summary": "빌렘II, 시즌 평균 실점 3.3으로 수비 불안…엑셀시오르 공격력 우위",
+      "ai_picks": [
+        "엑셀시오르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "빌렘II vs 엑셀시오르 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208118",
+      "url": "https://bbongtv4.com/premium/soccer/2007208118",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브라간치노",
+      "team2": "바이아",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "브라간치노 주축 다수 결장, 바이아 최근 6경기 무패 흐름이 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "바이아 +0.5 승"
+      ],
+      "aria_label": "브라간치노 vs 바이아 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007209557",
+      "url": "https://bbongtv4.com/premium/soccer/2007209557",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "비야레알",
+      "team2": "데포르티보 라 코루냐",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "비야레알 최근 3경기 모두 실점, 데포르티보 라 코루냐 공격력 주목",
+      "ai_picks": [
+        "오버 2.5",
+        "데포르티보 라 코루냐 +1.5 승"
+      ],
+      "aria_label": "비야레알 vs 데포르티보 라 코루냐 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007211169",
+      "url": "https://bbongtv4.com/premium/soccer/2007211169",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/6 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스완지 시티",
+      "team2": "렉섬",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 52.0,
+        "draw": 25.0,
+        "away": 23.0
+      },
+      "ai_summary": "스완지 시티, 4경기 1실점의 강력한 수비와 홈 무패 흐름이 우위 근거",
+      "ai_picks": [
+        "스완지 시티 승",
+        "언더 2.5"
+      ],
+      "aria_label": "스완지 시티 vs 렉섬 04:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208198",
+      "url": "https://bbongtv4.com/premium/soccer/2007208198",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/6 (일)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스포르팅 CP",
+      "team2": "나시오날",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 78.0,
+        "draw": 15.0,
+        "away": 7.0
+      },
+      "ai_summary": "스포르팅 CP 홈 2경기 평균 3득점, 나시오날 원정 1득점에 그쳐",
+      "ai_picks": [
+        "스포르팅 CP 승",
+        "언더 3.5",
+        "나시오날 +2.5 승"
+      ],
+      "aria_label": "스포르팅 CP vs 나시오날 04:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007210105",
+      "url": "https://bbongtv4.com/premium/soccer/2007210105",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/6 (일)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "짐나시아 멘도사",
+      "team2": "보카 주니어스",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 33.0,
+        "away": 29.0
+      },
+      "ai_summary": "짐나시아 멘도사, 홈 3경기 6득점 1실점의 강력한 수비력 주목",
+      "ai_picks": [
+        "짐나시아 멘도사 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "짐나시아 멘도사 vs 보카 주니어스 04:30 분석 상세",
       "source_date": "2026-09-06"
     }
   ]
