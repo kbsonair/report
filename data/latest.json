@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T23:16:17.611575+00:00",
+  "scraped_at": "2026-09-06T01:05:53.141275+00:00",
   "kst_yesterday": "2026-09-05",
   "kst_today": "2026-09-06",
   "kst_tomorrow": "2026-09-07",
@@ -8,7 +8,7 @@
     "2026-09-06",
     "2026-09-07"
   ],
-  "count": 256,
+  "count": 261,
   "matches": [
     {
       "id": "2006992765",
@@ -1066,7 +1066,8 @@
       },
       "ai_summary": "LA 다저스, 홈 타선 OPS .756과 1위 순위로 우세한 흐름",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5"
       ],
       "aria_label": "LA 다저스 vs 워싱턴 내셔널스 11:10 분석 상세",
       "source_date": "2026-09-07"
@@ -1840,12 +1841,12 @@
       "league": "MLB",
       "date": "9/6 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미 말린스",
       "team2": "시카고 컵스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 6,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -1865,12 +1866,12 @@
       "league": "MLB",
       "date": "9/6 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 메츠",
       "team2": "SF 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 9,
       "prob": {
         "home": 63.0,
         "away": 37.0
@@ -1890,12 +1891,12 @@
       "league": "BRA D1",
       "date": "9/6 (일)",
       "time": "06:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "상파울루",
       "team2": "아틀레치쿠 미네이루",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 38.0,
         "draw": 35.0,
@@ -1917,12 +1918,12 @@
       "league": "ARG D1",
       "date": "9/6 (일)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "산 로렌소",
       "team2": "타예레스 코르도바",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 41.0,
         "draw": 32.0,
@@ -2808,6 +2809,32 @@
       "source_date": "2026-09-06"
     },
     {
+      "id": "16472274",
+      "url": "https://bbongtv4.com/premium/soccer/16472274",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/6 (일)",
+      "time": "13:00",
+      "status": "예정",
+      "result": null,
+      "team1": "콘사도레 삿포로",
+      "team2": "도치기 시티 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 36.0,
+        "draw": 30.0,
+        "away": 34.0
+      },
+      "ai_summary": "콘사도레 삿포로 최근 5경기 4승, 도치기 시티 FC보다 안정적 흐름",
+      "ai_picks": [
+        "오버 2.5",
+        "도치기 시티 FC +0.5 승"
+      ],
+      "aria_label": "콘사도레 삿포로 vs 도치기 시티 FC 13:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
       "id": "2000355325",
       "url": "https://bbongtv4.com/premium/baseball/2000355325",
       "sport": "baseball",
@@ -3038,6 +3065,58 @@
       "source_date": "2026-09-06"
     },
     {
+      "id": "16472310",
+      "url": "https://bbongtv4.com/premium/soccer/16472310",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/6 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "블라우블리츠 아키타",
+      "team2": "오미야 아르디자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "오미야 아르디자, 최근 원정 3경기 9득점으로 공격력 앞선다",
+      "ai_picks": [
+        "오미야 아르디자 승",
+        "오버 2.5"
+      ],
+      "aria_label": "블라우블리츠 아키타 vs 오미야 아르디자 18:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "16472311",
+      "url": "https://bbongtv4.com/premium/soccer/16472311",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/6 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "요코하마 FC",
+      "team2": "알비렉스 니가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 26.0,
+        "away": 26.0
+      },
+      "ai_summary": "요코하마 FC, 최근 5경기 11득점 공격력과 홈 우위가 변수",
+      "ai_picks": [
+        "요코하마 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "요코하마 FC vs 알비렉스 니가타 18:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
       "id": "2007150777",
       "url": "https://bbongtv4.com/premium/soccer/2007150777",
       "sport": "soccer",
@@ -3099,8 +3178,8 @@
       "time": "18:00",
       "status": "예정",
       "result": null,
-      "team1": "가",
-      "team2": "가시마앤틀러스",
+      "team1": "가시마앤틀러스",
+      "team2": "우라와 레드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3192,6 +3271,58 @@
         "NC 다이노스 -1.5 승"
       ],
       "aria_label": "키움 히어로즈 vs NC 다이노스 19:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "16472371",
+      "url": "https://bbongtv4.com/premium/soccer/16472371",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/6 (일)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "주빌로 이와타",
+      "team2": "카탈레 도야마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 28.0,
+        "away": 39.0
+      },
+      "ai_summary": "카탈레 도야마, 최근 4경기 위험지역 공격 81.5회로 압도적 공세",
+      "ai_picks": [
+        "오버 2.5",
+        "카탈레 도야마 +0.5 승"
+      ],
+      "aria_label": "주빌로 이와타 vs 카탈레 도야마 19:00 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "16472372",
+      "url": "https://bbongtv4.com/premium/soccer/16472372",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/6 (일)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오이타 트리니타",
+      "team2": "FC 이마바리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 44.0,
+        "draw": 33.0,
+        "away": 23.0
+      },
+      "ai_summary": "오이타 트리니타 홈 4승5패, 이마바리 원정 2승7패로 원정 약세 뚜렷",
+      "ai_picks": [
+        "오이타 트리니타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "오이타 트리니타 vs FC 이마바리 19:00 분석 상세",
       "source_date": "2026-09-06"
     },
     {
@@ -3386,7 +3517,7 @@
       "status": "예정",
       "result": null,
       "team1": "카시와 레이솔",
-      "team2": "요",
+      "team2": "요코하마 F. 마리노스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3412,7 +3543,7 @@
       "status": "예정",
       "result": null,
       "team1": "가와사키 프론탈레",
-      "team2": "시",
+      "team2": "시미즈 S-펄스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3883,7 +4014,7 @@
       "status": "예정",
       "result": null,
       "team1": "하츠",
-      "team2": "던",
+      "team2": "던디 FC",
       "score1": null,
       "score2": null,
       "prob": {
@@ -5460,12 +5591,12 @@
       "league": "WK리그 (여자축구)",
       "date": "9/5 (토)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "문",
       "team2": "문경 상무 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 15.0,
         "draw": 20.0,
@@ -5485,12 +5616,12 @@
       "league": "WK리그 (여자축구)",
       "date": "9/5 (토)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "세",
       "team2": "세종 스포츠토토 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 45.0,
         "draw": 25.0,
@@ -5510,12 +5641,12 @@
       "league": "WK리그 (여자축구)",
       "date": "9/5 (토)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "수",
       "team2": "수원FC 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 70.0,
         "draw": 20.0,
