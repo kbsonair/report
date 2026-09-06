@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T17:09:13.251822+00:00",
+  "scraped_at": "2026-09-06T19:17:26.174882+00:00",
   "kst_yesterday": "2026-09-06",
   "kst_today": "2026-09-07",
   "kst_tomorrow": "2026-09-08",
@@ -160,7 +160,8 @@
       },
       "ai_summary": "제수스 루잘도 방어율 3.02, 브라이스 엘드엘보다 선발진 우위 뚜렷",
       "ai_picks": [
-        "애틀란타 브레이브스 승"
+        "애틀란타 브레이브스 승",
+        "언더 8.5"
       ],
       "aria_label": "필라델피아 필리스 vs 애틀란타 브레이브스 02:05 분석 상세",
       "source_date": "2026-09-08"
@@ -184,7 +185,9 @@
       },
       "ai_summary": "마이애미 말린스, 홈에서 낮은 득점력과 불펜 결장 변수로 불안 요소 존재",
       "ai_picks": [
-        "마이애미 말린스 승"
+        "마이애미 말린스 승",
+        "오버 8",
+        "마이애미 말린스 +1.5 승"
       ],
       "aria_label": "마이애미 말린스 vs NY 메츠 02:10 분석 상세",
       "source_date": "2026-09-08"
@@ -208,7 +211,8 @@
       },
       "ai_summary": "볼티모어 최근 4연패, 클리블랜드 원정 3연승으로 분위기 대조",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "클리블랜드 가디언스 +1.5 승"
       ],
       "aria_label": "볼티모어 오리올스 vs 클리블랜드 가디언스 02:35 분석 상세",
       "source_date": "2026-09-08"
@@ -307,7 +311,9 @@
       },
       "ai_summary": "밀워키 브루어스, 최근 4경기 중 3경기서 9득점 이상 폭발",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 8.5",
+        "시카고 컵스 +1.5 승"
       ],
       "aria_label": "밀워키 브루어스 vs 시카고 컵스 03:10 분석 상세",
       "source_date": "2026-09-08"
@@ -912,12 +918,12 @@
       "league": "FRA D1",
       "date": "9/7 (월)",
       "time": "00:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "앙제",
       "team2": "렌",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 20.0,
         "draw": 25.0,
@@ -938,12 +944,12 @@
       "league": "GER D1",
       "date": "9/7 (월)",
       "time": "00:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "프랑크푸르트",
       "team2": "아우크스부르크",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 44.0,
         "draw": 32.0,
@@ -964,12 +970,12 @@
       "league": "ENG PR",
       "date": "9/7 (월)",
       "time": "00:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "아스날",
       "team2": "첼시",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 54.0,
         "draw": 24.0,
@@ -990,12 +996,12 @@
       "league": "ITA D1",
       "date": "9/7 (월)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼로냐",
       "team2": "사수올로",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 44.0,
         "draw": 33.0,
@@ -1042,12 +1048,12 @@
       "league": "BEL D1",
       "date": "9/7 (월)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "안더레흐트",
       "team2": "겐크",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 30.0,
         "draw": 30.0,
@@ -1068,12 +1074,12 @@
       "league": "SPA D1",
       "date": "9/7 (월)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "알라베스",
       "team2": "오사수나",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 39.0,
         "draw": 33.0,
@@ -1094,12 +1100,12 @@
       "league": "SPA D1",
       "date": "9/7 (월)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "말라가",
       "team2": "레반테",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 30.0,
         "draw": 32.0,
@@ -5116,12 +5122,12 @@
       "league": "HOL D1",
       "date": "9/6 (일)",
       "time": "23:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "덴 하흐",
       "team2": "시타르트",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 30.0,
         "draw": 25.0,

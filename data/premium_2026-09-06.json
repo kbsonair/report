@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-06",
   "source_date": "2026-09-06",
-  "scraped_at": "2026-09-06T17:09:12.202216+00:00",
+  "scraped_at": "2026-09-06T19:17:24.945516+00:00",
   "count": 121,
   "matches": [
-    {
-      "id": "2007208182",
-      "url": "https://bbongtv4.com/premium/soccer/2007208182",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/6 (일)",
-      "time": "23:45",
-      "status": "예정",
-      "result": null,
-      "team1": "덴 하흐",
-      "team2": "시타르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "덴 하흐 4경기 11실점, 시타르트 원정 득점력에 수비 불안 겹친다",
-      "ai_picks": [
-        "오버 3.5",
-        "시타르트 +0.5 승"
-      ],
-      "aria_label": "덴 하흐 vs 시타르트 23:45 분석 상세",
-      "source_date": "2026-09-06"
-    },
     {
       "id": "2007207541",
       "url": "https://bbongtv4.com/premium/soccer/2007207541",
@@ -3144,6 +3118,32 @@
         "언더 2.5"
       ],
       "aria_label": "산타 클라라 vs 리우 아베 23:30 분석 상세",
+      "source_date": "2026-09-06"
+    },
+    {
+      "id": "2007208182",
+      "url": "https://bbongtv4.com/premium/soccer/2007208182",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/6 (일)",
+      "time": "23:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "덴 하흐",
+      "team2": "시타르트",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "덴 하흐 4경기 11실점, 시타르트 원정 득점력에 수비 불안 겹친다",
+      "ai_picks": [
+        "오버 3.5",
+        "시타르트 +0.5 승"
+      ],
+      "aria_label": "덴 하흐 vs 시타르트 23:45 분석 상세",
       "source_date": "2026-09-06"
     }
   ]

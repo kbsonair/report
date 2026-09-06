@@ -1,113 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-07",
-  "scraped_at": "2026-09-06T17:09:10.649197+00:00",
+  "scraped_at": "2026-09-06T19:17:23.316501+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "2006992765",
-      "url": "https://bbongtv4.com/premium/soccer/2006992765",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "9/7 (월)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "앙제",
-      "team2": "렌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "렌 최근 6경기 중 5승, 맞대결 우위와 배당 모두 원정 강세 지지",
-      "ai_picks": [
-        "렌 승",
-        "오버 2.5"
-      ],
-      "aria_label": "앙제 vs 렌 00:15 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007013377",
-      "url": "https://bbongtv4.com/premium/soccer/2007013377",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/7 (월)",
-      "time": "00:30",
-      "status": "예정",
-      "result": null,
-      "team1": "프랑크푸르트",
-      "team2": "아우크스부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "draw": 32.0,
-        "away": 24.0
-      },
-      "ai_summary": "최근 3-3 무승부와 3-0 완승, 아우크스부르크 수비가 변수로 작용",
-      "ai_picks": [
-        "프랑크푸르트 승",
-        "언더 3.5"
-      ],
-      "aria_label": "프랑크푸르트 vs 아우크스부르크 00:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007209568",
-      "url": "https://bbongtv4.com/premium/soccer/2007209568",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/7 (월)",
-      "time": "00:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아스날",
-      "team2": "첼시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 24.0,
-        "away": 22.0
-      },
-      "ai_summary": "아스날, 최근 2경기 무실점과 높은 점유율로 안정감 뚜렷",
-      "ai_picks": [
-        "아스날 승",
-        "오버 2.5"
-      ],
-      "aria_label": "아스날 vs 첼시 00:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007208652",
-      "url": "https://bbongtv4.com/premium/soccer/2007208652",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/7 (월)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "볼로냐",
-      "team2": "사수올로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "draw": 33.0,
-        "away": 23.0
-      },
-      "ai_summary": "볼로냐, 기대득점 1.42에도 무득점…결정력 부진이 변수로 작용",
-      "ai_picks": [
-        "언더 2.5",
-        "사수올로 +0.5 승"
-      ],
-      "aria_label": "볼로냐 vs 사수올로 01:00 분석 상세",
-      "source_date": "2026-09-07"
-    },
     {
       "id": "2000360678",
       "url": "https://bbongtv4.com/premium/baseball/2000360678",
@@ -132,84 +28,6 @@
         "밀워키 브루어스 -1.5 승"
       ],
       "aria_label": "신시내티 레즈 vs 밀워키 브루어스 01:10 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007208852",
-      "url": "https://bbongtv4.com/premium/soccer/2007208852",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/7 (월)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "안더레흐트",
-      "team2": "겐크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "겐크 최근 3경기 기대득점 2.87, 공격 효율이 승부의 변수",
-      "ai_picks": [
-        "오버 2.5",
-        "겐크 +0.5 승"
-      ],
-      "aria_label": "안더레흐트 vs 겐크 01:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007209931",
-      "url": "https://bbongtv4.com/premium/soccer/2007209931",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/7 (월)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알라베스",
-      "team2": "오사수나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 39.0,
-        "draw": 33.0,
-        "away": 28.0
-      },
-      "ai_summary": "알라베스 홈 2경기 무실점, 오사수나도 실점 억제력 뚜렷",
-      "ai_picks": [
-        "언더 2.5",
-        "오사수나 +0.5 승"
-      ],
-      "aria_label": "알라베스 vs 오사수나 01:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007210277",
-      "url": "https://bbongtv4.com/premium/soccer/2007210277",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/7 (월)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "말라가",
-      "team2": "레반테",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 32.0,
-        "away": 38.0
-      },
-      "ai_summary": "말라가 최근 3경기 실점 7, 레반테 공격진 효율이 변수",
-      "ai_picks": [
-        "레반테 +0.5 승",
-        "언더 2.5"
-      ],
-      "aria_label": "말라가 vs 레반테 01:30 분석 상세",
       "source_date": "2026-09-07"
     },
     {
@@ -1090,6 +908,188 @@
         "오버 8.5"
       ],
       "aria_label": "LA 다저스 vs 워싱턴 내셔널스 11:10 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2006992765",
+      "url": "https://bbongtv4.com/premium/soccer/2006992765",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/7 (월)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "앙제",
+      "team2": "렌",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "렌 최근 6경기 중 5승, 맞대결 우위와 배당 모두 원정 강세 지지",
+      "ai_picks": [
+        "렌 승",
+        "오버 2.5"
+      ],
+      "aria_label": "앙제 vs 렌 00:15 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007013377",
+      "url": "https://bbongtv4.com/premium/soccer/2007013377",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/7 (월)",
+      "time": "00:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "프랑크푸르트",
+      "team2": "아우크스부르크",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 44.0,
+        "draw": 32.0,
+        "away": 24.0
+      },
+      "ai_summary": "최근 3-3 무승부와 3-0 완승, 아우크스부르크 수비가 변수로 작용",
+      "ai_picks": [
+        "프랑크푸르트 승",
+        "언더 3.5"
+      ],
+      "aria_label": "프랑크푸르트 vs 아우크스부르크 00:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007209568",
+      "url": "https://bbongtv4.com/premium/soccer/2007209568",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/7 (월)",
+      "time": "00:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아스날",
+      "team2": "첼시",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "draw": 24.0,
+        "away": 22.0
+      },
+      "ai_summary": "아스날, 최근 2경기 무실점과 높은 점유율로 안정감 뚜렷",
+      "ai_picks": [
+        "아스날 승",
+        "오버 2.5"
+      ],
+      "aria_label": "아스날 vs 첼시 00:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007208652",
+      "url": "https://bbongtv4.com/premium/soccer/2007208652",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/7 (월)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "볼로냐",
+      "team2": "사수올로",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 44.0,
+        "draw": 33.0,
+        "away": 23.0
+      },
+      "ai_summary": "볼로냐, 기대득점 1.42에도 무득점…결정력 부진이 변수로 작용",
+      "ai_picks": [
+        "언더 2.5",
+        "사수올로 +0.5 승"
+      ],
+      "aria_label": "볼로냐 vs 사수올로 01:00 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007208852",
+      "url": "https://bbongtv4.com/premium/soccer/2007208852",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/7 (월)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "안더레흐트",
+      "team2": "겐크",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "겐크 최근 3경기 기대득점 2.87, 공격 효율이 승부의 변수",
+      "ai_picks": [
+        "오버 2.5",
+        "겐크 +0.5 승"
+      ],
+      "aria_label": "안더레흐트 vs 겐크 01:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007209931",
+      "url": "https://bbongtv4.com/premium/soccer/2007209931",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/7 (월)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "알라베스",
+      "team2": "오사수나",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 39.0,
+        "draw": 33.0,
+        "away": 28.0
+      },
+      "ai_summary": "알라베스 홈 2경기 무실점, 오사수나도 실점 억제력 뚜렷",
+      "ai_picks": [
+        "언더 2.5",
+        "오사수나 +0.5 승"
+      ],
+      "aria_label": "알라베스 vs 오사수나 01:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007210277",
+      "url": "https://bbongtv4.com/premium/soccer/2007210277",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/7 (월)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말라가",
+      "team2": "레반테",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 32.0,
+        "away": 38.0
+      },
+      "ai_summary": "말라가 최근 3경기 실점 7, 레반테 공격진 효율이 변수",
+      "ai_picks": [
+        "레반테 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "말라가 vs 레반테 01:30 분석 상세",
       "source_date": "2026-09-07"
     }
   ]
