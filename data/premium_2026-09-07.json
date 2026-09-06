@@ -1,8 +1,8 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-07",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-07",
-  "scraped_at": "2026-09-06T14:14:25.786323+00:00",
-  "count": 41,
+  "scraped_at": "2026-09-06T17:09:10.649197+00:00",
+  "count": 42,
   "matches": [
     {
       "id": "2006992765",
@@ -316,6 +316,32 @@
         "애틀란타 브레이브스 -1.5 승"
       ],
       "aria_label": "필라델피아 필리스 vs 애틀란타 브레이브스 02:10 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007203988",
+      "url": "https://bbongtv4.com/premium/soccer/2007203988",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/7 (월)",
+      "time": "02:15",
+      "status": "예정",
+      "result": null,
+      "team1": "크리스티안순드",
+      "team2": "트롬쇠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "트롬쇠 경기당 득점 1.9, 크리스티안순드보다 공격력·안정성 모두 앞선다",
+      "ai_picks": [
+        "트롬쇠 승",
+        "오버 2.5"
+      ],
+      "aria_label": "크리스티안순드 vs 트롬쇠 02:15 분석 상세",
       "source_date": "2026-09-07"
     },
     {
