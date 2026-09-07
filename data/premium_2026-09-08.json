@@ -1,36 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-08",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-07T12:45:43.037470+00:00",
+  "scraped_at": "2026-09-07T18:10:25.249241+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "2007210270",
-      "url": "https://bbongtv4.com/premium/soccer/2007210270",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/8 (화)",
-      "time": "00:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알 할리지",
-      "team2": "알 리야드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "draw": 35.0,
-        "away": 31.0
-      },
-      "ai_summary": "무득점 3경기 대 원정 평균실점 4, 불안한 수비보다 접전 무게",
-      "ai_picks": [
-        "무승부",
-        "언더 2.75",
-        "알 리야드 +1.5 승"
-      ],
-      "aria_label": "알 할리지 vs 알 리야드 00:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
     {
       "id": "2007209556",
       "url": "https://bbongtv4.com/premium/soccer/2007209556",
@@ -952,6 +925,33 @@
         "G.A. 이글스 +0.5 승"
       ],
       "aria_label": "위트레흐트 vs G.A. 이글스 21:00 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007210270",
+      "url": "https://bbongtv4.com/premium/soccer/2007210270",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/8 (화)",
+      "time": "00:30",
+      "status": "예정",
+      "result": null,
+      "team1": "알 할리지",
+      "team2": "알 리야드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 34.0,
+        "draw": 35.0,
+        "away": 31.0
+      },
+      "ai_summary": "무득점 3경기 대 원정 평균실점 4, 불안한 수비보다 접전 무게",
+      "ai_picks": [
+        "무승부",
+        "언더 2.75",
+        "알 리야드 +1.5 승"
+      ],
+      "aria_label": "알 할리지 vs 알 리야드 00:30 분석 상세",
       "source_date": "2026-09-08"
     }
   ]
