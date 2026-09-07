@@ -1,113 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-07",
-  "scraped_at": "2026-09-07T01:06:32.255921+00:00",
+  "scraped_at": "2026-09-07T06:11:31.103718+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "2000360685",
-      "url": "https://bbongtv4.com/premium/baseball/2000360685",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/7 (월)",
-      "time": "07:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 화이트삭스",
-      "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "away": 44.0
-      },
-      "ai_summary": "시카고 화이트삭스, 선발과 홈 타선 우위로 근소한 우세 기대",
-      "ai_picks": [
-        "시카고 화이트삭스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "시카고 화이트삭스 vs 미네소타 트윈스 07:20 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007209461",
-      "url": "https://bbongtv4.com/premium/soccer/2007209461",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/7 (월)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "크루스아술",
-      "team2": "산토스 라구나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "크루스아술, 홈 평균득점 1.33과 산토스 라구나 원정 1승5패의 격차 주목",
-      "ai_picks": [
-        "크루스아술 승",
-        "언더 3.5",
-        "크루스아술 -1.5 승"
-      ],
-      "aria_label": "크루스아술 vs 산토스 라구나 08:00 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007211906",
-      "url": "https://bbongtv4.com/premium/soccer/2007211906",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/7 (월)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "라싱 클럽",
-      "team2": "아틀레티코 투쿠만",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "아틀레티코 투쿠만, 원정 3경기 무실점과 라싱 클럽의 부진한 흐름이 대조적",
-      "ai_picks": [
-        "아틀레티코 투쿠만 승",
-        "언더 2.5",
-        "아틀레티코 투쿠만 +0.5 승"
-      ],
-      "aria_label": "라싱 클럽 vs 아틀레티코 투쿠만 09:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2000360692",
-      "url": "https://bbongtv4.com/premium/baseball/2000360692",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/7 (월)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 67.0,
-        "away": 33.0
-      },
-      "ai_summary": "LA 다저스, 홈 타선 OPS .756과 1위 순위로 우세한 흐름",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "LA 다저스 vs 워싱턴 내셔널스 11:10 분석 상세",
-      "source_date": "2026-09-07"
-    },
     {
       "id": "2006992765",
       "url": "https://bbongtv4.com/premium/soccer/2006992765",
@@ -1067,18 +963,43 @@
       "source_date": "2026-09-07"
     },
     {
+      "id": "2000360685",
+      "url": "https://bbongtv4.com/premium/baseball/2000360685",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/7 (월)",
+      "time": "07:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고 화이트삭스",
+      "team2": "미네소타 트윈스",
+      "score1": 10,
+      "score2": 1,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "시카고 화이트삭스, 선발과 홈 타선 우위로 근소한 우세 기대",
+      "ai_picks": [
+        "시카고 화이트삭스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "시카고 화이트삭스 vs 미네소타 트윈스 07:20 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
       "id": "2007210091",
       "url": "https://bbongtv4.com/premium/soccer/2007210091",
       "sport": "soccer",
       "league": "BRA D1",
       "date": "9/7 (월)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "코린티안스",
       "team2": "샤페코엔세",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 62.0,
         "draw": 25.0,
@@ -1090,6 +1011,85 @@
         "언더 2.5"
       ],
       "aria_label": "코린티안스 vs 샤페코엔세 07:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007209461",
+      "url": "https://bbongtv4.com/premium/soccer/2007209461",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/7 (월)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "크루스아술",
+      "team2": "산토스 라구나",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "크루스아술, 홈 평균득점 1.33과 산토스 라구나 원정 1승5패의 격차 주목",
+      "ai_picks": [
+        "크루스아술 승",
+        "언더 3.5",
+        "크루스아술 -1.5 승"
+      ],
+      "aria_label": "크루스아술 vs 산토스 라구나 08:00 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007211906",
+      "url": "https://bbongtv4.com/premium/soccer/2007211906",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/7 (월)",
+      "time": "09:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라싱 클럽",
+      "team2": "아틀레티코 투쿠만",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "아틀레티코 투쿠만, 원정 3경기 무실점과 라싱 클럽의 부진한 흐름이 대조적",
+      "ai_picks": [
+        "아틀레티코 투쿠만 승",
+        "언더 2.5",
+        "아틀레티코 투쿠만 +0.5 승"
+      ],
+      "aria_label": "라싱 클럽 vs 아틀레티코 투쿠만 09:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2000360692",
+      "url": "https://bbongtv4.com/premium/baseball/2000360692",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/7 (월)",
+      "time": "11:10",
+      "status": "예정",
+      "result": null,
+      "team1": "LA 다저스",
+      "team2": "워싱턴 내셔널스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 67.0,
+        "away": 33.0
+      },
+      "ai_summary": "LA 다저스, 홈 타선 OPS .756과 1위 순위로 우세한 흐름",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "LA 다저스 vs 워싱턴 내셔널스 11:10 분석 상세",
       "source_date": "2026-09-07"
     }
   ]
