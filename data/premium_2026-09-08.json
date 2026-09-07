@@ -1,138 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-07T21:35:47.500444+00:00",
+  "scraped_at": "2026-09-07T23:45:15.361514+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "2000360698",
-      "url": "https://bbongtv4.com/premium/baseball/2000360698",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티 로열스",
-      "team2": "애리조나 다이아몬드백스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "캔자스시티 최근 홈 4경기 평균실점 6.75, 불안한 마운드가 변수",
-      "ai_picks": [
-        "애리조나 다이아몬드백스 승",
-        "오버 9.5",
-        "캔자스시티 로열스 +1.5 승"
-      ],
-      "aria_label": "캔자스시티 로열스 vs 애리조나 다이아몬드백스 03:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000360699",
-      "url": "https://bbongtv4.com/premium/baseball/2000360699",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키 브루어스",
-      "team2": "시카고 컵스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "away": 44.0
-      },
-      "ai_summary": "밀워키 브루어스, 최근 4경기 중 3경기서 9득점 이상 폭발",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "오버 8.5",
-        "시카고 컵스 +1.5 승"
-      ],
-      "aria_label": "밀워키 브루어스 vs 시카고 컵스 03:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000360694",
-      "url": "https://bbongtv4.com/premium/baseball/2000360694",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트 타이거스",
-      "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "미네소타 트윈스, 최근 맞대결 대승과 타선 우위가 변수",
-      "ai_picks": [
-        "미네소타 트윈스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "디트로이트 타이거스 vs 미네소타 트윈스 04:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007204529",
-      "url": "https://bbongtv4.com/premium/soccer/2007204529",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/8 (화)",
-      "time": "04:15",
-      "status": "예정",
-      "result": null,
-      "team1": "에스토릴",
-      "team2": "아루카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 22.0,
-        "away": 50.0
-      },
-      "ai_summary": "아루카, 시즌 득실·결정력 모두 앞서며 원정에서도 우위",
-      "ai_picks": [
-        "아루카 승",
-        "오버 2.5"
-      ],
-      "aria_label": "에스토릴 vs 아루카 04:15 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007211030",
-      "url": "https://bbongtv4.com/premium/soccer/2007211030",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/8 (화)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "엘체",
-      "team2": "소시에다드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 33.0,
-        "away": 39.0
-      },
-      "ai_summary": "엘체, 홈 3경기 9실점에 최근 2연패…수비 불안이 변수로 부각",
-      "ai_picks": [
-        "소시에다드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "엘체 vs 소시에다드 04:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
     {
       "id": "2000360700",
       "url": "https://bbongtv4.com/premium/baseball/2000360700",
@@ -857,12 +728,12 @@
       "league": "MLB",
       "date": "9/8 (화)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼티모어 오리올스",
       "team2": "클리블랜드 가디언스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 45.0,
         "away": 55.0
@@ -882,12 +753,12 @@
       "league": "MLB",
       "date": "9/8 (화)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "보스턴 레드삭스",
       "team2": "LA 에인절스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -928,6 +799,58 @@
       "source_date": "2026-09-08"
     },
     {
+      "id": "2000360698",
+      "url": "https://bbongtv4.com/premium/baseball/2000360698",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티 로열스",
+      "team2": "애리조나 다이아몬드백스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "캔자스시티 최근 홈 4경기 평균실점 6.75, 불안한 마운드가 변수",
+      "ai_picks": [
+        "애리조나 다이아몬드백스 승",
+        "오버 9.5",
+        "캔자스시티 로열스 +1.5 승"
+      ],
+      "aria_label": "캔자스시티 로열스 vs 애리조나 다이아몬드백스 03:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000360699",
+      "url": "https://bbongtv4.com/premium/baseball/2000360699",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀워키 브루어스",
+      "team2": "시카고 컵스",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "밀워키 브루어스, 최근 4경기 중 3경기서 9득점 이상 폭발",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "오버 8.5",
+        "시카고 컵스 +1.5 승"
+      ],
+      "aria_label": "밀워키 브루어스 vs 시카고 컵스 03:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
       "id": "2007209610",
       "url": "https://bbongtv4.com/premium/soccer/2007209610",
       "sport": "soccer",
@@ -952,6 +875,83 @@
         "우디네세 +0.5 승"
       ],
       "aria_label": "우디네세 vs 라치오 03:45 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000360694",
+      "url": "https://bbongtv4.com/premium/baseball/2000360694",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트 타이거스",
+      "team2": "미네소타 트윈스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "미네소타 트윈스, 최근 맞대결 대승과 타선 우위가 변수",
+      "ai_picks": [
+        "미네소타 트윈스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "디트로이트 타이거스 vs 미네소타 트윈스 04:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007204529",
+      "url": "https://bbongtv4.com/premium/soccer/2007204529",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/8 (화)",
+      "time": "04:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "에스토릴",
+      "team2": "아루카",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 28.0,
+        "draw": 22.0,
+        "away": 50.0
+      },
+      "ai_summary": "아루카, 시즌 득실·결정력 모두 앞서며 원정에서도 우위",
+      "ai_picks": [
+        "아루카 승",
+        "오버 2.5"
+      ],
+      "aria_label": "에스토릴 vs 아루카 04:15 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007211030",
+      "url": "https://bbongtv4.com/premium/soccer/2007211030",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/8 (화)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "엘체",
+      "team2": "소시에다드",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 28.0,
+        "draw": 33.0,
+        "away": 39.0
+      },
+      "ai_summary": "엘체, 홈 3경기 9실점에 최근 2연패…수비 불안이 변수로 부각",
+      "ai_picks": [
+        "소시에다드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "엘체 vs 소시에다드 04:30 분석 상세",
       "source_date": "2026-09-08"
     }
   ]
