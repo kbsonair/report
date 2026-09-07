@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-08",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-06T23:09:08.756367+00:00",
-  "count": 36,
+  "scraped_at": "2026-09-07T01:06:35.220220+00:00",
+  "count": 37,
   "matches": [
     {
       "id": "2007210270",
@@ -563,7 +563,8 @@
       },
       "ai_summary": "84승57패 체급 우위, OPS .756·방어율 3.69가 버팀목",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5"
       ],
       "aria_label": "LA 다저스 vs 신시내티 레즈 10:10 분석 상세",
       "source_date": "2026-09-08"
@@ -587,7 +588,8 @@
       },
       "ai_summary": "원정 평균득점 6.2와 팀 ERA 3.90, 토론토 안정감이 앞선다",
       "ai_picks": [
-        "토론토 블루제이스 승"
+        "토론토 블루제이스 승",
+        "언더 8.5"
       ],
       "aria_label": "오클랜드 vs 토론토 블루제이스 11:05 분석 상세",
       "source_date": "2026-09-08"
@@ -906,6 +908,32 @@
         "오버 2.5"
       ],
       "aria_label": "울산HD vs FC서울 19:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007203992",
+      "url": "https://bbongtv4.com/premium/soccer/2007203992",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/8 (화)",
+      "time": "21:00",
+      "status": "예정",
+      "result": null,
+      "team1": "위트레흐트",
+      "team2": "G.A. 이글스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 32.0,
+        "away": 33.0
+      },
+      "ai_summary": "위트레흐트 홈 2경기 평균실점 5, 수비 불안이 승부 변수",
+      "ai_picks": [
+        "오버 3.5",
+        "G.A. 이글스 +0.5 승"
+      ],
+      "aria_label": "위트레흐트 vs G.A. 이글스 21:00 분석 상세",
       "source_date": "2026-09-08"
     }
   ]

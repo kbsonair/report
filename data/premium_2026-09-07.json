@@ -1,139 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-07",
-  "scraped_at": "2026-09-06T23:09:06.023096+00:00",
+  "scraped_at": "2026-09-07T01:06:32.255921+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "2000360688",
-      "url": "https://bbongtv4.com/premium/baseball/2000360688",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/7 (월)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "세인트루이스 카디널스, 원정 4경기 평균 7.5득점으로 공격력 앞선다",
-      "ai_picks": [
-        "세인트루이스 카디널스 승",
-        "오버 11.5",
-        "콜로라도 로키스 +1.5 승"
-      ],
-      "aria_label": "콜로라도 로키스 vs 세인트루이스 카디널스 04:10 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2000360689",
-      "url": "https://bbongtv4.com/premium/baseball/2000360689",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/7 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고 파드레스",
-      "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "팀 방어율 3.23 대 3.91, 양키스 체급에도 홈 저실점이 변수",
-      "ai_picks": [
-        "샌디에이고 파드레스 승",
-        "언더 6.5",
-        "샌디에이고 파드레스 +1.5 승"
-      ],
-      "aria_label": "샌디에이고 파드레스 vs NY 양키스 05:10 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2000360690",
-      "url": "https://bbongtv4.com/premium/baseball/2000360690",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/7 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 매리너스",
-      "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "시애틀 선발 우위와 오클랜드 최근 원정 타격 상승세가 맞붙는 경기",
-      "ai_picks": [
-        "시애틀 매리너스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "시애틀 매리너스 vs 오클랜드 05:10 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007209641",
-      "url": "https://bbongtv4.com/premium/soccer/2007209641",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/7 (월)",
-      "time": "06:30",
-      "status": "예정",
-      "result": null,
-      "team1": "보타포구 RJ",
-      "team2": "팔메이라스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "팔메이라스, 시즌 득실차 +1로 체급 우위 뚜렷…보타포구 RJ 결장 변수도 부담",
-      "ai_picks": [
-        "팔메이라스 승",
-        "오버 2.5",
-        "팔메이라스 -0.5 승"
-      ],
-      "aria_label": "보타포구 RJ vs 팔메이라스 06:30 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007211905",
-      "url": "https://bbongtv4.com/premium/soccer/2007211905",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/7 (월)",
-      "time": "07:15",
-      "status": "예정",
-      "result": null,
-      "team1": "리버 플레이트",
-      "team2": "인디펜디엔테 리바다비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 30.0,
-        "away": 20.0
-      },
-      "ai_summary": "리버 플레이트, 홈 평균득점 1.25로 인디펜디엔테 리바다비아 원정 빈공에 우위",
-      "ai_picks": [
-        "리버 플레이트 승",
-        "오버 2.5"
-      ],
-      "aria_label": "리버 플레이트 vs 인디펜디엔테 리바다비아 07:15 분석 상세",
-      "source_date": "2026-09-07"
-    },
     {
       "id": "2000360685",
       "url": "https://bbongtv4.com/premium/baseball/2000360685",
@@ -157,32 +27,6 @@
         "언더 7.5"
       ],
       "aria_label": "시카고 화이트삭스 vs 미네소타 트윈스 07:20 분석 상세",
-      "source_date": "2026-09-07"
-    },
-    {
-      "id": "2007210091",
-      "url": "https://bbongtv4.com/premium/soccer/2007210091",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/7 (월)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "코린티안스",
-      "team2": "샤페코엔세",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 25.0,
-        "away": 13.0
-      },
-      "ai_summary": "코린티안스 홈 5승3무5패, 샤페코엔세 원정 0승에 실점 1.86로 약세 뚜렷",
-      "ai_picks": [
-        "코린티안스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "코린티안스 vs 샤페코엔세 07:30 분석 상세",
       "source_date": "2026-09-07"
     },
     {
@@ -1015,6 +859,32 @@
       "source_date": "2026-09-07"
     },
     {
+      "id": "2000360688",
+      "url": "https://bbongtv4.com/premium/baseball/2000360688",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/7 (월)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "세인트루이스 카디널스",
+      "score1": 10,
+      "score2": 7,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "세인트루이스 카디널스, 원정 4경기 평균 7.5득점으로 공격력 앞선다",
+      "ai_picks": [
+        "세인트루이스 카디널스 승",
+        "오버 11.5",
+        "콜로라도 로키스 +1.5 승"
+      ],
+      "aria_label": "콜로라도 로키스 vs 세인트루이스 카디널스 04:10 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
       "id": "2007204962",
       "url": "https://bbongtv4.com/premium/soccer/2007204962",
       "sport": "soccer",
@@ -1090,6 +960,136 @@
         "인디펜디엔테 -0.5 승"
       ],
       "aria_label": "센트럴 코르도바 vs 인디펜디엔테 05:00 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2000360689",
+      "url": "https://bbongtv4.com/premium/baseball/2000360689",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/7 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고 파드레스",
+      "team2": "NY 양키스",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "팀 방어율 3.23 대 3.91, 양키스 체급에도 홈 저실점이 변수",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "언더 6.5",
+        "샌디에이고 파드레스 +1.5 승"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs NY 양키스 05:10 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2000360690",
+      "url": "https://bbongtv4.com/premium/baseball/2000360690",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/7 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 매리너스",
+      "team2": "오클랜드",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "시애틀 선발 우위와 오클랜드 최근 원정 타격 상승세가 맞붙는 경기",
+      "ai_picks": [
+        "시애틀 매리너스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "시애틀 매리너스 vs 오클랜드 05:10 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007209641",
+      "url": "https://bbongtv4.com/premium/soccer/2007209641",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/7 (월)",
+      "time": "06:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "보타포구 RJ",
+      "team2": "팔메이라스",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "팔메이라스, 시즌 득실차 +1로 체급 우위 뚜렷…보타포구 RJ 결장 변수도 부담",
+      "ai_picks": [
+        "팔메이라스 승",
+        "오버 2.5",
+        "팔메이라스 -0.5 승"
+      ],
+      "aria_label": "보타포구 RJ vs 팔메이라스 06:30 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007211905",
+      "url": "https://bbongtv4.com/premium/soccer/2007211905",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/7 (월)",
+      "time": "07:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "리버 플레이트",
+      "team2": "인디펜디엔테 리바다비아",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 30.0,
+        "away": 20.0
+      },
+      "ai_summary": "리버 플레이트, 홈 평균득점 1.25로 인디펜디엔테 리바다비아 원정 빈공에 우위",
+      "ai_picks": [
+        "리버 플레이트 승",
+        "오버 2.5"
+      ],
+      "aria_label": "리버 플레이트 vs 인디펜디엔테 리바다비아 07:15 분석 상세",
+      "source_date": "2026-09-07"
+    },
+    {
+      "id": "2007210091",
+      "url": "https://bbongtv4.com/premium/soccer/2007210091",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/7 (월)",
+      "time": "07:30",
+      "status": "예정",
+      "result": null,
+      "team1": "코린티안스",
+      "team2": "샤페코엔세",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "draw": 25.0,
+        "away": 13.0
+      },
+      "ai_summary": "코린티안스 홈 5승3무5패, 샤페코엔세 원정 0승에 실점 1.86로 약세 뚜렷",
+      "ai_picks": [
+        "코린티안스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "코린티안스 vs 샤페코엔세 07:30 분석 상세",
       "source_date": "2026-09-07"
     }
   ]
