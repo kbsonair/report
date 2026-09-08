@@ -1,140 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-09",
-  "scraped_at": "2026-09-08T17:29:51.710676+00:00",
+  "scraped_at": "2026-09-08T20:16:04.297568+00:00",
   "count": 53,
   "matches": [
-    {
-      "id": "2007211042",
-      "url": "https://bbongtv4.com/premium/soccer/2007211042",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/9 (수)",
-      "time": "00:30",
-      "status": "예정",
-      "result": null,
-      "team1": "알 이티팍",
-      "team2": "알 파이살리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 59.0,
-        "draw": 24.0,
-        "away": 17.0
-      },
-      "ai_summary": "알 이티팍, 최근 3경기 점유율 58.3%로 경기 주도권 뚜렷",
-      "ai_picks": [
-        "알 이티팍 승",
-        "오버 2.5"
-      ],
-      "aria_label": "알 이티팍 vs 알 파이살리 00:30 분석 상세",
-      "source_date": "2026-09-09"
-    },
-    {
-      "id": "2007211043",
-      "url": "https://bbongtv4.com/premium/soccer/2007211043",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/9 (수)",
-      "time": "00:55",
-      "status": "예정",
-      "result": null,
-      "team1": "알",
-      "team2": "알 하젬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "알 하젬, 최근 5경기 5득점으로 공격 흐름 앞서며 홈에서 반등 노린다",
-      "ai_picks": [
-        "알 하젬 승"
-      ],
-      "aria_label": "알 하젬 vs 알 타아운 00:55 분석 상세",
-      "source_date": "2026-09-09"
-    },
-    {
-      "id": "2006992660",
-      "url": "https://bbongtv4.com/premium/soccer/2006992660",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/9 (수)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "니이메헌",
-      "team2": "엑셀시오르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "draw": 25.0,
-        "away": 29.0
-      },
-      "ai_summary": "홈 0승1무3패와 원정 2승0패, 낮은 홈 배당에도 접전 무게",
-      "ai_picks": [
-        "니이메헌 승",
-        "오버 3.5",
-        "엑셀시오르 +1.5 승"
-      ],
-      "aria_label": "니이메헌 vs 엑셀시오르 01:45 분석 상세",
-      "source_date": "2026-09-09"
-    },
-    {
-      "id": "2007210534",
-      "url": "https://bbongtv4.com/premium/soccer/2007210534",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/9 (수)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "AEK 아테네",
-      "team2": "라스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 61.0,
-        "draw": 21.0,
-        "away": 18.0
-      },
-      "ai_summary": "AEK 아테네, 홈에서 4-0 완승과 높은 패스 성공률로 주도권 기대",
-      "ai_picks": [
-        "AEK 아테네 승",
-        "오버 2.5",
-        "라스크 +0.5 승"
-      ],
-      "aria_label": "AEK 아테네 vs 라스크 01:45 분석 상세",
-      "source_date": "2026-09-09"
-    },
-    {
-      "id": "2007211490",
-      "url": "https://bbongtv4.com/premium/soccer/2007211490",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/9 (수)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "클럽 브뤼헤",
-      "team2": "아스톤빌라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "클럽 브뤼헤 홈 2경기 무실점, 아스톤빌라 원정 득점 난조가 변수",
-      "ai_picks": [
-        "클럽 브뤼헤 승",
-        "언더 2.5"
-      ],
-      "aria_label": "클럽 브뤼헤 vs 아스톤빌라 01:45 분석 상세",
-      "source_date": "2026-09-09"
-    },
     {
       "id": "2007211044",
       "url": "https://bbongtv4.com/premium/soccer/2007211044",
@@ -1371,6 +1240,137 @@
         "무승부"
       ],
       "aria_label": "포항스틸러스 vs 김천상무 19:30 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007211042",
+      "url": "https://bbongtv4.com/premium/soccer/2007211042",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/9 (수)",
+      "time": "00:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "알 이티팍",
+      "team2": "알 파이살리",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 59.0,
+        "draw": 24.0,
+        "away": 17.0
+      },
+      "ai_summary": "알 이티팍, 최근 3경기 점유율 58.3%로 경기 주도권 뚜렷",
+      "ai_picks": [
+        "알 이티팍 승",
+        "오버 2.5"
+      ],
+      "aria_label": "알 이티팍 vs 알 파이살리 00:30 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007211043",
+      "url": "https://bbongtv4.com/premium/soccer/2007211043",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/9 (수)",
+      "time": "00:55",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알",
+      "team2": "알 하젬",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "알 하젬, 최근 5경기 5득점으로 공격 흐름 앞서며 홈에서 반등 노린다",
+      "ai_picks": [
+        "알 하젬 승"
+      ],
+      "aria_label": "알 하젬 vs 알 타아운 00:55 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2006992660",
+      "url": "https://bbongtv4.com/premium/soccer/2006992660",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/9 (수)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니이메헌",
+      "team2": "엑셀시오르",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 46.0,
+        "draw": 25.0,
+        "away": 29.0
+      },
+      "ai_summary": "홈 0승1무3패와 원정 2승0패, 낮은 홈 배당에도 접전 무게",
+      "ai_picks": [
+        "니이메헌 승",
+        "오버 3.5",
+        "엑셀시오르 +1.5 승"
+      ],
+      "aria_label": "니이메헌 vs 엑셀시오르 01:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007210534",
+      "url": "https://bbongtv4.com/premium/soccer/2007210534",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/9 (수)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "AEK 아테네",
+      "team2": "라스크",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 61.0,
+        "draw": 21.0,
+        "away": 18.0
+      },
+      "ai_summary": "AEK 아테네, 홈에서 4-0 완승과 높은 패스 성공률로 주도권 기대",
+      "ai_picks": [
+        "AEK 아테네 승",
+        "오버 2.5",
+        "라스크 +0.5 승"
+      ],
+      "aria_label": "AEK 아테네 vs 라스크 01:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007211490",
+      "url": "https://bbongtv4.com/premium/soccer/2007211490",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/9 (수)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "클럽 브뤼헤",
+      "team2": "아스톤빌라",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "클럽 브뤼헤 홈 2경기 무실점, 아스톤빌라 원정 득점 난조가 변수",
+      "ai_picks": [
+        "클럽 브뤼헤 승",
+        "언더 2.5"
+      ],
+      "aria_label": "클럽 브뤼헤 vs 아스톤빌라 01:45 분석 상세",
       "source_date": "2026-09-09"
     }
   ]
