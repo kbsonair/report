@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-09",
   "source_date": "2026-09-09",
-  "scraped_at": "2026-09-07T23:45:17.428086+00:00",
-  "count": 47,
+  "scraped_at": "2026-09-08T03:52:17.352751+00:00",
+  "count": 52,
   "matches": [
     {
       "id": "2007211042",
@@ -189,6 +189,86 @@
       "source_date": "2026-09-09"
     },
     {
+      "id": "16474855",
+      "url": "https://bbongtv4.com/premium/soccer/16474855",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/9 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "크리스탈팰리스",
+      "team2": "미들즈브러",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "draw": 25.0,
+        "away": 23.0
+      },
+      "ai_summary": "크리스탈팰리스 최근 3경기 7실점, 미들즈브러 원정 실점 1로 안정감",
+      "ai_picks": [
+        "크리스탈팰리스 승",
+        "오버 2.5",
+        "미들즈브러 +0.5 승"
+      ],
+      "aria_label": "크리스탈팰리스 vs 미들즈브러 03:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16474856",
+      "url": "https://bbongtv4.com/premium/soccer/16474856",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/9 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "레이턴 오리엔트 FC",
+      "team2": "브래드퍼드 시티 AFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 27.0,
+        "away": 45.0
+      },
+      "ai_summary": "브래드퍼드 시티 AFC 승 또는 무승부 (언더 2.5 추천)",
+      "ai_picks": [
+        "브래드퍼드 시티 AFC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "레이턴 오리엔트 FC vs 브래드퍼드 시티 AFC 03:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16474857",
+      "url": "https://bbongtv4.com/premium/soccer/16474857",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/9 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "선더랜드",
+      "team2": "헐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "헐시티 최근 4경기 무패·실점 1, 원정 안정감이 변수로 작용",
+      "ai_picks": [
+        "언더 2.5",
+        "무승부"
+      ],
+      "aria_label": "선더랜드 vs 헐 03:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
       "id": "2007213920",
       "url": "https://bbongtv4.com/premium/soccer/2007213920",
       "sport": "soccer",
@@ -318,6 +398,59 @@
         "오버 2.5"
       ],
       "aria_label": "렉섬 vs 번리 03:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007218128",
+      "url": "https://bbongtv4.com/premium/soccer/2007218128",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "9/9 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "볼드미어",
+      "team2": "본",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 17.0,
+        "away": 13.0
+      },
+      "ai_summary": "AFC 본머스 승 (핸디캡 -1.5 및 언더 3.5 병행 추천)",
+      "ai_picks": [
+        "본 승",
+        "본 -1.5 승",
+        "언더 3.5"
+      ],
+      "aria_label": "볼드미어 vs 본 03:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16474909",
+      "url": "https://bbongtv4.com/premium/soccer/16474909",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/9 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "밀월",
+      "team2": "뉴캐슬",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "뉴캐슬 최근 4경기 무패·평균득실차 +0.75, 원정 우위 뚜렷",
+      "ai_picks": [
+        "뉴캐슬 승",
+        "오버 2.5"
+      ],
+      "aria_label": "밀월 vs 뉴캐슬 04:00 분석 상세",
       "source_date": "2026-09-09"
     },
     {
@@ -751,7 +884,9 @@
       },
       "ai_summary": "호세 소리아노 방어율 3.52, 잭 퍼킨스 6.50 대비 마운드 우위 뚜렷",
       "ai_picks": [
-        "토론토 블루제이스 승"
+        "토론토 블루제이스 승",
+        "오버 9.5",
+        "토론토 블루제이스 -1.5 승"
       ],
       "aria_label": "오클랜드 vs 토론토 블루제이스 10:40 분석 상세",
       "source_date": "2026-09-09"
@@ -775,7 +910,8 @@
       },
       "ai_summary": "워싱턴 타선 OPS .754, 샌디에이고 마운드 방어율 3.91과 대조",
       "ai_picks": [
-        "샌디에이고 파드레스 승"
+        "샌디에이고 파드레스 승",
+        "언더 7.5"
       ],
       "aria_label": "샌디에이고 파드레스 vs 워싱턴 내셔널스 10:40 분석 상세",
       "source_date": "2026-09-09"
@@ -823,7 +959,9 @@
       },
       "ai_summary": "세인트루이스 카디널스, 원정 7.83득점의 화력으로 접전 우위",
       "ai_picks": [
-        "세인트루이스 카디널스 승"
+        "세인트루이스 카디널스 승",
+        "SF 자이언츠 +1.5 승",
+        "언더 7.5"
       ],
       "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 10:45 분석 상세",
       "source_date": "2026-09-09"
@@ -847,7 +985,9 @@
       },
       "ai_summary": "타릭 스쿠발 방어율 2.86, 선발 맞대결에서 LA 다저스가 확실히 앞선다",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5",
+        "신시내티 레즈 +2.5 승"
       ],
       "aria_label": "LA 다저스 vs 신시내티 레즈 11:10 분석 상세",
       "source_date": "2026-09-09"

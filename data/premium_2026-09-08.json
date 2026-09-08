@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-07T23:45:15.361514+00:00",
+  "scraped_at": "2026-09-08T03:52:14.878914+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "2000360700",
-      "url": "https://bbongtv4.com/premium/baseball/2000360700",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "06:10",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고 파드레스",
-      "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "워싱턴 타선 홈런 193개, 샌디에이고 마운드 방어율 3.91로 맞선다",
-      "ai_picks": [
-        "샌디에이고 파드레스 승"
-      ],
-      "aria_label": "샌디에이고 파드레스 vs 워싱턴 내셔널스 06:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007213087",
-      "url": "https://bbongtv4.com/premium/soccer/2007213087",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/8 (화)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바라카스 센트럴",
-      "team2": "아르헨티노스 주니어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 25.0,
-        "away": 53.0
-      },
-      "ai_summary": "아르헨티노스 주니어스, 시즌 득점력과 원정 성적에서 뚜렷한 우위",
-      "ai_picks": [
-        "아르헨티노스 주니어스 승",
-        "언더 1.5"
-      ],
-      "aria_label": "바라카스 센트럴 vs 아르헨티노스 주니어스 07:00 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007211820",
-      "url": "https://bbongtv4.com/premium/soccer/2007211820",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/8 (화)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "비토리아",
-      "team2": "그레미우",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "draw": 32.0,
-        "away": 27.0
-      },
-      "ai_summary": "비토리아 홈 8승1무3패, 원정 약한 그레미우 상대로 우위",
-      "ai_picks": [
-        "비토리아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "비토리아 vs 그레미우 08:00 분석 상세",
-      "source_date": "2026-09-08"
-    },
     {
       "id": "2000363387",
       "url": "https://bbongtv4.com/premium/baseball/2000363387",
@@ -104,32 +28,6 @@
         "세인트루이스 카디널스 +1.5 승"
       ],
       "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 09:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007213088",
-      "url": "https://bbongtv4.com/premium/soccer/2007213088",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/8 (화)",
-      "time": "09:15",
-      "status": "예정",
-      "result": null,
-      "team1": "산타페 유니온",
-      "team2": "인스티투토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 35.0,
-        "away": 32.0
-      },
-      "ai_summary": "인스티투토, 7경기 2실점의 견고한 수비와 원정 무실점 비율이 변수",
-      "ai_picks": [
-        "언더 1.5",
-        "인스티투토 +0.5 승"
-      ],
-      "aria_label": "산타페 유니온 vs 인스티투토 09:15 분석 상세",
       "source_date": "2026-09-08"
     },
     {
@@ -496,8 +394,8 @@
       "time": "19:30",
       "status": "예정",
       "result": null,
-      "team1": "울",
-      "team2": "울산HD",
+      "team1": "울산HD",
+      "team2": "FC서울",
       "score1": null,
       "score2": null,
       "prob": {
@@ -952,6 +850,108 @@
         "언더 2.5"
       ],
       "aria_label": "엘체 vs 소시에다드 04:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000360700",
+      "url": "https://bbongtv4.com/premium/baseball/2000360700",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "06:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고 파드레스",
+      "team2": "워싱턴 내셔널스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "워싱턴 타선 홈런 193개, 샌디에이고 마운드 방어율 3.91로 맞선다",
+      "ai_picks": [
+        "샌디에이고 파드레스 승"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs 워싱턴 내셔널스 06:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007213087",
+      "url": "https://bbongtv4.com/premium/soccer/2007213087",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/8 (화)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바라카스 센트럴",
+      "team2": "아르헨티노스 주니어스",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 22.0,
+        "draw": 25.0,
+        "away": 53.0
+      },
+      "ai_summary": "아르헨티노스 주니어스, 시즌 득점력과 원정 성적에서 뚜렷한 우위",
+      "ai_picks": [
+        "아르헨티노스 주니어스 승",
+        "언더 1.5"
+      ],
+      "aria_label": "바라카스 센트럴 vs 아르헨티노스 주니어스 07:00 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007211820",
+      "url": "https://bbongtv4.com/premium/soccer/2007211820",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/8 (화)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "비토리아",
+      "team2": "그레미우",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 41.0,
+        "draw": 32.0,
+        "away": 27.0
+      },
+      "ai_summary": "비토리아 홈 8승1무3패, 원정 약한 그레미우 상대로 우위",
+      "ai_picks": [
+        "비토리아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "비토리아 vs 그레미우 08:00 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007213088",
+      "url": "https://bbongtv4.com/premium/soccer/2007213088",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/8 (화)",
+      "time": "09:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "산타페 유니온",
+      "team2": "인스티투토",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 33.0,
+        "draw": 35.0,
+        "away": 32.0
+      },
+      "ai_summary": "인스티투토, 7경기 2실점의 견고한 수비와 원정 무실점 비율이 변수",
+      "ai_picks": [
+        "언더 1.5",
+        "인스티투토 +0.5 승"
+      ],
+      "aria_label": "산타페 유니온 vs 인스티투토 09:15 분석 상세",
       "source_date": "2026-09-08"
     }
   ]
