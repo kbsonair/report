@@ -1,163 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-08",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-08T13:25:07.323198+00:00",
+  "scraped_at": "2026-09-08T17:29:53.029441+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "2000364366",
-      "url": "https://bbongtv4.com/premium/baseball/2000364366",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/8 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "한화 이글스",
-      "team2": "두산 베어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "한화 이글스 최근 3연승, 두산 베어스는 원정 득점력 저하",
-      "ai_picks": [
-        "두산 베어스 승",
-        "오버 9.5"
-      ],
-      "aria_label": "한화 이글스 vs 두산 베어스 18:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000364367",
-      "url": "https://bbongtv4.com/premium/baseball/2000364367",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/8 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KT 위즈",
-      "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "KT 위즈, 홈 6경기 평균 6.5득점으로 강한 공격력 유지",
-      "ai_picks": [
-        "KT 위즈 승",
-        "언더 10.5",
-        "SSG 랜더스 +1.5 승"
-      ],
-      "aria_label": "KT 위즈 vs SSG 랜더스 18:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000364368",
-      "url": "https://bbongtv4.com/premium/baseball/2000364368",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/8 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "LG 트윈스",
-      "team2": "키움 히어로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "away": 20.0
-      },
-      "ai_summary": "LG 트윈스, 최근 6경기 5승과 홈 평균득점 4.5로 뚜렷한 상승세",
-      "ai_picks": [
-        "LG 트윈스 승",
-        "오버 9.5",
-        "LG 트윈스 -1.5 승"
-      ],
-      "aria_label": "LG 트윈스 vs 키움 히어로즈 18:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000364369",
-      "url": "https://bbongtv4.com/premium/baseball/2000364369",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/8 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "NC 다이노스",
-      "team2": "롯데 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "NC 다이노스, 최근 6경기 5승과 홈 강세로 우위 점한다",
-      "ai_picks": [
-        "NC 다이노스 승",
-        "오버 9.5"
-      ],
-      "aria_label": "NC 다이노스 vs 롯데 자이언츠 18:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000364370",
-      "url": "https://bbongtv4.com/premium/baseball/2000364370",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/8 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "삼성 라이온즈",
-      "team2": "KIA 타이거즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "삼성 라이온즈, 홈 평균 실점 2.5로 안정적 수비가 강점",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "언더 12.5",
-        "KIA 타이거즈 +1.5 승"
-      ],
-      "aria_label": "삼성 라이온즈 vs KIA 타이거즈 18:30 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2007203992",
-      "url": "https://bbongtv4.com/premium/soccer/2007203992",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/8 (화)",
-      "time": "21:00",
-      "status": "예정",
-      "result": null,
-      "team1": "위트레흐트",
-      "team2": "G.A. 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 32.0,
-        "away": 33.0
-      },
-      "ai_summary": "위트레흐트 홈 2경기 평균실점 5, 수비 불안이 승부 변수",
-      "ai_picks": [
-        "오버 3.5",
-        "G.A. 이글스 +0.5 승"
-      ],
-      "aria_label": "위트레흐트 vs G.A. 이글스 21:00 분석 상세",
-      "source_date": "2026-09-08"
-    },
     {
       "id": "2007210270",
       "url": "https://bbongtv4.com/premium/soccer/2007210270",
@@ -903,6 +749,134 @@
       "source_date": "2026-09-08"
     },
     {
+      "id": "2000364366",
+      "url": "https://bbongtv4.com/premium/baseball/2000364366",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/8 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "한화 이글스",
+      "team2": "두산 베어스",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "한화 이글스 최근 3연승, 두산 베어스는 원정 득점력 저하",
+      "ai_picks": [
+        "두산 베어스 승",
+        "오버 9.5"
+      ],
+      "aria_label": "한화 이글스 vs 두산 베어스 18:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000364367",
+      "url": "https://bbongtv4.com/premium/baseball/2000364367",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/8 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KT 위즈",
+      "team2": "SSG 랜더스",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "KT 위즈, 홈 6경기 평균 6.5득점으로 강한 공격력 유지",
+      "ai_picks": [
+        "KT 위즈 승",
+        "언더 10.5",
+        "SSG 랜더스 +1.5 승"
+      ],
+      "aria_label": "KT 위즈 vs SSG 랜더스 18:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000364368",
+      "url": "https://bbongtv4.com/premium/baseball/2000364368",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/8 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LG 트윈스",
+      "team2": "키움 히어로즈",
+      "score1": 3,
+      "score2": 8,
+      "prob": {
+        "home": 80.0,
+        "away": 20.0
+      },
+      "ai_summary": "LG 트윈스, 최근 6경기 5승과 홈 평균득점 4.5로 뚜렷한 상승세",
+      "ai_picks": [
+        "LG 트윈스 승",
+        "오버 9.5",
+        "LG 트윈스 -1.5 승"
+      ],
+      "aria_label": "LG 트윈스 vs 키움 히어로즈 18:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000364369",
+      "url": "https://bbongtv4.com/premium/baseball/2000364369",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/8 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NC 다이노스",
+      "team2": "롯데 자이언츠",
+      "score1": 4,
+      "score2": 6,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "NC 다이노스, 최근 6경기 5승과 홈 강세로 우위 점한다",
+      "ai_picks": [
+        "NC 다이노스 승",
+        "오버 9.5"
+      ],
+      "aria_label": "NC 다이노스 vs 롯데 자이언츠 18:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000364370",
+      "url": "https://bbongtv4.com/premium/baseball/2000364370",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/8 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "삼성 라이온즈",
+      "team2": "KIA 타이거즈",
+      "score1": 6,
+      "score2": 4,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "삼성 라이온즈, 홈 평균 실점 2.5로 안정적 수비가 강점",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "언더 12.5",
+        "KIA 타이거즈 +1.5 승"
+      ],
+      "aria_label": "삼성 라이온즈 vs KIA 타이거즈 18:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
       "id": "2007209502",
       "url": "https://bbongtv4.com/premium/soccer/2007209502",
       "sport": "soccer",
@@ -952,6 +926,32 @@
         "오버 2.5"
       ],
       "aria_label": "울산HD vs FC서울 19:30 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2007203992",
+      "url": "https://bbongtv4.com/premium/soccer/2007203992",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/8 (화)",
+      "time": "21:00",
+      "status": "예정",
+      "result": null,
+      "team1": "위트레흐트",
+      "team2": "G.A. 이글스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 32.0,
+        "away": 33.0
+      },
+      "ai_summary": "위트레흐트 홈 2경기 평균실점 5, 수비 불안이 승부 변수",
+      "ai_picks": [
+        "오버 3.5",
+        "G.A. 이글스 +0.5 승"
+      ],
+      "aria_label": "위트레흐트 vs G.A. 이글스 21:00 분석 상세",
       "source_date": "2026-09-08"
     }
   ]
