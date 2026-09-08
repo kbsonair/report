@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T03:52:17.435433+00:00",
+  "scraped_at": "2026-09-08T08:44:48.780833+00:00",
   "kst_yesterday": "2026-09-07",
   "kst_today": "2026-09-08",
   "kst_tomorrow": "2026-09-09",
@@ -1836,12 +1836,12 @@
       "league": "MLB",
       "date": "9/8 (화)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SF 자이언츠",
       "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -1888,12 +1888,12 @@
       "league": "MLB",
       "date": "9/8 (화)",
       "time": "10:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 다저스",
       "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 3,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1913,12 +1913,12 @@
       "league": "MLB",
       "date": "9/8 (화)",
       "time": "11:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "오클랜드",
       "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 42.0,
         "away": 58.0

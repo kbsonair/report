@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-08",
-  "scraped_at": "2026-09-08T03:52:14.878914+00:00",
+  "scraped_at": "2026-09-08T08:44:46.034434+00:00",
   "count": 37,
   "matches": [
-    {
-      "id": "2000363387",
-      "url": "https://bbongtv4.com/premium/baseball/2000363387",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "09:10",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "세인트루이스 카디널스, 최근 원정 4경기 3승과 높은 득점력 주목",
-      "ai_picks": [
-        "세인트루이스 카디널스 승",
-        "오버 7.5",
-        "세인트루이스 카디널스 +1.5 승"
-      ],
-      "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 09:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000363388",
-      "url": "https://bbongtv4.com/premium/baseball/2000363388",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "10:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "84승57패 체급 우위, OPS .756·방어율 3.69가 버팀목",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "LA 다저스 vs 신시내티 레즈 10:10 분석 상세",
-      "source_date": "2026-09-08"
-    },
-    {
-      "id": "2000363389",
-      "url": "https://bbongtv4.com/premium/baseball/2000363389",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/8 (화)",
-      "time": "11:05",
-      "status": "예정",
-      "result": null,
-      "team1": "오클랜드",
-      "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "원정 평균득점 6.2와 팀 ERA 3.90, 토론토 안정감이 앞선다",
-      "ai_picks": [
-        "토론토 블루제이스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "오클랜드 vs 토론토 블루제이스 11:05 분석 상세",
-      "source_date": "2026-09-08"
-    },
     {
       "id": "2000355327",
       "url": "https://bbongtv4.com/premium/baseball/2000355327",
@@ -929,6 +853,32 @@
       "source_date": "2026-09-08"
     },
     {
+      "id": "2000363387",
+      "url": "https://bbongtv4.com/premium/baseball/2000363387",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "09:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SF 자이언츠",
+      "team2": "세인트루이스 카디널스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "세인트루이스 카디널스, 최근 원정 4경기 3승과 높은 득점력 주목",
+      "ai_picks": [
+        "세인트루이스 카디널스 승",
+        "오버 7.5",
+        "세인트루이스 카디널스 +1.5 승"
+      ],
+      "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 09:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
       "id": "2007213088",
       "url": "https://bbongtv4.com/premium/soccer/2007213088",
       "sport": "soccer",
@@ -952,6 +902,56 @@
         "인스티투토 +0.5 승"
       ],
       "aria_label": "산타페 유니온 vs 인스티투토 09:15 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000363388",
+      "url": "https://bbongtv4.com/premium/baseball/2000363388",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "10:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "신시내티 레즈",
+      "score1": 6,
+      "score2": 3,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "84승57패 체급 우위, OPS .756·방어율 3.69가 버팀목",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "LA 다저스 vs 신시내티 레즈 10:10 분석 상세",
+      "source_date": "2026-09-08"
+    },
+    {
+      "id": "2000363389",
+      "url": "https://bbongtv4.com/premium/baseball/2000363389",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/8 (화)",
+      "time": "11:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "오클랜드",
+      "team2": "토론토 블루제이스",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "원정 평균득점 6.2와 팀 ERA 3.90, 토론토 안정감이 앞선다",
+      "ai_picks": [
+        "토론토 블루제이스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "오클랜드 vs 토론토 블루제이스 11:05 분석 상세",
       "source_date": "2026-09-08"
     }
   ]
