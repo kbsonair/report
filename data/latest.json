@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T18:42:45.089901+00:00",
+  "scraped_at": "2026-09-09T21:33:04.528427+00:00",
   "kst_yesterday": "2026-09-09",
   "kst_today": "2026-09-10",
   "kst_tomorrow": "2026-09-11",
@@ -105,7 +105,8 @@
       },
       "ai_summary": "잭 휠러 방어율 3.23, 필라델피아 선발진이 실점 억제에 앞선다",
       "ai_picks": [
-        "필라델피아 필리스 승"
+        "필라델피아 필리스 승",
+        "오버 8.5"
       ],
       "aria_label": "필라델피아 필리스 vs 휴스턴 애스트로스 02:05 분석 상세",
       "source_date": "2026-09-11"
@@ -237,7 +238,8 @@
       },
       "ai_summary": "양 팀 최근 6경기 중 5경기에서 2골 이상씩 주고받은 난타전 흐름",
       "ai_picks": [
-        "무승부"
+        "무승부",
+        "오버 2.5"
       ],
       "aria_label": "에스트렐라 vs 브라가 04:15 분석 상세",
       "source_date": "2026-09-11"
@@ -313,7 +315,9 @@
       },
       "ai_summary": "홈 평균득점 6.83 대 원정 2.67, 초반 화력이 승부 갈림길",
       "ai_picks": [
-        "시카고 화이트삭스 승"
+        "시카고 화이트삭스 승",
+        "오버 7.5",
+        "시카고 화이트삭스 +1.5 승"
       ],
       "aria_label": "시카고 화이트삭스 vs 피츠버그 파이어리츠 08:40 분석 상세",
       "source_date": "2026-09-11"
@@ -338,7 +342,9 @@
       },
       "ai_summary": "실점 2 플라멩고와 홈 3승 바예, 수비 안정과 안방 흐름이 갈림길",
       "ai_picks": [
-        "플라멩고 RJ 승"
+        "플라멩고 RJ 승",
+        "언더 2.5",
+        "플라멩고 RJ +0.5 승"
       ],
       "aria_label": "인디펜디엔테 델 바예 vs 플라멩고 RJ 09:30 분석 상세",
       "source_date": "2026-09-11"
@@ -363,7 +369,9 @@
       },
       "ai_summary": "레온 최근 4승 1무, 원정에서도 안정된 득점력 유지",
       "ai_picks": [
-        "레온 승"
+        "레온 승",
+        "언더 2.5",
+        "레온 +0.5 승"
       ],
       "aria_label": "UNAM 푸마스 vs 레온 12:05 분석 상세",
       "source_date": "2026-09-11"
@@ -646,12 +654,12 @@
       "league": "HOL D1",
       "date": "9/10 (목)",
       "time": "01:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "트벤테",
       "team2": "텔스타",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 62.0,
         "draw": 22.0,
@@ -671,12 +679,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "01:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "바르셀로나",
       "team2": "페예노르트",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -696,12 +704,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "01:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "슈투트가르트",
       "team2": "비킹",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 54.0,
         "draw": 23.0,
@@ -721,12 +729,12 @@
       "league": "MLB",
       "date": "9/10 (목)",
       "time": "02:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디트로이트 타이거스",
       "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -746,12 +754,12 @@
       "league": "SAU D1",
       "date": "9/10 (목)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "알 파테흐",
       "team2": "알 디리야",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 18.0,
         "draw": 20.0,
@@ -772,12 +780,12 @@
       "league": "SAU D1",
       "date": "9/10 (목)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "알 나스르",
       "team2": "압하",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 80.0,
         "draw": 15.0,
@@ -799,12 +807,12 @@
       "league": "SCO PR",
       "date": "9/10 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "레인저스",
       "team2": "세인트 미렌",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 60.0,
         "draw": 25.0,
@@ -826,12 +834,12 @@
       "league": "ENG LCH",
       "date": "9/10 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "더비",
       "team2": "웨스트 브로미치 알비온",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 25.0,
         "draw": 23.0,
@@ -852,12 +860,12 @@
       "league": "ENG LCH",
       "date": "9/10 (목)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "노리치",
       "team2": "버밍엄",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 43.0,
         "draw": 30.0,
@@ -878,12 +886,12 @@
       "league": "ENG LC",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "첼시",
       "team2": "리즈",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 3,
       "prob": {
         "home": 50.0,
         "draw": 25.0,
@@ -903,12 +911,12 @@
       "league": "SCO PR",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트 존스턴",
       "team2": "셀틱",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 13.0,
         "draw": 15.0,
@@ -930,12 +938,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "리버풀",
       "team2": "아틀레티코 마드리드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "draw": 22.0,
@@ -957,12 +965,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "나폴리",
       "team2": "아스날",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 18.0,
         "draw": 20.0,
@@ -983,12 +991,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "파리 생제르맹",
       "team2": "슬로반 브라티슬라바",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 1,
       "prob": {
         "home": 80.0,
         "draw": 15.0,
@@ -1009,12 +1017,12 @@
       "league": "UEFA CL",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "스포르팅 CP",
       "team2": "갈라타사라이",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "draw": 25.0,
@@ -1036,12 +1044,12 @@
       "league": "ENG LCH",
       "date": "9/10 (목)",
       "time": "04:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "찰턴",
       "team2": "퀸즈 파크 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
@@ -1203,7 +1211,9 @@
       },
       "ai_summary": "팔메이라스 홈 8경기 평균실점 0.88, 수비 안정감이 변수",
       "ai_picks": [
-        "팔메이라스 승"
+        "팔메이라스 승",
+        "언더 2.5",
+        "LDU 키토 +1.5 승"
       ],
       "aria_label": "팔메이라스 vs LDU 키토 07:00 분석 상세",
       "source_date": "2026-09-10"
@@ -1612,7 +1622,9 @@
       },
       "ai_summary": "오스틴 FC 홈 1.71득점, 콜로라도 래피즈 원정 0.4득점의 극단적 차이",
       "ai_picks": [
-        "오스틴 FC 승"
+        "오스틴 FC 승",
+        "언더 2.5",
+        "콜로라도 래피즈 +0.5 승"
       ],
       "aria_label": "오스틴 FC vs 콜로라도 래피즈 09:30 분석 상세",
       "source_date": "2026-09-10"
@@ -1637,7 +1649,9 @@
       },
       "ai_summary": "시카고 파이어 홈 5연승, 인터 마이애미는 원정 득점력 앞선다",
       "ai_picks": [
-        "시카고 파이어 승"
+        "시카고 파이어 승",
+        "오버 3.75",
+        "인터 마이애미 +0.5 승"
       ],
       "aria_label": "시카고 파이어 vs 인터 마이애미 09:30 분석 상세",
       "source_date": "2026-09-10"
@@ -1662,7 +1676,8 @@
       },
       "ai_summary": "휴스턴 다이나모 홈 7승2무2패, 레알 솔트레이크 원정 1승에 그쳐 홈 강세 뚜렷",
       "ai_picks": [
-        "휴스턴 다이나모 승"
+        "휴스턴 다이나모 승",
+        "언더 2.75"
       ],
       "aria_label": "휴스턴 다이나모 vs 레알 솔트레이크 09:30 분석 상세",
       "source_date": "2026-09-10"
@@ -1687,7 +1702,8 @@
       },
       "ai_summary": "미네소타 유나이티드 최근 3경기 xG 2.66, 공격 효율이 상승세",
       "ai_picks": [
-        "미네소타 유나이티드 승"
+        "미네소타 유나이티드 승",
+        "오버 3"
       ],
       "aria_label": "미네소타 유나이티드 vs FC 댈러스 09:30 분석 상세",
       "source_date": "2026-09-10"
@@ -1712,7 +1728,8 @@
       },
       "ai_summary": "홈 평균실점 0.5와 xG 우위, 홈팀 반등 여지가 크다",
       "ai_picks": [
-        "에스투디안테스 라 플라타 승"
+        "에스투디안테스 라 플라타 승",
+        "언더 1.5"
       ],
       "aria_label": "에스투디안테스 라 플라타 vs 코린티안스 09:30 분석 상세",
       "source_date": "2026-09-10"
