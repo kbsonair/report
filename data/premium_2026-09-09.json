@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-09",
-  "scraped_at": "2026-09-09T06:04:53.316914+00:00",
+  "scraped_at": "2026-09-09T11:33:45.303760+00:00",
   "count": 60,
   "matches": [
-    {
-      "id": "2000363408",
-      "url": "https://bbongtv4.com/premium/baseball/2000363408",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/9 (수)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "타릭 스쿠발 방어율 2.86, 선발 맞대결에서 LA 다저스가 확실히 앞선다",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 8.5",
-        "신시내티 레즈 +2.5 승"
-      ],
-      "aria_label": "LA 다저스 vs 신시내티 레즈 11:10 분석 상세",
-      "source_date": "2026-09-09"
-    },
     {
       "id": "2000355333",
       "url": "https://bbongtv4.com/premium/baseball/2000355333",
@@ -1549,6 +1523,32 @@
         "언더 7.5"
       ],
       "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 10:45 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2000363408",
+      "url": "https://bbongtv4.com/premium/baseball/2000363408",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/9 (수)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "신시내티 레즈",
+      "score1": 6,
+      "score2": 3,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "타릭 스쿠발 방어율 2.86, 선발 맞대결에서 LA 다저스가 확실히 앞선다",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 8.5",
+        "신시내티 레즈 +2.5 승"
+      ],
+      "aria_label": "LA 다저스 vs 신시내티 레즈 11:10 분석 상세",
       "source_date": "2026-09-09"
     }
   ]
