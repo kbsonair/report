@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-10",
   "source_date": "2026-09-10",
-  "scraped_at": "2026-09-08T22:45:04.231927+00:00",
-  "count": 57,
+  "scraped_at": "2026-09-09T01:06:53.358651+00:00",
+  "count": 58,
   "matches": [
     {
       "id": "2007212131",
@@ -263,6 +263,31 @@
       "source_date": "2026-09-10"
     },
     {
+      "id": "16475922",
+      "url": "https://bbongtv4.com/premium/soccer/16475922",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/10 (목)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "첼시",
+      "team2": "리즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "첼시 홈 2경기 2승·평균득점 3, 공격력에서 우위 뚜렷",
+      "ai_picks": [
+        "첼시 승"
+      ],
+      "aria_label": "첼시 vs 리즈 04:00 분석 상세",
+      "source_date": "2026-09-10"
+    },
+    {
       "id": "2006994832",
       "url": "https://bbongtv4.com/premium/soccer/2006994832",
       "sport": "soccer",
@@ -299,7 +324,7 @@
       "status": "예정",
       "result": null,
       "team1": "리버풀",
-      "team2": "아",
+      "team2": "아틀레티코 마드리드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1098,7 +1123,9 @@
       },
       "ai_summary": "선발 방어율 2.67 대 5.43, 다저스 홈 4승 흐름이 핵심",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5",
+        "LA 다저스 -1.5 승"
       ],
       "aria_label": "LA 다저스 vs 신시내티 레즈 11:10 분석 상세",
       "source_date": "2026-09-10"

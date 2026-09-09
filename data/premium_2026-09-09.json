@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-09",
-  "scraped_at": "2026-09-08T22:45:01.654016+00:00",
-  "count": 53,
+  "scraped_at": "2026-09-09T01:06:50.841799+00:00",
+  "count": 60,
   "matches": [
-    {
-      "id": "2007206020",
-      "url": "https://bbongtv4.com/premium/soccer/2007206020",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "9/9 (수)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "플루미넨세",
-      "team2": "플라텐세",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "플루미넨세 홈 9경기 무패와 플라텐세 원정 실점 억제력 주목",
-      "ai_picks": [
-        "플루미넨세 승"
-      ],
-      "aria_label": "플루미넨세 vs 플라텐세 07:00 분석 상세",
-      "source_date": "2026-09-09"
-    },
     {
       "id": "2000363390",
       "url": "https://bbongtv4.com/premium/baseball/2000363390",
@@ -667,6 +642,32 @@
       "source_date": "2026-09-09"
     },
     {
+      "id": "16475676",
+      "url": "https://bbongtv4.com/premium/soccer/16475676",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "레일락 시가",
+      "team2": "베르디",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "도쿄 베르디 승리 및 오버 2.5골",
+      "ai_picks": [
+        "베르디 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레일락 시가 vs 베르디 18:30 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
       "id": "16475677",
       "url": "https://bbongtv4.com/premium/soccer/16475677",
       "sport": "soccer",
@@ -690,6 +691,158 @@
         "오버 2.5"
       ],
       "aria_label": "시드니 FC vs 멜버른 빅토리 18:30 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475678",
+      "url": "https://bbongtv4.com/premium/soccer/16475678",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "후쿠시마 유나이티드",
+      "team2": "베갈타 센다이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "베갈타 센다이 승리 (오버 2.5)",
+      "ai_picks": [
+        "베갈타 센다이 승",
+        "오버 2.5"
+      ],
+      "aria_label": "후쿠시마 유나이티드 vs 베갈타 센다이 19:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475679",
+      "url": "https://bbongtv4.com/premium/soccer/16475679",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "카마타마레",
+      "team2": "치바",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "원정팀(제프 유나이티드 이치하라 지바) 승",
+      "ai_picks": [
+        "치바 승"
+      ],
+      "aria_label": "카마타마레 vs 치바 19:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475680",
+      "url": "https://bbongtv4.com/premium/soccer/16475680",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코치 유나이티드",
+      "team2": "V-바렌 나가사키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 12.0,
+        "draw": 18.0,
+        "away": 70.0
+      },
+      "ai_summary": "V-파렌 나가사키 승리",
+      "ai_picks": [
+        "V-바렌 나가사키 승"
+      ],
+      "aria_label": "코치 유나이티드 vs V-바렌 나가사키 19:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475681",
+      "url": "https://bbongtv4.com/premium/soccer/16475681",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "나가노",
+      "team2": "미토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "미토 홀리호크 승",
+      "ai_picks": [
+        "미토 승"
+      ],
+      "aria_label": "나가노 vs 미토 19:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475682",
+      "url": "https://bbongtv4.com/premium/soccer/16475682",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토치기 SC",
+      "team2": "몬테디오 야마가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 28.0,
+        "away": 42.0
+      },
+      "ai_summary": "몬테디오 야마가타 승 (언더 2.5 유력)",
+      "ai_picks": [
+        "몬테디오 야마가타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "토치기 SC vs 몬테디오 야마가타 19:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "16475683",
+      "url": "https://bbongtv4.com/premium/soccer/16475683",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/9 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "야마가",
+      "team2": "쇼난 벨마레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "쇼난 벨마레 승",
+      "ai_picks": [
+        "쇼난 벨마레 승"
+      ],
+      "aria_label": "야마가 vs 쇼난 벨마레 19:00 분석 상세",
       "source_date": "2026-09-09"
     },
     {
@@ -752,7 +905,7 @@
       "status": "예정",
       "result": null,
       "team1": "광주FC",
-      "team2": "제",
+      "team2": "제주SK",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1371,6 +1524,31 @@
         "웨스트햄 -0.5 승"
       ],
       "aria_label": "볼턴 vs 웨스트햄 04:00 분석 상세",
+      "source_date": "2026-09-09"
+    },
+    {
+      "id": "2007206020",
+      "url": "https://bbongtv4.com/premium/soccer/2007206020",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "9/9 (수)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "플루미넨세",
+      "team2": "플라텐세",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "플루미넨세 홈 9경기 무패와 플라텐세 원정 실점 억제력 주목",
+      "ai_picks": [
+        "플루미넨세 승"
+      ],
+      "aria_label": "플루미넨세 vs 플라텐세 07:00 분석 상세",
       "source_date": "2026-09-09"
     }
   ]
