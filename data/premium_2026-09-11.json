@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-11",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-09T23:29:33.721829+00:00",
-  "count": 24,
+  "scraped_at": "2026-09-10T01:27:05.454744+00:00",
+  "count": 25,
   "matches": [
     {
       "id": "2000363438",
@@ -78,6 +78,32 @@
         "오버 2.5"
       ],
       "aria_label": "페네르바체 vs 로마 01:45 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211521",
+      "url": "https://bbongtv4.com/premium/soccer/2007211521",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV",
+      "team2": "샤흐타르 도네츠크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 18.0,
+        "away": 22.0
+      },
+      "ai_summary": "PSV 에인트호번 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "PSV 승",
+        "PSV -1.5 승"
+      ],
+      "aria_label": "PSV vs 샤흐타르 도네츠크 01:45 분석 상세",
       "source_date": "2026-09-11"
     },
     {
@@ -194,8 +220,8 @@
       "time": "04:00",
       "status": "예정",
       "result": null,
-      "team1": "슬",
-      "team2": "슬라비아 프라하",
+      "team1": "슬라비아 프라하",
+      "team2": "랑스",
       "score1": null,
       "score2": null,
       "prob": {

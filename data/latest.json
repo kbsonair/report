@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T23:29:33.800520+00:00",
+  "scraped_at": "2026-09-10T01:27:05.531004+00:00",
   "kst_yesterday": "2026-09-09",
   "kst_today": "2026-09-10",
   "kst_tomorrow": "2026-09-11",
@@ -8,7 +8,7 @@
     "2026-09-10",
     "2026-09-11"
   ],
-  "count": 142,
+  "count": 143,
   "matches": [
     {
       "id": "2000363438",
@@ -84,6 +84,32 @@
         "오버 2.5"
       ],
       "aria_label": "페네르바체 vs 로마 01:45 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211521",
+      "url": "https://bbongtv4.com/premium/soccer/2007211521",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "01:45",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV",
+      "team2": "샤흐타르 도네츠크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 18.0,
+        "away": 22.0
+      },
+      "ai_summary": "PSV 에인트호번 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "PSV 승",
+        "PSV -1.5 승"
+      ],
+      "aria_label": "PSV vs 샤흐타르 도네츠크 01:45 분석 상세",
       "source_date": "2026-09-11"
     },
     {
@@ -200,8 +226,8 @@
       "time": "04:00",
       "status": "예정",
       "result": null,
-      "team1": "슬",
-      "team2": "슬라비아 프라하",
+      "team1": "슬라비아 프라하",
+      "team2": "랑스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1095,12 +1121,12 @@
       "league": "MLB",
       "date": "9/10 (목)",
       "time": "04:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SF 자이언츠",
       "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 6,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -1148,12 +1174,12 @@
       "league": "MLB",
       "date": "9/10 (목)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌디에이고 파드레스",
       "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -1173,12 +1199,12 @@
       "league": "MLB",
       "date": "9/10 (목)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시애틀 매리너스",
       "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -1198,12 +1224,12 @@
       "league": "LIB Cup",
       "date": "9/10 (목)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "팔메이라스",
       "team2": "LDU 키토",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 42.0,
         "draw": 30.0,

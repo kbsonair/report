@@ -1,112 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-10",
-  "scraped_at": "2026-09-09T23:29:31.635200+00:00",
+  "scraped_at": "2026-09-10T01:27:03.023926+00:00",
   "count": 58,
   "matches": [
-    {
-      "id": "2000363411",
-      "url": "https://bbongtv4.com/premium/baseball/2000363411",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/10 (목)",
-      "time": "04:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "세인트루이스 카디널스, 원정 6경기 평균득점 7.83으로 강한 공격력",
-      "ai_picks": [
-        "세인트루이스 카디널스 승",
-        "SF 자이언츠 +1.5 승",
-        "오버 8.5"
-      ],
-      "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 04:45 분석 상세",
-      "source_date": "2026-09-10"
-    },
-    {
-      "id": "2000363412",
-      "url": "https://bbongtv4.com/premium/baseball/2000363412",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/10 (목)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고 파드레스",
-      "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "away": 44.0
-      },
-      "ai_summary": "샌디에이고, 선발·불펜 여력과 홈 이점으로 근소한 우위",
-      "ai_picks": [
-        "샌디에이고 파드레스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "샌디에이고 파드레스 vs 워싱턴 내셔널스 05:10 분석 상세",
-      "source_date": "2026-09-10"
-    },
-    {
-      "id": "2000363413",
-      "url": "https://bbongtv4.com/premium/baseball/2000363413",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/10 (목)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 매리너스",
-      "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "타선·마운드 모두 텍사스 레인저스가 앞서지만, 시애틀 매리너스의 홈 불펜 운영이 변수",
-      "ai_picks": [
-        "텍사스 레인저스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "시애틀 매리너스 vs 텍사스 레인저스 05:10 분석 상세",
-      "source_date": "2026-09-10"
-    },
-    {
-      "id": "2007206659",
-      "url": "https://bbongtv4.com/premium/soccer/2007206659",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "9/10 (목)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "팔메이라스",
-      "team2": "LDU 키토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 30.0,
-        "away": 28.0
-      },
-      "ai_summary": "팔메이라스 홈 8경기 평균실점 0.88, 수비 안정감이 변수",
-      "ai_picks": [
-        "팔메이라스 승",
-        "언더 2.5",
-        "LDU 키토 +1.5 승"
-      ],
-      "aria_label": "팔메이라스 vs LDU 키토 07:00 분석 상세",
-      "source_date": "2026-09-10"
-    },
     {
       "id": "2000363414",
       "url": "https://bbongtv4.com/premium/baseball/2000363414",
@@ -1474,6 +1371,32 @@
       "source_date": "2026-09-10"
     },
     {
+      "id": "2000363411",
+      "url": "https://bbongtv4.com/premium/baseball/2000363411",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/10 (목)",
+      "time": "04:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SF 자이언츠",
+      "team2": "세인트루이스 카디널스",
+      "score1": 7,
+      "score2": 6,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "세인트루이스 카디널스, 원정 6경기 평균득점 7.83으로 강한 공격력",
+      "ai_picks": [
+        "세인트루이스 카디널스 승",
+        "SF 자이언츠 +1.5 승",
+        "오버 8.5"
+      ],
+      "aria_label": "SF 자이언츠 vs 세인트루이스 카디널스 04:45 분석 상세",
+      "source_date": "2026-09-10"
+    },
+    {
       "id": "2007209310",
       "url": "https://bbongtv4.com/premium/soccer/2007209310",
       "sport": "soccer",
@@ -1498,6 +1421,83 @@
         "모레이라 +2.5 승"
       ],
       "aria_label": "모레이라 vs 벤피카 04:45 분석 상세",
+      "source_date": "2026-09-10"
+    },
+    {
+      "id": "2000363412",
+      "url": "https://bbongtv4.com/premium/baseball/2000363412",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/10 (목)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고 파드레스",
+      "team2": "워싱턴 내셔널스",
+      "score1": 9,
+      "score2": 2,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "샌디에이고, 선발·불펜 여력과 홈 이점으로 근소한 우위",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs 워싱턴 내셔널스 05:10 분석 상세",
+      "source_date": "2026-09-10"
+    },
+    {
+      "id": "2000363413",
+      "url": "https://bbongtv4.com/premium/baseball/2000363413",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/10 (목)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "시애틀 매리너스",
+      "team2": "텍사스 레인저스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "타선·마운드 모두 텍사스 레인저스가 앞서지만, 시애틀 매리너스의 홈 불펜 운영이 변수",
+      "ai_picks": [
+        "텍사스 레인저스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "시애틀 매리너스 vs 텍사스 레인저스 05:10 분석 상세",
+      "source_date": "2026-09-10"
+    },
+    {
+      "id": "2007206659",
+      "url": "https://bbongtv4.com/premium/soccer/2007206659",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "9/10 (목)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "팔메이라스",
+      "team2": "LDU 키토",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "draw": 30.0,
+        "away": 28.0
+      },
+      "ai_summary": "팔메이라스 홈 8경기 평균실점 0.88, 수비 안정감이 변수",
+      "ai_picks": [
+        "팔메이라스 승",
+        "언더 2.5",
+        "LDU 키토 +1.5 승"
+      ],
+      "aria_label": "팔메이라스 vs LDU 키토 07:00 분석 상세",
       "source_date": "2026-09-10"
     }
   ]
