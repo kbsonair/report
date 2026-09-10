@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-10T21:41:29.730978+00:00",
+  "scraped_at": "2026-09-10T23:51:28.251946+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "2007013593",
-      "url": "https://bbongtv4.com/premium/soccer/2007013593",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/11 (금)",
-      "time": "04:15",
-      "status": "예정",
-      "result": null,
-      "team1": "에스트렐라",
-      "team2": "브라가",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 36.0,
-        "away": 32.0
-      },
-      "ai_summary": "양 팀 최근 6경기 중 5경기에서 2골 이상씩 주고받은 난타전 흐름",
-      "ai_picks": [
-        "무승부",
-        "오버 2.5"
-      ],
-      "aria_label": "에스트렐라 vs 브라가 04:15 분석 상세",
-      "source_date": "2026-09-11"
-    },
     {
       "id": "2000363440",
       "url": "https://bbongtv4.com/premium/baseball/2000363440",
@@ -650,6 +624,32 @@
         "랑스 +0.5 승"
       ],
       "aria_label": "슬라비아 프라하 vs 랑스 04:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007013593",
+      "url": "https://bbongtv4.com/premium/soccer/2007013593",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/11 (금)",
+      "time": "04:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에스트렐라",
+      "team2": "브라가",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 36.0,
+        "away": 32.0
+      },
+      "ai_summary": "양 팀 최근 6경기 중 5경기에서 2골 이상씩 주고받은 난타전 흐름",
+      "ai_picks": [
+        "무승부",
+        "오버 2.5"
+      ],
+      "aria_label": "에스트렐라 vs 브라가 04:15 분석 상세",
       "source_date": "2026-09-11"
     }
   ]
