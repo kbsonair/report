@@ -1,243 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-10T19:09:15.116622+00:00",
+  "scraped_at": "2026-09-10T21:41:29.730978+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "2000363438",
-      "url": "https://bbongtv4.com/premium/baseball/2000363438",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/11 (금)",
-      "time": "01:15",
-      "status": "예정",
-      "result": null,
-      "team1": "애틀란타 브레이브스",
-      "team2": "탬파베이 레이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "홈 6승1패와 시즌 총실점 541, 애틀란타 안정감이 앞선다",
-      "ai_picks": [
-        "애틀란타 브레이브스 승",
-        "언더 8.5",
-        "애틀란타 브레이브스 +1.5 승"
-      ],
-      "aria_label": "애틀란타 브레이브스 vs 탬파베이 레이스 01:15 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000643324",
-      "url": "https://bbongtv4.com/premium/hockey/2000643324",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/11 (금)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "스",
-      "team2": "스파르타크 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "스파르타크 모스크바, 최근 실점 억제와 홈 이점으로 근소 우세",
-      "ai_picks": [
-        "스파르타크 모스크바 승"
-      ],
-      "aria_label": "스파르타크 모스크바 vs SKA 상트페테르부르크 01:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211520",
-      "url": "https://bbongtv4.com/premium/soccer/2007211520",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "페네르바체",
-      "team2": "로마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "로마 최근 3경기 10득점, 공격력 상승세가 원정에서도 이어질지 주목",
-      "ai_picks": [
-        "로마 승",
-        "오버 2.5"
-      ],
-      "aria_label": "페네르바체 vs 로마 01:45 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211521",
-      "url": "https://bbongtv4.com/premium/soccer/2007211521",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "01:45",
-      "status": "예정",
-      "result": null,
-      "team1": "PSV",
-      "team2": "샤흐타르 도네츠크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 18.0,
-        "away": 22.0
-      },
-      "ai_summary": "PSV 에인트호번 승리 (핸디캡 -1.5 커버 가능)",
-      "ai_picks": [
-        "PSV 승",
-        "PSV -1.5 승"
-      ],
-      "aria_label": "PSV vs 샤흐타르 도네츠크 01:45 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000363439",
-      "url": "https://bbongtv4.com/premium/baseball/2000363439",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/11 (금)",
-      "time": "02:05",
-      "status": "예정",
-      "result": null,
-      "team1": "필라델피아 필리스",
-      "team2": "휴스턴 애스트로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "잭 휠러 방어율 3.23, 필라델피아 선발진이 실점 억제에 앞선다",
-      "ai_picks": [
-        "필라델피아 필리스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "필라델피아 필리스 vs 휴스턴 애스트로스 02:05 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211522",
-      "url": "https://bbongtv4.com/premium/soccer/2007211522",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바이에른",
-      "team2": "보도/글림트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 13.0,
-        "away": 7.0
-      },
-      "ai_summary": "바이에른 최근 3경기 9득점, 홈 강세와 맞물려 대량 득점 기대",
-      "ai_picks": [
-        "바이에른 승",
-        "오버 4.5",
-        "바이에른 -2.5 승"
-      ],
-      "aria_label": "바이에른 vs 보도/글림트 04:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211523",
-      "url": "https://bbongtv4.com/premium/soccer/2007211523",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "코모",
-      "team2": "라이프치히",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "코모 최근 3경기 연속 멀티 득점, 홈 강세가 승부에 영향",
-      "ai_picks": [
-        "코모 승",
-        "오버 3"
-      ],
-      "aria_label": "코모 vs 라이프치히 04:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211524",
-      "url": "https://bbongtv4.com/premium/soccer/2007211524",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "맨체스터 유나이티드",
-      "team2": "사",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 13.0,
-        "away": 7.0
-      },
-      "ai_summary": "맨체스터 유나이티드 홈 5-2 대승 경험, 공격력 우위 뚜렷",
-      "ai_picks": [
-        "맨체스터 유나이티드 승",
-        "오버 3.5",
-        "사바흐 바쿠 +2.5 승"
-      ],
-      "aria_label": "맨체스터 유나이티드 vs 사바흐 바쿠 04:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007211525",
-      "url": "https://bbongtv4.com/premium/soccer/2007211525",
-      "sport": "soccer",
-      "league": "UEFA CL",
-      "date": "9/11 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "슬라비아 프라하",
-      "team2": "랑스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 36.0,
-        "away": 32.0
-      },
-      "ai_summary": "랑스 최근 3경기 2패, 결장자 8명으로 전력 약화가 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "랑스 +0.5 승"
-      ],
-      "aria_label": "슬라비아 프라하 vs 랑스 04:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
     {
       "id": "2007013593",
       "url": "https://bbongtv4.com/premium/soccer/2007013593",
@@ -650,6 +416,240 @@
         "언더 2.5"
       ],
       "aria_label": "비셀 고베 vs 가시마앤틀러스 19:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000363438",
+      "url": "https://bbongtv4.com/premium/baseball/2000363438",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/11 (금)",
+      "time": "01:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애틀란타 브레이브스",
+      "team2": "탬파베이 레이스",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "홈 6승1패와 시즌 총실점 541, 애틀란타 안정감이 앞선다",
+      "ai_picks": [
+        "애틀란타 브레이브스 승",
+        "언더 8.5",
+        "애틀란타 브레이브스 +1.5 승"
+      ],
+      "aria_label": "애틀란타 브레이브스 vs 탬파베이 레이스 01:15 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000643324",
+      "url": "https://bbongtv4.com/premium/hockey/2000643324",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/11 (금)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스",
+      "team2": "스파르타크 모스크바",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "스파르타크 모스크바, 최근 실점 억제와 홈 이점으로 근소 우세",
+      "ai_picks": [
+        "스파르타크 모스크바 승"
+      ],
+      "aria_label": "스파르타크 모스크바 vs SKA 상트페테르부르크 01:30 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211520",
+      "url": "https://bbongtv4.com/premium/soccer/2007211520",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "페네르바체",
+      "team2": "로마",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "로마 최근 3경기 10득점, 공격력 상승세가 원정에서도 이어질지 주목",
+      "ai_picks": [
+        "로마 승",
+        "오버 2.5"
+      ],
+      "aria_label": "페네르바체 vs 로마 01:45 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211521",
+      "url": "https://bbongtv4.com/premium/soccer/2007211521",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "01:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "PSV",
+      "team2": "샤흐타르 도네츠크",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 18.0,
+        "away": 22.0
+      },
+      "ai_summary": "PSV 에인트호번 승리 (핸디캡 -1.5 커버 가능)",
+      "ai_picks": [
+        "PSV 승",
+        "PSV -1.5 승"
+      ],
+      "aria_label": "PSV vs 샤흐타르 도네츠크 01:45 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000363439",
+      "url": "https://bbongtv4.com/premium/baseball/2000363439",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/11 (금)",
+      "time": "02:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "필라델피아 필리스",
+      "team2": "휴스턴 애스트로스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "잭 휠러 방어율 3.23, 필라델피아 선발진이 실점 억제에 앞선다",
+      "ai_picks": [
+        "필라델피아 필리스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "필라델피아 필리스 vs 휴스턴 애스트로스 02:05 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211522",
+      "url": "https://bbongtv4.com/premium/soccer/2007211522",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바이에른",
+      "team2": "보도/글림트",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 80.0,
+        "draw": 13.0,
+        "away": 7.0
+      },
+      "ai_summary": "바이에른 최근 3경기 9득점, 홈 강세와 맞물려 대량 득점 기대",
+      "ai_picks": [
+        "바이에른 승",
+        "오버 4.5",
+        "바이에른 -2.5 승"
+      ],
+      "aria_label": "바이에른 vs 보도/글림트 04:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211523",
+      "url": "https://bbongtv4.com/premium/soccer/2007211523",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "코모",
+      "team2": "라이프치히",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "코모 최근 3경기 연속 멀티 득점, 홈 강세가 승부에 영향",
+      "ai_picks": [
+        "코모 승",
+        "오버 3"
+      ],
+      "aria_label": "코모 vs 라이프치히 04:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211524",
+      "url": "https://bbongtv4.com/premium/soccer/2007211524",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "맨체스터 유나이티드",
+      "team2": "사",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 80.0,
+        "draw": 13.0,
+        "away": 7.0
+      },
+      "ai_summary": "맨체스터 유나이티드 홈 5-2 대승 경험, 공격력 우위 뚜렷",
+      "ai_picks": [
+        "맨체스터 유나이티드 승",
+        "오버 3.5",
+        "사바흐 바쿠 +2.5 승"
+      ],
+      "aria_label": "맨체스터 유나이티드 vs 사바흐 바쿠 04:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007211525",
+      "url": "https://bbongtv4.com/premium/soccer/2007211525",
+      "sport": "soccer",
+      "league": "UEFA CL",
+      "date": "9/11 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "슬라비아 프라하",
+      "team2": "랑스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 36.0,
+        "away": 32.0
+      },
+      "ai_summary": "랑스 최근 3경기 2패, 결장자 8명으로 전력 약화가 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "랑스 +0.5 승"
+      ],
+      "aria_label": "슬라비아 프라하 vs 랑스 04:00 분석 상세",
       "source_date": "2026-09-11"
     }
   ]
