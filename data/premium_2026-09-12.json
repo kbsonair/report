@@ -1,137 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-12",
-  "scraped_at": "2026-09-11T17:12:55.765612+00:00",
+  "scraped_at": "2026-09-11T19:49:39.362623+00:00",
   "count": 96,
   "matches": [
-    {
-      "id": "2000643327",
-      "url": "https://bbongtv4.com/premium/hockey/2000643327",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/12 (토)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라",
-      "team2": "라다",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "니즈니노브고로드, 최근 2경기 연승과 배당 우위로 원정에서도 기대 높아",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "라다 vs 니즈니노브고로드 00:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007213200",
-      "url": "https://bbongtv4.com/premium/soccer/2007213200",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/12 (토)",
-      "time": "00:25",
-      "status": "예정",
-      "result": null,
-      "team1": "알",
-      "team2": "알 카디시야",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "draw": 19.0,
-        "away": 13.0
-      },
-      "ai_summary": "알 카디시야, 홈 평균득점 2점과 최근 5승 흐름으로 우세 뚜렷",
-      "ai_picks": [
-        "알 카디시야 승",
-        "오버 3.5",
-        "알 이티팍 +1.5 승"
-      ],
-      "aria_label": "알 카디시야 vs 알 이티팍 00:25 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214469",
-      "url": "https://bbongtv4.com/premium/soccer/2007214469",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/12 (토)",
-      "time": "00:45",
-      "status": "예정",
-      "result": null,
-      "team1": "알 파이살리",
-      "team2": "알 이티하드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "알 이티하드, 최근 6경기 4승2무 무패 행진과 xG 2.1로 공격력 우세",
-      "ai_picks": [
-        "알 이티하드 승",
-        "언더 3.5"
-      ],
-      "aria_label": "알 파이살리 vs 알 이티하드 00:45 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000643325",
-      "url": "https://bbongtv4.com/premium/hockey/2000643325",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/12 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바르스 카잔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "바르스 카잔, 홈 3연승과 평균 실점 1점의 안정된 수비력",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "바르스 카잔 vs 마그니토고르스크 01:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007211591",
-      "url": "https://bbongtv4.com/premium/soccer/2007211591",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/12 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베식타시",
-      "team2": "에르주룸스포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "베식타시 홈 5연승·평균득점 2.4, 에르주룸스포르 원정 2경기 1득점 부진",
-      "ai_picks": [
-        "베식타시 승",
-        "오버 2.5",
-        "베식타시 -1.5 승"
-      ],
-      "aria_label": "베식타시 vs 에르주룸스포르 02:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
     {
       "id": "2007209272",
       "url": "https://bbongtv4.com/premium/soccer/2007209272",
@@ -2488,6 +2360,134 @@
         "알베르카 +0.5 승"
       ],
       "aria_label": "나시오날 vs 알베르카 23:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000643327",
+      "url": "https://bbongtv4.com/premium/hockey/2000643327",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/12 (토)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라",
+      "team2": "라다",
+      "score1": 2,
+      "score2": 7,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "니즈니노브고로드, 최근 2경기 연승과 배당 우위로 원정에서도 기대 높아",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "라다 vs 니즈니노브고로드 00:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007213200",
+      "url": "https://bbongtv4.com/premium/soccer/2007213200",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/12 (토)",
+      "time": "00:25",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알",
+      "team2": "알 카디시야",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 68.0,
+        "draw": 19.0,
+        "away": 13.0
+      },
+      "ai_summary": "알 카디시야, 홈 평균득점 2점과 최근 5승 흐름으로 우세 뚜렷",
+      "ai_picks": [
+        "알 카디시야 승",
+        "오버 3.5",
+        "알 이티팍 +1.5 승"
+      ],
+      "aria_label": "알 카디시야 vs 알 이티팍 00:25 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214469",
+      "url": "https://bbongtv4.com/premium/soccer/2007214469",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/12 (토)",
+      "time": "00:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 파이살리",
+      "team2": "알 이티하드",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "알 이티하드, 최근 6경기 4승2무 무패 행진과 xG 2.1로 공격력 우세",
+      "ai_picks": [
+        "알 이티하드 승",
+        "언더 3.5"
+      ],
+      "aria_label": "알 파이살리 vs 알 이티하드 00:45 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000643325",
+      "url": "https://bbongtv4.com/premium/hockey/2000643325",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/12 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바",
+      "team2": "바르스 카잔",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "바르스 카잔, 홈 3연승과 평균 실점 1점의 안정된 수비력",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "바르스 카잔 vs 마그니토고르스크 01:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007211591",
+      "url": "https://bbongtv4.com/premium/soccer/2007211591",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/12 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베식타시",
+      "team2": "에르주룸스포르",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "베식타시 홈 5연승·평균득점 2.4, 에르주룸스포르 원정 2경기 1득점 부진",
+      "ai_picks": [
+        "베식타시 승",
+        "오버 2.5",
+        "베식타시 -1.5 승"
+      ],
+      "aria_label": "베식타시 vs 에르주룸스포르 02:00 분석 상세",
       "source_date": "2026-09-12"
     }
   ]
