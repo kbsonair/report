@@ -1,110 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-11",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-11T13:23:51.184895+00:00",
+  "scraped_at": "2026-09-11T17:12:56.955703+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "2000355798",
-      "url": "https://bbongtv4.com/premium/baseball/2000355798",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/11 (금)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "한화 이글스",
-      "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "NC 다이노스, 최근 맞대결서 10점 이상 득점하며 우위 확인",
-      "ai_picks": [
-        "NC 다이노스 승",
-        "오버 10.5"
-      ],
-      "aria_label": "한화 이글스 vs NC 다이노스 18:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000355994",
-      "url": "https://bbongtv4.com/premium/baseball/2000355994",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/11 (금)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KIA 타이거즈",
-      "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "KIA 타이거즈, 홈 6연승과 평균득점 7.33으로 강한 홈 우위",
-      "ai_picks": [
-        "KIA 타이거즈 승",
-        "SSG 랜더스 +1.5 승"
-      ],
-      "aria_label": "KIA 타이거즈 vs SSG 랜더스 18:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000364377",
-      "url": "https://bbongtv4.com/premium/baseball/2000364377",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/11 (금)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "롯데 자이언츠",
-      "team2": "KT 위즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "away": 64.0
-      },
-      "ai_summary": "KT 위즈, 시즌 득실 우위와 최근 롯데 홈 부진이 맞물린 경기",
-      "ai_picks": [
-        "KT 위즈 승",
-        "오버 9.5"
-      ],
-      "aria_label": "롯데 자이언츠 vs KT 위즈 18:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000364378",
-      "url": "https://bbongtv4.com/premium/baseball/2000364378",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/11 (금)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "삼성 라이온즈",
-      "team2": "키움 히어로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 74.0,
-        "away": 26.0
-      },
-      "ai_summary": "시즌 1위 대 10위 격차, 맞대결 15-2·12-2 흐름",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "오버 11.5",
-        "삼성 라이온즈 -3.5 승"
-      ],
-      "aria_label": "삼성 라이온즈 vs 키움 히어로즈 18:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
     {
       "id": "2000363438",
       "url": "https://bbongtv4.com/premium/baseball/2000363438",
@@ -572,6 +471,107 @@
         "오버 6.5"
       ],
       "aria_label": "히로시마 카프 vs 요코하마 베이스타즈 18:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000355798",
+      "url": "https://bbongtv4.com/premium/baseball/2000355798",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/11 (금)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한화 이글스",
+      "team2": "NC 다이노스",
+      "score1": 7,
+      "score2": 9,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "NC 다이노스, 최근 맞대결서 10점 이상 득점하며 우위 확인",
+      "ai_picks": [
+        "NC 다이노스 승",
+        "오버 10.5"
+      ],
+      "aria_label": "한화 이글스 vs NC 다이노스 18:30 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000355994",
+      "url": "https://bbongtv4.com/premium/baseball/2000355994",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/11 (금)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KIA 타이거즈",
+      "team2": "SSG 랜더스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "KIA 타이거즈, 홈 6연승과 평균득점 7.33으로 강한 홈 우위",
+      "ai_picks": [
+        "KIA 타이거즈 승",
+        "SSG 랜더스 +1.5 승"
+      ],
+      "aria_label": "KIA 타이거즈 vs SSG 랜더스 18:30 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000364377",
+      "url": "https://bbongtv4.com/premium/baseball/2000364377",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/11 (금)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "롯데 자이언츠",
+      "team2": "KT 위즈",
+      "score1": 1,
+      "score2": 7,
+      "prob": {
+        "home": 36.0,
+        "away": 64.0
+      },
+      "ai_summary": "KT 위즈, 시즌 득실 우위와 최근 롯데 홈 부진이 맞물린 경기",
+      "ai_picks": [
+        "KT 위즈 승",
+        "오버 9.5"
+      ],
+      "aria_label": "롯데 자이언츠 vs KT 위즈 18:30 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000364378",
+      "url": "https://bbongtv4.com/premium/baseball/2000364378",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/11 (금)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "삼성 라이온즈",
+      "team2": "키움 히어로즈",
+      "score1": 6,
+      "score2": 4,
+      "prob": {
+        "home": 74.0,
+        "away": 26.0
+      },
+      "ai_summary": "시즌 1위 대 10위 격차, 맞대결 15-2·12-2 흐름",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "오버 11.5",
+        "삼성 라이온즈 -3.5 승"
+      ],
+      "aria_label": "삼성 라이온즈 vs 키움 히어로즈 18:30 분석 상세",
       "source_date": "2026-09-11"
     },
     {
