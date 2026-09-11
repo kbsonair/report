@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T23:51:33.704313+00:00",
+  "scraped_at": "2026-09-11T03:52:25.282642+00:00",
   "kst_yesterday": "2026-09-10",
   "kst_today": "2026-09-11",
   "kst_tomorrow": "2026-09-12",
@@ -826,7 +826,8 @@
       },
       "ai_summary": "오클랜드 최근 맞대결 3승1패, 시애틀 투수력 앞서도 불안한 원정",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "오클랜드 +2.5 승"
       ],
       "aria_label": "오클랜드 vs 시애틀 매리너스 10:40 분석 상세",
       "source_date": "2026-09-12"
@@ -2738,12 +2739,12 @@
       "league": "MLB",
       "date": "9/11 (금)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀 매리너스",
       "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 45.0,
         "away": 55.0
@@ -2764,12 +2765,12 @@
       "league": "MLB",
       "date": "9/11 (금)",
       "time": "08:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 양키스",
       "team2": "콜로라도 로키스",
-      "score1": null,
-      "score2": null,
+      "score1": 10,
+      "score2": 3,
       "prob": {
         "home": 78.0,
         "away": 22.0
@@ -2790,12 +2791,12 @@
       "league": "MLB",
       "date": "9/11 (금)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시카고 화이트삭스",
       "team2": "피츠버그 파이어리츠",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -2816,12 +2817,12 @@
       "league": "LIB Cup",
       "date": "9/11 (금)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "인디펜디엔테 델 바예",
       "team2": "플라멩고 RJ",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 32.0,
         "draw": 26.0,
@@ -3103,7 +3104,7 @@
       "status": "예정",
       "result": null,
       "team1": "비셀 고베",
-      "team2": "가",
+      "team2": "가시마앤틀러스",
       "score1": null,
       "score2": null,
       "prob": {
