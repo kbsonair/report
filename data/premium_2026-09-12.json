@@ -1,246 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-12",
-  "scraped_at": "2026-09-11T19:49:39.362623+00:00",
+  "scraped_at": "2026-09-11T22:21:20.848566+00:00",
   "count": 96,
   "matches": [
-    {
-      "id": "2007209272",
-      "url": "https://bbongtv4.com/premium/soccer/2007209272",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/12 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "AZ",
-      "team2": "빌렘II",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 13.0,
-        "away": 7.0
-      },
-      "ai_summary": "AZ 최근 5연승·경기당 3.2득점, 빌렘II 실점 3.3으로 체급 차 뚜렷",
-      "ai_picks": [
-        "AZ 승",
-        "오버 3.75",
-        "AZ -2.5 승"
-      ],
-      "aria_label": "AZ vs 빌렘II 03:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214956",
-      "url": "https://bbongtv4.com/premium/soccer/2007214956",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/12 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "알 아흘리",
-      "team2": "알",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 25.0,
-        "away": 19.0
-      },
-      "ai_summary": "홈 평균득점 4.5와 2승0패, 알 아흘리 홈 우위가 핵심",
-      "ai_picks": [
-        "알 아흘리 승",
-        "오버 3",
-        "알 아흘리 -1.5 승"
-      ],
-      "aria_label": "알 아흘리 vs 알 하젬 03:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000363443",
-      "url": "https://bbongtv4.com/premium/baseball/2000363443",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/12 (토)",
-      "time": "03:20",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 컵스",
-      "team2": "피츠버그 파이어리츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "away": 44.0
-      },
-      "ai_summary": "시카고 컵스, 홈런 파워와 후반 집중력으로 총득점 우위 기대",
-      "ai_picks": [
-        "시카고 컵스 승",
-        "언더 8.5",
-        "피츠버그 파이어리츠 +1.5 승"
-      ],
-      "aria_label": "시카고 컵스 vs 피츠버그 파이어리츠 03:20 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007050031",
-      "url": "https://bbongtv4.com/premium/soccer/2007050031",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/12 (토)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "우니온베를린",
-      "team2": "샬케",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 37.0,
-        "draw": 32.0,
-        "away": 31.0
-      },
-      "ai_summary": "우니온베를린, 실점 많지만 공격 효율 앞서 오버 2.5 가능성 높다",
-      "ai_picks": [
-        "오버 2.5",
-        "샬케 +0.5 승"
-      ],
-      "aria_label": "우니온베를린 vs 샬케 03:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007208654",
-      "url": "https://bbongtv4.com/premium/soccer/2007208654",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "9/12 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "렌",
-      "team2": "마르세유",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 27.0,
-        "away": 25.0
-      },
-      "ai_summary": "렌 홈 2경기 평균득점 2.5, 마르세유 원정 1패로 홈 강세 뚜렷",
-      "ai_picks": [
-        "렌 승",
-        "오버 3.5"
-      ],
-      "aria_label": "렌 vs 마르세유 03:45 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007211375",
-      "url": "https://bbongtv4.com/premium/soccer/2007211375",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/12 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "베네치아",
-      "team2": "피오렌티나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 39.0,
-        "draw": 29.0,
-        "away": 32.0
-      },
-      "ai_summary": "무득점 2경기씩, 실점 2.3·3.0이 승부 흐름을 흔든다",
-      "ai_picks": [
-        "베네치아 승",
-        "오버 2.5",
-        "베네치아 +0.5 승"
-      ],
-      "aria_label": "베네치아 vs 피오렌티나 03:45 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007211586",
-      "url": "https://bbongtv4.com/premium/soccer/2007211586",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/12 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "KV 메헬렌",
-      "team2": "안더레흐트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "KV 메헬렌, 최근 5경기 13실점의 수비 불안이 오버 가능성 높인다",
-      "ai_picks": [
-        "오버 2.5",
-        "안더레흐트 -0.5 승"
-      ],
-      "aria_label": "KV 메헬렌 vs 안더레흐트 03:45 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007212518",
-      "url": "https://bbongtv4.com/premium/soccer/2007212518",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/12 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세비야",
-      "team2": "발렌시아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 27.0,
-        "away": 18.0
-      },
-      "ai_summary": "발렌시아 최근 4경기 1득점 9실점, 세비야 홈에서 우위 기대",
-      "ai_picks": [
-        "세비야 승",
-        "언더 2.5"
-      ],
-      "aria_label": "세비야 vs 발렌시아 04:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214987",
-      "url": "https://bbongtv4.com/premium/soccer/2007214987",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/12 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "웨스트햄",
-      "team2": "렉섬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "웨스트햄 홈 평균득점 2.75, 렉섬 원정 실점 0.5로 상반된 흐름",
-      "ai_picks": [
-        "웨스트햄 승",
-        "오버 2.5"
-      ],
-      "aria_label": "웨스트햄 vs 렉섬 04:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
     {
       "id": "2007214285",
       "url": "https://bbongtv4.com/premium/soccer/2007214285",
@@ -2488,6 +2251,243 @@
         "베식타시 -1.5 승"
       ],
       "aria_label": "베식타시 vs 에르주룸스포르 02:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209272",
+      "url": "https://bbongtv4.com/premium/soccer/2007209272",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/12 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "AZ",
+      "team2": "빌렘II",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 80.0,
+        "draw": 13.0,
+        "away": 7.0
+      },
+      "ai_summary": "AZ 최근 5연승·경기당 3.2득점, 빌렘II 실점 3.3으로 체급 차 뚜렷",
+      "ai_picks": [
+        "AZ 승",
+        "오버 3.75",
+        "AZ -2.5 승"
+      ],
+      "aria_label": "AZ vs 빌렘II 03:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214956",
+      "url": "https://bbongtv4.com/premium/soccer/2007214956",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/12 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 아흘리",
+      "team2": "알",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 56.0,
+        "draw": 25.0,
+        "away": 19.0
+      },
+      "ai_summary": "홈 평균득점 4.5와 2승0패, 알 아흘리 홈 우위가 핵심",
+      "ai_picks": [
+        "알 아흘리 승",
+        "오버 3",
+        "알 아흘리 -1.5 승"
+      ],
+      "aria_label": "알 아흘리 vs 알 하젬 03:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000363443",
+      "url": "https://bbongtv4.com/premium/baseball/2000363443",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/12 (토)",
+      "time": "03:20",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고 컵스",
+      "team2": "피츠버그 파이어리츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "시카고 컵스, 홈런 파워와 후반 집중력으로 총득점 우위 기대",
+      "ai_picks": [
+        "시카고 컵스 승",
+        "언더 8.5",
+        "피츠버그 파이어리츠 +1.5 승"
+      ],
+      "aria_label": "시카고 컵스 vs 피츠버그 파이어리츠 03:20 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007050031",
+      "url": "https://bbongtv4.com/premium/soccer/2007050031",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/12 (토)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "우니온베를린",
+      "team2": "샬케",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 37.0,
+        "draw": 32.0,
+        "away": 31.0
+      },
+      "ai_summary": "우니온베를린, 실점 많지만 공격 효율 앞서 오버 2.5 가능성 높다",
+      "ai_picks": [
+        "오버 2.5",
+        "샬케 +0.5 승"
+      ],
+      "aria_label": "우니온베를린 vs 샬케 03:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007208654",
+      "url": "https://bbongtv4.com/premium/soccer/2007208654",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/12 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "렌",
+      "team2": "마르세유",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 27.0,
+        "away": 25.0
+      },
+      "ai_summary": "렌 홈 2경기 평균득점 2.5, 마르세유 원정 1패로 홈 강세 뚜렷",
+      "ai_picks": [
+        "렌 승",
+        "오버 3.5"
+      ],
+      "aria_label": "렌 vs 마르세유 03:45 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007211375",
+      "url": "https://bbongtv4.com/premium/soccer/2007211375",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/12 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베네치아",
+      "team2": "피오렌티나",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 39.0,
+        "draw": 29.0,
+        "away": 32.0
+      },
+      "ai_summary": "무득점 2경기씩, 실점 2.3·3.0이 승부 흐름을 흔든다",
+      "ai_picks": [
+        "베네치아 승",
+        "오버 2.5",
+        "베네치아 +0.5 승"
+      ],
+      "aria_label": "베네치아 vs 피오렌티나 03:45 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007211586",
+      "url": "https://bbongtv4.com/premium/soccer/2007211586",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/12 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KV 메헬렌",
+      "team2": "안더레흐트",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "KV 메헬렌, 최근 5경기 13실점의 수비 불안이 오버 가능성 높인다",
+      "ai_picks": [
+        "오버 2.5",
+        "안더레흐트 -0.5 승"
+      ],
+      "aria_label": "KV 메헬렌 vs 안더레흐트 03:45 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007212518",
+      "url": "https://bbongtv4.com/premium/soccer/2007212518",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/12 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세비야",
+      "team2": "발렌시아",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 27.0,
+        "away": 18.0
+      },
+      "ai_summary": "발렌시아 최근 4경기 1득점 9실점, 세비야 홈에서 우위 기대",
+      "ai_picks": [
+        "세비야 승",
+        "언더 2.5"
+      ],
+      "aria_label": "세비야 vs 발렌시아 04:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214987",
+      "url": "https://bbongtv4.com/premium/soccer/2007214987",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/12 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "웨스트햄",
+      "team2": "렉섬",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "웨스트햄 홈 평균득점 2.75, 렉섬 원정 실점 0.5로 상반된 흐름",
+      "ai_picks": [
+        "웨스트햄 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트햄 vs 렉섬 04:00 분석 상세",
       "source_date": "2026-09-12"
     }
   ]
