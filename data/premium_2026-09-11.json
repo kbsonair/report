@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-11T08:46:40.043149+00:00",
+  "scraped_at": "2026-09-11T13:23:51.184895+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "2000354707",
-      "url": "https://bbongtv4.com/premium/baseball/2000354707",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/11 (금)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후쿠오카 소프트뱅크 호크스",
-      "team2": "치바 롯데 마리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "홈 평균득점 6.5와 원정 평균실점 5, 격차가 뚜렷한 매치",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 7.5",
-        "후쿠오카 소프트뱅크 호크스 -1.5 승"
-      ],
-      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 치바 롯데 마리너스 18:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000355028",
-      "url": "https://bbongtv4.com/premium/baseball/2000355028",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/11 (금)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스 버팔로스",
-      "team2": "세이부 라이온스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "세이부 라이온스, 최근 2경기 연속 무실점 승리로 흐름 앞선다",
-      "ai_picks": [
-        "세이부 라이온스 승",
-        "세이부 라이온스 -1.5 승",
-        "언더 7.5"
-      ],
-      "aria_label": "오릭스 버팔로스 vs 세이부 라이온스 18:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2000355345",
-      "url": "https://bbongtv4.com/premium/baseball/2000355345",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/11 (금)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마 카프",
-      "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "요코하마 베이스타즈, 최근 원정 3승 흐름과 시즌 득실 우위로 앞선다",
-      "ai_picks": [
-        "요코하마 베이스타즈 승",
-        "오버 6.5"
-      ],
-      "aria_label": "히로시마 카프 vs 요코하마 베이스타즈 18:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
     {
       "id": "2000355798",
       "url": "https://bbongtv4.com/premium/baseball/2000355798",
@@ -180,84 +103,6 @@
         "삼성 라이온즈 -3.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 키움 히어로즈 18:30 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007177342",
-      "url": "https://bbongtv4.com/premium/soccer/2007177342",
-      "sport": "soccer",
-      "league": "K리그3",
-      "date": "9/11 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대",
-      "team2": "대전 코레일",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 57.0,
-        "draw": 22.0,
-        "away": 21.0
-      },
-      "ai_summary": "대전 코레일, 홈 평균득점 2.25로 울산 시민보다 공격력 앞선다",
-      "ai_picks": [
-        "대전 코레일 승",
-        "언더 2.5"
-      ],
-      "aria_label": "대전 코레일 vs 울산 시민 19:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007214883",
-      "url": "https://bbongtv4.com/premium/soccer/2007214883",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/11 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "교토",
-      "team2": "카시와 레이솔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 22.0,
-        "away": 56.0
-      },
-      "ai_summary": "카시와 레이솔, 최근 5경기 점유율 61%·패스성공률 87.2%로 경기 주도",
-      "ai_picks": [
-        "카시와 레이솔 승",
-        "오버 2.5"
-      ],
-      "aria_label": "교토 vs 카시와 레이솔 19:00 분석 상세",
-      "source_date": "2026-09-11"
-    },
-    {
-      "id": "2007214884",
-      "url": "https://bbongtv4.com/premium/soccer/2007214884",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/11 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "비셀 고베",
-      "team2": "가시마앤틀러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 25.0,
-        "away": 43.0
-      },
-      "ai_summary": "가시마앤틀러스, 최근 6경기 4승·평균 점유율 60%로 경기 주도",
-      "ai_picks": [
-        "가시마앤틀러스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "비셀 고베 vs 가시마앤틀러스 19:00 분석 상세",
       "source_date": "2026-09-11"
     },
     {
@@ -650,6 +495,161 @@
         "레온 +0.5 승"
       ],
       "aria_label": "UNAM 푸마스 vs 레온 12:05 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000354707",
+      "url": "https://bbongtv4.com/premium/baseball/2000354707",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/11 (금)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후쿠오카 소프트뱅크 호크스",
+      "team2": "치바 롯데 마리너스",
+      "score1": 11,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "홈 평균득점 6.5와 원정 평균실점 5, 격차가 뚜렷한 매치",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 7.5",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
+      ],
+      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 치바 롯데 마리너스 18:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000355028",
+      "url": "https://bbongtv4.com/premium/baseball/2000355028",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/11 (금)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "오릭스 버팔로스",
+      "team2": "세이부 라이온스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "세이부 라이온스, 최근 2경기 연속 무실점 승리로 흐름 앞선다",
+      "ai_picks": [
+        "세이부 라이온스 승",
+        "세이부 라이온스 -1.5 승",
+        "언더 7.5"
+      ],
+      "aria_label": "오릭스 버팔로스 vs 세이부 라이온스 18:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2000355345",
+      "url": "https://bbongtv4.com/premium/baseball/2000355345",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/11 (금)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "히로시마 카프",
+      "team2": "요코하마 베이스타즈",
+      "score1": 1,
+      "score2": 6,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "요코하마 베이스타즈, 최근 원정 3승 흐름과 시즌 득실 우위로 앞선다",
+      "ai_picks": [
+        "요코하마 베이스타즈 승",
+        "오버 6.5"
+      ],
+      "aria_label": "히로시마 카프 vs 요코하마 베이스타즈 18:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007177342",
+      "url": "https://bbongtv4.com/premium/soccer/2007177342",
+      "sport": "soccer",
+      "league": "K리그3",
+      "date": "9/11 (금)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "대",
+      "team2": "대전 코레일",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 57.0,
+        "draw": 22.0,
+        "away": 21.0
+      },
+      "ai_summary": "대전 코레일, 홈 평균득점 2.25로 울산 시민보다 공격력 앞선다",
+      "ai_picks": [
+        "대전 코레일 승",
+        "언더 2.5"
+      ],
+      "aria_label": "대전 코레일 vs 울산 시민 19:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007214883",
+      "url": "https://bbongtv4.com/premium/soccer/2007214883",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/11 (금)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "교토",
+      "team2": "카시와 레이솔",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 22.0,
+        "draw": 22.0,
+        "away": 56.0
+      },
+      "ai_summary": "카시와 레이솔, 최근 5경기 점유율 61%·패스성공률 87.2%로 경기 주도",
+      "ai_picks": [
+        "카시와 레이솔 승",
+        "오버 2.5"
+      ],
+      "aria_label": "교토 vs 카시와 레이솔 19:00 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007214884",
+      "url": "https://bbongtv4.com/premium/soccer/2007214884",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/11 (금)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "비셀 고베",
+      "team2": "가시마앤틀러스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 25.0,
+        "away": 43.0
+      },
+      "ai_summary": "가시마앤틀러스, 최근 6경기 4승·평균 점유율 60%로 경기 주도",
+      "ai_picks": [
+        "가시마앤틀러스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "비셀 고베 vs 가시마앤틀러스 19:00 분석 상세",
       "source_date": "2026-09-11"
     }
   ]
