@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-11",
-  "scraped_at": "2026-09-11T03:52:22.283440+00:00",
+  "scraped_at": "2026-09-11T08:46:40.043149+00:00",
   "count": 25,
   "matches": [
-    {
-      "id": "2007209460",
-      "url": "https://bbongtv4.com/premium/soccer/2007209460",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/11 (금)",
-      "time": "12:05",
-      "status": "예정",
-      "result": null,
-      "team1": "UNAM 푸마스",
-      "team2": "레온",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 20.0,
-        "away": 57.0
-      },
-      "ai_summary": "레온 최근 4승 1무, 원정에서도 안정된 득점력 유지",
-      "ai_picks": [
-        "레온 승",
-        "언더 2.5",
-        "레온 +0.5 승"
-      ],
-      "aria_label": "UNAM 푸마스 vs 레온 12:05 분석 상세",
-      "source_date": "2026-09-11"
-    },
     {
       "id": "2000354707",
       "url": "https://bbongtv4.com/premium/baseball/2000354707",
@@ -650,6 +623,33 @@
         "플라멩고 RJ +0.5 승"
       ],
       "aria_label": "인디펜디엔테 델 바예 vs 플라멩고 RJ 09:30 분석 상세",
+      "source_date": "2026-09-11"
+    },
+    {
+      "id": "2007209460",
+      "url": "https://bbongtv4.com/premium/soccer/2007209460",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/11 (금)",
+      "time": "12:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "UNAM 푸마스",
+      "team2": "레온",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 23.0,
+        "draw": 20.0,
+        "away": 57.0
+      },
+      "ai_summary": "레온 최근 4승 1무, 원정에서도 안정된 득점력 유지",
+      "ai_picks": [
+        "레온 승",
+        "언더 2.5",
+        "레온 +0.5 승"
+      ],
+      "aria_label": "UNAM 푸마스 vs 레온 12:05 분석 상세",
       "source_date": "2026-09-11"
     }
   ]
