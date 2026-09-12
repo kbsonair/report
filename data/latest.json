@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T00:36:53.257952+00:00",
+  "scraped_at": "2026-09-12T05:03:01.054571+00:00",
   "kst_yesterday": "2026-09-11",
   "kst_today": "2026-09-12",
   "kst_tomorrow": "2026-09-13",
@@ -8,7 +8,7 @@
     "2026-09-12",
     "2026-09-13"
   ],
-  "count": 233,
+  "count": 234,
   "matches": [
     {
       "id": "2007208738",
@@ -152,8 +152,8 @@
       "time": "01:30",
       "status": "예정",
       "result": null,
-      "team1": "아",
-      "team2": "아틀레틱 빌바오",
+      "team1": "아틀레틱 빌바오",
+      "team2": "엘체",
       "score1": null,
       "score2": null,
       "prob": {
@@ -231,8 +231,8 @@
       "time": "01:45",
       "status": "예정",
       "result": null,
-      "team1": "이",
-      "team2": "G.A. 이글스",
+      "team1": "G.A. 이글스",
+      "team2": "흐로닝언",
       "score1": null,
       "score2": null,
       "prob": {
@@ -346,7 +346,9 @@
       },
       "ai_summary": "디트로이트 타이거스, 홈 방어율 3.67로 콜로라도 로키스 투수진과 대조",
       "ai_picks": [
-        "디트로이트 타이거스 승"
+        "디트로이트 타이거스 승",
+        "오버 8.5",
+        "콜로라도 로키스 +1.5 승"
       ],
       "aria_label": "디트로이트 타이거스 vs 콜로라도 로키스 02:10 분석 상세",
       "source_date": "2026-09-13"
@@ -1496,6 +1498,31 @@
       "source_date": "2026-09-13"
     },
     {
+      "id": "2007149587",
+      "url": "https://bbongtv4.com/premium/soccer/2007149587",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/13 (일)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SKC",
+      "team2": "로스앤젤레스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀 로스앤젤레스 FC 승리",
+      "ai_picks": [
+        "로스앤젤레스 FC 승"
+      ],
+      "aria_label": "SKC vs 로스앤젤레스 FC 09:30 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
       "id": "2007149588",
       "url": "https://bbongtv4.com/premium/soccer/2007149588",
       "sport": "soccer",
@@ -1618,7 +1645,9 @@
       },
       "ai_summary": "선발 WHIP 1.06 대 1.49, 원정 마운드 우위가 승부 변수",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "언더 9.5",
+        "오클랜드 +1.5 승"
       ],
       "aria_label": "오클랜드 vs 시애틀 매리너스 10:40 분석 상세",
       "source_date": "2026-09-13"
@@ -3090,12 +3119,12 @@
       "league": "ARG D1",
       "date": "9/12 (토)",
       "time": "07:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "데펜사 이 후스티시아",
       "team2": "짐나시아 멘도사",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 35.0,
         "draw": 30.0,
@@ -3116,12 +3145,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디트로이트 타이거스",
       "team2": "콜로라도 로키스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 2,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -3141,12 +3170,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "07:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워싱턴 내셔널스",
       "team2": "LA 에인절스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 67.0,
         "away": 33.0
@@ -3166,12 +3195,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 양키스",
       "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 4,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -3192,12 +3221,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토론토 블루제이스",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 7,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -3218,12 +3247,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴 레드삭스",
       "team2": "캔자스시티 로열스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -3243,12 +3272,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미 말린스",
       "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 6,
       "prob": {
         "home": 34.0,
         "away": 66.0
@@ -3269,12 +3298,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "탬파베이 레이스",
       "team2": "휴스턴 애스트로스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -3294,12 +3323,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애틀란타 브레이브스",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -3320,12 +3349,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "08:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "밀워키 브루어스",
       "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
+      "score1": 20,
+      "score2": 0,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -3346,12 +3375,12 @@
       "league": "BRA D1",
       "date": "9/12 (토)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "코리치바",
       "team2": "아틀레치코 프라",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 3,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
@@ -3372,12 +3401,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미네소타 트윈스",
       "team2": "클리블랜드 가디언스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -3398,12 +3427,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "09:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트루이스 카디널스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 3,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -3424,12 +3453,12 @@
       "league": "ARG D1",
       "date": "9/12 (토)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보카 주니어스",
       "team2": "센트럴 코르도바",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 68.0,
         "draw": 21.0,
@@ -3450,12 +3479,12 @@
       "league": "MEX D1",
       "date": "9/12 (토)",
       "time": "10:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "네카사",
       "team2": "푸에블라",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 45.0,
         "draw": 30.0,

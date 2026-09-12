@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-13",
   "source_date": "2026-09-13",
-  "scraped_at": "2026-09-12T00:36:53.185847+00:00",
-  "count": 104,
+  "scraped_at": "2026-09-12T05:03:00.970360+00:00",
+  "count": 105,
   "matches": [
     {
       "id": "2007208738",
@@ -146,8 +146,8 @@
       "time": "01:30",
       "status": "예정",
       "result": null,
-      "team1": "아",
-      "team2": "아틀레틱 빌바오",
+      "team1": "아틀레틱 빌바오",
+      "team2": "엘체",
       "score1": null,
       "score2": null,
       "prob": {
@@ -225,8 +225,8 @@
       "time": "01:45",
       "status": "예정",
       "result": null,
-      "team1": "이",
-      "team2": "G.A. 이글스",
+      "team1": "G.A. 이글스",
+      "team2": "흐로닝언",
       "score1": null,
       "score2": null,
       "prob": {
@@ -340,7 +340,9 @@
       },
       "ai_summary": "디트로이트 타이거스, 홈 방어율 3.67로 콜로라도 로키스 투수진과 대조",
       "ai_picks": [
-        "디트로이트 타이거스 승"
+        "디트로이트 타이거스 승",
+        "오버 8.5",
+        "콜로라도 로키스 +1.5 승"
       ],
       "aria_label": "디트로이트 타이거스 vs 콜로라도 로키스 02:10 분석 상세",
       "source_date": "2026-09-13"
@@ -1490,6 +1492,31 @@
       "source_date": "2026-09-13"
     },
     {
+      "id": "2007149587",
+      "url": "https://bbongtv4.com/premium/soccer/2007149587",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/13 (일)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "SKC",
+      "team2": "로스앤젤레스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "원정팀 로스앤젤레스 FC 승리",
+      "ai_picks": [
+        "로스앤젤레스 FC 승"
+      ],
+      "aria_label": "SKC vs 로스앤젤레스 FC 09:30 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
       "id": "2007149588",
       "url": "https://bbongtv4.com/premium/soccer/2007149588",
       "sport": "soccer",
@@ -1612,7 +1639,9 @@
       },
       "ai_summary": "선발 WHIP 1.06 대 1.49, 원정 마운드 우위가 승부 변수",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "언더 9.5",
+        "오클랜드 +1.5 승"
       ],
       "aria_label": "오클랜드 vs 시애틀 매리너스 10:40 분석 상세",
       "source_date": "2026-09-13"
