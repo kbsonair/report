@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T05:03:01.054571+00:00",
+  "scraped_at": "2026-09-12T09:26:31.610560+00:00",
   "kst_yesterday": "2026-09-11",
   "kst_today": "2026-09-12",
   "kst_tomorrow": "2026-09-13",
@@ -1051,7 +1051,8 @@
       },
       "ai_summary": "미네소타 트윈스, 홈 평균득점 7.17로 타깃 필드에서 강한 공격력",
       "ai_picks": [
-        "미네소타 트윈스 승"
+        "미네소타 트윈스 승",
+        "오버 8.5"
       ],
       "aria_label": "미네소타 트윈스 vs 클리블랜드 가디언스 05:10 분석 상세",
       "source_date": "2026-09-13"
@@ -1207,7 +1208,8 @@
       },
       "ai_summary": "91승 홈팀과 원정 평균실점 7.78, 체급 차가 드러나는 경기",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 8.5"
       ],
       "aria_label": "밀워키 브루어스 vs 신시내티 레즈 08:10 분석 상세",
       "source_date": "2026-09-13"
@@ -3505,12 +3507,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 1,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -3530,12 +3532,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "오클랜드",
       "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -3555,12 +3557,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "11:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "SF 자이언츠",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 7,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -3579,12 +3581,12 @@
       "league": "MEX D1",
       "date": "9/12 (토)",
       "time": "12:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "아틀란테",
       "team2": "파추카",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 28.0,
         "draw": 30.0,
@@ -3605,12 +3607,12 @@
       "league": "MEX D1",
       "date": "9/12 (토)",
       "time": "12:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "클럽 티후아나",
       "team2": "케레타로",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 50.0,
         "draw": 25.0,
@@ -3631,12 +3633,12 @@
       "league": "NPB",
       "date": "9/12 (토)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "중일 드래곤즈",
       "team2": "야쿠르트 스왈로즈",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 6,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -3657,12 +3659,12 @@
       "league": "NPB",
       "date": "9/12 (토)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "후쿠오카 소프트뱅크 호크스",
       "team2": "치바 롯데 마리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 67.0,
         "away": 33.0
@@ -3683,12 +3685,12 @@
       "league": "NPB",
       "date": "9/12 (토)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "히로시마 카프",
       "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 7,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -3709,12 +3711,12 @@
       "league": "NPB",
       "date": "9/12 (토)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "오릭스 버팔로스",
       "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 3,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -3735,12 +3737,12 @@
       "league": "NPB",
       "date": "9/12 (토)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요미우리 자이언츠",
       "team2": "한신 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "away": 45.0

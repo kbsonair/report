@@ -1,264 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-12",
-  "scraped_at": "2026-09-12T05:02:58.267238+00:00",
+  "scraped_at": "2026-09-12T09:26:29.369896+00:00",
   "count": 104,
   "matches": [
-    {
-      "id": "2000363455",
-      "url": "https://bbongtv4.com/premium/baseball/2000363455",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/12 (토)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나 다이아몬드백스",
-      "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "애리조나 다이아몬드백스, 홈 득점 저조와 불펜 결장 변수로 접전 예상",
-      "ai_picks": [
-        "애리조나 다이아몬드백스 승",
-        "오버 9"
-      ],
-      "aria_label": "애리조나 다이아몬드백스 vs 텍사스 레인저스 10:40 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000363456",
-      "url": "https://bbongtv4.com/premium/baseball/2000363456",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/12 (토)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "오클랜드",
-      "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "오클랜드 최근 맞대결 3승1패, 시애틀 투수력 앞서도 불안한 원정",
-      "ai_picks": [
-        "시애틀 매리너스 승",
-        "오클랜드 +2.5 승"
-      ],
-      "aria_label": "오클랜드 vs 시애틀 매리너스 10:40 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000363457",
-      "url": "https://bbongtv4.com/premium/baseball/2000363457",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/12 (토)",
-      "time": "11:15",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "앤서니 모리나의 안정감과 홈 강세, SF 자이언츠의 접전 우위 기대",
-      "ai_picks": [
-        "SF 자이언츠 승"
-      ],
-      "aria_label": "SF 자이언츠 vs 샌디에이고 파드레스 11:15 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007209864",
-      "url": "https://bbongtv4.com/premium/soccer/2007209864",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/12 (토)",
-      "time": "12:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아틀란테",
-      "team2": "파추카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 30.0,
-        "away": 42.0
-      },
-      "ai_summary": "파추카 원정 3승·평균 실점 1, 아틀란테 홈 무패지만 득점력 저조",
-      "ai_picks": [
-        "파추카 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아틀란테 vs 파추카 12:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007212530",
-      "url": "https://bbongtv4.com/premium/soccer/2007212530",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/12 (토)",
-      "time": "12:00",
-      "status": "예정",
-      "result": null,
-      "team1": "클럽 티후아나",
-      "team2": "케레타로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "클럽 티후아나 홈 4전 전승, 케레타로 원정 무패와 충돌하는 경기",
-      "ai_picks": [
-        "클럽 티후아나 승",
-        "언더 2.5"
-      ],
-      "aria_label": "클럽 티후아나 vs 케레타로 12:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355346",
-      "url": "https://bbongtv4.com/premium/baseball/2000355346",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "중일 드래곤즈",
-      "team2": "야쿠르트 스왈로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "전체 득실차 -0.15 대 -1.46, 홈 중일 쪽 안정감이 앞선다",
-      "ai_picks": [
-        "중일 드래곤즈 승",
-        "오버 6.5",
-        "야쿠르트 스왈로즈 +1.5 승"
-      ],
-      "aria_label": "중일 드래곤즈 vs 야쿠르트 스왈로즈 14:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355347",
-      "url": "https://bbongtv4.com/premium/baseball/2000355347",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후쿠오카 소프트뱅크 호크스",
-      "team2": "치바 롯데 마리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 67.0,
-        "away": 33.0
-      },
-      "ai_summary": "홈 평균득점 6.2와 원정 평균실점 5, 선두 홈팀 흐름이 앞선다",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 8",
-        "후쿠오카 소프트뱅크 호크스 -1.5 승"
-      ],
-      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 치바 롯데 마리너스 14:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355348",
-      "url": "https://bbongtv4.com/premium/baseball/2000355348",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마 카프",
-      "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "요코하마 베이스타즈, 최근 6경기 4승과 원정 득점력에서 앞선 흐름",
-      "ai_picks": [
-        "요코하마 베이스타즈 승",
-        "언더 6",
-        "요코하마 베이스타즈 +1.5 승"
-      ],
-      "aria_label": "히로시마 카프 vs 요코하마 베이스타즈 14:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355349",
-      "url": "https://bbongtv4.com/premium/baseball/2000355349",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스 버팔로스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "맞대결 5경기 중 라쿠텐 4승, 최근 우위가 뚜렷하다",
-      "ai_picks": [
-        "라쿠텐 골든 이글스 승",
-        "오버 6.5",
-        "오릭스 버팔로스 +1.5 승"
-      ],
-      "aria_label": "오릭스 버팔로스 vs 라쿠텐 골든 이글스 14:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355351",
-      "url": "https://bbongtv4.com/premium/baseball/2000355351",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요미우리 자이언츠",
-      "team2": "한신 타이거스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "요미우리 자이언츠, 최근 상승세와 홈 득실 우위로 반등 노린다",
-      "ai_picks": [
-        "요미우리 자이언츠 승",
-        "언더 6"
-      ],
-      "aria_label": "요미우리 자이언츠 vs 한신 타이거스 14:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
     {
       "id": "2007209504",
       "url": "https://bbongtv4.com/premium/soccer/2007209504",
@@ -2696,6 +2441,261 @@
         "오버 2.5"
       ],
       "aria_label": "네카사 vs 푸에블라 10:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000363455",
+      "url": "https://bbongtv4.com/premium/baseball/2000363455",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/12 (토)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "텍사스 레인저스",
+      "score1": 9,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "애리조나 다이아몬드백스, 홈 득점 저조와 불펜 결장 변수로 접전 예상",
+      "ai_picks": [
+        "애리조나 다이아몬드백스 승",
+        "오버 9"
+      ],
+      "aria_label": "애리조나 다이아몬드백스 vs 텍사스 레인저스 10:40 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000363456",
+      "url": "https://bbongtv4.com/premium/baseball/2000363456",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/12 (토)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오클랜드",
+      "team2": "시애틀 매리너스",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "오클랜드 최근 맞대결 3승1패, 시애틀 투수력 앞서도 불안한 원정",
+      "ai_picks": [
+        "시애틀 매리너스 승",
+        "오클랜드 +2.5 승"
+      ],
+      "aria_label": "오클랜드 vs 시애틀 매리너스 10:40 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000363457",
+      "url": "https://bbongtv4.com/premium/baseball/2000363457",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/12 (토)",
+      "time": "11:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "SF 자이언츠",
+      "team2": "샌디에이고 파드레스",
+      "score1": 5,
+      "score2": 7,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "앤서니 모리나의 안정감과 홈 강세, SF 자이언츠의 접전 우위 기대",
+      "ai_picks": [
+        "SF 자이언츠 승"
+      ],
+      "aria_label": "SF 자이언츠 vs 샌디에이고 파드레스 11:15 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209864",
+      "url": "https://bbongtv4.com/premium/soccer/2007209864",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/12 (토)",
+      "time": "12:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아틀란테",
+      "team2": "파추카",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 28.0,
+        "draw": 30.0,
+        "away": 42.0
+      },
+      "ai_summary": "파추카 원정 3승·평균 실점 1, 아틀란테 홈 무패지만 득점력 저조",
+      "ai_picks": [
+        "파추카 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아틀란테 vs 파추카 12:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007212530",
+      "url": "https://bbongtv4.com/premium/soccer/2007212530",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/12 (토)",
+      "time": "12:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "클럽 티후아나",
+      "team2": "케레타로",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "클럽 티후아나 홈 4전 전승, 케레타로 원정 무패와 충돌하는 경기",
+      "ai_picks": [
+        "클럽 티후아나 승",
+        "언더 2.5"
+      ],
+      "aria_label": "클럽 티후아나 vs 케레타로 12:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355346",
+      "url": "https://bbongtv4.com/premium/baseball/2000355346",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중일 드래곤즈",
+      "team2": "야쿠르트 스왈로즈",
+      "score1": 5,
+      "score2": 6,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "전체 득실차 -0.15 대 -1.46, 홈 중일 쪽 안정감이 앞선다",
+      "ai_picks": [
+        "중일 드래곤즈 승",
+        "오버 6.5",
+        "야쿠르트 스왈로즈 +1.5 승"
+      ],
+      "aria_label": "중일 드래곤즈 vs 야쿠르트 스왈로즈 14:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355347",
+      "url": "https://bbongtv4.com/premium/baseball/2000355347",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후쿠오카 소프트뱅크 호크스",
+      "team2": "치바 롯데 마리너스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 67.0,
+        "away": 33.0
+      },
+      "ai_summary": "홈 평균득점 6.2와 원정 평균실점 5, 선두 홈팀 흐름이 앞선다",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 8",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
+      ],
+      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 치바 롯데 마리너스 14:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355348",
+      "url": "https://bbongtv4.com/premium/baseball/2000355348",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "히로시마 카프",
+      "team2": "요코하마 베이스타즈",
+      "score1": 2,
+      "score2": 7,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "요코하마 베이스타즈, 최근 6경기 4승과 원정 득점력에서 앞선 흐름",
+      "ai_picks": [
+        "요코하마 베이스타즈 승",
+        "언더 6",
+        "요코하마 베이스타즈 +1.5 승"
+      ],
+      "aria_label": "히로시마 카프 vs 요코하마 베이스타즈 14:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355349",
+      "url": "https://bbongtv4.com/premium/baseball/2000355349",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오릭스 버팔로스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "맞대결 5경기 중 라쿠텐 4승, 최근 우위가 뚜렷하다",
+      "ai_picks": [
+        "라쿠텐 골든 이글스 승",
+        "오버 6.5",
+        "오릭스 버팔로스 +1.5 승"
+      ],
+      "aria_label": "오릭스 버팔로스 vs 라쿠텐 골든 이글스 14:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355351",
+      "url": "https://bbongtv4.com/premium/baseball/2000355351",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요미우리 자이언츠",
+      "team2": "한신 타이거스",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "요미우리 자이언츠, 최근 상승세와 홈 득실 우위로 반등 노린다",
+      "ai_picks": [
+        "요미우리 자이언츠 승",
+        "언더 6"
+      ],
+      "aria_label": "요미우리 자이언츠 vs 한신 타이거스 14:00 분석 상세",
       "source_date": "2026-09-12"
     }
   ]
