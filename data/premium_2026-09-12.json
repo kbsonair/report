@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-12",
-  "scraped_at": "2026-09-11T22:21:20.848566+00:00",
-  "count": 96,
+  "scraped_at": "2026-09-12T00:36:50.450770+00:00",
+  "count": 104,
   "matches": [
-    {
-      "id": "2007214285",
-      "url": "https://bbongtv4.com/premium/soccer/2007214285",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/12 (토)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴웰스 올드 보이즈",
-      "team2": "벨레스 사르스필드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 31.0,
-        "draw": 36.0,
-        "away": 33.0
-      },
-      "ai_summary": "벨레스 사르스필드, 원정 무패와 시즌 실점 0.8로 수비 안정감 부각",
-      "ai_picks": [
-        "무승부",
-        "오버 1.5"
-      ],
-      "aria_label": "뉴웰스 올드 보이즈 vs 벨레스 사르스필드 05:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
     {
       "id": "2007214611",
       "url": "https://bbongtv4.com/premium/soccer/2007214611",
@@ -759,8 +733,8 @@
       "time": "16:30",
       "status": "예정",
       "result": null,
-      "team1": "울",
-      "team2": "울산HD",
+      "team1": "울산HD",
+      "team2": "인천유나이티드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -786,7 +760,7 @@
       "status": "예정",
       "result": null,
       "team1": "부천FC",
-      "team2": "제",
+      "team2": "제주SK",
       "score1": null,
       "score2": null,
       "prob": {
@@ -957,6 +931,58 @@
       "source_date": "2026-09-12"
     },
     {
+      "id": "16478224",
+      "url": "https://bbongtv4.com/premium/soccer/16478224",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "블라우블리츠",
+      "team2": "도쿠시마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 36.0,
+        "draw": 32.0,
+        "away": 32.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 2득점 이하, 저득점 흐름이 뚜렷하다",
+      "ai_picks": [
+        "언더 2.5",
+        "블라우블리츠 +0.5 승"
+      ],
+      "aria_label": "블라우블리츠 vs 도쿠시마 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478225",
+      "url": "https://bbongtv4.com/premium/soccer/16478225",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이와키",
+      "team2": "요코하마 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 23.0,
+        "draw": 23.0,
+        "away": 54.0
+      },
+      "ai_summary": "요코하마 FC 최근 5경기 평균 득점 2.2, 공격력에서 앞선다",
+      "ai_picks": [
+        "요코하마 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이와키 vs 요코하마 FC 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
       "id": "2007214885",
       "url": "https://bbongtv4.com/premium/soccer/2007214885",
       "sport": "soccer",
@@ -983,6 +1009,58 @@
       "source_date": "2026-09-12"
     },
     {
+      "id": "16478251",
+      "url": "https://bbongtv4.com/premium/soccer/16478251",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "토야마",
+      "team2": "토치기 시티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "draw": 23.0,
+        "away": 23.0
+      },
+      "ai_summary": "토야마, 최근 5경기 점유율 60.4%·슈팅 20.2로 압도적 경기 주도",
+      "ai_picks": [
+        "토야마 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토야마 vs 토치기 시티 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478252",
+      "url": "https://bbongtv4.com/premium/soccer/16478252",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "반라우레",
+      "team2": "쇼난 벨마레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 25.0,
+        "away": 53.0
+      },
+      "ai_summary": "쇼난 벨마레, 원정 7승2패와 상대전적 3연승으로 우위 뚜렷",
+      "ai_picks": [
+        "쇼난 벨마레 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 vs 쇼난 벨마레 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
       "id": "2007214886",
       "url": "https://bbongtv4.com/premium/soccer/2007214886",
       "sport": "soccer",
@@ -991,8 +1069,8 @@
       "time": "18:30",
       "status": "예정",
       "result": null,
-      "team1": "시",
-      "team2": "시미즈 S-펄스",
+      "team1": "시미즈 S-펄스",
+      "team2": "아비스파 후쿠오카",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1006,6 +1084,110 @@
         "언더 2.5"
       ],
       "aria_label": "시미즈 S-펄스 vs 아비스파 후쿠오카 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478264",
+      "url": "https://bbongtv4.com/premium/soccer/16478264",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이마바리",
+      "team2": "사가ン 토수",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 24.0,
+        "away": 54.0
+      },
+      "ai_summary": "사가ン 토수 최근 6경기 4승, 이마바리 6경기 무승…원정 강세와 득점력 우위",
+      "ai_picks": [
+        "사가ン 토수 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이마바리 vs 사가ン 토수 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478265",
+      "url": "https://bbongtv4.com/premium/soccer/16478265",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코후",
+      "team2": "이와타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "이와타, 최근 원정 2.33득점과 맞대결 4연승으로 우위 점쳐진다",
+      "ai_picks": [
+        "이와타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "코후 vs 이와타 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478266",
+      "url": "https://bbongtv4.com/premium/soccer/16478266",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오미야 아르디자",
+      "team2": "오이타 트리니타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "draw": 27.0,
+        "away": 19.0
+      },
+      "ai_summary": "오미야 아르디자, 홈 평균 득점 2.0으로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "오미야 아르디자 승",
+        "언더 2.5"
+      ],
+      "aria_label": "오미야 아르디자 vs 오이타 트리니타 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478267",
+      "url": "https://bbongtv4.com/premium/soccer/16478267",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "테게바하로 미야자키",
+      "team2": "후지에다 MYFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "draw": 35.0,
+        "away": 30.0
+      },
+      "ai_summary": "테게바하로 미야자키 최근 6경기 1무5패, 1위지만 하락세 뚜렷",
+      "ai_picks": [
+        "언더 2.5",
+        "후지에다 MYFC +0.5 승"
+      ],
+      "aria_label": "테게바하로 미야자키 vs 후지에다 MYFC 19:00 분석 상세",
       "source_date": "2026-09-12"
     },
     {
@@ -1149,7 +1331,7 @@
       "status": "예정",
       "result": null,
       "team1": "마치다",
-      "team2": "요",
+      "team2": "요코하마 F. 마리노스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -2314,12 +2496,12 @@
       "league": "MLB",
       "date": "9/12 (토)",
       "time": "03:20",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 컵스",
       "team2": "피츠버그 파이어리츠",
-      "score1": null,
-      "score2": null,
+      "score1": 12,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -2488,6 +2670,32 @@
         "오버 2.5"
       ],
       "aria_label": "웨스트햄 vs 렉섬 04:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214285",
+      "url": "https://bbongtv4.com/premium/soccer/2007214285",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/12 (토)",
+      "time": "05:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴웰스 올드 보이즈",
+      "team2": "벨레스 사르스필드",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 31.0,
+        "draw": 36.0,
+        "away": 33.0
+      },
+      "ai_summary": "벨레스 사르스필드, 원정 무패와 시즌 실점 0.8로 수비 안정감 부각",
+      "ai_picks": [
+        "무승부",
+        "오버 1.5"
+      ],
+      "aria_label": "뉴웰스 올드 보이즈 vs 벨레스 사르스필드 05:00 분석 상세",
       "source_date": "2026-09-12"
     }
   ]
