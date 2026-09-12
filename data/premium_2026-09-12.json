@@ -1,763 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-12",
-  "scraped_at": "2026-09-12T09:26:29.369896+00:00",
+  "scraped_at": "2026-09-12T13:08:43.190674+00:00",
   "count": 104,
   "matches": [
-    {
-      "id": "2007209504",
-      "url": "https://bbongtv4.com/premium/soccer/2007209504",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "9/12 (토)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "대구",
-      "team2": "용인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "대구, 홈 평균 실점 0.83의 안정감과 최근 6경기 4승 흐름이 우위 근거",
-      "ai_picks": [
-        "대구 승",
-        "오버 2.5"
-      ],
-      "aria_label": "대구 vs 용인 16:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007209505",
-      "url": "https://bbongtv4.com/premium/soccer/2007209505",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "9/12 (토)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "서울이랜드",
-      "team2": "수원 블루윙즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 27.0,
-        "away": 45.0
-      },
-      "ai_summary": "수원 블루윙즈, 최근 6경기 5승과 원정 강세로 우위 점쳐진다",
-      "ai_picks": [
-        "수원 블루윙즈 승",
-        "오버 2.5"
-      ],
-      "aria_label": "서울이랜드 vs 수원 블루윙즈 16:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007210682",
-      "url": "https://bbongtv4.com/premium/soccer/2007210682",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "9/12 (토)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "전북현대",
-      "team2": "FC서울",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "FC서울 원정 2.43득점·0.71실점, 공격력·안정성 모두 앞선다",
-      "ai_picks": [
-        "FC서울 승",
-        "언더 2.5",
-        "전북현대 +0.5 승"
-      ],
-      "aria_label": "전북현대 vs FC서울 16:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007210683",
-      "url": "https://bbongtv4.com/premium/soccer/2007210683",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "9/12 (토)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "울산HD",
-      "team2": "인천유나이티드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 35.0,
-        "away": 32.0
-      },
-      "ai_summary": "울산HD, 최근 홈 3승3패·결정적 기회는 많으나 마무리 아쉬움",
-      "ai_picks": [
-        "언더 2.5",
-        "인천유나이티드 +0.5 승"
-      ],
-      "aria_label": "울산HD vs 인천유나이티드 16:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007212583",
-      "url": "https://bbongtv4.com/premium/soccer/2007212583",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "9/12 (토)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "부천FC",
-      "team2": "제주SK",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "draw": 25.0,
-        "away": 48.0
-      },
-      "ai_summary": "제주SK, 최근 원정 4경기 3승과 맞대결 우위로 우세 흐름",
-      "ai_picks": [
-        "제주SK 승",
-        "언더 2.5"
-      ],
-      "aria_label": "부천FC vs 제주SK 16:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355451",
-      "url": "https://bbongtv4.com/premium/baseball/2000355451",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/12 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "삼성 라이온즈",
-      "team2": "LG 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "최근 맞대결 2승1패, 시즌 총득점 702 대 627의 차이",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "언더 10.5",
-        "삼성 라이온즈 -1.5 승"
-      ],
-      "aria_label": "삼성 라이온즈 vs LG 트윈스 17:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355587",
-      "url": "https://bbongtv4.com/premium/baseball/2000355587",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/12 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "두산 베어스",
-      "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "NC 다이노스 원정 6승3패, 두산 베어스 홈에서 흔들리는 최근 흐름",
-      "ai_picks": [
-        "NC 다이노스 승",
-        "오버 8"
-      ],
-      "aria_label": "두산 베어스 vs NC 다이노스 17:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000364380",
-      "url": "https://bbongtv4.com/premium/baseball/2000364380",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/12 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "키움 히어로즈",
-      "team2": "롯데 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "키움 히어로즈, 최근 2연승과 홈 득점 상승세로 반등 조짐",
-      "ai_picks": [
-        "키움 히어로즈 승",
-        "오버 7",
-        "키움 히어로즈 +1.5 승"
-      ],
-      "aria_label": "키움 히어로즈 vs 롯데 자이언츠 17:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000364381",
-      "url": "https://bbongtv4.com/premium/baseball/2000364381",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/12 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "KT 위즈",
-      "team2": "KIA 타이거즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "KT 위즈, 홈 6승1패와 KIA 타이거즈 원정 3연패의 대조적 흐름",
-      "ai_picks": [
-        "KT 위즈 승",
-        "언더 10"
-      ],
-      "aria_label": "KT 위즈 vs KIA 타이거즈 17:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007208618",
-      "url": "https://bbongtv4.com/premium/soccer/2007208618",
-      "sport": "soccer",
-      "league": "K리그3",
-      "date": "9/12 (토)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "춘",
-      "team2": "춘천",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "춘천 최근 6경기 3승1무로 흐름 우위, 홈 득점력도 강점",
-      "ai_picks": [
-        "춘천 승",
-        "언더 2.5"
-      ],
-      "aria_label": "춘천 vs 여주 시민 17:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2000355350",
-      "url": "https://bbongtv4.com/premium/baseball/2000355350",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/12 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부 라이온스",
-      "team2": "닛폰햄 파이터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "세이부 라이온스 최근 3연승, 닛폰햄 파이터스는 2연패로 흐름 차이 뚜렷",
-      "ai_picks": [
-        "세이부 라이온스 승",
-        "오버 6.5",
-        "세이부 라이온스 +1.5 승"
-      ],
-      "aria_label": "세이부 라이온스 vs 닛폰햄 파이터스 18:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478224",
-      "url": "https://bbongtv4.com/premium/soccer/16478224",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "블라우블리츠",
-      "team2": "도쿠시마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "draw": 32.0,
-        "away": 32.0
-      },
-      "ai_summary": "양 팀 최근 6경기 모두 2득점 이하, 저득점 흐름이 뚜렷하다",
-      "ai_picks": [
-        "언더 2.5",
-        "블라우블리츠 +0.5 승"
-      ],
-      "aria_label": "블라우블리츠 vs 도쿠시마 18:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478225",
-      "url": "https://bbongtv4.com/premium/soccer/16478225",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "이와키",
-      "team2": "요코하마 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 23.0,
-        "away": 54.0
-      },
-      "ai_summary": "요코하마 FC 최근 5경기 평균 득점 2.2, 공격력에서 앞선다",
-      "ai_picks": [
-        "요코하마 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "이와키 vs 요코하마 FC 18:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214885",
-      "url": "https://bbongtv4.com/premium/soccer/2007214885",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미토",
-      "team2": "가와사키 프론탈레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 24.0,
-        "away": 48.0
-      },
-      "ai_summary": "가와사키 프론탈레, 슈팅·점유율 모두 앞서나 원정 실점률이 변수",
-      "ai_picks": [
-        "가와사키 프론탈레 승",
-        "오버 2.5"
-      ],
-      "aria_label": "미토 vs 가와사키 프론탈레 18:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478251",
-      "url": "https://bbongtv4.com/premium/soccer/16478251",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "토야마",
-      "team2": "토치기 시티",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 23.0,
-        "away": 23.0
-      },
-      "ai_summary": "토야마, 최근 5경기 점유율 60.4%·슈팅 20.2로 압도적 경기 주도",
-      "ai_picks": [
-        "토야마 승",
-        "오버 2.5"
-      ],
-      "aria_label": "토야마 vs 토치기 시티 18:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478252",
-      "url": "https://bbongtv4.com/premium/soccer/16478252",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "반라우레",
-      "team2": "쇼난 벨마레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 25.0,
-        "away": 53.0
-      },
-      "ai_summary": "쇼난 벨마레, 원정 7승2패와 상대전적 3연승으로 우위 뚜렷",
-      "ai_picks": [
-        "쇼난 벨마레 승",
-        "언더 2.5"
-      ],
-      "aria_label": "반라우레 vs 쇼난 벨마레 18:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214886",
-      "url": "https://bbongtv4.com/premium/soccer/2007214886",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시미즈 S-펄스",
-      "team2": "아비스파 후쿠오카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 28.0,
-        "away": 42.0
-      },
-      "ai_summary": "아비스파 후쿠오카 최근 슈팅·유효슈팅 모두 앞서, 공격 효율이 승부 변수",
-      "ai_picks": [
-        "아비스파 후쿠오카 승",
-        "언더 2.5"
-      ],
-      "aria_label": "시미즈 S-펄스 vs 아비스파 후쿠오카 18:30 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478264",
-      "url": "https://bbongtv4.com/premium/soccer/16478264",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "이마바리",
-      "team2": "사가ン 토수",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 24.0,
-        "away": 54.0
-      },
-      "ai_summary": "사가ン 토수 최근 6경기 4승, 이마바리 6경기 무승…원정 강세와 득점력 우위",
-      "ai_picks": [
-        "사가ン 토수 승",
-        "오버 2.5"
-      ],
-      "aria_label": "이마바리 vs 사가ン 토수 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478265",
-      "url": "https://bbongtv4.com/premium/soccer/16478265",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "코후",
-      "team2": "이와타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "이와타, 최근 원정 2.33득점과 맞대결 4연승으로 우위 점쳐진다",
-      "ai_picks": [
-        "이와타 승",
-        "언더 2.5"
-      ],
-      "aria_label": "코후 vs 이와타 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478266",
-      "url": "https://bbongtv4.com/premium/soccer/16478266",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오미야 아르디자",
-      "team2": "오이타 트리니타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 27.0,
-        "away": 19.0
-      },
-      "ai_summary": "오미야 아르디자, 홈 평균 득점 2.0으로 공격력 우위 뚜렷",
-      "ai_picks": [
-        "오미야 아르디자 승",
-        "언더 2.5"
-      ],
-      "aria_label": "오미야 아르디자 vs 오이타 트리니타 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "16478267",
-      "url": "https://bbongtv4.com/premium/soccer/16478267",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "테게바하로 미야자키",
-      "team2": "후지에다 MYFC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 35.0,
-        "away": 30.0
-      },
-      "ai_summary": "테게바하로 미야자키 최근 6경기 1무5패, 1위지만 하락세 뚜렷",
-      "ai_picks": [
-        "언더 2.5",
-        "후지에다 MYFC +0.5 승"
-      ],
-      "aria_label": "테게바하로 미야자키 vs 후지에다 MYFC 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007208619",
-      "url": "https://bbongtv4.com/premium/soccer/2007208619",
-      "sport": "soccer",
-      "league": "K리그3",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "강",
-      "team2": "강릉",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "강릉, 홈 5경기 평균실점 0.8로 수비 안정감이 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "강릉 vs 경주 KHNP 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007209506",
-      "url": "https://bbongtv4.com/premium/soccer/2007209506",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "안산그리너스",
-      "team2": "화성",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "화성, 시즌 득실 +0.77과 최근 원정 실점 0.8로 안정감 뚜렷",
-      "ai_picks": [
-        "화성 승",
-        "언더 2.5"
-      ],
-      "aria_label": "안산그리너스 vs 화성 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007209507",
-      "url": "https://bbongtv4.com/premium/soccer/2007209507",
-      "sport": "soccer",
-      "league": "KOR D2",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아산",
-      "team2": "청주",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "draw": 29.0,
-        "away": 25.0
-      },
-      "ai_summary": "아산 홈 6승4무2패, 청주 원정 1승8무2패로 홈 강세 뚜렷",
-      "ai_picks": [
-        "아산 승",
-        "오버 2.5"
-      ],
-      "aria_label": "아산 vs 청주 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007212584",
-      "url": "https://bbongtv4.com/premium/soccer/2007212584",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대전하나시티즌",
-      "team2": "포항스틸러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 28.0,
-        "away": 24.0
-      },
-      "ai_summary": "대전 홈 평균득점 2.14와 포항 무득점 12경기가 가른다",
-      "ai_picks": [
-        "대전하나시티즌 승",
-        "언더 2.5",
-        "대전하나시티즌 -0.5 승"
-      ],
-      "aria_label": "대전하나시티즌 vs 포항스틸러스 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214887",
-      "url": "https://bbongtv4.com/premium/soccer/2007214887",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "감바 오사카",
-      "team2": "FC 도쿄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 22.0,
-        "away": 56.0
-      },
-      "ai_summary": "FC 도쿄, 최근 6경기 4승과 원정 실점 1로 안정된 흐름",
-      "ai_picks": [
-        "FC 도쿄 승",
-        "오버 2.5"
-      ],
-      "aria_label": "감바 오사카 vs FC 도쿄 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214888",
-      "url": "https://bbongtv4.com/premium/soccer/2007214888",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "마치다",
-      "team2": "요코하마 F. 마리노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 20.0,
-        "away": 18.0
-      },
-      "ai_summary": "마치다 최근 6경기 5승, 공격력과 홈 강세가 승부를 가를 변수",
-      "ai_picks": [
-        "마치다 승",
-        "오버 2.5"
-      ],
-      "aria_label": "마치다 vs 요코하마 F. 마리노스 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214889",
-      "url": "https://bbongtv4.com/premium/soccer/2007214889",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산프레체 히로시마",
-      "team2": "세레소 오사카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 25.0,
-        "away": 17.0
-      },
-      "ai_summary": "산프레체 히로시마, 홈 3경기 평균 실점 0.33으로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "산프레체 히로시마 승",
-        "언더 3.5"
-      ],
-      "aria_label": "산프레체 히로시마 vs 세레소 오사카 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
-    {
-      "id": "2007214890",
-      "url": "https://bbongtv4.com/premium/soccer/2007214890",
-      "sport": "soccer",
-      "league": "JPN D1",
-      "date": "9/12 (토)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "V-바렌 나가사키",
-      "team2": "나고야 그램퍼스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 22.0,
-        "away": 55.0
-      },
-      "ai_summary": "나고야 그램퍼스, 점유율 55.2%·슈팅 13회로 공격 주도권 뚜렷",
-      "ai_picks": [
-        "나고야 그램퍼스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "V-바렌 나가사키 vs 나고야 그램퍼스 19:00 분석 상세",
-      "source_date": "2026-09-12"
-    },
     {
       "id": "2007009304",
       "url": "https://bbongtv4.com/premium/soccer/2007009304",
@@ -2696,6 +1942,760 @@
         "언더 6"
       ],
       "aria_label": "요미우리 자이언츠 vs 한신 타이거스 14:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209504",
+      "url": "https://bbongtv4.com/premium/soccer/2007209504",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "9/12 (토)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "대구",
+      "team2": "용인",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "대구, 홈 평균 실점 0.83의 안정감과 최근 6경기 4승 흐름이 우위 근거",
+      "ai_picks": [
+        "대구 승",
+        "오버 2.5"
+      ],
+      "aria_label": "대구 vs 용인 16:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209505",
+      "url": "https://bbongtv4.com/premium/soccer/2007209505",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "9/12 (토)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "서울이랜드",
+      "team2": "수원 블루윙즈",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 28.0,
+        "draw": 27.0,
+        "away": 45.0
+      },
+      "ai_summary": "수원 블루윙즈, 최근 6경기 5승과 원정 강세로 우위 점쳐진다",
+      "ai_picks": [
+        "수원 블루윙즈 승",
+        "오버 2.5"
+      ],
+      "aria_label": "서울이랜드 vs 수원 블루윙즈 16:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007210682",
+      "url": "https://bbongtv4.com/premium/soccer/2007210682",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "9/12 (토)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "전북현대",
+      "team2": "FC서울",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "FC서울 원정 2.43득점·0.71실점, 공격력·안정성 모두 앞선다",
+      "ai_picks": [
+        "FC서울 승",
+        "언더 2.5",
+        "전북현대 +0.5 승"
+      ],
+      "aria_label": "전북현대 vs FC서울 16:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007210683",
+      "url": "https://bbongtv4.com/premium/soccer/2007210683",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "9/12 (토)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "울산HD",
+      "team2": "인천유나이티드",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 33.0,
+        "draw": 35.0,
+        "away": 32.0
+      },
+      "ai_summary": "울산HD, 최근 홈 3승3패·결정적 기회는 많으나 마무리 아쉬움",
+      "ai_picks": [
+        "언더 2.5",
+        "인천유나이티드 +0.5 승"
+      ],
+      "aria_label": "울산HD vs 인천유나이티드 16:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007212583",
+      "url": "https://bbongtv4.com/premium/soccer/2007212583",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "9/12 (토)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "부천FC",
+      "team2": "제주SK",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 27.0,
+        "draw": 25.0,
+        "away": 48.0
+      },
+      "ai_summary": "제주SK, 최근 원정 4경기 3승과 맞대결 우위로 우세 흐름",
+      "ai_picks": [
+        "제주SK 승",
+        "언더 2.5"
+      ],
+      "aria_label": "부천FC vs 제주SK 16:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355451",
+      "url": "https://bbongtv4.com/premium/baseball/2000355451",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/12 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "삼성 라이온즈",
+      "team2": "LG 트윈스",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "최근 맞대결 2승1패, 시즌 총득점 702 대 627의 차이",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "언더 10.5",
+        "삼성 라이온즈 -1.5 승"
+      ],
+      "aria_label": "삼성 라이온즈 vs LG 트윈스 17:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355587",
+      "url": "https://bbongtv4.com/premium/baseball/2000355587",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/12 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "두산 베어스",
+      "team2": "NC 다이노스",
+      "score1": 9,
+      "score2": 10,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "NC 다이노스 원정 6승3패, 두산 베어스 홈에서 흔들리는 최근 흐름",
+      "ai_picks": [
+        "NC 다이노스 승",
+        "오버 8"
+      ],
+      "aria_label": "두산 베어스 vs NC 다이노스 17:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000364380",
+      "url": "https://bbongtv4.com/premium/baseball/2000364380",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/12 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "키움 히어로즈",
+      "team2": "롯데 자이언츠",
+      "score1": 0,
+      "score2": 8,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "키움 히어로즈, 최근 2연승과 홈 득점 상승세로 반등 조짐",
+      "ai_picks": [
+        "키움 히어로즈 승",
+        "오버 7",
+        "키움 히어로즈 +1.5 승"
+      ],
+      "aria_label": "키움 히어로즈 vs 롯데 자이언츠 17:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000364381",
+      "url": "https://bbongtv4.com/premium/baseball/2000364381",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/12 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KT 위즈",
+      "team2": "KIA 타이거즈",
+      "score1": 6,
+      "score2": 2,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "KT 위즈, 홈 6승1패와 KIA 타이거즈 원정 3연패의 대조적 흐름",
+      "ai_picks": [
+        "KT 위즈 승",
+        "언더 10"
+      ],
+      "aria_label": "KT 위즈 vs KIA 타이거즈 17:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007208618",
+      "url": "https://bbongtv4.com/premium/soccer/2007208618",
+      "sport": "soccer",
+      "league": "K리그3",
+      "date": "9/12 (토)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "춘",
+      "team2": "춘천",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "춘천 최근 6경기 3승1무로 흐름 우위, 홈 득점력도 강점",
+      "ai_picks": [
+        "춘천 승",
+        "언더 2.5"
+      ],
+      "aria_label": "춘천 vs 여주 시민 17:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2000355350",
+      "url": "https://bbongtv4.com/premium/baseball/2000355350",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부 라이온스",
+      "team2": "닛폰햄 파이터스",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "세이부 라이온스 최근 3연승, 닛폰햄 파이터스는 2연패로 흐름 차이 뚜렷",
+      "ai_picks": [
+        "세이부 라이온스 승",
+        "오버 6.5",
+        "세이부 라이온스 +1.5 승"
+      ],
+      "aria_label": "세이부 라이온스 vs 닛폰햄 파이터스 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478224",
+      "url": "https://bbongtv4.com/premium/soccer/16478224",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "블라우블리츠",
+      "team2": "도쿠시마",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 36.0,
+        "draw": 32.0,
+        "away": 32.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 2득점 이하, 저득점 흐름이 뚜렷하다",
+      "ai_picks": [
+        "언더 2.5",
+        "블라우블리츠 +0.5 승"
+      ],
+      "aria_label": "블라우블리츠 vs 도쿠시마 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478225",
+      "url": "https://bbongtv4.com/premium/soccer/16478225",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "이와키",
+      "team2": "요코하마 FC",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 23.0,
+        "draw": 23.0,
+        "away": 54.0
+      },
+      "ai_summary": "요코하마 FC 최근 5경기 평균 득점 2.2, 공격력에서 앞선다",
+      "ai_picks": [
+        "요코하마 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이와키 vs 요코하마 FC 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214885",
+      "url": "https://bbongtv4.com/premium/soccer/2007214885",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미토",
+      "team2": "가와사키 프론탈레",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 28.0,
+        "draw": 24.0,
+        "away": 48.0
+      },
+      "ai_summary": "가와사키 프론탈레, 슈팅·점유율 모두 앞서나 원정 실점률이 변수",
+      "ai_picks": [
+        "가와사키 프론탈레 승",
+        "오버 2.5"
+      ],
+      "aria_label": "미토 vs 가와사키 프론탈레 18:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478251",
+      "url": "https://bbongtv4.com/premium/soccer/16478251",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "토야마",
+      "team2": "토치기 시티",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 23.0,
+        "away": 23.0
+      },
+      "ai_summary": "토야마, 최근 5경기 점유율 60.4%·슈팅 20.2로 압도적 경기 주도",
+      "ai_picks": [
+        "토야마 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토야마 vs 토치기 시티 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478252",
+      "url": "https://bbongtv4.com/premium/soccer/16478252",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "반라우레",
+      "team2": "쇼난 벨마레",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 22.0,
+        "draw": 25.0,
+        "away": 53.0
+      },
+      "ai_summary": "쇼난 벨마레, 원정 7승2패와 상대전적 3연승으로 우위 뚜렷",
+      "ai_picks": [
+        "쇼난 벨마레 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 vs 쇼난 벨마레 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214886",
+      "url": "https://bbongtv4.com/premium/soccer/2007214886",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시미즈 S-펄스",
+      "team2": "아비스파 후쿠오카",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 28.0,
+        "away": 42.0
+      },
+      "ai_summary": "아비스파 후쿠오카 최근 슈팅·유효슈팅 모두 앞서, 공격 효율이 승부 변수",
+      "ai_picks": [
+        "아비스파 후쿠오카 승",
+        "언더 2.5"
+      ],
+      "aria_label": "시미즈 S-펄스 vs 아비스파 후쿠오카 18:30 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478264",
+      "url": "https://bbongtv4.com/premium/soccer/16478264",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "이마바리",
+      "team2": "사가ン 토수",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 22.0,
+        "draw": 24.0,
+        "away": 54.0
+      },
+      "ai_summary": "사가ン 토수 최근 6경기 4승, 이마바리 6경기 무승…원정 강세와 득점력 우위",
+      "ai_picks": [
+        "사가ン 토수 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이마바리 vs 사가ン 토수 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478265",
+      "url": "https://bbongtv4.com/premium/soccer/16478265",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "코후",
+      "team2": "이와타",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "이와타, 최근 원정 2.33득점과 맞대결 4연승으로 우위 점쳐진다",
+      "ai_picks": [
+        "이와타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "코후 vs 이와타 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478266",
+      "url": "https://bbongtv4.com/premium/soccer/16478266",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오미야 아르디자",
+      "team2": "오이타 트리니타",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 27.0,
+        "away": 19.0
+      },
+      "ai_summary": "오미야 아르디자, 홈 평균 득점 2.0으로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "오미야 아르디자 승",
+        "언더 2.5"
+      ],
+      "aria_label": "오미야 아르디자 vs 오이타 트리니타 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "16478267",
+      "url": "https://bbongtv4.com/premium/soccer/16478267",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "테게바하로 미야자키",
+      "team2": "후지에다 MYFC",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 35.0,
+        "draw": 35.0,
+        "away": 30.0
+      },
+      "ai_summary": "테게바하로 미야자키 최근 6경기 1무5패, 1위지만 하락세 뚜렷",
+      "ai_picks": [
+        "언더 2.5",
+        "후지에다 MYFC +0.5 승"
+      ],
+      "aria_label": "테게바하로 미야자키 vs 후지에다 MYFC 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007208619",
+      "url": "https://bbongtv4.com/premium/soccer/2007208619",
+      "sport": "soccer",
+      "league": "K리그3",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "강",
+      "team2": "강릉",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "강릉, 홈 5경기 평균실점 0.8로 수비 안정감이 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "강릉 vs 경주 KHNP 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209506",
+      "url": "https://bbongtv4.com/premium/soccer/2007209506",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "안산그리너스",
+      "team2": "화성",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "화성, 시즌 득실 +0.77과 최근 원정 실점 0.8로 안정감 뚜렷",
+      "ai_picks": [
+        "화성 승",
+        "언더 2.5"
+      ],
+      "aria_label": "안산그리너스 vs 화성 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007209507",
+      "url": "https://bbongtv4.com/premium/soccer/2007209507",
+      "sport": "soccer",
+      "league": "KOR D2",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아산",
+      "team2": "청주",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 46.0,
+        "draw": 29.0,
+        "away": 25.0
+      },
+      "ai_summary": "아산 홈 6승4무2패, 청주 원정 1승8무2패로 홈 강세 뚜렷",
+      "ai_picks": [
+        "아산 승",
+        "오버 2.5"
+      ],
+      "aria_label": "아산 vs 청주 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007212584",
+      "url": "https://bbongtv4.com/premium/soccer/2007212584",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대전하나시티즌",
+      "team2": "포항스틸러스",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 28.0,
+        "away": 24.0
+      },
+      "ai_summary": "대전 홈 평균득점 2.14와 포항 무득점 12경기가 가른다",
+      "ai_picks": [
+        "대전하나시티즌 승",
+        "언더 2.5",
+        "대전하나시티즌 -0.5 승"
+      ],
+      "aria_label": "대전하나시티즌 vs 포항스틸러스 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214887",
+      "url": "https://bbongtv4.com/premium/soccer/2007214887",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "감바 오사카",
+      "team2": "FC 도쿄",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 22.0,
+        "draw": 22.0,
+        "away": 56.0
+      },
+      "ai_summary": "FC 도쿄, 최근 6경기 4승과 원정 실점 1로 안정된 흐름",
+      "ai_picks": [
+        "FC 도쿄 승",
+        "오버 2.5"
+      ],
+      "aria_label": "감바 오사카 vs FC 도쿄 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214888",
+      "url": "https://bbongtv4.com/premium/soccer/2007214888",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "마치다",
+      "team2": "요코하마 F. 마리노스",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 20.0,
+        "away": 18.0
+      },
+      "ai_summary": "마치다 최근 6경기 5승, 공격력과 홈 강세가 승부를 가를 변수",
+      "ai_picks": [
+        "마치다 승",
+        "오버 2.5"
+      ],
+      "aria_label": "마치다 vs 요코하마 F. 마리노스 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214889",
+      "url": "https://bbongtv4.com/premium/soccer/2007214889",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "산프레체 히로시마",
+      "team2": "세레소 오사카",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "draw": 25.0,
+        "away": 17.0
+      },
+      "ai_summary": "산프레체 히로시마, 홈 3경기 평균 실점 0.33으로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "산프레체 히로시마 승",
+        "언더 3.5"
+      ],
+      "aria_label": "산프레체 히로시마 vs 세레소 오사카 19:00 분석 상세",
+      "source_date": "2026-09-12"
+    },
+    {
+      "id": "2007214890",
+      "url": "https://bbongtv4.com/premium/soccer/2007214890",
+      "sport": "soccer",
+      "league": "JPN D1",
+      "date": "9/12 (토)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "V-바렌 나가사키",
+      "team2": "나고야 그램퍼스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 23.0,
+        "draw": 22.0,
+        "away": 55.0
+      },
+      "ai_summary": "나고야 그램퍼스, 점유율 55.2%·슈팅 13회로 공격 주도권 뚜렷",
+      "ai_picks": [
+        "나고야 그램퍼스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "V-바렌 나가사키 vs 나고야 그램퍼스 19:00 분석 상세",
       "source_date": "2026-09-12"
     }
   ]
