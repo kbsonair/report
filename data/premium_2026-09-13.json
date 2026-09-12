@@ -1,115 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-13",
-  "scraped_at": "2026-09-12T16:22:11.736609+00:00",
+  "scraped_at": "2026-09-12T18:44:49.555346+00:00",
   "count": 105,
   "matches": [
-    {
-      "id": "2007208738",
-      "url": "https://bbongtv4.com/premium/soccer/2007208738",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "9/13 (일)",
-      "time": "00:15",
-      "status": "예정",
-      "result": null,
-      "team1": "스트라스부르",
-      "team2": "모나코",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "모나코, 원정 2승·실점 0.5의 안정감이 승부의 분수령",
-      "ai_picks": [
-        "모나코 승",
-        "오버 2.5"
-      ],
-      "aria_label": "스트라스부르 vs 모나코 00:15 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007214957",
-      "url": "https://bbongtv4.com/premium/soccer/2007214957",
-      "sport": "soccer",
-      "league": "SAU D1",
-      "date": "9/13 (일)",
-      "time": "00:50",
-      "status": "예정",
-      "result": null,
-      "team1": "알 타아운",
-      "team2": "알 힐랄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 7.0,
-        "draw": 13.0,
-        "away": 80.0
-      },
-      "ai_summary": "알 힐랄, 원정 3연승에 경기당 득점 2.8로 압도적 화력 우위",
-      "ai_picks": [
-        "알 힐랄 승",
-        "오버 3.5",
-        "알 힐랄 -1.5 승"
-      ],
-      "aria_label": "알 타아운 vs 알 힐랄 00:50 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007203999",
-      "url": "https://bbongtv4.com/premium/soccer/2007203999",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/13 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "로젠보르그",
-      "team2": "트롬쇠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "로젠보르그 홈 6승2무2패, 트롬쇠 원정 실점 2.29로 수비 불안",
-      "ai_picks": [
-        "로젠보르그 승",
-        "오버 2.5"
-      ],
-      "aria_label": "로젠보르그 vs 트롬쇠 01:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007213892",
-      "url": "https://bbongtv4.com/premium/soccer/2007213892",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/13 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라치오",
-      "team2": "AC밀란",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "draw": 35.0,
-        "away": 31.0
-      },
-      "ai_summary": "최근 맞대결 1-0 반복, 3승 라치오도 저득점 접전에 강하다",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "라치오 +0.5 승"
-      ],
-      "aria_label": "라치오 vs AC밀란 01:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
     {
       "id": "2007211785",
       "url": "https://bbongtv4.com/premium/soccer/2007211785",
@@ -2733,6 +2627,112 @@
         "오버 3.5"
       ],
       "aria_label": "즈볼레 vs 페예노르트 23:45 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007208738",
+      "url": "https://bbongtv4.com/premium/soccer/2007208738",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/13 (일)",
+      "time": "00:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스트라스부르",
+      "team2": "모나코",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "모나코, 원정 2승·실점 0.5의 안정감이 승부의 분수령",
+      "ai_picks": [
+        "모나코 승",
+        "오버 2.5"
+      ],
+      "aria_label": "스트라스부르 vs 모나코 00:15 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007214957",
+      "url": "https://bbongtv4.com/premium/soccer/2007214957",
+      "sport": "soccer",
+      "league": "SAU D1",
+      "date": "9/13 (일)",
+      "time": "00:50",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 타아운",
+      "team2": "알 힐랄",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 7.0,
+        "draw": 13.0,
+        "away": 80.0
+      },
+      "ai_summary": "알 힐랄, 원정 3연승에 경기당 득점 2.8로 압도적 화력 우위",
+      "ai_picks": [
+        "알 힐랄 승",
+        "오버 3.5",
+        "알 힐랄 -1.5 승"
+      ],
+      "aria_label": "알 타아운 vs 알 힐랄 00:50 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007203999",
+      "url": "https://bbongtv4.com/premium/soccer/2007203999",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/13 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "로젠보르그",
+      "team2": "트롬쇠",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "로젠보르그 홈 6승2무2패, 트롬쇠 원정 실점 2.29로 수비 불안",
+      "ai_picks": [
+        "로젠보르그 승",
+        "오버 2.5"
+      ],
+      "aria_label": "로젠보르그 vs 트롬쇠 01:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007213892",
+      "url": "https://bbongtv4.com/premium/soccer/2007213892",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/13 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라치오",
+      "team2": "AC밀란",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 34.0,
+        "draw": 35.0,
+        "away": 31.0
+      },
+      "ai_summary": "최근 맞대결 1-0 반복, 3승 라치오도 저득점 접전에 강하다",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "라치오 +0.5 승"
+      ],
+      "aria_label": "라치오 vs AC밀란 01:00 분석 상세",
       "source_date": "2026-09-13"
     }
   ]
