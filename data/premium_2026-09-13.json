@@ -1,162 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-13",
   "source_date": "2026-09-13",
-  "scraped_at": "2026-09-13T16:26:50.112016+00:00",
+  "scraped_at": "2026-09-13T18:56:24.581444+00:00",
   "count": 107,
   "matches": [
-    {
-      "id": "2000643334",
-      "url": "https://bbongtv4.com/premium/hockey/2000643334",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/13 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "모",
-      "team2": "CSKA 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "로코모티프 야로슬라블, 최근 3경기 모두 2점차 이상 승리로 상승세 뚜렷",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "CSKA 모스크바 vs 로코모티프 야로슬라블 23:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2000643335",
-      "url": "https://bbongtv4.com/premium/hockey/2000643335",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/13 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈네카민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "니즈네카민스크, 홈 3경기 평균득점 3점으로 공격력 우위",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "니즈네카민스크 vs 블라디보스토크 23:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007212525",
-      "url": "https://bbongtv4.com/premium/soccer/2007212525",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/13 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "겐크",
-      "team2": "겐트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 30.0,
-        "away": 32.0
-      },
-      "ai_summary": "겐트 5연승·실점 2, 겐크 홈 다득점과 맞붙는 상위권 대결",
-      "ai_picks": [
-        "오버 2.5",
-        "겐트 +0.5 승"
-      ],
-      "aria_label": "겐크 vs 겐트 23:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007213046",
-      "url": "https://bbongtv4.com/premium/soccer/2007213046",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/13 (일)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "젠클레르빌리기",
-      "team2": "카심파샤",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 34.0,
-        "away": 28.0
-      },
-      "ai_summary": "젠클레르빌리기 홈 평균실점 1, 카심파샤 원정 평균실점 0.5로 수비 안정감",
-      "ai_picks": [
-        "언더 2.5",
-        "카심파샤 +0.5 승"
-      ],
-      "aria_label": "젠클레르빌리기 vs 카심파샤 23:00 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007212138",
-      "url": "https://bbongtv4.com/premium/soccer/2007212138",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/13 (일)",
-      "time": "23:15",
-      "status": "예정",
-      "result": null,
-      "team1": "레반테",
-      "team2": "바르셀로나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 10.0,
-        "away": 85.0
-      },
-      "ai_summary": "바르셀로나 최근 4경기 17득점, 압도적 화력과 점유율이 변수",
-      "ai_picks": [
-        "바르셀로나 승",
-        "오버 3.5",
-        "바르셀로나 -2.5 승"
-      ],
-      "aria_label": "레반테 vs 바르셀로나 23:15 분석 상세",
-      "source_date": "2026-09-13"
-    },
-    {
-      "id": "2007213583",
-      "url": "https://bbongtv4.com/premium/soccer/2007213583",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/13 (일)",
-      "time": "23:45",
-      "status": "예정",
-      "result": null,
-      "team1": "즈볼레",
-      "team2": "페예노르트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "페예노르트 최근 5경기 3승2무, 즈볼레 홈 2연패와 대조적 흐름",
-      "ai_picks": [
-        "페예노르트 승",
-        "오버 3.5"
-      ],
-      "aria_label": "즈볼레 vs 페예노르트 23:45 분석 상세",
-      "source_date": "2026-09-13"
-    },
     {
       "id": "2007208738",
       "url": "https://bbongtv4.com/premium/soccer/2007208738",
@@ -2785,6 +2632,159 @@
         "라이프치히 -1.5 승"
       ],
       "aria_label": "라이프치히 vs 함부르크 22:30 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2000643334",
+      "url": "https://bbongtv4.com/premium/hockey/2000643334",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/13 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "모",
+      "team2": "CSKA 모스크바",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "로코모티프 야로슬라블, 최근 3경기 모두 2점차 이상 승리로 상승세 뚜렷",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "CSKA 모스크바 vs 로코모티프 야로슬라블 23:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2000643335",
+      "url": "https://bbongtv4.com/premium/hockey/2000643335",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/13 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니",
+      "team2": "니즈네카민스크",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "니즈네카민스크, 홈 3경기 평균득점 3점으로 공격력 우위",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "니즈네카민스크 vs 블라디보스토크 23:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007212525",
+      "url": "https://bbongtv4.com/premium/soccer/2007212525",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/13 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "겐크",
+      "team2": "겐트",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "draw": 30.0,
+        "away": 32.0
+      },
+      "ai_summary": "겐트 5연승·실점 2, 겐크 홈 다득점과 맞붙는 상위권 대결",
+      "ai_picks": [
+        "오버 2.5",
+        "겐트 +0.5 승"
+      ],
+      "aria_label": "겐크 vs 겐트 23:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007213046",
+      "url": "https://bbongtv4.com/premium/soccer/2007213046",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/13 (일)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "젠클레르빌리기",
+      "team2": "카심파샤",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 34.0,
+        "away": 28.0
+      },
+      "ai_summary": "젠클레르빌리기 홈 평균실점 1, 카심파샤 원정 평균실점 0.5로 수비 안정감",
+      "ai_picks": [
+        "언더 2.5",
+        "카심파샤 +0.5 승"
+      ],
+      "aria_label": "젠클레르빌리기 vs 카심파샤 23:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007212138",
+      "url": "https://bbongtv4.com/premium/soccer/2007212138",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/13 (일)",
+      "time": "23:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레반테",
+      "team2": "바르셀로나",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 5.0,
+        "draw": 10.0,
+        "away": 85.0
+      },
+      "ai_summary": "바르셀로나 최근 4경기 17득점, 압도적 화력과 점유율이 변수",
+      "ai_picks": [
+        "바르셀로나 승",
+        "오버 3.5",
+        "바르셀로나 -2.5 승"
+      ],
+      "aria_label": "레반테 vs 바르셀로나 23:15 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "2007213583",
+      "url": "https://bbongtv4.com/premium/soccer/2007213583",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/13 (일)",
+      "time": "23:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "즈볼레",
+      "team2": "페예노르트",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "페예노르트 최근 5경기 3승2무, 즈볼레 홈 2연패와 대조적 흐름",
+      "ai_picks": [
+        "페예노르트 승",
+        "오버 3.5"
+      ],
+      "aria_label": "즈볼레 vs 페예노르트 23:45 분석 상세",
       "source_date": "2026-09-13"
     }
   ]
