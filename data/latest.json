@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-13T18:56:26.216137+00:00",
+  "scraped_at": "2026-09-13T21:22:17.594517+00:00",
   "kst_yesterday": "2026-09-13",
   "kst_today": "2026-09-14",
   "kst_tomorrow": "2026-09-15",
@@ -472,7 +472,9 @@
       },
       "ai_summary": "LA 다저스, 최근 6연승과 시즌 득실 우위로 원정에서도 우세",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5",
+        "LA 다저스 -1.5 승"
       ],
       "aria_label": "신시내티 레즈 vs LA 다저스 07:40 분석 상세",
       "source_date": "2026-09-15"
@@ -496,7 +498,8 @@
       },
       "ai_summary": "클리블랜드 최근 원정 상승세, 시카고 화이트삭스 4연패 부진",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "언더 6.5"
       ],
       "aria_label": "클리블랜드 가디언스 vs 시카고 화이트삭스 07:40 분석 상세",
       "source_date": "2026-09-15"
@@ -546,7 +549,8 @@
       },
       "ai_summary": "트로이 멜턴 방어율 2.42, 선발 맞대결에서 디트로이트가 앞선다",
       "ai_picks": [
-        "디트로이트 타이거스 승"
+        "디트로이트 타이거스 승",
+        "오버 7.5"
       ],
       "aria_label": "토론토 블루제이스 vs 디트로이트 타이거스 08:07 분석 상세",
       "source_date": "2026-09-15"
@@ -570,7 +574,9 @@
       },
       "ai_summary": "NY 메츠, 최근 6경기 중 5승과 강한 타선 폭발로 홈에서 우위 기대",
       "ai_picks": [
-        "NY 메츠 승"
+        "NY 메츠 승",
+        "오버 8.5",
+        "볼티모어 오리올스 +1.5 승"
       ],
       "aria_label": "NY 메츠 vs 볼티모어 오리올스 08:10 분석 상세",
       "source_date": "2026-09-15"
@@ -594,7 +600,9 @@
       },
       "ai_summary": "홈 평균득점 8.22, 강한 타선이 선두 마운드와 맞붙는 경기",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "오버 9.5",
+        "애틀란타 브레이브스 +1.5 승"
       ],
       "aria_label": "시카고 컵스 vs 애틀란타 브레이브스 08:40 분석 상세",
       "source_date": "2026-09-15"
@@ -618,7 +626,9 @@
       },
       "ai_summary": "NY 양키스 방어율 3.22, 미네소타 트윈스보다 투수력에서 앞선다",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 8.5",
+        "NY 양키스 -1.5 승"
       ],
       "aria_label": "미네소타 트윈스 vs NY 양키스 08:40 분석 상세",
       "source_date": "2026-09-15"
@@ -692,7 +702,9 @@
       },
       "ai_summary": "최근 6연승 대 6연패, 방어율 3.89와 5.52 격차가 크다",
       "ai_picks": [
-        "샌디에이고 파드레스 승"
+        "샌디에이고 파드레스 승",
+        "언더 11.5",
+        "샌디에이고 파드레스 -1.5 승"
       ],
       "aria_label": "콜로라도 로키스 vs 샌디에이고 파드레스 09:40 분석 상세",
       "source_date": "2026-09-15"
@@ -1381,12 +1393,12 @@
       "league": "MLB",
       "date": "9/14 (월)",
       "time": "01:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디트로이트 타이거스",
       "team2": "콜로라도 로키스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 1,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -1433,12 +1445,12 @@
       "league": "SPA D1",
       "date": "9/14 (월)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "헤타페",
       "team2": "데포르티보 라 코루냐",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 30.0,
         "draw": 35.0,
@@ -1459,12 +1471,12 @@
       "league": "BEL D1",
       "date": "9/14 (월)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "와레헴",
       "team2": "샤를루아",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 33.0,
         "draw": 33.0,
@@ -1485,12 +1497,12 @@
       "league": "TUR D1",
       "date": "9/14 (월)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "아메드스포르",
       "team2": "바샥셰히르",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 0,
       "prob": {
         "home": 42.0,
         "draw": 28.0,
@@ -1511,12 +1523,12 @@
       "league": "POR D1",
       "date": "9/14 (월)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "아",
       "team2": "아루카",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 33.0,
         "draw": 36.0,
@@ -1537,12 +1549,12 @@
       "league": "POR D1",
       "date": "9/14 (월)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "벤",
       "team2": "벤피카",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 74.0,
         "draw": 18.0,
@@ -1564,12 +1576,12 @@
       "league": "TUR D1",
       "date": "9/14 (월)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "갈라타사라이",
       "team2": "코",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -1590,12 +1602,12 @@
       "league": "NOR D1",
       "date": "9/14 (월)",
       "time": "02:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "프",
       "team2": "프레드리크스타드",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 44.0,
         "draw": 28.0,
@@ -1616,12 +1628,12 @@
       "league": "BEL D1",
       "date": "9/14 (월)",
       "time": "02:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "라",
       "team2": "라 알 루비에르",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 43.0,
         "draw": 30.0,
@@ -1820,12 +1832,12 @@
       "league": "ARG D1",
       "date": "9/14 (월)",
       "time": "02:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "사",
       "team2": "사르미엔토 후닌",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 30.0,
         "draw": 30.0,
@@ -1846,12 +1858,12 @@
       "league": "ARG D1",
       "date": "9/14 (월)",
       "time": "02:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "티",
       "team2": "티그레",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 32.0,
         "draw": 37.0,
@@ -1872,12 +1884,12 @@
       "league": "HOL D1",
       "date": "9/14 (월)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "PSV",
       "team2": "스파르타",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 1,
       "prob": {
         "home": 78.0,
         "draw": 13.0,
@@ -1898,12 +1910,12 @@
       "league": "SAU D1",
       "date": "9/14 (월)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "알",
       "team2": "알 리야드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 25.0,
         "draw": 25.0,
@@ -1924,12 +1936,12 @@
       "league": "SAU D1",
       "date": "9/14 (월)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "알 디리야",
       "team2": "압",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -2052,12 +2064,12 @@
       "league": "ITA D1",
       "date": "9/14 (월)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "사수올로",
       "team2": "유벤투스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 18.0,
         "draw": 20.0,
@@ -2078,12 +2090,12 @@
       "league": "FRA D1",
       "date": "9/14 (월)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "브레스트",
       "team2": "파리 생제르맹",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 15.0,
         "draw": 15.0,
