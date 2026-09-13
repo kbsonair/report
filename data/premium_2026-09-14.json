@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-14",
   "source_date": "2026-09-14",
-  "scraped_at": "2026-09-12T23:06:26.714306+00:00",
-  "count": 53,
+  "scraped_at": "2026-09-13T01:08:31.554210+00:00",
+  "count": 54,
   "matches": [
     {
       "id": "2007212508",
@@ -680,6 +680,32 @@
       "source_date": "2026-09-14"
     },
     {
+      "id": "2007212523",
+      "url": "https://bbongtv4.com/premium/soccer/2007212523",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/14 (월)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV",
+      "team2": "스파르타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 78.0,
+        "draw": 13.0,
+        "away": 9.0
+      },
+      "ai_summary": "PSV 에인트호번 승 및 2.5 오버",
+      "ai_picks": [
+        "PSV 승",
+        "오버 2.5"
+      ],
+      "aria_label": "PSV vs 스파르타 03:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
       "id": "2007215587",
       "url": "https://bbongtv4.com/premium/soccer/2007215587",
       "sport": "soccer",
@@ -864,8 +890,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "브",
-      "team2": "브레스트",
+      "team1": "브레스트",
+      "team2": "파리 생제르맹",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1123,7 +1149,7 @@
       "status": "예정",
       "result": null,
       "team1": "밴쿠버 화이트캡스",
-      "team2": "오",
+      "team2": "오스틴 FC",
       "score1": null,
       "score2": null,
       "prob": {

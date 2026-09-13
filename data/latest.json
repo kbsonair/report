@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T23:06:26.797749+00:00",
+  "scraped_at": "2026-09-13T01:08:31.635073+00:00",
   "kst_yesterday": "2026-09-12",
   "kst_today": "2026-09-13",
   "kst_tomorrow": "2026-09-14",
@@ -8,7 +8,7 @@
     "2026-09-13",
     "2026-09-14"
   ],
-  "count": 262,
+  "count": 265,
   "matches": [
     {
       "id": "2007212508",
@@ -686,6 +686,32 @@
       "source_date": "2026-09-14"
     },
     {
+      "id": "2007212523",
+      "url": "https://bbongtv4.com/premium/soccer/2007212523",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/14 (월)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV",
+      "team2": "스파르타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 78.0,
+        "draw": 13.0,
+        "away": 9.0
+      },
+      "ai_summary": "PSV 에인트호번 승 및 2.5 오버",
+      "ai_picks": [
+        "PSV 승",
+        "오버 2.5"
+      ],
+      "aria_label": "PSV vs 스파르타 03:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
       "id": "2007215587",
       "url": "https://bbongtv4.com/premium/soccer/2007215587",
       "sport": "soccer",
@@ -870,8 +896,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "브",
-      "team2": "브레스트",
+      "team1": "브레스트",
+      "team2": "파리 생제르맹",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1129,7 +1155,7 @@
       "status": "예정",
       "result": null,
       "team1": "밴쿠버 화이트캡스",
-      "team2": "오",
+      "team2": "오스틴 FC",
       "score1": null,
       "score2": null,
       "prob": {
@@ -2222,12 +2248,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "04:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "토론토 블루제이스",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 7,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -2300,12 +2326,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SF 자이언츠",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 7,
       "prob": {
         "home": 53.0,
         "away": 47.0
@@ -2326,12 +2352,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "워싱턴 내셔널스",
       "team2": "LA 에인절스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -2351,12 +2377,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴 레드삭스",
       "team2": "캔자스시티 로열스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -2376,12 +2402,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미 말린스",
       "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 30.0,
         "away": 70.0
@@ -2401,12 +2427,12 @@
       "league": "MLB",
       "date": "9/13 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미네소타 트윈스",
       "team2": "클리블랜드 가디언스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 53.0,
         "away": 47.0
@@ -2452,12 +2478,12 @@
       "league": "BRA D1",
       "date": "9/13 (일)",
       "time": "06:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "팔메이라스",
       "team2": "상파울루",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 57.0,
         "draw": 25.0,
@@ -3506,6 +3532,58 @@
         "언더 7.5"
       ],
       "aria_label": "요코하마 베이스타즈 vs 요미우리 자이언츠 18:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "16480269",
+      "url": "https://bbongtv4.com/premium/soccer/16480269",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/13 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "알비렉스 니가타",
+      "team2": "몬테디오 야마가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "몬테디오 야마가타 최근 원정 3경기 2승, 견고한 수비로 접전 예상",
+      "ai_picks": [
+        "무승부",
+        "몬테디오 야마가타 +0.5 승"
+      ],
+      "aria_label": "알비렉스 니가타 vs 몬테디오 야마가타 18:00 분석 상세",
+      "source_date": "2026-09-13"
+    },
+    {
+      "id": "16480270",
+      "url": "https://bbongtv4.com/premium/soccer/16480270",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/13 (일)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베갈타 센다이",
+      "team2": "홋카이도 콘사돌레 삿포로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "베갈타 센다이, 시즌 득실차 +0.5와 홈 7승2패로 우위 뚜렷",
+      "ai_picks": [
+        "베갈타 센다이 승",
+        "오버 2.5"
+      ],
+      "aria_label": "베갈타 센다이 vs 홋카이도 콘사돌레 삿포로 18:00 분석 상세",
       "source_date": "2026-09-13"
     },
     {
