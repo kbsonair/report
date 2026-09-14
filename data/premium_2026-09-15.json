@@ -1,322 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-15",
-  "scraped_at": "2026-09-14T19:28:34.999538+00:00",
+  "scraped_at": "2026-09-14T22:44:12.401025+00:00",
   "count": 54,
   "matches": [
-    {
-      "id": "2000643338",
-      "url": "https://bbongtv4.com/premium/hockey/2000643338",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/15 (화)",
-      "time": "01:35",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "니즈니노브고로드 최근 4경기 3승, 원정 연승 흐름이 변수",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "니즈니노브고로드 vs 바르스 카잔 01:35 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007204920",
-      "url": "https://bbongtv4.com/premium/soccer/2007204920",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/15 (화)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "보도/글림트",
-      "team2": "산",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 15.0,
-        "away": 5.0
-      },
-      "ai_summary": "보도/글림트 홈 평균득점 2.86, 산데피오르드 원정 실점 1.5로 대량 득점 가능성",
-      "ai_picks": [
-        "보도/글림트 승",
-        "오버 3.5",
-        "산데피오르드 +2.5 승"
-      ],
-      "aria_label": "보도/글림트 vs 산데피오르드 02:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007209439",
-      "url": "https://bbongtv4.com/premium/soccer/2007209439",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/15 (화)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "가",
-      "team2": "가자안테프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "페네르바체 원정 평균실점 0.8, 수비 안정감이 승부에 영향",
-      "ai_picks": [
-        "페네르바체 승",
-        "오버 2.5"
-      ],
-      "aria_label": "가자안테프 vs 페네르바체 02:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007214317",
-      "url": "https://bbongtv4.com/premium/soccer/2007214317",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/15 (화)",
-      "time": "02:45",
-      "status": "예정",
-      "result": null,
-      "team1": "리",
-      "team2": "리우 아베",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "리우 아베 최근 2경기 연속 0-4 패, 수비 붕괴가 변수로 작용",
-      "ai_picks": [
-        "에스트렐라 승",
-        "오버 2.5"
-      ],
-      "aria_label": "리우 아베 vs 에스트렐라 02:45 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007205609",
-      "url": "https://bbongtv4.com/premium/soccer/2007205609",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/15 (화)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "에스테그랄 F.C.",
-      "team2": "알 사드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 23.0,
-        "away": 55.0
-      },
-      "ai_summary": "알사드 SC 승",
-      "ai_picks": [
-        "알 사드 승"
-      ],
-      "aria_label": "에스테그랄 F.C. vs 알 사드 03:15 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007205612",
-      "url": "https://bbongtv4.com/premium/soccer/2007205612",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/15 (화)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "알 아흘리",
-      "team2": "파흐타코르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "알 아흘리 홈 3경기 평균 4득점, 공격력과 홈 강세가 뚜렷하다",
-      "ai_picks": [
-        "알 아흘리 승",
-        "오버 2.5"
-      ],
-      "aria_label": "알 아흘리 vs 파흐타코르 03:15 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007205613",
-      "url": "https://bbongtv4.com/premium/soccer/2007205613",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/15 (화)",
-      "time": "03:15",
-      "status": "예정",
-      "result": null,
-      "team1": "알 카디시야",
-      "team2": "알 와슬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 20.0,
-        "away": 10.0
-      },
-      "ai_summary": "알 카디시야, 최근 6경기 4승1무로 상승세와 홈 득점력 겸비",
-      "ai_picks": [
-        "알 카디시야 승",
-        "오버 2.5"
-      ],
-      "aria_label": "알 카디시야 vs 알 와슬 03:15 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007214032",
-      "url": "https://bbongtv4.com/premium/soccer/2007214032",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/15 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "인터 밀란",
-      "team2": "우디네세",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "인터 밀란 홈 평균득점 3.5, 우디네세 결장자 8명으로 전력 격차 뚜렷",
-      "ai_picks": [
-        "인터 밀란 승",
-        "언더 3.5",
-        "인터 밀란 -1.5 승"
-      ],
-      "aria_label": "인터 밀란 vs 우디네세 03:45 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007213956",
-      "url": "https://bbongtv4.com/premium/soccer/2007213956",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/15 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "리즈",
-      "team2": "뉴캐슬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 30.0,
-        "away": 38.0
-      },
-      "ai_summary": "뉴캐슬 원정 2연승·평균 실점 0, 리즈 공격진 결장 변수와 맞물린다",
-      "ai_picks": [
-        "뉴캐슬 +0.5 승",
-        "언더 2.5"
-      ],
-      "aria_label": "리즈 vs 뉴캐슬 04:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007214972",
-      "url": "https://bbongtv4.com/premium/soccer/2007214972",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/15 (화)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "비야레알",
-      "team2": "베티스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 25.0,
-        "away": 35.0
-      },
-      "ai_summary": "비야레알 최근 4경기 8실점, 베티스 원정 득점력도 주목해야",
-      "ai_picks": [
-        "오버 2.5",
-        "베티스 +0.5 승"
-      ],
-      "aria_label": "비야레알 vs 베티스 04:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007213653",
-      "url": "https://bbongtv4.com/premium/soccer/2007213653",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/15 (화)",
-      "time": "04:15",
-      "status": "예정",
-      "result": null,
-      "team1": "모",
-      "team2": "모레이라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "마리티모 최근 2연승, 모레이라 홈 수비 불안이 변수로 작용",
-      "ai_picks": [
-        "마리티모 승",
-        "오버 2.5",
-        "마리티모 +0.5 승"
-      ],
-      "aria_label": "모레이라 vs 마리티모 04:15 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007212505",
-      "url": "https://bbongtv4.com/premium/soccer/2007212505",
-      "sport": "soccer",
-      "league": "POR D1",
-      "date": "9/15 (화)",
-      "time": "04:45",
-      "status": "예정",
-      "result": null,
-      "team1": "브",
-      "team2": "브라가",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "draw": 20.0,
-        "away": 12.0
-      },
-      "ai_summary": "브라가, 홈 3-4-3 전술과 P. 빅토르의 공격력으로 우세한 흐름",
-      "ai_picks": [
-        "브라가 승",
-        "오버 2.5",
-        "에스토릴 +1.5 승"
-      ],
-      "aria_label": "브라가 vs 에스토릴 04:45 분석 상세",
-      "source_date": "2026-09-15"
-    },
     {
       "id": "2007220203",
       "url": "https://bbongtv4.com/premium/soccer/2007220203",
@@ -1392,6 +1079,319 @@
         "코모 -1.5 승"
       ],
       "aria_label": "코모 vs 파르마 01:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2000643338",
+      "url": "https://bbongtv4.com/premium/hockey/2000643338",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/15 (화)",
+      "time": "01:35",
+      "status": "예정",
+      "result": null,
+      "team1": "니",
+      "team2": "니즈니노브고로드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "니즈니노브고로드 최근 4경기 3승, 원정 연승 흐름이 변수",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "니즈니노브고로드 vs 바르스 카잔 01:35 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007204920",
+      "url": "https://bbongtv4.com/premium/soccer/2007204920",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/15 (화)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보도/글림트",
+      "team2": "산",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 80.0,
+        "draw": 15.0,
+        "away": 5.0
+      },
+      "ai_summary": "보도/글림트 홈 평균득점 2.86, 산데피오르드 원정 실점 1.5로 대량 득점 가능성",
+      "ai_picks": [
+        "보도/글림트 승",
+        "오버 3.5",
+        "산데피오르드 +2.5 승"
+      ],
+      "aria_label": "보도/글림트 vs 산데피오르드 02:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007209439",
+      "url": "https://bbongtv4.com/premium/soccer/2007209439",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/15 (화)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "가",
+      "team2": "가자안테프",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "페네르바체 원정 평균실점 0.8, 수비 안정감이 승부에 영향",
+      "ai_picks": [
+        "페네르바체 승",
+        "오버 2.5"
+      ],
+      "aria_label": "가자안테프 vs 페네르바체 02:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007214317",
+      "url": "https://bbongtv4.com/premium/soccer/2007214317",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/15 (화)",
+      "time": "02:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "리",
+      "team2": "리우 아베",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "리우 아베 최근 2경기 연속 0-4 패, 수비 붕괴가 변수로 작용",
+      "ai_picks": [
+        "에스트렐라 승",
+        "오버 2.5"
+      ],
+      "aria_label": "리우 아베 vs 에스트렐라 02:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205609",
+      "url": "https://bbongtv4.com/premium/soccer/2007205609",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "에스테그랄 F.C.",
+      "team2": "알 사드",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "알사드 SC 승",
+      "ai_picks": [
+        "알 사드 승"
+      ],
+      "aria_label": "에스테그랄 F.C. vs 알 사드 03:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205612",
+      "url": "https://bbongtv4.com/premium/soccer/2007205612",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "알 아흘리",
+      "team2": "파흐타코르",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "알 아흘리 홈 3경기 평균 4득점, 공격력과 홈 강세가 뚜렷하다",
+      "ai_picks": [
+        "알 아흘리 승",
+        "오버 2.5"
+      ],
+      "aria_label": "알 아흘리 vs 파흐타코르 03:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205613",
+      "url": "https://bbongtv4.com/premium/soccer/2007205613",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "03:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 카디시야",
+      "team2": "알 와슬",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 70.0,
+        "draw": 20.0,
+        "away": 10.0
+      },
+      "ai_summary": "알 카디시야, 최근 6경기 4승1무로 상승세와 홈 득점력 겸비",
+      "ai_picks": [
+        "알 카디시야 승",
+        "오버 2.5"
+      ],
+      "aria_label": "알 카디시야 vs 알 와슬 03:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007214032",
+      "url": "https://bbongtv4.com/premium/soccer/2007214032",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/15 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인터 밀란",
+      "team2": "우디네세",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "인터 밀란 홈 평균득점 3.5, 우디네세 결장자 8명으로 전력 격차 뚜렷",
+      "ai_picks": [
+        "인터 밀란 승",
+        "언더 3.5",
+        "인터 밀란 -1.5 승"
+      ],
+      "aria_label": "인터 밀란 vs 우디네세 03:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007213956",
+      "url": "https://bbongtv4.com/premium/soccer/2007213956",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/15 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "리즈",
+      "team2": "뉴캐슬",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 30.0,
+        "away": 38.0
+      },
+      "ai_summary": "뉴캐슬 원정 2연승·평균 실점 0, 리즈 공격진 결장 변수와 맞물린다",
+      "ai_picks": [
+        "뉴캐슬 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "리즈 vs 뉴캐슬 04:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007214972",
+      "url": "https://bbongtv4.com/premium/soccer/2007214972",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/15 (화)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "비야레알",
+      "team2": "베티스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 40.0,
+        "draw": 25.0,
+        "away": 35.0
+      },
+      "ai_summary": "비야레알 최근 4경기 8실점, 베티스 원정 득점력도 주목해야",
+      "ai_picks": [
+        "오버 2.5",
+        "베티스 +0.5 승"
+      ],
+      "aria_label": "비야레알 vs 베티스 04:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007213653",
+      "url": "https://bbongtv4.com/premium/soccer/2007213653",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/15 (화)",
+      "time": "04:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "모",
+      "team2": "모레이라",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "마리티모 최근 2연승, 모레이라 홈 수비 불안이 변수로 작용",
+      "ai_picks": [
+        "마리티모 승",
+        "오버 2.5",
+        "마리티모 +0.5 승"
+      ],
+      "aria_label": "모레이라 vs 마리티모 04:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007212505",
+      "url": "https://bbongtv4.com/premium/soccer/2007212505",
+      "sport": "soccer",
+      "league": "POR D1",
+      "date": "9/15 (화)",
+      "time": "04:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브",
+      "team2": "브라가",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 68.0,
+        "draw": 20.0,
+        "away": 12.0
+      },
+      "ai_summary": "브라가, 홈 3-4-3 전술과 P. 빅토르의 공격력으로 우세한 흐름",
+      "ai_picks": [
+        "브라가 승",
+        "오버 2.5",
+        "에스토릴 +1.5 승"
+      ],
+      "aria_label": "브라가 vs 에스토릴 04:45 분석 상세",
       "source_date": "2026-09-15"
     }
   ]
