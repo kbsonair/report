@@ -1,163 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-15",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-15",
-  "scraped_at": "2026-09-14T14:13:48.300243+00:00",
-  "count": 50,
+  "scraped_at": "2026-09-14T19:28:34.999538+00:00",
+  "count": 54,
   "matches": [
-    {
-      "id": "2000643337",
-      "url": "https://bbongtv4.com/premium/hockey/2000643337",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/15 (화)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라",
-      "team2": "라다",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "라다 최근 4연패, 디나모 민스크도 3연패로 두 팀 모두 부진 흐름",
-      "ai_picks": [
-        "디나모 민스크 승"
-      ],
-      "aria_label": "라다 vs 디나모 민스크 00:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2000643340",
-      "url": "https://bbongtv4.com/premium/hockey/2000643340",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/15 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "체",
-      "team2": "체레포베츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "체레포베츠 홈 평균실점 1.5, 디나모 모스크바 원정 실점 3.5로 수비 불안",
-      "ai_picks": [
-        "디나모 모스크바 승"
-      ],
-      "aria_label": "체레포베츠 vs 디나모 모스크바 01:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007205610",
-      "url": "https://bbongtv4.com/premium/soccer/2007205610",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/15 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "샤바브 알 아흘리 두바이",
-      "team2": "트랙터",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "홈팀 샤바브 알아흘리 클럽 승리, 총득점 2.5 언더",
-      "ai_picks": [
-        "샤바브 알 아흘리 두바이 승",
-        "언더 2.5"
-      ],
-      "aria_label": "샤바브 알 아흘리 두바이 vs 트랙터 01:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007205611",
-      "url": "https://bbongtv4.com/premium/soccer/2007205611",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/15 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "샤말",
-      "team2": "알 이티하드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "알 이티하드, 원정 평균 실점 0.5로 안정된 수비력 과시",
-      "ai_picks": [
-        "알 이티하드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "샤말 vs 알 이티하드 01:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007212277",
-      "url": "https://bbongtv4.com/premium/soccer/2007212277",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/15 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "토리노",
-      "team2": "로마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 13.0,
-        "draw": 14.0,
-        "away": 73.0
-      },
-      "ai_summary": "로마 최근 3경기 10득점, 공격력과 득실차 모두 압도적 우위",
-      "ai_picks": [
-        "로마 승",
-        "오버 2.5",
-        "로마 -0.5 승"
-      ],
-      "aria_label": "토리노 vs 로마 01:30 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007213077",
-      "url": "https://bbongtv4.com/premium/soccer/2007213077",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/15 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "코모",
-      "team2": "파르마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "코모, 최근 4경기 13득점·공격진 다득점 분산이 강점",
-      "ai_picks": [
-        "코모 승",
-        "오버 2.5",
-        "코모 -1.5 승"
-      ],
-      "aria_label": "코모 vs 파르마 01:30 분석 상세",
-      "source_date": "2026-09-15"
-    },
     {
       "id": "2000643338",
       "url": "https://bbongtv4.com/premium/hockey/2000643338",
@@ -861,6 +707,56 @@
       "source_date": "2026-09-15"
     },
     {
+      "id": "16482529",
+      "url": "https://bbongtv4.com/premium/soccer/16482529",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/15 (화)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "우즈베키스탄 (U23)(N)",
+      "team2": "필리핀 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "우즈베키스탄 (U23) 승",
+      "ai_picks": [
+        "우즈베키스탄 (U23)(N) 승"
+      ],
+      "aria_label": "우즈베키스탄 (U23)(N) vs 필리핀 (U23)(N) 15:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482530",
+      "url": "https://bbongtv4.com/premium/soccer/16482530",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/15 (화)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남 (U23)",
+      "team2": "쿠웨이트 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "베트남 (U23) 승",
+      "ai_picks": [
+        "베트남 (U23) 승"
+      ],
+      "aria_label": "베트남 (U23) vs 쿠웨이트 (U23) 15:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
       "id": "2000354997",
       "url": "https://bbongtv4.com/premium/baseball/2000354997",
       "sport": "baseball",
@@ -879,7 +775,8 @@
       },
       "ai_summary": "요코하마 베이스타즈, 최근 4연승과 홈 득실 우위가 강점",
       "ai_picks": [
-        "요코하마 베이스타즈 승"
+        "요코하마 베이스타즈 승",
+        "언더 6.5"
       ],
       "aria_label": "요코하마 베이스타즈 vs 요미우리 자이언츠 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -903,7 +800,9 @@
       },
       "ai_summary": "한신 타이거스, 최근 부진에도 시즌 전체 득실 우위가 강점",
       "ai_picks": [
-        "한신 타이거스 승"
+        "한신 타이거스 승",
+        "언더 6.5",
+        "중일 드래곤즈 +1.5 승"
       ],
       "aria_label": "한신 타이거스 vs 중일 드래곤즈 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -927,7 +826,8 @@
       },
       "ai_summary": "4위와 최근 맞대결 2승, 야쿠르트가 근소하게 앞서는 구도",
       "ai_picks": [
-        "야쿠르트 스왈로즈 승"
+        "야쿠르트 스왈로즈 승",
+        "언더 7.5"
       ],
       "aria_label": "야쿠르트 스왈로즈 vs 히로시마 카프 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -951,7 +851,9 @@
       },
       "ai_summary": "닛폰햄 파이터스, 홈 4승1무 무패와 상대전적 3연승으로 우위",
       "ai_picks": [
-        "닛폰햄 파이터스 승"
+        "닛폰햄 파이터스 승",
+        "오버 7.5",
+        "닛폰햄 파이터스 -1.5 승"
       ],
       "aria_label": "닛폰햄 파이터스 vs 치바 롯데 마리너스 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -975,7 +877,9 @@
       },
       "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +2.77로 체급 우위 뚜렷",
       "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승"
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 6.5",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
       ],
       "aria_label": "오릭스 버팔로스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -999,7 +903,9 @@
       },
       "ai_summary": "세이부 라이온스, 최근 맞대결 3연승과 시즌 득실 우위로 우세",
       "ai_picks": [
-        "세이부 라이온스 승"
+        "세이부 라이온스 승",
+        "오버 6.5",
+        "세이부 라이온스 -1.5 승"
       ],
       "aria_label": "라쿠텐 골든 이글스 vs 세이부 라이온스 18:00 분석 상세",
       "source_date": "2026-09-15"
@@ -1103,6 +1009,31 @@
         "오버 11.5"
       ],
       "aria_label": "SSG 랜더스 vs KIA 타이거즈 18:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482532",
+      "url": "https://bbongtv4.com/premium/soccer/16482532",
+      "sport": "soccer",
+      "league": "AUS FFA",
+      "date": "9/15 (화)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "사우스 멜버른 FC",
+      "team2": "퀸즐랜드 라이온스 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 20.0,
+        "away": 50.0
+      },
+      "ai_summary": "퀸즐랜드 라이온스 FC 승",
+      "ai_picks": [
+        "퀸즐랜드 라이온스 FC 승"
+      ],
+      "aria_label": "사우스 멜버른 FC vs 퀸즐랜드 라이온스 FC 18:30 분석 상세",
       "source_date": "2026-09-15"
     },
     {
@@ -1211,6 +1142,31 @@
       "source_date": "2026-09-15"
     },
     {
+      "id": "16482538",
+      "url": "https://bbongtv4.com/premium/soccer/16482538",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/15 (화)",
+      "time": "19:30",
+      "status": "예정",
+      "result": null,
+      "team1": "카타르 (U23)",
+      "team2": "한국 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "한국 (U23) 승",
+      "ai_picks": [
+        "한국 (U23)(N) 승"
+      ],
+      "aria_label": "카타르 (U23) vs 한국 (U23)(N) 19:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
       "id": "2007205592",
       "url": "https://bbongtv4.com/premium/soccer/2007205592",
       "sport": "soccer",
@@ -1282,6 +1238,160 @@
         "로코모티프 야로슬라블 승"
       ],
       "aria_label": "트랙터 첼야빈스크 vs 로코모티프 야로슬라블 23:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2000643337",
+      "url": "https://bbongtv4.com/premium/hockey/2000643337",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/15 (화)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "라",
+      "team2": "라다",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "라다 최근 4연패, 디나모 민스크도 3연패로 두 팀 모두 부진 흐름",
+      "ai_picks": [
+        "디나모 민스크 승"
+      ],
+      "aria_label": "라다 vs 디나모 민스크 00:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2000643340",
+      "url": "https://bbongtv4.com/premium/hockey/2000643340",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/15 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "체",
+      "team2": "체레포베츠",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "체레포베츠 홈 평균실점 1.5, 디나모 모스크바 원정 실점 3.5로 수비 불안",
+      "ai_picks": [
+        "디나모 모스크바 승"
+      ],
+      "aria_label": "체레포베츠 vs 디나모 모스크바 01:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205610",
+      "url": "https://bbongtv4.com/premium/soccer/2007205610",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샤바브 알 아흘리 두바이",
+      "team2": "트랙터",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 샤바브 알아흘리 클럽 승리, 총득점 2.5 언더",
+      "ai_picks": [
+        "샤바브 알 아흘리 두바이 승",
+        "언더 2.5"
+      ],
+      "aria_label": "샤바브 알 아흘리 두바이 vs 트랙터 01:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205611",
+      "url": "https://bbongtv4.com/premium/soccer/2007205611",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "샤말",
+      "team2": "알 이티하드",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "알 이티하드, 원정 평균 실점 0.5로 안정된 수비력 과시",
+      "ai_picks": [
+        "알 이티하드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "샤말 vs 알 이티하드 01:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007212277",
+      "url": "https://bbongtv4.com/premium/soccer/2007212277",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/15 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토리노",
+      "team2": "로마",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 13.0,
+        "draw": 14.0,
+        "away": 73.0
+      },
+      "ai_summary": "로마 최근 3경기 10득점, 공격력과 득실차 모두 압도적 우위",
+      "ai_picks": [
+        "로마 승",
+        "오버 2.5",
+        "로마 -0.5 승"
+      ],
+      "aria_label": "토리노 vs 로마 01:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007213077",
+      "url": "https://bbongtv4.com/premium/soccer/2007213077",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/15 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "코모",
+      "team2": "파르마",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "코모, 최근 4경기 13득점·공격진 다득점 분산이 강점",
+      "ai_picks": [
+        "코모 승",
+        "오버 2.5",
+        "코모 -1.5 승"
+      ],
+      "aria_label": "코모 vs 파르마 01:30 분석 상세",
       "source_date": "2026-09-15"
     }
   ]

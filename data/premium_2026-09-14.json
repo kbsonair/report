@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-14",
   "source_date": "2026-09-14",
-  "scraped_at": "2026-09-14T14:13:44.437958+00:00",
+  "scraped_at": "2026-09-14T19:28:37.043057+00:00",
   "count": 55,
   "matches": [
-    {
-      "id": "2007205608",
-      "url": "https://bbongtv4.com/premium/soccer/2007205608",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/14 (월)",
-      "time": "22:45",
-      "status": "예정",
-      "result": null,
-      "team1": "네프치 파르가나",
-      "team2": "알 쿠와 알 자위야",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 22.0,
-        "away": 20.0
-      },
-      "ai_summary": "FK 네프치 페르가나 승",
-      "ai_picks": [
-        "네프치 파르가나 승"
-      ],
-      "aria_label": "네프치 파르가나 vs 알 쿠와 알 자위야 22:45 분석 상세",
-      "source_date": "2026-09-14"
-    },
     {
       "id": "2007212508",
       "url": "https://bbongtv4.com/premium/soccer/2007212508",
@@ -1426,6 +1401,31 @@
         "언더 2.5"
       ],
       "aria_label": "FC서울 여자 vs 화천 W 19:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007205608",
+      "url": "https://bbongtv4.com/premium/soccer/2007205608",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/14 (월)",
+      "time": "22:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "네프치 파르가나",
+      "team2": "알 쿠와 알 자위야",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "draw": 22.0,
+        "away": 20.0
+      },
+      "ai_summary": "FK 네프치 페르가나 승",
+      "ai_picks": [
+        "네프치 파르가나 승"
+      ],
+      "aria_label": "네프치 파르가나 vs 알 쿠와 알 자위야 22:45 분석 상세",
       "source_date": "2026-09-14"
     }
   ]
