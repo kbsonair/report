@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-13T23:29:43.455711+00:00",
+  "scraped_at": "2026-09-14T01:38:18.577264+00:00",
   "kst_yesterday": "2026-09-13",
   "kst_today": "2026-09-14",
   "kst_tomorrow": "2026-09-15",
@@ -8,7 +8,7 @@
     "2026-09-14",
     "2026-09-15"
   ],
-  "count": 208,
+  "count": 212,
   "matches": [
     {
       "id": "2000643337",
@@ -56,6 +56,58 @@
         "디나모 모스크바 승"
       ],
       "aria_label": "체레포베츠 vs 디나모 모스크바 01:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205610",
+      "url": "https://bbongtv4.com/premium/soccer/2007205610",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "샤바브 알 아흘리 두바이",
+      "team2": "트랙터",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "홈팀 샤바브 알아흘리 클럽 승리, 총득점 2.5 언더",
+      "ai_picks": [
+        "샤바브 알 아흘리 두바이 승",
+        "언더 2.5"
+      ],
+      "aria_label": "샤바브 알 아흘리 두바이 vs 트랙터 01:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007205611",
+      "url": "https://bbongtv4.com/premium/soccer/2007205611",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "샤말",
+      "team2": "알 이티하드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "이티하드 FC 승리 및 오버 2.5골",
+      "ai_picks": [
+        "알 이티하드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "샤말 vs 알 이티하드 01:00 분석 상세",
       "source_date": "2026-09-15"
     },
     {
@@ -216,6 +268,31 @@
       "source_date": "2026-09-15"
     },
     {
+      "id": "2007205609",
+      "url": "https://bbongtv4.com/premium/soccer/2007205609",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "03:15",
+      "status": "예정",
+      "result": null,
+      "team1": "에스테그랄 F.C.",
+      "team2": "알 사드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "알사드 SC 승",
+      "ai_picks": [
+        "알 사드 승"
+      ],
+      "aria_label": "에스테그랄 F.C. vs 알 사드 03:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
       "id": "2007205612",
       "url": "https://bbongtv4.com/premium/soccer/2007205612",
       "sport": "soccer",
@@ -225,7 +302,7 @@
       "status": "예정",
       "result": null,
       "team1": "알 아흘리",
-      "team2": "파",
+      "team2": "파흐타코르",
       "score1": null,
       "score2": null,
       "prob": {
@@ -250,8 +327,8 @@
       "time": "03:15",
       "status": "예정",
       "result": null,
-      "team1": "알",
-      "team2": "알 카디시야",
+      "team1": "알 카디시야",
+      "team2": "알 와슬",
       "score1": null,
       "score2": null,
       "prob": {
@@ -303,8 +380,8 @@
       "time": "04:00",
       "status": "예정",
       "result": null,
-      "team1": "리",
-      "team2": "리즈",
+      "team1": "리즈",
+      "team2": "뉴캐슬",
       "score1": null,
       "score2": null,
       "prob": {
@@ -330,7 +407,7 @@
       "status": "예정",
       "result": null,
       "team1": "비야레알",
-      "team2": "베",
+      "team2": "베티스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -756,7 +833,9 @@
       },
       "ai_summary": "에인절스 홈 9경기 1승, 시애틀 원정 약점에도 홈 극심한 부진",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "오버 8",
+        "LA 에인절스 +1.5 승"
       ],
       "aria_label": "LA 에인절스 vs 시애틀 매리너스 10:38 분석 상세",
       "source_date": "2026-09-15"
@@ -780,7 +859,9 @@
       },
       "ai_summary": "양 팀 시즌 득실차 -0.76 대 -0.95, 접전 구도 속 홈 이점이 변수",
       "ai_picks": [
-        "애리조나 다이아몬드백스 승"
+        "애리조나 다이아몬드백스 승",
+        "오버 8",
+        "마이애미 말린스 +1.5 승"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs 마이애미 말린스 10:40 분석 상세",
       "source_date": "2026-09-15"
@@ -2223,12 +2304,12 @@
       "league": "MLB",
       "date": "9/14 (월)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "오클랜드",
       "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 7,
       "prob": {
         "home": 53.0,
         "away": 47.0
@@ -2248,12 +2329,12 @@
       "league": "MLB",
       "date": "9/14 (월)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 7,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -2300,12 +2381,12 @@
       "league": "USA MLS",
       "date": "9/14 (월)",
       "time": "06:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 파이어",
       "team2": "NE 레볼루션",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 43.0,
         "draw": 29.0,
@@ -2326,12 +2407,12 @@
       "league": "ARG D1",
       "date": "9/14 (월)",
       "time": "07:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "인",
       "team2": "인디펜디엔테",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 41.0,
         "draw": 37.0,
@@ -2352,12 +2433,12 @@
       "league": "USA MLS",
       "date": "9/14 (월)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "밴쿠버 화이트캡스",
       "team2": "오스틴 FC",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 73.0,
         "draw": 17.0,
@@ -2597,9 +2678,35 @@
       },
       "ai_summary": "화천 W, 원정 무패와 평균실점 0.43으로 안정감 뚜렷",
       "ai_picks": [
-        "화천 W 승"
+        "화천 W 승",
+        "언더 2.5"
       ],
       "aria_label": "FC서울 여자 vs 화천 W 19:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007205608",
+      "url": "https://bbongtv4.com/premium/soccer/2007205608",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/14 (월)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "네프치 파르가나",
+      "team2": "알 쿠와 알 자위야",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "draw": 22.0,
+        "away": 20.0
+      },
+      "ai_summary": "FK 네프치 페르가나 승",
+      "ai_picks": [
+        "네프치 파르가나 승"
+      ],
+      "aria_label": "네프치 파르가나 vs 알 쿠와 알 자위야 22:45 분석 상세",
       "source_date": "2026-09-14"
     },
     {

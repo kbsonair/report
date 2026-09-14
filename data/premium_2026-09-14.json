@@ -1,139 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-14",
-  "scraped_at": "2026-09-13T23:29:40.508747+00:00",
-  "count": 54,
+  "scraped_at": "2026-09-14T01:38:14.707701+00:00",
+  "count": 55,
   "matches": [
-    {
-      "id": "2000363504",
-      "url": "https://bbongtv4.com/premium/baseball/2000363504",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/14 (월)",
-      "time": "05:05",
-      "status": "예정",
-      "result": null,
-      "team1": "오클랜드",
-      "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 53.0,
-        "away": 47.0
-      },
-      "ai_summary": "WHIP 1.14 대 1.45, 선발 우위와 원정 실점 부담의 충돌",
-      "ai_picks": [
-        "오클랜드 승",
-        "오버 9.5"
-      ],
-      "aria_label": "오클랜드 vs 시애틀 매리너스 05:05 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2000363505",
-      "url": "https://bbongtv4.com/premium/baseball/2000363505",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/14 (월)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "애리조나 다이아몬드백스",
-      "team2": "텍사스 레인저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "애리조나 다이아몬드백스, 최근 6경기 4승으로 상승세 뚜렷",
-      "ai_picks": [
-        "애리조나 다이아몬드백스 승",
-        "언더 8.5",
-        "텍사스 레인저스 +1.5 승"
-      ],
-      "aria_label": "애리조나 다이아몬드백스 vs 텍사스 레인저스 05:10 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007149593",
-      "url": "https://bbongtv4.com/premium/soccer/2007149593",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "9/14 (월)",
-      "time": "06:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 파이어",
-      "team2": "NE 레볼루션",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 29.0,
-        "away": 28.0
-      },
-      "ai_summary": "시카고 파이어 최근 6경기 무패, 홈 평균 실점 0.83로 수비 안정",
-      "ai_picks": [
-        "시카고 파이어 승",
-        "언더 3.5"
-      ],
-      "aria_label": "시카고 파이어 vs NE 레볼루션 06:30 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007218901",
-      "url": "https://bbongtv4.com/premium/soccer/2007218901",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/14 (월)",
-      "time": "07:15",
-      "status": "예정",
-      "result": null,
-      "team1": "인",
-      "team2": "인디펜디엔테",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "draw": 37.0,
-        "away": 22.0
-      },
-      "ai_summary": "인디펜디엔테 홈 득점력 저조, 산 로렌소 원정 무득점 흐름이 겹친다",
-      "ai_picks": [
-        "무승부",
-        "언더 1.5"
-      ],
-      "aria_label": "인디펜디엔테 vs 산 로렌소 07:15 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007178084",
-      "url": "https://bbongtv4.com/premium/soccer/2007178084",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "9/14 (월)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "밴쿠버 화이트캡스",
-      "team2": "오스틴 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 73.0,
-        "draw": 17.0,
-        "away": 10.0
-      },
-      "ai_summary": "밴쿠버 화이트캡스, 홈 9승1무3패와 오스틴 FC 원정 2승3무7패의 극명한 차이",
-      "ai_picks": [
-        "밴쿠버 화이트캡스 승",
-        "언더 3.5",
-        "오스틴 FC +1.5 승"
-      ],
-      "aria_label": "밴쿠버 화이트캡스 vs 오스틴 FC 07:30 분석 상세",
-      "source_date": "2026-09-14"
-    },
     {
       "id": "2000363506",
       "url": "https://bbongtv4.com/premium/baseball/2000363506",
@@ -359,9 +229,35 @@
       },
       "ai_summary": "화천 W, 원정 무패와 평균실점 0.43으로 안정감 뚜렷",
       "ai_picks": [
-        "화천 W 승"
+        "화천 W 승",
+        "언더 2.5"
       ],
       "aria_label": "FC서울 여자 vs 화천 W 19:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007205608",
+      "url": "https://bbongtv4.com/premium/soccer/2007205608",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/14 (월)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "네프치 파르가나",
+      "team2": "알 쿠와 알 자위야",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "draw": 22.0,
+        "away": 20.0
+      },
+      "ai_summary": "FK 네프치 페르가나 승",
+      "ai_picks": [
+        "네프치 파르가나 승"
+      ],
+      "aria_label": "네프치 파르가나 vs 알 쿠와 알 자위야 22:45 분석 상세",
       "source_date": "2026-09-14"
     },
     {
@@ -1377,6 +1273,57 @@
       "source_date": "2026-09-14"
     },
     {
+      "id": "2000363504",
+      "url": "https://bbongtv4.com/premium/baseball/2000363504",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/14 (월)",
+      "time": "05:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오클랜드",
+      "team2": "시애틀 매리너스",
+      "score1": 8,
+      "score2": 7,
+      "prob": {
+        "home": 53.0,
+        "away": 47.0
+      },
+      "ai_summary": "WHIP 1.14 대 1.45, 선발 우위와 원정 실점 부담의 충돌",
+      "ai_picks": [
+        "오클랜드 승",
+        "오버 9.5"
+      ],
+      "aria_label": "오클랜드 vs 시애틀 매리너스 05:05 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2000363505",
+      "url": "https://bbongtv4.com/premium/baseball/2000363505",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/14 (월)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "텍사스 레인저스",
+      "score1": 6,
+      "score2": 7,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "애리조나 다이아몬드백스, 최근 6경기 4승으로 상승세 뚜렷",
+      "ai_picks": [
+        "애리조나 다이아몬드백스 승",
+        "언더 8.5",
+        "텍사스 레인저스 +1.5 승"
+      ],
+      "aria_label": "애리조나 다이아몬드백스 vs 텍사스 레인저스 05:10 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
       "id": "2007213084",
       "url": "https://bbongtv4.com/premium/soccer/2007213084",
       "sport": "soccer",
@@ -1400,6 +1347,85 @@
         "언더 2.5"
       ],
       "aria_label": "플라멩고 RJ vs 코린티안스 05:30 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007149593",
+      "url": "https://bbongtv4.com/premium/soccer/2007149593",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/14 (월)",
+      "time": "06:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고 파이어",
+      "team2": "NE 레볼루션",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 43.0,
+        "draw": 29.0,
+        "away": 28.0
+      },
+      "ai_summary": "시카고 파이어 최근 6경기 무패, 홈 평균 실점 0.83로 수비 안정",
+      "ai_picks": [
+        "시카고 파이어 승",
+        "언더 3.5"
+      ],
+      "aria_label": "시카고 파이어 vs NE 레볼루션 06:30 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007218901",
+      "url": "https://bbongtv4.com/premium/soccer/2007218901",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/14 (월)",
+      "time": "07:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인",
+      "team2": "인디펜디엔테",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 41.0,
+        "draw": 37.0,
+        "away": 22.0
+      },
+      "ai_summary": "인디펜디엔테 홈 득점력 저조, 산 로렌소 원정 무득점 흐름이 겹친다",
+      "ai_picks": [
+        "무승부",
+        "언더 1.5"
+      ],
+      "aria_label": "인디펜디엔테 vs 산 로렌소 07:15 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007178084",
+      "url": "https://bbongtv4.com/premium/soccer/2007178084",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/14 (월)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밴쿠버 화이트캡스",
+      "team2": "오스틴 FC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 73.0,
+        "draw": 17.0,
+        "away": 10.0
+      },
+      "ai_summary": "밴쿠버 화이트캡스, 홈 9승1무3패와 오스틴 FC 원정 2승3무7패의 극명한 차이",
+      "ai_picks": [
+        "밴쿠버 화이트캡스 승",
+        "언더 3.5",
+        "오스틴 FC +1.5 승"
+      ],
+      "aria_label": "밴쿠버 화이트캡스 vs 오스틴 FC 07:30 분석 상세",
       "source_date": "2026-09-14"
     }
   ]
