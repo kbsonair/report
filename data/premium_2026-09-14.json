@@ -1,138 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-14",
-  "scraped_at": "2026-09-14T01:38:14.707701+00:00",
+  "scraped_at": "2026-09-14T07:06:47.097051+00:00",
   "count": 55,
   "matches": [
-    {
-      "id": "2000363506",
-      "url": "https://bbongtv4.com/premium/baseball/2000363506",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/14 (월)",
-      "time": "08:20",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "선발 닉 피베타 방어율 3.43, 최근 5연승 탄력의 샌디에이고 파드레스",
-      "ai_picks": [
-        "샌디에이고 파드레스 승",
-        "오버 6.5"
-      ],
-      "aria_label": "SF 자이언츠 vs 샌디에이고 파드레스 08:20 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007218902",
-      "url": "https://bbongtv4.com/premium/soccer/2007218902",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/14 (월)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "우라칸",
-      "team2": "라싱 클럽",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 31.0,
-        "draw": 44.0,
-        "away": 25.0
-      },
-      "ai_summary": "우라칸 홈 4경기 평균실점 0.25, 라싱 클럽 최근 5경기 1무4패 부진",
-      "ai_picks": [
-        "무승부",
-        "언더 1.5"
-      ],
-      "aria_label": "우라칸 vs 라싱 클럽 09:30 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007178085",
-      "url": "https://bbongtv4.com/premium/soccer/2007178085",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "9/14 (월)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "샌디에이고 FC",
-      "team2": "필라델피아 유니온",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 30.0,
-        "away": 38.0
-      },
-      "ai_summary": "최근 3경기 기대득점 2.73 대 1.68, 필라델피아 유니온의 공격력이 앞선다",
-      "ai_picks": [
-        "필라델피아 유니온 승",
-        "오버 3.5"
-      ],
-      "aria_label": "샌디에이고 FC vs 필라델피아 유니온 10:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007213793",
-      "url": "https://bbongtv4.com/premium/soccer/2007213793",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/14 (월)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산토스 라구나",
-      "team2": "후아레즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 35.0,
-        "away": 20.0
-      },
-      "ai_summary": "후아레즈 실점 21, 산토스 라구나도 득점력 저조…저득점 흐름 유력",
-      "ai_picks": [
-        "언더 2.5",
-        "산토스 라구나 승"
-      ],
-      "aria_label": "산토스 라구나 vs 후아레즈 10:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2007213794",
-      "url": "https://bbongtv4.com/premium/soccer/2007213794",
-      "sport": "soccer",
-      "league": "MEX D1",
-      "date": "9/14 (월)",
-      "time": "10:07",
-      "status": "예정",
-      "result": null,
-      "team1": "과달라하라 치바스",
-      "team2": "UNAM 푸마스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 22.0,
-        "away": 16.0
-      },
-      "ai_summary": "과달라하라 치바스, 홈 4경기 1.5득점·1.25실점으로 안정감 보인다",
-      "ai_picks": [
-        "과달라하라 치바스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "과달라하라 치바스 vs UNAM 푸마스 10:07 분석 상세",
-      "source_date": "2026-09-14"
-    },
     {
       "id": "2000354587",
       "url": "https://bbongtv4.com/premium/baseball/2000354587",
@@ -1426,6 +1297,135 @@
         "오스틴 FC +1.5 승"
       ],
       "aria_label": "밴쿠버 화이트캡스 vs 오스틴 FC 07:30 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2000363506",
+      "url": "https://bbongtv4.com/premium/baseball/2000363506",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/14 (월)",
+      "time": "08:20",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SF 자이언츠",
+      "team2": "샌디에이고 파드레스",
+      "score1": 4,
+      "score2": 6,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "선발 닉 피베타 방어율 3.43, 최근 5연승 탄력의 샌디에이고 파드레스",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "오버 6.5"
+      ],
+      "aria_label": "SF 자이언츠 vs 샌디에이고 파드레스 08:20 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007218902",
+      "url": "https://bbongtv4.com/premium/soccer/2007218902",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/14 (월)",
+      "time": "09:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "우라칸",
+      "team2": "라싱 클럽",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 31.0,
+        "draw": 44.0,
+        "away": 25.0
+      },
+      "ai_summary": "우라칸 홈 4경기 평균실점 0.25, 라싱 클럽 최근 5경기 1무4패 부진",
+      "ai_picks": [
+        "무승부",
+        "언더 1.5"
+      ],
+      "aria_label": "우라칸 vs 라싱 클럽 09:30 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007178085",
+      "url": "https://bbongtv4.com/premium/soccer/2007178085",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/14 (월)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "샌디에이고 FC",
+      "team2": "필라델피아 유니온",
+      "score1": 0,
+      "score2": 5,
+      "prob": {
+        "home": 32.0,
+        "draw": 30.0,
+        "away": 38.0
+      },
+      "ai_summary": "최근 3경기 기대득점 2.73 대 1.68, 필라델피아 유니온의 공격력이 앞선다",
+      "ai_picks": [
+        "필라델피아 유니온 승",
+        "오버 3.5"
+      ],
+      "aria_label": "샌디에이고 FC vs 필라델피아 유니온 10:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007213793",
+      "url": "https://bbongtv4.com/premium/soccer/2007213793",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/14 (월)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "산토스 라구나",
+      "team2": "후아레즈",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 35.0,
+        "away": 20.0
+      },
+      "ai_summary": "후아레즈 실점 21, 산토스 라구나도 득점력 저조…저득점 흐름 유력",
+      "ai_picks": [
+        "언더 2.5",
+        "산토스 라구나 승"
+      ],
+      "aria_label": "산토스 라구나 vs 후아레즈 10:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2007213794",
+      "url": "https://bbongtv4.com/premium/soccer/2007213794",
+      "sport": "soccer",
+      "league": "MEX D1",
+      "date": "9/14 (월)",
+      "time": "10:07",
+      "status": "종료",
+      "result": "적중",
+      "team1": "과달라하라 치바스",
+      "team2": "UNAM 푸마스",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 22.0,
+        "away": 16.0
+      },
+      "ai_summary": "과달라하라 치바스, 홈 4경기 1.5득점·1.25실점으로 안정감 보인다",
+      "ai_picks": [
+        "과달라하라 치바스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "과달라하라 치바스 vs UNAM 푸마스 10:07 분석 상세",
       "source_date": "2026-09-14"
     }
   ]
