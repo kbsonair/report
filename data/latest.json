@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T07:06:50.338287+00:00",
+  "scraped_at": "2026-09-14T14:13:48.385562+00:00",
   "kst_yesterday": "2026-09-13",
   "kst_today": "2026-09-14",
   "kst_tomorrow": "2026-09-15",
@@ -102,7 +102,7 @@
         "draw": 15.0,
         "away": 70.0
       },
-      "ai_summary": "이티하드 FC 승리 및 오버 2.5골",
+      "ai_summary": "알 이티하드, 원정 평균 실점 0.5로 안정된 수비력 과시",
       "ai_picks": [
         "알 이티하드 승",
         "오버 2.5"
@@ -1029,7 +1029,9 @@
       },
       "ai_summary": "NC 다이노스 최근 4연승, LG 트윈스 원정 강세와 상반된 흐름",
       "ai_picks": [
-        "NC 다이노스 승"
+        "NC 다이노스 승",
+        "오버 10",
+        "NC 다이노스 +1.5 승"
       ],
       "aria_label": "NC 다이노스 vs LG 트윈스 18:30 분석 상세",
       "source_date": "2026-09-15"
@@ -1053,7 +1055,8 @@
       },
       "ai_summary": "최근 6경기 5승과 맞대결 3연승, KT 안정성이 앞선다",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "오버 9.5"
       ],
       "aria_label": "한화 이글스 vs KT 위즈 18:30 분석 상세",
       "source_date": "2026-09-15"
@@ -1077,7 +1080,8 @@
       },
       "ai_summary": "삼성 라이온즈, 시즌 득실차 +2.64로 롯데 자이언츠보다 체급 우위",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "삼성 라이온즈 -1.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 롯데 자이언츠 18:30 분석 상세",
       "source_date": "2026-09-15"
@@ -1101,7 +1105,8 @@
       },
       "ai_summary": "SSG 랜더스, 홈에서 평균득점 6.57로 강한 공격력 보여",
       "ai_picks": [
-        "SSG 랜더스 승"
+        "SSG 랜더스 승",
+        "오버 11.5"
       ],
       "aria_label": "SSG 랜더스 vs KIA 타이거즈 18:30 분석 상세",
       "source_date": "2026-09-15"
@@ -2589,12 +2594,12 @@
       "league": "NPB",
       "date": "9/14 (월)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "야쿠르트 스왈로즈",
       "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -2615,12 +2620,12 @@
       "league": "NPB",
       "date": "9/14 (월)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "한신 타이거스",
       "team2": "중일 드래곤즈",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 6,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -2640,12 +2645,12 @@
       "league": "NPB",
       "date": "9/14 (월)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요코하마 베이스타즈",
       "team2": "요미우리 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 3,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -2665,12 +2670,12 @@
       "league": "WK리그 (여자축구)",
       "date": "9/14 (월)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "서",
       "team2": "FC서울 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 25.0,
         "draw": 30.0,

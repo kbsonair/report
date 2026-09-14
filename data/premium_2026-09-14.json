@@ -1,111 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-14",
-  "scraped_at": "2026-09-14T07:06:47.097051+00:00",
+  "scraped_at": "2026-09-14T14:13:44.437958+00:00",
   "count": 55,
   "matches": [
-    {
-      "id": "2000354587",
-      "url": "https://bbongtv4.com/premium/baseball/2000354587",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/14 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트 스왈로즈",
-      "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "홈 1승1무6패 야쿠르트, 원정 3승1패 히로시마 흐름이 변수",
-      "ai_picks": [
-        "히로시마 카프 승",
-        "언더 6.5",
-        "야쿠르트 스왈로즈 +1.5 승"
-      ],
-      "aria_label": "야쿠르트 스왈로즈 vs 히로시마 카프 18:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2000354825",
-      "url": "https://bbongtv4.com/premium/baseball/2000354825",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/14 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한신 타이거스",
-      "team2": "중일 드래곤즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 57.0,
-        "away": 43.0
-      },
-      "ai_summary": "한신 타이거스, 최근 부진에도 시즌 전체 득실 우위로 체급 앞선다",
-      "ai_picks": [
-        "한신 타이거스 승",
-        "언더 5.5"
-      ],
-      "aria_label": "한신 타이거스 vs 중일 드래곤즈 18:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2000354991",
-      "url": "https://bbongtv4.com/premium/baseball/2000354991",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/14 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마 베이스타즈",
-      "team2": "요미우리 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "요코하마 베이스타즈, 최근 4연승과 홈 강세로 분위기 우위",
-      "ai_picks": [
-        "요코하마 베이스타즈 승",
-        "언더 6.5"
-      ],
-      "aria_label": "요코하마 베이스타즈 vs 요미우리 자이언츠 18:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
-    {
-      "id": "2006921339",
-      "url": "https://bbongtv4.com/premium/soccer/2006921339",
-      "sport": "soccer",
-      "league": "WK리그 (여자축구)",
-      "date": "9/14 (월)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "서",
-      "team2": "FC서울 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "화천 W, 원정 무패와 평균실점 0.43으로 안정감 뚜렷",
-      "ai_picks": [
-        "화천 W 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC서울 여자 vs 화천 W 19:00 분석 상세",
-      "source_date": "2026-09-14"
-    },
     {
       "id": "2007205608",
       "url": "https://bbongtv4.com/premium/soccer/2007205608",
@@ -1426,6 +1324,108 @@
         "오버 2.5"
       ],
       "aria_label": "과달라하라 치바스 vs UNAM 푸마스 10:07 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2000354587",
+      "url": "https://bbongtv4.com/premium/baseball/2000354587",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/14 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트 스왈로즈",
+      "team2": "히로시마 카프",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "홈 1승1무6패 야쿠르트, 원정 3승1패 히로시마 흐름이 변수",
+      "ai_picks": [
+        "히로시마 카프 승",
+        "언더 6.5",
+        "야쿠르트 스왈로즈 +1.5 승"
+      ],
+      "aria_label": "야쿠르트 스왈로즈 vs 히로시마 카프 18:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2000354825",
+      "url": "https://bbongtv4.com/premium/baseball/2000354825",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/14 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "한신 타이거스",
+      "team2": "중일 드래곤즈",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 57.0,
+        "away": 43.0
+      },
+      "ai_summary": "한신 타이거스, 최근 부진에도 시즌 전체 득실 우위로 체급 앞선다",
+      "ai_picks": [
+        "한신 타이거스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "한신 타이거스 vs 중일 드래곤즈 18:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2000354991",
+      "url": "https://bbongtv4.com/premium/baseball/2000354991",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/14 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요코하마 베이스타즈",
+      "team2": "요미우리 자이언츠",
+      "score1": 3,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "요코하마 베이스타즈, 최근 4연승과 홈 강세로 분위기 우위",
+      "ai_picks": [
+        "요코하마 베이스타즈 승",
+        "언더 6.5"
+      ],
+      "aria_label": "요코하마 베이스타즈 vs 요미우리 자이언츠 18:00 분석 상세",
+      "source_date": "2026-09-14"
+    },
+    {
+      "id": "2006921339",
+      "url": "https://bbongtv4.com/premium/soccer/2006921339",
+      "sport": "soccer",
+      "league": "WK리그 (여자축구)",
+      "date": "9/14 (월)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "서",
+      "team2": "FC서울 여자",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "화천 W, 원정 무패와 평균실점 0.43으로 안정감 뚜렷",
+      "ai_picks": [
+        "화천 W 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC서울 여자 vs 화천 W 19:00 분석 상세",
       "source_date": "2026-09-14"
     }
   ]
