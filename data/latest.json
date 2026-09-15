@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T22:44:14.790010+00:00",
+  "scraped_at": "2026-09-15T01:16:50.730967+00:00",
   "kst_yesterday": "2026-09-14",
   "kst_today": "2026-09-15",
   "kst_tomorrow": "2026-09-16",
@@ -8,7 +8,7 @@
     "2026-09-15",
     "2026-09-16"
   ],
-  "count": 153,
+  "count": 161,
   "matches": [
     {
       "id": "2007205614",
@@ -166,6 +166,58 @@
       "source_date": "2026-09-16"
     },
     {
+      "id": "16482655",
+      "url": "https://bbongtv4.com/premium/soccer/16482655",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "피터버러",
+      "team2": "바른슬리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "draw": 28.0,
+        "away": 29.0
+      },
+      "ai_summary": "피터버러 최근 2경기 6득점, 공격력 상승세가 홈 이점과 맞물린다",
+      "ai_picks": [
+        "피터버러 승",
+        "오버 2.5"
+      ],
+      "aria_label": "피터버러 vs 바른슬리 03:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482656",
+      "url": "https://bbongtv4.com/premium/soccer/16482656",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "웨스트햄",
+      "team2": "풀럼",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 28.0,
+        "away": 34.0
+      },
+      "ai_summary": "웨스트햄 홈 5경기 평균득점 3.4, 공격력 앞서지만 결장 변수 주의",
+      "ai_picks": [
+        "웨스트햄 +0.5 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트햄 vs 풀럼 03:45 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
       "id": "2006994828",
       "url": "https://bbongtv4.com/premium/soccer/2006994828",
       "sport": "soccer",
@@ -293,6 +345,85 @@
         "오버 2.5"
       ],
       "aria_label": "미들즈브러 vs 밀월 03:45 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482706",
+      "url": "https://bbongtv4.com/premium/soccer/16482706",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "입스위치",
+      "team2": "아스날",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "아스날 원정 3경기 연속 무실점, 입스위치 홈 득점력과 맞붙는다",
+      "ai_picks": [
+        "아스날 승",
+        "오버 2.5"
+      ],
+      "aria_label": "입스위치 vs 아스날 04:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482707",
+      "url": "https://bbongtv4.com/premium/soccer/16482707",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "리버풀",
+      "team2": "토트넘",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 57.0,
+        "draw": 25.0,
+        "away": 18.0
+      },
+      "ai_summary": "리버풀 홈 3경기 무패·평균실점 1, 토트넘 원정 무득점 부진이 변수",
+      "ai_picks": [
+        "리버풀 승",
+        "언더 3.5"
+      ],
+      "aria_label": "리버풀 vs 토트넘 04:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482708",
+      "url": "https://bbongtv4.com/premium/soccer/16482708",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레딩",
+      "team2": "브렌트퍼드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "브렌트퍼드 최근 5경기 무패와 원정 평균득점 3점, 공격력 우위 뚜렷",
+      "ai_picks": [
+        "브렌트퍼드 승",
+        "오버 3.5",
+        "브렌트퍼드 -1.5 승"
+      ],
+      "aria_label": "레딩 vs 브렌트퍼드 04:00 분석 상세",
       "source_date": "2026-09-16"
     },
     {
@@ -1278,12 +1409,12 @@
       "league": "KHL",
       "date": "9/15 (화)",
       "time": "01:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니",
       "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1591,12 +1722,12 @@
       "league": "ARG D1",
       "date": "9/15 (화)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "반",
       "team2": "반필드",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 33.0,
         "draw": 38.0,
@@ -1618,12 +1749,12 @@
       "league": "ARG D1",
       "date": "9/15 (화)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "데포르티보 리에스트라",
       "team2": "라",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 32.0,
         "draw": 40.0,
@@ -2340,7 +2471,7 @@
       "status": "예정",
       "result": null,
       "team1": "감바 오사카",
-      "team2": "콩",
+      "team2": "콩안 하노이",
       "score1": null,
       "score2": null,
       "prob": {
@@ -2460,6 +2591,32 @@
       "source_date": "2026-09-15"
     },
     {
+      "id": "2007205593",
+      "url": "https://bbongtv4.com/premium/soccer/2007205593",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "조호르 DT",
+      "team2": "부리람",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 승 및 오버 2.5 추천",
+      "ai_picks": [
+        "조호르 DT 승",
+        "오버 2.5"
+      ],
+      "aria_label": "조호르 DT vs 부리람 21:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
       "id": "2000643339",
       "url": "https://bbongtv4.com/premium/hockey/2000643339",
       "sport": "hockey",
@@ -2481,6 +2638,58 @@
         "아반가르드 옴스크 승"
       ],
       "aria_label": "아반가르드 옴스크 vs 예카테린부르크 22:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482572",
+      "url": "https://bbongtv4.com/premium/soccer/16482572",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/15 (화)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "Arkadag FK",
+      "team2": "무하라크 클럽",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "무하라크 클럽 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "무하라크 클럽 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "Arkadag FK vs 무하라크 클럽 22:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482573",
+      "url": "https://bbongtv4.com/premium/soccer/16482573",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/15 (화)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "Gol Gohar FC",
+      "team2": "알자지라 클럽",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "알자지라 클럽 승",
+      "ai_picks": [
+        "알자지라 클럽 승"
+      ],
+      "aria_label": "Gol Gohar FC vs 알자지라 클럽 22:45 분석 상세",
       "source_date": "2026-09-15"
     },
     {

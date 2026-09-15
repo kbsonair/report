@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-16",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-14T22:44:14.735599+00:00",
-  "count": 44,
+  "scraped_at": "2026-09-15T01:16:50.663333+00:00",
+  "count": 49,
   "matches": [
     {
       "id": "2007205614",
@@ -160,6 +160,58 @@
       "source_date": "2026-09-16"
     },
     {
+      "id": "16482655",
+      "url": "https://bbongtv4.com/premium/soccer/16482655",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "피터버러",
+      "team2": "바른슬리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "draw": 28.0,
+        "away": 29.0
+      },
+      "ai_summary": "피터버러 최근 2경기 6득점, 공격력 상승세가 홈 이점과 맞물린다",
+      "ai_picks": [
+        "피터버러 승",
+        "오버 2.5"
+      ],
+      "aria_label": "피터버러 vs 바른슬리 03:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482656",
+      "url": "https://bbongtv4.com/premium/soccer/16482656",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "웨스트햄",
+      "team2": "풀럼",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 28.0,
+        "away": 34.0
+      },
+      "ai_summary": "웨스트햄 홈 5경기 평균득점 3.4, 공격력 앞서지만 결장 변수 주의",
+      "ai_picks": [
+        "웨스트햄 +0.5 승",
+        "오버 2.5"
+      ],
+      "aria_label": "웨스트햄 vs 풀럼 03:45 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
       "id": "2006994828",
       "url": "https://bbongtv4.com/premium/soccer/2006994828",
       "sport": "soccer",
@@ -287,6 +339,85 @@
         "오버 2.5"
       ],
       "aria_label": "미들즈브러 vs 밀월 03:45 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482706",
+      "url": "https://bbongtv4.com/premium/soccer/16482706",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "입스위치",
+      "team2": "아스날",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "아스날 원정 3경기 연속 무실점, 입스위치 홈 득점력과 맞붙는다",
+      "ai_picks": [
+        "아스날 승",
+        "오버 2.5"
+      ],
+      "aria_label": "입스위치 vs 아스날 04:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482707",
+      "url": "https://bbongtv4.com/premium/soccer/16482707",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "리버풀",
+      "team2": "토트넘",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 57.0,
+        "draw": 25.0,
+        "away": 18.0
+      },
+      "ai_summary": "리버풀 홈 3경기 무패·평균실점 1, 토트넘 원정 무득점 부진이 변수",
+      "ai_picks": [
+        "리버풀 승",
+        "언더 3.5"
+      ],
+      "aria_label": "리버풀 vs 토트넘 04:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16482708",
+      "url": "https://bbongtv4.com/premium/soccer/16482708",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/16 (수)",
+      "time": "04:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레딩",
+      "team2": "브렌트퍼드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "브렌트퍼드 최근 5경기 무패와 원정 평균득점 3점, 공격력 우위 뚜렷",
+      "ai_picks": [
+        "브렌트퍼드 승",
+        "오버 3.5",
+        "브렌트퍼드 -1.5 승"
+      ],
+      "aria_label": "레딩 vs 브렌트퍼드 04:00 분석 상세",
       "source_date": "2026-09-16"
     },
     {

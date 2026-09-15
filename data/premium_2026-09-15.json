@@ -1,62 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-15",
-  "scraped_at": "2026-09-14T22:44:12.401025+00:00",
-  "count": 54,
+  "scraped_at": "2026-09-15T01:16:47.597512+00:00",
+  "count": 57,
   "matches": [
-    {
-      "id": "2007220203",
-      "url": "https://bbongtv4.com/premium/soccer/2007220203",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/15 (화)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "반",
-      "team2": "반필드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 38.0,
-        "away": 29.0
-      },
-      "ai_summary": "반필드 홈 실점 2.33, 바라카스 센트럴 원정 실점 0.5로 수비력 차이 뚜렷",
-      "ai_picks": [
-        "무승부",
-        "언더 1.5",
-        "바라카스 센트럴 +0.5 승"
-      ],
-      "aria_label": "반필드 vs 바라카스 센트럴 07:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "2007220204",
-      "url": "https://bbongtv4.com/premium/soccer/2007220204",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "9/15 (화)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "데포르티보 리에스트라",
-      "team2": "라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "양 팀 최근 6경기 모두 2득점 이하, 저득점 흐름이 뚜렷하다",
-      "ai_picks": [
-        "무승부",
-        "언더 1.5"
-      ],
-      "aria_label": "데포르티보 리에스트라 vs 라누스 07:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
     {
       "id": "2000363507",
       "url": "https://bbongtv4.com/premium/baseball/2000363507",
@@ -760,7 +707,7 @@
       "status": "예정",
       "result": null,
       "team1": "감바 오사카",
-      "team2": "콩",
+      "team2": "콩안 하노이",
       "score1": null,
       "score2": null,
       "prob": {
@@ -880,6 +827,32 @@
       "source_date": "2026-09-15"
     },
     {
+      "id": "2007205593",
+      "url": "https://bbongtv4.com/premium/soccer/2007205593",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/15 (화)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "조호르 DT",
+      "team2": "부리람",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 22.0,
+        "away": 30.0
+      },
+      "ai_summary": "홈팀 승 및 오버 2.5 추천",
+      "ai_picks": [
+        "조호르 DT 승",
+        "오버 2.5"
+      ],
+      "aria_label": "조호르 DT vs 부리람 21:15 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
       "id": "2000643339",
       "url": "https://bbongtv4.com/premium/hockey/2000643339",
       "sport": "hockey",
@@ -901,6 +874,58 @@
         "아반가르드 옴스크 승"
       ],
       "aria_label": "아반가르드 옴스크 vs 예카테린부르크 22:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482572",
+      "url": "https://bbongtv4.com/premium/soccer/16482572",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/15 (화)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "Arkadag FK",
+      "team2": "무하라크 클럽",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "무하라크 클럽 승 또는 무승부 (언더 2.5 병행 추천)",
+      "ai_picks": [
+        "무하라크 클럽 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "Arkadag FK vs 무하라크 클럽 22:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482573",
+      "url": "https://bbongtv4.com/premium/soccer/16482573",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/15 (화)",
+      "time": "22:45",
+      "status": "예정",
+      "result": null,
+      "team1": "Gol Gohar FC",
+      "team2": "알자지라 클럽",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 22.0,
+        "away": 60.0
+      },
+      "ai_summary": "알자지라 클럽 승",
+      "ai_picks": [
+        "알자지라 클럽 승"
+      ],
+      "aria_label": "Gol Gohar FC vs 알자지라 클럽 22:45 분석 상세",
       "source_date": "2026-09-15"
     },
     {
@@ -1088,12 +1113,12 @@
       "league": "KHL",
       "date": "9/15 (화)",
       "time": "01:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니",
       "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1392,6 +1417,59 @@
         "에스토릴 +1.5 승"
       ],
       "aria_label": "브라가 vs 에스토릴 04:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007220203",
+      "url": "https://bbongtv4.com/premium/soccer/2007220203",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/15 (화)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "반",
+      "team2": "반필드",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 33.0,
+        "draw": 38.0,
+        "away": 29.0
+      },
+      "ai_summary": "반필드 홈 실점 2.33, 바라카스 센트럴 원정 실점 0.5로 수비력 차이 뚜렷",
+      "ai_picks": [
+        "무승부",
+        "언더 1.5",
+        "바라카스 센트럴 +0.5 승"
+      ],
+      "aria_label": "반필드 vs 바라카스 센트럴 07:00 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2007220204",
+      "url": "https://bbongtv4.com/premium/soccer/2007220204",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "9/15 (화)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "데포르티보 리에스트라",
+      "team2": "라",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 2득점 이하, 저득점 흐름이 뚜렷하다",
+      "ai_picks": [
+        "무승부",
+        "언더 1.5"
+      ],
+      "aria_label": "데포르티보 리에스트라 vs 라누스 07:00 분석 상세",
       "source_date": "2026-09-15"
     }
   ]
