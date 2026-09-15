@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-15",
-  "scraped_at": "2026-09-15T06:13:06.472656+00:00",
+  "scraped_at": "2026-09-15T11:53:16.561574+00:00",
   "count": 57,
   "matches": [
-    {
-      "id": "16482529",
-      "url": "https://bbongtv4.com/premium/soccer/16482529",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/15 (화)",
-      "time": "15:30",
-      "status": "예정",
-      "result": null,
-      "team1": "우즈베키스탄 (U23)(N)",
-      "team2": "필리핀 (U23)(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "우즈베키스탄 (U23) 승",
-      "ai_picks": [
-        "우즈베키스탄 (U23)(N) 승"
-      ],
-      "aria_label": "우즈베키스탄 (U23)(N) vs 필리핀 (U23)(N) 15:30 분석 상세",
-      "source_date": "2026-09-15"
-    },
-    {
-      "id": "16482530",
-      "url": "https://bbongtv4.com/premium/soccer/16482530",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/15 (화)",
-      "time": "15:30",
-      "status": "예정",
-      "result": null,
-      "team1": "베트남 (U23)",
-      "team2": "쿠웨이트 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "베트남 (U23) 승",
-      "ai_picks": [
-        "베트남 (U23) 승"
-      ],
-      "aria_label": "베트남 (U23) vs 쿠웨이트 (U23) 15:30 분석 상세",
-      "source_date": "2026-09-15"
-    },
     {
       "id": "2000354997",
       "url": "https://bbongtv4.com/premium/baseball/2000354997",
@@ -1470,6 +1420,56 @@
         "마이애미 말린스 +1.5 승"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs 마이애미 말린스 10:40 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482529",
+      "url": "https://bbongtv4.com/premium/soccer/16482529",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/15 (화)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "우즈베키스탄 (U23)(N)",
+      "team2": "필리핀 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "우즈베키스탄 (U23) 승",
+      "ai_picks": [
+        "우즈베키스탄 (U23)(N) 승"
+      ],
+      "aria_label": "우즈베키스탄 (U23)(N) vs 필리핀 (U23)(N) 15:30 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "16482530",
+      "url": "https://bbongtv4.com/premium/soccer/16482530",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/15 (화)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남 (U23)",
+      "team2": "쿠웨이트 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "베트남 (U23) 승",
+      "ai_picks": [
+        "베트남 (U23) 승"
+      ],
+      "aria_label": "베트남 (U23) vs 쿠웨이트 (U23) 15:30 분석 상세",
       "source_date": "2026-09-15"
     }
   ]
