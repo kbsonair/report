@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T01:16:50.730967+00:00",
+  "scraped_at": "2026-09-15T06:13:09.333211+00:00",
   "kst_yesterday": "2026-09-14",
   "kst_today": "2026-09-15",
   "kst_tomorrow": "2026-09-16",
@@ -625,7 +625,9 @@
       },
       "ai_summary": "토론토 블루제이스, 홈에서 평균득점 4.67로 공격 흐름 우위",
       "ai_picks": [
-        "토론토 블루제이스 승"
+        "토론토 블루제이스 승",
+        "오버 8.5",
+        "디트로이트 타이거스 +1.5 승"
       ],
       "aria_label": "토론토 블루제이스 vs 디트로이트 타이거스 08:07 분석 상세",
       "source_date": "2026-09-16"
@@ -752,7 +754,9 @@
       },
       "ai_summary": "팀 방어율 3.59 대 4.32, 보스턴 마운드 안정감이 앞선다",
       "ai_picks": [
-        "보스턴 레드삭스 승"
+        "보스턴 레드삭스 승",
+        "오버 7.5",
+        "텍사스 레인저스 +1.5 승"
       ],
       "aria_label": "텍사스 레인저스 vs 보스턴 레드삭스 09:05 분석 상세",
       "source_date": "2026-09-16"
@@ -801,7 +805,9 @@
       },
       "ai_summary": "샌디에이고 파드레스, 최근 6연승과 투수력 우위로 원정 강세 기대",
       "ai_picks": [
-        "샌디에이고 파드레스 승"
+        "샌디에이고 파드레스 승",
+        "언더 11.5",
+        "샌디에이고 파드레스 -1.5 승"
       ],
       "aria_label": "콜로라도 로키스 vs 샌디에이고 파드레스 09:40 분석 상세",
       "source_date": "2026-09-16"
@@ -1775,12 +1781,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "신시내티 레즈",
       "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 25.0,
         "away": 75.0
@@ -1801,12 +1807,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "클리블랜드 가디언스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 7,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -1826,12 +1832,12 @@
       "league": "BRA D1",
       "date": "9/15 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "바이아",
       "team2": "레모",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -1852,12 +1858,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "08:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토론토 블루제이스",
       "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 6,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -1877,12 +1883,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "08:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 메츠",
       "team2": "볼티모어 오리올스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1903,12 +1909,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 컵스",
       "team2": "애틀란타 브레이브스",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 3,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1929,12 +1935,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미네소타 트윈스",
       "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 8,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -1955,12 +1961,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "08:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세인트루이스 카디널스",
       "team2": "SF 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1981,12 +1987,12 @@
       "league": "ARG D1",
       "date": "9/15 (화)",
       "time": "09:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "인스티투토",
       "team2": "에스투디안테스 리오 쿠아르토",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 70.0,
         "draw": 20.0,
@@ -2007,12 +2013,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "09:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도 로키스",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 8,
       "prob": {
         "home": 36.0,
         "away": 64.0
@@ -2033,12 +2039,12 @@
       "league": "MEX D1",
       "date": "9/15 (화)",
       "time": "10:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "레온",
       "team2": "산 루이스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 54.0,
         "draw": 25.0,
@@ -2059,12 +2065,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 에인절스",
       "team2": "시애틀 매리너스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 4,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -2085,12 +2091,12 @@
       "league": "MLB",
       "date": "9/15 (화)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애리조나 다이아몬드백스",
       "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 7,
       "prob": {
         "home": 54.0,
         "away": 46.0
