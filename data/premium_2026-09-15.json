@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-15",
   "source_date": "2026-09-15",
-  "scraped_at": "2026-09-15T16:37:16.719749+00:00",
+  "scraped_at": "2026-09-15T19:50:21.728724+00:00",
   "count": 57,
   "matches": [
-    {
-      "id": "2000643341",
-      "url": "https://bbongtv4.com/premium/hockey/2000643341",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/15 (화)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트랙터 첼야빈스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "로코모티프 야로슬라블, 최근 5-1 대승 포함 상승세 뚜렷",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "트랙터 첼야빈스크 vs 로코모티프 야로슬라블 23:00 분석 상세",
-      "source_date": "2026-09-15"
-    },
     {
       "id": "2000643337",
       "url": "https://bbongtv4.com/premium/hockey/2000643337",
@@ -1470,6 +1446,30 @@
         "알자지라 클럽 승"
       ],
       "aria_label": "Gol Gohar FC vs 알자지라 클럽 22:45 분석 상세",
+      "source_date": "2026-09-15"
+    },
+    {
+      "id": "2000643341",
+      "url": "https://bbongtv4.com/premium/hockey/2000643341",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/15 (화)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "트",
+      "team2": "트랙터 첼야빈스크",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "로코모티프 야로슬라블, 최근 5-1 대승 포함 상승세 뚜렷",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "트랙터 첼야빈스크 vs 로코모티프 야로슬라블 23:00 분석 상세",
       "source_date": "2026-09-15"
     }
   ]

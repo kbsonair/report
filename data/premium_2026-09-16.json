@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-15T16:37:15.575814+00:00",
+  "scraped_at": "2026-09-15T19:50:20.594161+00:00",
   "count": 49,
   "matches": [
-    {
-      "id": "2007205614",
-      "url": "https://bbongtv4.com/premium/soccer/2007205614",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/16 (수)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "알 아인",
-      "team2": "알 나스르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "알 나스르 최근 6경기 4승, 원정 득점력도 2.25로 우위 뚜렷",
-      "ai_picks": [
-        "알 나스르 승",
-        "언더 3.5",
-        "알 아인 +1.5 승"
-      ],
-      "aria_label": "알 아인 vs 알 나스르 01:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000643347",
-      "url": "https://bbongtv4.com/premium/hockey/2000643347",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/16 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "SKA 상트페테르부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "SKA 상트페테르부르크, 홈 3경기 전승과 평균득점 3.67로 강세 유지",
-      "ai_picks": [
-        "SKA 상트페테르부르크 승"
-      ],
-      "aria_label": "SKA 상트페테르부르크 vs 상하이 01:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2007215606",
-      "url": "https://bbongtv4.com/premium/soccer/2007215606",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/16 (수)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라요바예카노",
-      "team2": "에스파뇰",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 35.0,
-        "away": 27.0
-      },
-      "ai_summary": "라요바예카노, 홈에서 평균 2득점 기록에도 결장 변수로 불안감 상존",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "라요바예카노 vs 에스파뇰 02:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
     {
       "id": "2007217578",
       "url": "https://bbongtv4.com/premium/soccer/2007217578",
@@ -1258,6 +1181,83 @@
         "살라바트 우파 승"
       ],
       "aria_label": "살라바트 우파 vs 바르스 카잔 23:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2007205614",
+      "url": "https://bbongtv4.com/premium/soccer/2007205614",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/16 (수)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알 아인",
+      "team2": "알 나스르",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "알 나스르 최근 6경기 4승, 원정 득점력도 2.25로 우위 뚜렷",
+      "ai_picks": [
+        "알 나스르 승",
+        "언더 3.5",
+        "알 아인 +1.5 승"
+      ],
+      "aria_label": "알 아인 vs 알 나스르 01:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000643347",
+      "url": "https://bbongtv4.com/premium/hockey/2000643347",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/16 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "상",
+      "team2": "SKA 상트페테르부르크",
+      "score1": 7,
+      "score2": 2,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "SKA 상트페테르부르크, 홈 3경기 전승과 평균득점 3.67로 강세 유지",
+      "ai_picks": [
+        "SKA 상트페테르부르크 승"
+      ],
+      "aria_label": "SKA 상트페테르부르크 vs 상하이 01:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2007215606",
+      "url": "https://bbongtv4.com/premium/soccer/2007215606",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/16 (수)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "라요바예카노",
+      "team2": "에스파뇰",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "draw": 35.0,
+        "away": 27.0
+      },
+      "ai_summary": "라요바예카노, 홈에서 평균 2득점 기록에도 결장 변수로 불안감 상존",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "라요바예카노 vs 에스파뇰 02:00 분석 상세",
       "source_date": "2026-09-16"
     }
   ]
