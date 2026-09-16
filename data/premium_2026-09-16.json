@@ -1,287 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-16",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-16T11:48:04.156407+00:00",
+  "scraped_at": "2026-09-16T16:30:14.477643+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "2000358224",
-      "url": "https://bbongtv4.com/premium/baseball/2000358224",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/16 (수)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바 롯데 마리너스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "치바 롯데 마리너스, 최근 3연승 포함 맞대결 우위가 뚜렷하다",
-      "ai_picks": [
-        "치바 롯데 마리너스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "치바 롯데 마리너스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000358225",
-      "url": "https://bbongtv4.com/premium/baseball/2000358225",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/16 (수)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오릭스 버팔로스",
-      "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "최근 6연승과 시즌 662득점, 소프트뱅크 체급 우위가 뚜렷",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 7.5",
-        "후쿠오카 소프트뱅크 호크스 -1.5 승"
-      ],
-      "aria_label": "오릭스 버팔로스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000364390",
-      "url": "https://bbongtv4.com/premium/baseball/2000364390",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/16 (수)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "두산 베어스",
-      "team2": "삼성 라이온즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "원정 평균득점 7.83, 삼성 원정 화력이 두산 홈 마운드 압박",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "오버 9",
-        "두산 베어스 +1.5 승"
-      ],
-      "aria_label": "두산 베어스 vs 삼성 라이온즈 18:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000364391",
-      "url": "https://bbongtv4.com/premium/baseball/2000364391",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/16 (수)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "한화 이글스",
-      "team2": "KT 위즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "KT 위즈 최근 6연승, 시즌 득실차 +1.81로 압도적 우위",
-      "ai_picks": [
-        "KT 위즈 승",
-        "오버 9.5",
-        "KT 위즈 +1.5 승"
-      ],
-      "aria_label": "한화 이글스 vs KT 위즈 18:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000364392",
-      "url": "https://bbongtv4.com/premium/baseball/2000364392",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/16 (수)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "롯데 자이언츠",
-      "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "롯데 자이언츠 홈 7연패, SSG 랜더스 원정 실점 억제력 주목",
-      "ai_picks": [
-        "SSG 랜더스 승",
-        "오버 9"
-      ],
-      "aria_label": "롯데 자이언츠 vs SSG 랜더스 18:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000364393",
-      "url": "https://bbongtv4.com/premium/baseball/2000364393",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/16 (수)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "NC 다이노스",
-      "team2": "LG 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "NC 다이노스 최근 4경기 3승, LG 트윈스는 원정 강세가 변수",
-      "ai_picks": [
-        "NC 다이노스 승",
-        "NC 다이노스 +1.5 승"
-      ],
-      "aria_label": "NC 다이노스 vs LG 트윈스 18:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "16483316",
-      "url": "https://bbongtv4.com/premium/soccer/16483316",
-      "sport": "soccer",
-      "league": "ACL2",
-      "date": "9/16 (수)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "FC서울",
-      "team2": "페르시브 반둥",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "draw": 25.0,
-        "away": 23.0
-      },
-      "ai_summary": "FC서울 홈 7경기 평균실점 0.86, 탄탄한 수비가 승부의 핵심",
-      "ai_picks": [
-        "FC서울 승",
-        "언더 2.5"
-      ],
-      "aria_label": "FC서울 vs 페르시브 반둥 19:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2007205594",
-      "url": "https://bbongtv4.com/premium/soccer/2007205594",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/16 (수)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "전북현대",
-      "team2": "카시와 레이솔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 30.0,
-        "away": 38.0
-      },
-      "ai_summary": "카시와 레이솔, 최근 6경기 4승으로 상승세 뚜렷…전북현대는 득점력 저조",
-      "ai_picks": [
-        "카시와 레이솔 승",
-        "언더 2.5"
-      ],
-      "aria_label": "전북현대 vs 카시와 레이솔 19:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "16483351",
-      "url": "https://bbongtv4.com/premium/soccer/16483351",
-      "sport": "soccer",
-      "league": "ACL2",
-      "date": "9/16 (수)",
-      "time": "21:15",
-      "status": "예정",
-      "result": null,
-      "team1": "비엣텔",
-      "team2": "멜버른 빅토리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "멜버른 빅토리 FC 승 또는 무승부 (언더 2.5 유력)",
-      "ai_picks": [],
-      "aria_label": "비엣텔 vs 멜버른 빅토리 21:15 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2007205595",
-      "url": "https://bbongtv4.com/premium/soccer/2007205595",
-      "sport": "soccer",
-      "league": "ACL Elite",
-      "date": "9/16 (수)",
-      "time": "21:15",
-      "status": "예정",
-      "result": null,
-      "team1": "포트 MTI FC",
-      "team2": "비셀 고베",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 20.0,
-        "away": 62.0
-      },
-      "ai_summary": "비셀 고베 최근 4연승, 원정 실점 0.33으로 수비 안정감 부각",
-      "ai_picks": [
-        "비셀 고베 승",
-        "언더 2.5"
-      ],
-      "aria_label": "포트 MTI FC vs 비셀 고베 21:15 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000643344",
-      "url": "https://bbongtv4.com/premium/hockey/2000643344",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/16 (수)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "노",
-      "team2": "노보시비르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "니즈네카민스크 3연승 상승세, 노보시비르스크는 득실차 -2로 불안",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "노보시비르스크 vs 니즈네카민스크 21:30 분석 상세",
-      "source_date": "2026-09-16"
-    },
     {
       "id": "2000643343",
       "url": "https://bbongtv4.com/premium/hockey/2000643343",
@@ -1308,6 +1030,284 @@
         "키르기스스탄 (U23) 승"
       ],
       "aria_label": "태국 (U23) vs 키르기스스탄 (U23) 16:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000358224",
+      "url": "https://bbongtv4.com/premium/baseball/2000358224",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/16 (수)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "치바 롯데 마리너스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "치바 롯데 마리너스, 최근 3연승 포함 맞대결 우위가 뚜렷하다",
+      "ai_picks": [
+        "치바 롯데 마리너스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "치바 롯데 마리너스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000358225",
+      "url": "https://bbongtv4.com/premium/baseball/2000358225",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/16 (수)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오릭스 버팔로스",
+      "team2": "후쿠오카 소프트뱅크 호크스",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "최근 6연승과 시즌 662득점, 소프트뱅크 체급 우위가 뚜렷",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 7.5",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
+      ],
+      "aria_label": "오릭스 버팔로스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000364390",
+      "url": "https://bbongtv4.com/premium/baseball/2000364390",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/16 (수)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "두산 베어스",
+      "team2": "삼성 라이온즈",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "원정 평균득점 7.83, 삼성 원정 화력이 두산 홈 마운드 압박",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "오버 9",
+        "두산 베어스 +1.5 승"
+      ],
+      "aria_label": "두산 베어스 vs 삼성 라이온즈 18:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000364391",
+      "url": "https://bbongtv4.com/premium/baseball/2000364391",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/16 (수)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한화 이글스",
+      "team2": "KT 위즈",
+      "score1": 4,
+      "score2": 4,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "KT 위즈 최근 6연승, 시즌 득실차 +1.81로 압도적 우위",
+      "ai_picks": [
+        "KT 위즈 승",
+        "오버 9.5",
+        "KT 위즈 +1.5 승"
+      ],
+      "aria_label": "한화 이글스 vs KT 위즈 18:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000364392",
+      "url": "https://bbongtv4.com/premium/baseball/2000364392",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/16 (수)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "롯데 자이언츠",
+      "team2": "SSG 랜더스",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "롯데 자이언츠 홈 7연패, SSG 랜더스 원정 실점 억제력 주목",
+      "ai_picks": [
+        "SSG 랜더스 승",
+        "오버 9"
+      ],
+      "aria_label": "롯데 자이언츠 vs SSG 랜더스 18:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000364393",
+      "url": "https://bbongtv4.com/premium/baseball/2000364393",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/16 (수)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "NC 다이노스",
+      "team2": "LG 트윈스",
+      "score1": 2,
+      "score2": 9,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "NC 다이노스 최근 4경기 3승, LG 트윈스는 원정 강세가 변수",
+      "ai_picks": [
+        "NC 다이노스 승",
+        "NC 다이노스 +1.5 승"
+      ],
+      "aria_label": "NC 다이노스 vs LG 트윈스 18:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483316",
+      "url": "https://bbongtv4.com/premium/soccer/16483316",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/16 (수)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "FC서울",
+      "team2": "페르시브 반둥",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "draw": 25.0,
+        "away": 23.0
+      },
+      "ai_summary": "FC서울 홈 7경기 평균실점 0.86, 탄탄한 수비가 승부의 핵심",
+      "ai_picks": [
+        "FC서울 승",
+        "언더 2.5"
+      ],
+      "aria_label": "FC서울 vs 페르시브 반둥 19:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2007205594",
+      "url": "https://bbongtv4.com/premium/soccer/2007205594",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/16 (수)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "전북현대",
+      "team2": "카시와 레이솔",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 30.0,
+        "away": 38.0
+      },
+      "ai_summary": "카시와 레이솔, 최근 6경기 4승으로 상승세 뚜렷…전북현대는 득점력 저조",
+      "ai_picks": [
+        "카시와 레이솔 승",
+        "언더 2.5"
+      ],
+      "aria_label": "전북현대 vs 카시와 레이솔 19:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483351",
+      "url": "https://bbongtv4.com/premium/soccer/16483351",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/16 (수)",
+      "time": "21:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "비엣텔",
+      "team2": "멜버른 빅토리",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "멜버른 빅토리 FC 승 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [],
+      "aria_label": "비엣텔 vs 멜버른 빅토리 21:15 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2007205595",
+      "url": "https://bbongtv4.com/premium/soccer/2007205595",
+      "sport": "soccer",
+      "league": "ACL Elite",
+      "date": "9/16 (수)",
+      "time": "21:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "포트 MTI FC",
+      "team2": "비셀 고베",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "비셀 고베 최근 4연승, 원정 실점 0.33으로 수비 안정감 부각",
+      "ai_picks": [
+        "비셀 고베 승",
+        "언더 2.5"
+      ],
+      "aria_label": "포트 MTI FC vs 비셀 고베 21:15 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000643344",
+      "url": "https://bbongtv4.com/premium/hockey/2000643344",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/16 (수)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "노",
+      "team2": "노보시비르스크",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "니즈네카민스크 3연승 상승세, 노보시비르스크는 득실차 -2로 불안",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "노보시비르스크 vs 니즈네카민스크 21:30 분석 상세",
       "source_date": "2026-09-16"
     }
   ]
