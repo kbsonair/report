@@ -1,36 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-15T22:46:04.391211+00:00",
-  "count": 49,
+  "scraped_at": "2026-09-16T01:10:39.534199+00:00",
+  "count": 51,
   "matches": [
-    {
-      "id": "2007206021",
-      "url": "https://bbongtv4.com/premium/soccer/2007206021",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "9/16 (수)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "플라텐세",
-      "team2": "플루미넨세",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "플루미넨세, 최근 맞대결 2-0 승리와 원정 무패 흐름이 변수",
-      "ai_picks": [
-        "플루미넨세 승",
-        "언더 1.5",
-        "플루미넨세 +0.5 승"
-      ],
-      "aria_label": "플라텐세 vs 플루미넨세 07:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
     {
       "id": "2000363517",
       "url": "https://bbongtv4.com/premium/baseball/2000363517",
@@ -692,6 +665,29 @@
       "source_date": "2026-09-16"
     },
     {
+      "id": "16483316",
+      "url": "https://bbongtv4.com/premium/soccer/16483316",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/16 (수)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "FC서울",
+      "team2": "페르시브 반둥",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "FC 서울 승 + 언더 2.5",
+      "ai_picks": [],
+      "aria_label": "FC서울 vs 페르시브 반둥 19:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
       "id": "2007205594",
       "url": "https://bbongtv4.com/premium/soccer/2007205594",
       "sport": "soccer",
@@ -715,6 +711,29 @@
         "언더 2.5"
       ],
       "aria_label": "전북현대 vs 카시와 레이솔 19:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483351",
+      "url": "https://bbongtv4.com/premium/soccer/16483351",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/16 (수)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "비엣텔",
+      "team2": "멜버른 빅토리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "멜버른 빅토리 FC 승 또는 무승부 (언더 2.5 유력)",
+      "ai_picks": [],
+      "aria_label": "비엣텔 vs 멜버른 빅토리 21:15 분석 상세",
       "source_date": "2026-09-16"
     },
     {
@@ -1258,6 +1277,33 @@
         "레알마드리드 -1.5 승"
       ],
       "aria_label": "엘체 vs 레알마드리드 04:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2007206021",
+      "url": "https://bbongtv4.com/premium/soccer/2007206021",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "9/16 (수)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "플라텐세",
+      "team2": "플루미넨세",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "플루미넨세, 최근 맞대결 2-0 승리와 원정 무패 흐름이 변수",
+      "ai_picks": [
+        "플루미넨세 승",
+        "언더 1.5",
+        "플루미넨세 +0.5 승"
+      ],
+      "aria_label": "플라텐세 vs 플루미넨세 07:00 분석 상세",
       "source_date": "2026-09-16"
     }
   ]
