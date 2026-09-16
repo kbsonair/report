@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-16",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-16T16:30:14.477643+00:00",
+  "scraped_at": "2026-09-16T19:41:14.159674+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "2000643343",
-      "url": "https://bbongtv4.com/premium/hockey/2000643343",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/16 (수)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "마",
-      "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "마그니토고르스크 홈 2경기 전승, 평균득점 3점으로 강세 유지",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "마그니토고르스크 vs 스파르타크 모스크바 23:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "2000643345",
-      "url": "https://bbongtv4.com/premium/hockey/2000643345",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/16 (수)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "살",
-      "team2": "살라바트 우파",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "살라바트 우파 원정 득점력, 바르스 카잔의 안정된 수비와 대조",
-      "ai_picks": [
-        "살라바트 우파 승"
-      ],
-      "aria_label": "살라바트 우파 vs 바르스 카잔 23:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
     {
       "id": "2007205614",
       "url": "https://bbongtv4.com/premium/soccer/2007205614",
@@ -1308,6 +1260,54 @@
         "니즈네카민스크 승"
       ],
       "aria_label": "노보시비르스크 vs 니즈네카민스크 21:30 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000643343",
+      "url": "https://bbongtv4.com/premium/hockey/2000643343",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/16 (수)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "마",
+      "team2": "마그니토고르스크",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "마그니토고르스크 홈 2경기 전승, 평균득점 3점으로 강세 유지",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "마그니토고르스크 vs 스파르타크 모스크바 23:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "2000643345",
+      "url": "https://bbongtv4.com/premium/hockey/2000643345",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/16 (수)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "살",
+      "team2": "살라바트 우파",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "살라바트 우파 원정 득점력, 바르스 카잔의 안정된 수비와 대조",
+      "ai_picks": [
+        "살라바트 우파 승"
+      ],
+      "aria_label": "살라바트 우파 vs 바르스 카잔 23:00 분석 상세",
       "source_date": "2026-09-16"
     }
   ]
