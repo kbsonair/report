@@ -1,109 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-16",
-  "scraped_at": "2026-09-16T06:09:24.348115+00:00",
+  "scraped_at": "2026-09-16T11:48:04.156407+00:00",
   "count": 51,
   "matches": [
-    {
-      "id": "16483306",
-      "url": "https://bbongtv4.com/premium/soccer/16483306",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/16 (수)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "중국 (U23)",
-      "team2": "북한 (U23)(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 28.0,
-        "away": 27.0
-      },
-      "ai_summary": "중국 (U23) 승",
-      "ai_picks": [
-        "중국 (U23) 승"
-      ],
-      "aria_label": "중국 (U23) vs 북한 (U23)(N) 14:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "16483307",
-      "url": "https://bbongtv4.com/premium/soccer/16483307",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/16 (수)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아랍에미리트 (U23)",
-      "team2": "이란 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "아랍에미리트 (U23) 승",
-      "ai_picks": [
-        "아랍에미리트 (U23) 승"
-      ],
-      "aria_label": "아랍에미리트 (U23) vs 이란 (U23) 14:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "16483308",
-      "url": "https://bbongtv4.com/premium/soccer/16483308",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/16 (수)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "일본 (U23)",
-      "team2": "중국 홍콩 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 92.0,
-        "draw": 5.0,
-        "away": 3.0
-      },
-      "ai_summary": "일본 (U23) 대승 (2골 차 이상)",
-      "ai_picks": [
-        "일본 (U23) 승"
-      ],
-      "aria_label": "일본 (U23) vs 중국 홍콩 (U23) 16:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
-    {
-      "id": "16483309",
-      "url": "https://bbongtv4.com/premium/soccer/16483309",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/16 (수)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "태국 (U23)",
-      "team2": "키르기스스탄 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "키르기스스탄 (U23) 승",
-      "ai_picks": [
-        "키르기스스탄 (U23) 승"
-      ],
-      "aria_label": "태국 (U23) vs 키르기스스탄 (U23) 16:00 분석 상세",
-      "source_date": "2026-09-16"
-    },
     {
       "id": "2000358224",
       "url": "https://bbongtv4.com/premium/baseball/2000358224",
@@ -1308,6 +1208,106 @@
         "애리조나 다이아몬드백스 승"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs 마이애미 말린스 10:40 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483306",
+      "url": "https://bbongtv4.com/premium/soccer/16483306",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/16 (수)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "중국 (U23)",
+      "team2": "북한 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 28.0,
+        "away": 27.0
+      },
+      "ai_summary": "중국 (U23) 승",
+      "ai_picks": [
+        "중국 (U23) 승"
+      ],
+      "aria_label": "중국 (U23) vs 북한 (U23)(N) 14:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483307",
+      "url": "https://bbongtv4.com/premium/soccer/16483307",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/16 (수)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "아랍에미리트 (U23)",
+      "team2": "이란 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "아랍에미리트 (U23) 승",
+      "ai_picks": [
+        "아랍에미리트 (U23) 승"
+      ],
+      "aria_label": "아랍에미리트 (U23) vs 이란 (U23) 14:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483308",
+      "url": "https://bbongtv4.com/premium/soccer/16483308",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/16 (수)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "일본 (U23)",
+      "team2": "중국 홍콩 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 92.0,
+        "draw": 5.0,
+        "away": 3.0
+      },
+      "ai_summary": "일본 (U23) 대승 (2골 차 이상)",
+      "ai_picks": [
+        "일본 (U23) 승"
+      ],
+      "aria_label": "일본 (U23) vs 중국 홍콩 (U23) 16:00 분석 상세",
+      "source_date": "2026-09-16"
+    },
+    {
+      "id": "16483309",
+      "url": "https://bbongtv4.com/premium/soccer/16483309",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/16 (수)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "태국 (U23)",
+      "team2": "키르기스스탄 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "키르기스스탄 (U23) 승",
+      "ai_picks": [
+        "키르기스스탄 (U23) 승"
+      ],
+      "aria_label": "태국 (U23) vs 키르기스스탄 (U23) 16:00 분석 상세",
       "source_date": "2026-09-16"
     }
   ]
