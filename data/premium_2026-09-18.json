@@ -1,295 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-18",
-  "scraped_at": "2026-09-17T19:51:06.754030+00:00",
+  "scraped_at": "2026-09-17T22:44:14.528294+00:00",
   "count": 41,
   "matches": [
-    {
-      "id": "2000364256",
-      "url": "https://bbongtv4.com/premium/baseball/2000364256",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/18 (금)",
-      "time": "01:35",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그 파이어리츠",
-      "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "away": 64.0
-      },
-      "ai_summary": "밀워키 브루어스, 시즌 득실차 +1.6으로 체급 우위 뚜렷",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "언더 9.5"
-      ],
-      "aria_label": "피츠버그 파이어리츠 vs 밀워키 브루어스 01:35 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2000364257",
-      "url": "https://bbongtv4.com/premium/baseball/2000364257",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/18 (금)",
-      "time": "01:40",
-      "status": "예정",
-      "result": null,
-      "team1": "신시내티 레즈",
-      "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "away": 73.0
-      },
-      "ai_summary": "브라디 신거 방어율 5.38, LA 다저스 타선이 마운드 약점 공략 전망",
-      "ai_picks": [
-        "LA 다저스 승",
-        "언더 9.5"
-      ],
-      "aria_label": "신시내티 레즈 vs LA 다저스 01:40 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2000364258",
-      "url": "https://bbongtv4.com/premium/baseball/2000364258",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/18 (금)",
-      "time": "02:10",
-      "status": "예정",
-      "result": null,
-      "team1": "탬파베이 레이스",
-      "team2": "오클랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "드류 라스무센 방어율 2.81, 선발·불펜 모두 탬파베이 우위",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "오버 7.5",
-        "탬파베이 레이스 -1.5 승"
-      ],
-      "aria_label": "탬파베이 레이스 vs 오클랜드 02:10 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "16484436",
-      "url": "https://bbongtv4.com/premium/soccer/16484436",
-      "sport": "soccer",
-      "league": "ENG LC",
-      "date": "9/18 (금)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "맨시티",
-      "team2": "노리치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 15.0,
-        "away": 15.0
-      },
-      "ai_summary": "맨시티 최근 5연승, 홈 평균실점 0.5로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "맨시티 승",
-        "오버 3.5",
-        "맨시티 -2.5 승"
-      ],
-      "aria_label": "맨시티 vs 노리치 03:30 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007210921",
-      "url": "https://bbongtv4.com/premium/soccer/2007210921",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "유벤투스",
-      "team2": "니이메헌",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 15.0,
-        "away": 10.0
-      },
-      "ai_summary": "유벤투스 홈 평균실점 0.5, 니이메헌 최근 3실점 빈발로 수비력 차이 뚜렷",
-      "ai_picks": [
-        "유벤투스 승",
-        "언더 3.5",
-        "유벤투스 -1.5 승"
-      ],
-      "aria_label": "유벤투스 vs 니이메헌 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211612",
-      "url": "https://bbongtv4.com/premium/soccer/2007211612",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "셀틱",
-      "team2": "페렌츠바로시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 25.0,
-        "away": 19.0
-      },
-      "ai_summary": "셀틱 홈 4경기 4승·평균실점 0.25, 강한 홈 수비가 변수",
-      "ai_picks": [
-        "셀틱 승",
-        "언더 3.5"
-      ],
-      "aria_label": "셀틱 vs 페렌츠바로시 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211615",
-      "url": "https://bbongtv4.com/premium/soccer/2007211615",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "플젠",
-      "team2": "로얄 유니온 SG",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "로얄 유니온 SG 원정 3승1무, 공격력과 득점 분포가 변수",
-      "ai_picks": [
-        "로얄 유니온 SG 승",
-        "오버 2.5"
-      ],
-      "aria_label": "플젠 vs 로얄 유니온 SG 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211777",
-      "url": "https://bbongtv4.com/premium/soccer/2007211777",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베식타시",
-      "team2": "마르세유",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "베식타시 홈 6연승, 결장 변수에도 마르세유 원정 부진이 변수",
-      "ai_picks": [
-        "베식타시 승",
-        "언더 3"
-      ],
-      "aria_label": "베식타시 vs 마르세유 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211792",
-      "url": "https://bbongtv4.com/premium/soccer/2007211792",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "크리스탈팰리스",
-      "team2": "레흐 포즈난",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 26.0,
-        "away": 20.0
-      },
-      "ai_summary": "레흐 포즈난 원정 3.67득점·실점 1, 크리스탈팰리스 홈 실점 2.33으로 다득점 흐름",
-      "ai_picks": [
-        "오버 2.5",
-        "레흐 포즈난 +1.5 승"
-      ],
-      "aria_label": "크리스탈팰리스 vs 레흐 포즈난 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211797",
-      "url": "https://bbongtv4.com/premium/soccer/2007211797",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "릴레스트롬",
-      "team2": "토레엔세",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 24.0,
-        "away": 18.0
-      },
-      "ai_summary": "릴레스트롬 홈 7경기 평균실점 1.71, 수비 불안이 변수로 작용",
-      "ai_picks": [
-        "릴레스트롬 승",
-        "언더 2.5"
-      ],
-      "aria_label": "릴레스트롬 vs 토레엔세 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007211805",
-      "url": "https://bbongtv4.com/premium/soccer/2007211805",
-      "sport": "soccer",
-      "league": "UEFA EL",
-      "date": "9/18 (금)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "소시에다드",
-      "team2": "본머스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 28.0,
-        "away": 40.0
-      },
-      "ai_summary": "본머스 최근 원정 2경기 3실점, 소시에다드 홈 득점력 저조가 변수",
-      "ai_picks": [
-        "본머스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "소시에다드 vs 본머스 04:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
     {
       "id": "2000364259",
       "url": "https://bbongtv4.com/premium/baseball/2000364259",
@@ -313,32 +27,6 @@
         "오버 10.5"
       ],
       "aria_label": "콜로라도 로키스 vs 샌디에이고 파드레스 04:10 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2007221307",
-      "url": "https://bbongtv4.com/premium/soccer/2007221307",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/18 (금)",
-      "time": "04:30",
-      "status": "예정",
-      "result": null,
-      "team1": "말라가",
-      "team2": "비야레알",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 23.0,
-        "away": 55.0
-      },
-      "ai_summary": "비야레알, 최근 3경기 기대득점 1.48로 공격 효율 앞서",
-      "ai_picks": [
-        "비야레알 승",
-        "오버 2.5"
-      ],
-      "aria_label": "말라가 vs 비야레알 04:30 분석 상세",
       "source_date": "2026-09-18"
     },
     {
@@ -973,6 +661,56 @@
       "source_date": "2026-09-18"
     },
     {
+      "id": "2000364256",
+      "url": "https://bbongtv4.com/premium/baseball/2000364256",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/18 (금)",
+      "time": "01:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피츠버그 파이어리츠",
+      "team2": "밀워키 브루어스",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 36.0,
+        "away": 64.0
+      },
+      "ai_summary": "밀워키 브루어스, 시즌 득실차 +1.6으로 체급 우위 뚜렷",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "언더 9.5"
+      ],
+      "aria_label": "피츠버그 파이어리츠 vs 밀워키 브루어스 01:35 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000364257",
+      "url": "https://bbongtv4.com/premium/baseball/2000364257",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/18 (금)",
+      "time": "01:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "신시내티 레즈",
+      "team2": "LA 다저스",
+      "score1": 6,
+      "score2": 2,
+      "prob": {
+        "home": 27.0,
+        "away": 73.0
+      },
+      "ai_summary": "브라디 신거 방어율 5.38, LA 다저스 타선이 마운드 약점 공략 전망",
+      "ai_picks": [
+        "LA 다저스 승",
+        "언더 9.5"
+      ],
+      "aria_label": "신시내티 레즈 vs LA 다저스 01:40 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
       "id": "2007211798",
       "url": "https://bbongtv4.com/premium/soccer/2007211798",
       "sport": "soccer",
@@ -1050,6 +788,268 @@
         "언더 2.5"
       ],
       "aria_label": "베티스 vs 헤타페 02:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000364258",
+      "url": "https://bbongtv4.com/premium/baseball/2000364258",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/18 (금)",
+      "time": "02:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "탬파베이 레이스",
+      "team2": "오클랜드",
+      "score1": 10,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "드류 라스무센 방어율 2.81, 선발·불펜 모두 탬파베이 우위",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "오버 7.5",
+        "탬파베이 레이스 -1.5 승"
+      ],
+      "aria_label": "탬파베이 레이스 vs 오클랜드 02:10 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "16484436",
+      "url": "https://bbongtv4.com/premium/soccer/16484436",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/18 (금)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "맨시티",
+      "team2": "노리치",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 70.0,
+        "draw": 15.0,
+        "away": 15.0
+      },
+      "ai_summary": "맨시티 최근 5연승, 홈 평균실점 0.5로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "맨시티 승",
+        "오버 3.5",
+        "맨시티 -2.5 승"
+      ],
+      "aria_label": "맨시티 vs 노리치 03:30 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007210921",
+      "url": "https://bbongtv4.com/premium/soccer/2007210921",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "유벤투스",
+      "team2": "니이메헌",
+      "score1": 5,
+      "score2": 0,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "유벤투스 홈 평균실점 0.5, 니이메헌 최근 3실점 빈발로 수비력 차이 뚜렷",
+      "ai_picks": [
+        "유벤투스 승",
+        "언더 3.5",
+        "유벤투스 -1.5 승"
+      ],
+      "aria_label": "유벤투스 vs 니이메헌 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211612",
+      "url": "https://bbongtv4.com/premium/soccer/2007211612",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "셀틱",
+      "team2": "페렌츠바로시",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 56.0,
+        "draw": 25.0,
+        "away": 19.0
+      },
+      "ai_summary": "셀틱 홈 4경기 4승·평균실점 0.25, 강한 홈 수비가 변수",
+      "ai_picks": [
+        "셀틱 승",
+        "언더 3.5"
+      ],
+      "aria_label": "셀틱 vs 페렌츠바로시 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211615",
+      "url": "https://bbongtv4.com/premium/soccer/2007211615",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "플젠",
+      "team2": "로얄 유니온 SG",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "로얄 유니온 SG 원정 3승1무, 공격력과 득점 분포가 변수",
+      "ai_picks": [
+        "로얄 유니온 SG 승",
+        "오버 2.5"
+      ],
+      "aria_label": "플젠 vs 로얄 유니온 SG 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211777",
+      "url": "https://bbongtv4.com/premium/soccer/2007211777",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베식타시",
+      "team2": "마르세유",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "베식타시 홈 6연승, 결장 변수에도 마르세유 원정 부진이 변수",
+      "ai_picks": [
+        "베식타시 승",
+        "언더 3"
+      ],
+      "aria_label": "베식타시 vs 마르세유 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211792",
+      "url": "https://bbongtv4.com/premium/soccer/2007211792",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "크리스탈팰리스",
+      "team2": "레흐 포즈난",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 26.0,
+        "away": 20.0
+      },
+      "ai_summary": "레흐 포즈난 원정 3.67득점·실점 1, 크리스탈팰리스 홈 실점 2.33으로 다득점 흐름",
+      "ai_picks": [
+        "오버 2.5",
+        "레흐 포즈난 +1.5 승"
+      ],
+      "aria_label": "크리스탈팰리스 vs 레흐 포즈난 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211797",
+      "url": "https://bbongtv4.com/premium/soccer/2007211797",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "릴레스트롬",
+      "team2": "토레엔세",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 58.0,
+        "draw": 24.0,
+        "away": 18.0
+      },
+      "ai_summary": "릴레스트롬 홈 7경기 평균실점 1.71, 수비 불안이 변수로 작용",
+      "ai_picks": [
+        "릴레스트롬 승",
+        "언더 2.5"
+      ],
+      "aria_label": "릴레스트롬 vs 토레엔세 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007211805",
+      "url": "https://bbongtv4.com/premium/soccer/2007211805",
+      "sport": "soccer",
+      "league": "UEFA EL",
+      "date": "9/18 (금)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소시에다드",
+      "team2": "본머스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 32.0,
+        "draw": 28.0,
+        "away": 40.0
+      },
+      "ai_summary": "본머스 최근 원정 2경기 3실점, 소시에다드 홈 득점력 저조가 변수",
+      "ai_picks": [
+        "본머스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "소시에다드 vs 본머스 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2007221307",
+      "url": "https://bbongtv4.com/premium/soccer/2007221307",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/18 (금)",
+      "time": "04:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말라가",
+      "team2": "비야레알",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "비야레알, 최근 3경기 기대득점 1.48로 공격 효율 앞서",
+      "ai_picks": [
+        "비야레알 승",
+        "오버 2.5"
+      ],
+      "aria_label": "말라가 vs 비야레알 04:30 분석 상세",
       "source_date": "2026-09-18"
     }
   ]
