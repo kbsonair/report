@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T22:46:17.367160+00:00",
+  "scraped_at": "2026-09-17T01:12:05.630232+00:00",
   "kst_yesterday": "2026-09-16",
   "kst_today": "2026-09-17",
   "kst_tomorrow": "2026-09-18",
@@ -8,7 +8,7 @@
     "2026-09-17",
     "2026-09-18"
   ],
-  "count": 151,
+  "count": 158,
   "matches": [
     {
       "id": "2000364256",
@@ -29,7 +29,8 @@
       },
       "ai_summary": "밀워키 브루어스, 시즌 득실차 +1.6으로 체급 우위 뚜렷",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "언더 9.5"
       ],
       "aria_label": "피츠버그 파이어리츠 vs 밀워키 브루어스 01:35 분석 상세",
       "source_date": "2026-09-18"
@@ -53,7 +54,8 @@
       },
       "ai_summary": "브라디 신거 방어율 5.38, LA 다저스 타선이 마운드 약점 공략 전망",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "언더 9.5"
       ],
       "aria_label": "신시내티 레즈 vs LA 다저스 01:40 분석 상세",
       "source_date": "2026-09-18"
@@ -165,6 +167,33 @@
       "source_date": "2026-09-18"
     },
     {
+      "id": "16484436",
+      "url": "https://bbongtv4.com/premium/soccer/16484436",
+      "sport": "soccer",
+      "league": "ENG LC",
+      "date": "9/18 (금)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "맨시티",
+      "team2": "노리치",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 15.0,
+        "away": 15.0
+      },
+      "ai_summary": "맨시티 최근 5연승, 홈 평균실점 0.5로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "맨시티 승",
+        "오버 3.5",
+        "맨시티 -2.5 승"
+      ],
+      "aria_label": "맨시티 vs 노리치 03:30 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
       "id": "2007210921",
       "url": "https://bbongtv4.com/premium/soccer/2007210921",
       "sport": "soccer",
@@ -227,7 +256,7 @@
       "status": "예정",
       "result": null,
       "team1": "플젠",
-      "team2": "로",
+      "team2": "로얄 유니온 SG",
       "score1": null,
       "score2": null,
       "prob": {
@@ -252,8 +281,8 @@
       "time": "04:00",
       "status": "예정",
       "result": null,
-      "team1": "베",
-      "team2": "베식타시",
+      "team1": "베식타시",
+      "team2": "마르세유",
       "score1": null,
       "score2": null,
       "prob": {
@@ -417,7 +446,8 @@
       },
       "ai_summary": "홈 8경기 평균실점 2.25, 휴스턴 애스트로스의 마운드 안정감이 변수",
       "ai_picks": [
-        "휴스턴 애스트로스 승"
+        "휴스턴 애스트로스 승",
+        "언더 8.5"
       ],
       "aria_label": "휴스턴 애스트로스 vs 캔자스시티 로열스 08:15 분석 상세",
       "source_date": "2026-09-18"
@@ -619,7 +649,8 @@
       },
       "ai_summary": "미네소타 트윈스, 시즌 타격력과 후반 집중력에서 앞선다",
       "ai_picks": [
-        "미네소타 트윈스 승"
+        "미네소타 트윈스 승",
+        "LA 에인절스 +1.5 승"
       ],
       "aria_label": "LA 에인절스 vs 미네소타 트윈스 10:38 분석 상세",
       "source_date": "2026-09-18"
@@ -1675,12 +1706,12 @@
       "league": "MLB",
       "date": "9/17 (목)",
       "time": "04:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토론토 블루제이스",
       "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1753,12 +1784,12 @@
       "league": "LIB Cup",
       "date": "9/17 (목)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "LDU 키토",
       "team2": "팔메이라스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 31.0,
         "draw": 35.0,
@@ -1780,12 +1811,12 @@
       "league": "BRA D1",
       "date": "9/17 (목)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보타포구 RJ",
       "team2": "그레미우",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 55.0,
         "draw": 27.0,
@@ -2467,6 +2498,86 @@
       "source_date": "2026-09-17"
     },
     {
+      "id": "16484333",
+      "url": "https://bbongtv4.com/premium/soccer/16484333",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애들레이드 유나이티드",
+      "team2": "타이포",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "타이포 원정 3연패와 애들레이드 유나이티드 홈 강세, 대량 득점 가능성도 주목",
+      "ai_picks": [
+        "애들레이드 유나이티드 승",
+        "오버 3.5"
+      ],
+      "aria_label": "애들레이드 유나이티드 vs 타이포 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484334",
+      "url": "https://bbongtv4.com/premium/soccer/16484334",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라이언 시티 세일러스 FC",
+      "team2": "BG 빠툼 유나이티드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "라이언 시티 세일러스 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "라이언 시티 세일러스 FC vs BG 빠툼 유나이티드 FC 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484335",
+      "url": "https://bbongtv4.com/premium/soccer/16484335",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "마치다",
+      "team2": "스바이 리엥",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "마치다 최근 6경기 5경기 2득점 이상, 공격력 우위 뚜렷",
+      "ai_picks": [
+        "마치다 승",
+        "오버 3.5",
+        "마치다 -2.5 승"
+      ],
+      "aria_label": "마치다 vs 스바이 리엥 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
       "id": "16484336",
       "url": "https://bbongtv4.com/premium/soccer/16484336",
       "sport": "soccer",
@@ -2540,6 +2651,84 @@
         "오버 5.75"
       ],
       "aria_label": "베트남 여자 vs 일본 여자 19:30 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484348",
+      "url": "https://bbongtv4.com/premium/soccer/16484348",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "키치",
+      "team2": "강원FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "강원 FC 승 또는 무승부 (핸디캡 0 라인 강원 FC 추천, 언더오버 2.5 오버 추천)",
+      "ai_picks": [
+        "강원FC 승",
+        "무승부",
+        "오버 2.5"
+      ],
+      "aria_label": "키치 vs 강원FC 21:15 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484349",
+      "url": "https://bbongtv4.com/premium/soccer/16484349",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "프",
+      "team2": "프놈펜 크라운 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 27.0,
+        "away": 43.0
+      },
+      "ai_summary": "쿠칭 시티 FC 승 또는 양팀 모두 득점(BTTS)",
+      "ai_picks": [
+        "쿠칭 시티 FC 승"
+      ],
+      "aria_label": "프놈펜 크라운 FC vs 쿠칭 시티 FC 21:15 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484350",
+      "url": "https://bbongtv4.com/premium/soccer/16484350",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "상하이 선화",
+      "team2": "탐피네스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "탐피네스 1위, 상하이 선화 홈 실점 2.14로 수비 불안이 변수",
+      "ai_picks": [
+        "탐피네스 승",
+        "오버 3.5"
+      ],
+      "aria_label": "상하이 선화 vs 탐피네스 21:15 분석 상세",
       "source_date": "2026-09-17"
     },
     {

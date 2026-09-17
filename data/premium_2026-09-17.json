@@ -1,87 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-17",
-  "scraped_at": "2026-09-16T22:46:15.245241+00:00",
-  "count": 60,
+  "scraped_at": "2026-09-17T01:12:02.734507+00:00",
+  "count": 66,
   "matches": [
-    {
-      "id": "2000363559",
-      "url": "https://bbongtv4.com/premium/baseball/2000363559",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/17 (목)",
-      "time": "04:07",
-      "status": "예정",
-      "result": null,
-      "team1": "토론토 블루제이스",
-      "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "토론토 최근 홈 2경기 15득점, 원정팀 불안한 원정 실점이 변수",
-      "ai_picks": [
-        "토론토 블루제이스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "토론토 블루제이스 vs 디트로이트 타이거스 04:07 분석 상세",
-      "source_date": "2026-09-17"
-    },
-    {
-      "id": "2007206660",
-      "url": "https://bbongtv4.com/premium/soccer/2007206660",
-      "sport": "soccer",
-      "league": "LIB Cup",
-      "date": "9/17 (목)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LDU 키토",
-      "team2": "팔메이라스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 31.0,
-        "draw": 35.0,
-        "away": 34.0
-      },
-      "ai_summary": "팔메이라스 원정 4승2무1패, 키토 홈 무패가 만드는 접전",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "팔메이라스 +0.5 승"
-      ],
-      "aria_label": "LDU 키토 vs 팔메이라스 07:00 분석 상세",
-      "source_date": "2026-09-17"
-    },
-    {
-      "id": "2007107822",
-      "url": "https://bbongtv4.com/premium/soccer/2007107822",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/17 (목)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "보타포구 RJ",
-      "team2": "그레미우",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 27.0,
-        "away": 18.0
-      },
-      "ai_summary": "그레미우 원정 13경기 무승, 홈 강세 보타포구 RJ가 우위",
-      "ai_picks": [
-        "보타포구 RJ 승",
-        "언더 2.5"
-      ],
-      "aria_label": "보타포구 RJ vs 그레미우 07:30 분석 상세",
-      "source_date": "2026-09-17"
-    },
     {
       "id": "2000363560",
       "url": "https://bbongtv4.com/premium/baseball/2000363560",
@@ -750,6 +672,86 @@
       "source_date": "2026-09-17"
     },
     {
+      "id": "16484333",
+      "url": "https://bbongtv4.com/premium/soccer/16484333",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애들레이드 유나이티드",
+      "team2": "타이포",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "draw": 15.0,
+        "away": 10.0
+      },
+      "ai_summary": "타이포 원정 3연패와 애들레이드 유나이티드 홈 강세, 대량 득점 가능성도 주목",
+      "ai_picks": [
+        "애들레이드 유나이티드 승",
+        "오버 3.5"
+      ],
+      "aria_label": "애들레이드 유나이티드 vs 타이포 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484334",
+      "url": "https://bbongtv4.com/premium/soccer/16484334",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라이언 시티 세일러스 FC",
+      "team2": "BG 빠툼 유나이티드 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "홈팀 승 또는 무승부 (언더 2.5골 유력)",
+      "ai_picks": [
+        "라이언 시티 세일러스 FC 승",
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "라이언 시티 세일러스 FC vs BG 빠툼 유나이티드 FC 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484335",
+      "url": "https://bbongtv4.com/premium/soccer/16484335",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "마치다",
+      "team2": "스바이 리엥",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "draw": 10.0,
+        "away": 5.0
+      },
+      "ai_summary": "마치다 최근 6경기 5경기 2득점 이상, 공격력 우위 뚜렷",
+      "ai_picks": [
+        "마치다 승",
+        "오버 3.5",
+        "마치다 -2.5 승"
+      ],
+      "aria_label": "마치다 vs 스바이 리엥 19:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
       "id": "16484336",
       "url": "https://bbongtv4.com/premium/soccer/16484336",
       "sport": "soccer",
@@ -823,6 +825,84 @@
         "오버 5.75"
       ],
       "aria_label": "베트남 여자 vs 일본 여자 19:30 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484348",
+      "url": "https://bbongtv4.com/premium/soccer/16484348",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "키치",
+      "team2": "강원FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "강원 FC 승 또는 무승부 (핸디캡 0 라인 강원 FC 추천, 언더오버 2.5 오버 추천)",
+      "ai_picks": [
+        "강원FC 승",
+        "무승부",
+        "오버 2.5"
+      ],
+      "aria_label": "키치 vs 강원FC 21:15 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484349",
+      "url": "https://bbongtv4.com/premium/soccer/16484349",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "프",
+      "team2": "프놈펜 크라운 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 27.0,
+        "away": 43.0
+      },
+      "ai_summary": "쿠칭 시티 FC 승 또는 양팀 모두 득점(BTTS)",
+      "ai_picks": [
+        "쿠칭 시티 FC 승"
+      ],
+      "aria_label": "프놈펜 크라운 FC vs 쿠칭 시티 FC 21:15 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484350",
+      "url": "https://bbongtv4.com/premium/soccer/16484350",
+      "sport": "soccer",
+      "league": "ACL2",
+      "date": "9/17 (목)",
+      "time": "21:15",
+      "status": "예정",
+      "result": null,
+      "team1": "상하이 선화",
+      "team2": "탐피네스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "탐피네스 1위, 상하이 선화 홈 실점 2.14로 수비 불안이 변수",
+      "ai_picks": [
+        "탐피네스 승",
+        "오버 3.5"
+      ],
+      "aria_label": "상하이 선화 vs 탐피네스 21:15 분석 상세",
       "source_date": "2026-09-17"
     },
     {
@@ -1479,6 +1559,31 @@
       "source_date": "2026-09-17"
     },
     {
+      "id": "2000363559",
+      "url": "https://bbongtv4.com/premium/baseball/2000363559",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/17 (목)",
+      "time": "04:07",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토론토 블루제이스",
+      "team2": "디트로이트 타이거스",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "토론토 최근 홈 2경기 15득점, 원정팀 불안한 원정 실점이 변수",
+      "ai_picks": [
+        "토론토 블루제이스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "토론토 블루제이스 vs 디트로이트 타이거스 04:07 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
       "id": "2007219547",
       "url": "https://bbongtv4.com/premium/soccer/2007219547",
       "sport": "soccer",
@@ -1529,6 +1634,59 @@
         "오버 2.5"
       ],
       "aria_label": "레반테 vs 아틀레틱 빌바오 04:30 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "2007206660",
+      "url": "https://bbongtv4.com/premium/soccer/2007206660",
+      "sport": "soccer",
+      "league": "LIB Cup",
+      "date": "9/17 (목)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "LDU 키토",
+      "team2": "팔메이라스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 31.0,
+        "draw": 35.0,
+        "away": 34.0
+      },
+      "ai_summary": "팔메이라스 원정 4승2무1패, 키토 홈 무패가 만드는 접전",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "팔메이라스 +0.5 승"
+      ],
+      "aria_label": "LDU 키토 vs 팔메이라스 07:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "2007107822",
+      "url": "https://bbongtv4.com/premium/soccer/2007107822",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/17 (목)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보타포구 RJ",
+      "team2": "그레미우",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 55.0,
+        "draw": 27.0,
+        "away": 18.0
+      },
+      "ai_summary": "그레미우 원정 13경기 무승, 홈 강세 보타포구 RJ가 우위",
+      "ai_picks": [
+        "보타포구 RJ 승",
+        "언더 2.5"
+      ],
+      "aria_label": "보타포구 RJ vs 그레미우 07:30 분석 상세",
       "source_date": "2026-09-17"
     }
   ]
