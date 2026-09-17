@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-17",
-  "scraped_at": "2026-09-17T06:11:49.358697+00:00",
+  "scraped_at": "2026-09-17T11:51:22.071864+00:00",
   "count": 66,
   "matches": [
-    {
-      "id": "16484325",
-      "url": "https://bbongtv4.com/premium/soccer/16484325",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/17 (목)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "우즈베키스탄 여자",
-      "team2": "중국 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 5.0,
-        "away": 90.0
-      },
-      "ai_summary": "중국 여자, 최근 5득점 대승과 배당 1.05로 절대적 우위 평가",
-      "ai_picks": [
-        "중국 여자 승",
-        "오버 3.5"
-      ],
-      "aria_label": "우즈베키스탄 여자 vs 중국 여자 14:00 분석 상세",
-      "source_date": "2026-09-17"
-    },
-    {
-      "id": "16484326",
-      "url": "https://bbongtv4.com/premium/soccer/16484326",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/17 (목)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "방글라데시 (W)",
-      "team2": "대한민국 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 3.0,
-        "draw": 5.0,
-        "away": 92.0
-      },
-      "ai_summary": "한국 (W) 대승",
-      "ai_picks": [
-        "방글라데시 (W) 승"
-      ],
-      "aria_label": "방글라데시 (W) vs 대한민국 여자 16:00 분석 상세",
-      "source_date": "2026-09-17"
-    },
-    {
-      "id": "16484327",
-      "url": "https://bbongtv4.com/premium/soccer/16484327",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/17 (목)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "태국 여자",
-      "team2": "대만 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "중국 대북 (W) 승",
-      "ai_picks": [
-        "대만 여자 승"
-      ],
-      "aria_label": "태국 여자 vs 대만 여자 16:00 분석 상세",
-      "source_date": "2026-09-17"
-    },
     {
       "id": "2000355027",
       "url": "https://bbongtv4.com/premium/baseball/2000355027",
@@ -1687,6 +1611,82 @@
         "마이애미 말린스 +1.5 승"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs 마이애미 말린스 10:40 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484325",
+      "url": "https://bbongtv4.com/premium/soccer/16484325",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/17 (목)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "우즈베키스탄 여자",
+      "team2": "중국 여자",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 5.0,
+        "draw": 5.0,
+        "away": 90.0
+      },
+      "ai_summary": "중국 여자, 최근 5득점 대승과 배당 1.05로 절대적 우위 평가",
+      "ai_picks": [
+        "중국 여자 승",
+        "오버 3.5"
+      ],
+      "aria_label": "우즈베키스탄 여자 vs 중국 여자 14:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484326",
+      "url": "https://bbongtv4.com/premium/soccer/16484326",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/17 (목)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "방글라데시 (W)",
+      "team2": "대한민국 여자",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 3.0,
+        "draw": 5.0,
+        "away": 92.0
+      },
+      "ai_summary": "한국 (W) 대승",
+      "ai_picks": [
+        "방글라데시 (W) 승"
+      ],
+      "aria_label": "방글라데시 (W) vs 대한민국 여자 16:00 분석 상세",
+      "source_date": "2026-09-17"
+    },
+    {
+      "id": "16484327",
+      "url": "https://bbongtv4.com/premium/soccer/16484327",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/17 (목)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "태국 여자",
+      "team2": "대만 여자",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "중국 대북 (W) 승",
+      "ai_picks": [
+        "대만 여자 승"
+      ],
+      "aria_label": "태국 여자 vs 대만 여자 16:00 분석 상세",
       "source_date": "2026-09-17"
     }
   ]
