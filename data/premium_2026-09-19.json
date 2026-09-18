@@ -1,165 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-19",
-  "scraped_at": "2026-09-18T21:14:08.899593+00:00",
+  "scraped_at": "2026-09-18T23:22:15.409998+00:00",
   "count": 85,
   "matches": [
-    {
-      "id": "2007214098",
-      "url": "https://bbongtv4.com/premium/soccer/2007214098",
-      "sport": "soccer",
-      "league": "FRA D1",
-      "date": "9/19 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "모나코",
-      "team2": "랑스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 25.0,
-        "away": 21.0
-      },
-      "ai_summary": "모나코, 시즌 실점 0.5의 견고함과 랑스 결장 변수로 수비 우위 뚜렷",
-      "ai_picks": [
-        "모나코 승",
-        "언더 3.5"
-      ],
-      "aria_label": "모나코 vs 랑스 03:45 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007214849",
-      "url": "https://bbongtv4.com/premium/soccer/2007214849",
-      "sport": "soccer",
-      "league": "BEL D1",
-      "date": "9/19 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "겐트",
-      "team2": "세인트 리에주",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 23.0,
-        "away": 21.0
-      },
-      "ai_summary": "겐트 홈 평균 실점 0.33, 수비 안정감이 승부에 영향 줄 경기",
-      "ai_picks": [
-        "겐트 승",
-        "언더 2.5"
-      ],
-      "aria_label": "겐트 vs 세인트 리에주 03:45 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007215696",
-      "url": "https://bbongtv4.com/premium/soccer/2007215696",
-      "sport": "soccer",
-      "league": "ITA D1",
-      "date": "9/19 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "몬차",
-      "team2": "사수올로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "양 팀 모두 무실점 경기 0회, 최근 5경기 18골로 오버 흐름 뚜렷",
-      "ai_picks": [
-        "사수올로 승",
-        "오버 2.5"
-      ],
-      "aria_label": "몬차 vs 사수올로 03:45 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007215560",
-      "url": "https://bbongtv4.com/premium/soccer/2007215560",
-      "sport": "soccer",
-      "league": "ENG PR",
-      "date": "9/19 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브렌트퍼드",
-      "team2": "첼시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 33.0,
-        "away": 35.0
-      },
-      "ai_summary": "첼시 최근 4경기 10득점, 공격 효율이 총득점 오버에 힘을 싣는다",
-      "ai_picks": [
-        "무승부",
-        "오버 3.5"
-      ],
-      "aria_label": "브렌트퍼드 vs 첼시 04:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007221359",
-      "url": "https://bbongtv4.com/premium/soccer/2007221359",
-      "sport": "soccer",
-      "league": "SPA D1",
-      "date": "9/19 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에스파뇰",
-      "team2": "엘체",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 26.0,
-        "away": 18.0
-      },
-      "ai_summary": "엘체 시즌 실점 2.7, 에스파뇰 홈 득점력 앞서지만 결장 변수 주의",
-      "ai_picks": [
-        "에스파뇰 승",
-        "오버 2.5"
-      ],
-      "aria_label": "에스파뇰 vs 엘체 04:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007221595",
-      "url": "https://bbongtv4.com/premium/soccer/2007221595",
-      "sport": "soccer",
-      "league": "ENG LCH",
-      "date": "9/19 (토)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "브리스톨 시티",
-      "team2": "왓포드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 24.0,
-        "away": 22.0
-      },
-      "ai_summary": "브리스톨 시티, 최근 3연승 후 2연패에도 홈 공격력·결장 변수에서 우위",
-      "ai_picks": [
-        "브리스톨 시티 승",
-        "오버 2.5"
-      ],
-      "aria_label": "브리스톨 시티 vs 왓포드 04:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
     {
       "id": "2007220861",
       "url": "https://bbongtv4.com/premium/soccer/2007220861",
@@ -2192,6 +2036,162 @@
         "우니온베를린 +3.5 승"
       ],
       "aria_label": "바이에른 vs 우니온베를린 03:30 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007214098",
+      "url": "https://bbongtv4.com/premium/soccer/2007214098",
+      "sport": "soccer",
+      "league": "FRA D1",
+      "date": "9/19 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "모나코",
+      "team2": "랑스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "draw": 25.0,
+        "away": 21.0
+      },
+      "ai_summary": "모나코, 시즌 실점 0.5의 견고함과 랑스 결장 변수로 수비 우위 뚜렷",
+      "ai_picks": [
+        "모나코 승",
+        "언더 3.5"
+      ],
+      "aria_label": "모나코 vs 랑스 03:45 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007214849",
+      "url": "https://bbongtv4.com/premium/soccer/2007214849",
+      "sport": "soccer",
+      "league": "BEL D1",
+      "date": "9/19 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "겐트",
+      "team2": "세인트 리에주",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 56.0,
+        "draw": 23.0,
+        "away": 21.0
+      },
+      "ai_summary": "겐트 홈 평균 실점 0.33, 수비 안정감이 승부에 영향 줄 경기",
+      "ai_picks": [
+        "겐트 승",
+        "언더 2.5"
+      ],
+      "aria_label": "겐트 vs 세인트 리에주 03:45 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007215696",
+      "url": "https://bbongtv4.com/premium/soccer/2007215696",
+      "sport": "soccer",
+      "league": "ITA D1",
+      "date": "9/19 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몬차",
+      "team2": "사수올로",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "양 팀 모두 무실점 경기 0회, 최근 5경기 18골로 오버 흐름 뚜렷",
+      "ai_picks": [
+        "사수올로 승",
+        "오버 2.5"
+      ],
+      "aria_label": "몬차 vs 사수올로 03:45 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007215560",
+      "url": "https://bbongtv4.com/premium/soccer/2007215560",
+      "sport": "soccer",
+      "league": "ENG PR",
+      "date": "9/19 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "브렌트퍼드",
+      "team2": "첼시",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 32.0,
+        "draw": 33.0,
+        "away": 35.0
+      },
+      "ai_summary": "첼시 최근 4경기 10득점, 공격 효율이 총득점 오버에 힘을 싣는다",
+      "ai_picks": [
+        "무승부",
+        "오버 3.5"
+      ],
+      "aria_label": "브렌트퍼드 vs 첼시 04:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007221359",
+      "url": "https://bbongtv4.com/premium/soccer/2007221359",
+      "sport": "soccer",
+      "league": "SPA D1",
+      "date": "9/19 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에스파뇰",
+      "team2": "엘체",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 56.0,
+        "draw": 26.0,
+        "away": 18.0
+      },
+      "ai_summary": "엘체 시즌 실점 2.7, 에스파뇰 홈 득점력 앞서지만 결장 변수 주의",
+      "ai_picks": [
+        "에스파뇰 승",
+        "오버 2.5"
+      ],
+      "aria_label": "에스파뇰 vs 엘체 04:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007221595",
+      "url": "https://bbongtv4.com/premium/soccer/2007221595",
+      "sport": "soccer",
+      "league": "ENG LCH",
+      "date": "9/19 (토)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브리스톨 시티",
+      "team2": "왓포드",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "draw": 24.0,
+        "away": 22.0
+      },
+      "ai_summary": "브리스톨 시티, 최근 3연승 후 2연패에도 홈 공격력·결장 변수에서 우위",
+      "ai_picks": [
+        "브리스톨 시티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "브리스톨 시티 vs 왓포드 04:00 분석 상세",
       "source_date": "2026-09-19"
     }
   ]
