@@ -1,210 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-19",
-  "scraped_at": "2026-09-18T18:33:01.006023+00:00",
+  "scraped_at": "2026-09-18T21:14:08.899593+00:00",
   "count": 85,
   "matches": [
-    {
-      "id": "2000643349",
-      "url": "https://bbongtv4.com/premium/hockey/2000643349",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/19 (토)",
-      "time": "01:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "디나모 민스크, 홈 2경기 평균 3득점에도 4실점 허용하며 불안",
-      "ai_picks": [
-        "디나모 민스크 승"
-      ],
-      "aria_label": "디나모 민스크 vs 노보시비르스크 01:10 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2000643350",
-      "url": "https://bbongtv4.com/premium/hockey/2000643350",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/19 (토)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "로",
-      "team2": "로코모티프 야로슬라블",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "로코모티프 야로슬라블, 홈 3경기 평균 실점 1점의 견고한 수비력",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "로코모티프 야로슬라블 vs 아반가르드 옴스크 01:30 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2000643352",
-      "url": "https://bbongtv4.com/premium/hockey/2000643352",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/19 (토)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "니즈니노브고로드 최근 4승1패, CSKA 모스크바는 3연패로 하락세",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "니즈니노브고로드 vs CSKA 모스크바 01:30 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2000643354",
-      "url": "https://bbongtv4.com/premium/hockey/2000643354",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/19 (토)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "소",
-      "team2": "소치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "소치 최근 3연패, 바르스 카잔 득실차 우위로 원정 강세 기대",
-      "ai_picks": [
-        "바르스 카잔 승"
-      ],
-      "aria_label": "소치 vs 바르스 카잔 01:30 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007212512",
-      "url": "https://bbongtv4.com/premium/soccer/2007212512",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/19 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사르프스보르그 08",
-      "team2": "KFUM 오슬로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 29.0,
-        "away": 23.0
-      },
-      "ai_summary": "사르프스보르그 08, 홈에서 안정적 수비와 결장 변수 적어 우위",
-      "ai_picks": [
-        "사르프스보르그 08 승",
-        "언더 3.5"
-      ],
-      "aria_label": "사르프스보르그 08 vs KFUM 오슬로 02:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007214255",
-      "url": "https://bbongtv4.com/premium/soccer/2007214255",
-      "sport": "soccer",
-      "league": "TUR D1",
-      "date": "9/19 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카심파샤",
-      "team2": "코냐스포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "카심파샤 최근 5경기 무패, 코냐스포르 4연패로 분위기 대조",
-      "ai_picks": [
-        "카심파샤 승",
-        "언더 2.5"
-      ],
-      "aria_label": "카심파샤 vs 코냐스포르 02:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007217840",
-      "url": "https://bbongtv4.com/premium/soccer/2007217840",
-      "sport": "soccer",
-      "league": "HOL D1",
-      "date": "9/19 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "흐로닝언",
-      "team2": "즈볼레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 53.0,
-        "draw": 28.0,
-        "away": 19.0
-      },
-      "ai_summary": "흐로닝언, 홈에서 경기당 2득점 유지하며 즈볼레보다 공격력 앞선다",
-      "ai_picks": [
-        "흐로닝언 승",
-        "오버 3.5"
-      ],
-      "aria_label": "흐로닝언 vs 즈볼레 03:00 분석 상세",
-      "source_date": "2026-09-19"
-    },
-    {
-      "id": "2007212502",
-      "url": "https://bbongtv4.com/premium/soccer/2007212502",
-      "sport": "soccer",
-      "league": "GER D1",
-      "date": "9/19 (토)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "바이에른",
-      "team2": "우니온베를린",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 82.0,
-        "draw": 14.0,
-        "away": 4.0
-      },
-      "ai_summary": "바이에른 홈 평균득점 5, 우니온베를린 실점 10으로 대량 득점 가능성",
-      "ai_picks": [
-        "바이에른 승",
-        "오버 4.5",
-        "우니온베를린 +3.5 승"
-      ],
-      "aria_label": "바이에른 vs 우니온베를린 03:30 분석 상세",
-      "source_date": "2026-09-19"
-    },
     {
       "id": "2007214098",
       "url": "https://bbongtv4.com/premium/soccer/2007214098",
@@ -2192,6 +1991,207 @@
         "오버 2.5"
       ],
       "aria_label": "렉섬 vs 사우샘프턴 23:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2000643349",
+      "url": "https://bbongtv4.com/premium/hockey/2000643349",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/19 (토)",
+      "time": "01:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "디",
+      "team2": "디나모 민스크",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "디나모 민스크, 홈 2경기 평균 3득점에도 4실점 허용하며 불안",
+      "ai_picks": [
+        "디나모 민스크 승"
+      ],
+      "aria_label": "디나모 민스크 vs 노보시비르스크 01:10 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2000643350",
+      "url": "https://bbongtv4.com/premium/hockey/2000643350",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/19 (토)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "로",
+      "team2": "로코모티프 야로슬라블",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "로코모티프 야로슬라블, 홈 3경기 평균 실점 1점의 견고한 수비력",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "로코모티프 야로슬라블 vs 아반가르드 옴스크 01:30 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2000643352",
+      "url": "https://bbongtv4.com/premium/hockey/2000643352",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/19 (토)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "니",
+      "team2": "니즈니노브고로드",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "니즈니노브고로드 최근 4승1패, CSKA 모스크바는 3연패로 하락세",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "니즈니노브고로드 vs CSKA 모스크바 01:30 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2000643354",
+      "url": "https://bbongtv4.com/premium/hockey/2000643354",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/19 (토)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "소",
+      "team2": "소치",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "소치 최근 3연패, 바르스 카잔 득실차 우위로 원정 강세 기대",
+      "ai_picks": [
+        "바르스 카잔 승"
+      ],
+      "aria_label": "소치 vs 바르스 카잔 01:30 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007212512",
+      "url": "https://bbongtv4.com/premium/soccer/2007212512",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/19 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "사르프스보르그 08",
+      "team2": "KFUM 오슬로",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 48.0,
+        "draw": 29.0,
+        "away": 23.0
+      },
+      "ai_summary": "사르프스보르그 08, 홈에서 안정적 수비와 결장 변수 적어 우위",
+      "ai_picks": [
+        "사르프스보르그 08 승",
+        "언더 3.5"
+      ],
+      "aria_label": "사르프스보르그 08 vs KFUM 오슬로 02:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007214255",
+      "url": "https://bbongtv4.com/premium/soccer/2007214255",
+      "sport": "soccer",
+      "league": "TUR D1",
+      "date": "9/19 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "카심파샤",
+      "team2": "코냐스포르",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "카심파샤 최근 5경기 무패, 코냐스포르 4연패로 분위기 대조",
+      "ai_picks": [
+        "카심파샤 승",
+        "언더 2.5"
+      ],
+      "aria_label": "카심파샤 vs 코냐스포르 02:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007217840",
+      "url": "https://bbongtv4.com/premium/soccer/2007217840",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "9/19 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "흐로닝언",
+      "team2": "즈볼레",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 53.0,
+        "draw": 28.0,
+        "away": 19.0
+      },
+      "ai_summary": "흐로닝언, 홈에서 경기당 2득점 유지하며 즈볼레보다 공격력 앞선다",
+      "ai_picks": [
+        "흐로닝언 승",
+        "오버 3.5"
+      ],
+      "aria_label": "흐로닝언 vs 즈볼레 03:00 분석 상세",
+      "source_date": "2026-09-19"
+    },
+    {
+      "id": "2007212502",
+      "url": "https://bbongtv4.com/premium/soccer/2007212502",
+      "sport": "soccer",
+      "league": "GER D1",
+      "date": "9/19 (토)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바이에른",
+      "team2": "우니온베를린",
+      "score1": 7,
+      "score2": 0,
+      "prob": {
+        "home": 82.0,
+        "draw": 14.0,
+        "away": 4.0
+      },
+      "ai_summary": "바이에른 홈 평균득점 5, 우니온베를린 실점 10으로 대량 득점 가능성",
+      "ai_picks": [
+        "바이에른 승",
+        "오버 4.5",
+        "우니온베를린 +3.5 승"
+      ],
+      "aria_label": "바이에른 vs 우니온베를린 03:30 분석 상세",
       "source_date": "2026-09-19"
     }
   ]

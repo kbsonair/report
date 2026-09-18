@@ -1,9 +1,58 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-20",
   "source_date": "2026-09-20",
-  "scraped_at": "2026-09-18T18:33:03.173055+00:00",
-  "count": 4,
+  "scraped_at": "2026-09-18T21:14:11.371563+00:00",
+  "count": 6,
   "matches": [
+    {
+      "id": "2000364284",
+      "url": "https://bbongtv4.com/premium/baseball/2000364284",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "신시내티 레즈",
+      "team2": "시카고 컵스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "시카고컵스 승리 (단, 신시내티 +1.5 핸디캡 커버 가능성 높음, 언더 추천)",
+      "ai_picks": [
+        "시카고 컵스 승",
+        "신시내티 레즈 +1.5 승"
+      ],
+      "aria_label": "신시내티 레즈 vs 시카고 컵스 07:40 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364285",
+      "url": "https://bbongtv4.com/premium/baseball/2000364285",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "07:40",
+      "status": "예정",
+      "result": null,
+      "team1": "피츠버그 파이어리츠",
+      "team2": "캔자스시티 로열스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "피츠버그 승리 + 언더",
+      "ai_picks": [
+        "피츠버그 파이어리츠 승"
+      ],
+      "aria_label": "피츠버그 파이어리츠 vs 캔자스시티 로열스 07:40 분석 상세",
+      "source_date": "2026-09-20"
+    },
     {
       "id": "16489149",
       "url": "https://bbongtv4.com/premium/soccer/16489149",
