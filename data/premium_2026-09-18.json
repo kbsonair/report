@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-18",
-  "scraped_at": "2026-09-18T06:01:41.518265+00:00",
+  "scraped_at": "2026-09-18T11:27:07.769963+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "16486404",
-      "url": "https://bbongtv4.com/premium/soccer/16486404",
-      "sport": "soccer",
-      "league": "JPN D2",
-      "date": "9/18 (금)",
-      "time": "13:00",
-      "status": "예정",
-      "result": null,
-      "team1": "반라우레",
-      "team2": "테게바하로 미야자키",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 22.0,
-        "away": 56.0
-      },
-      "ai_summary": "테게바하로 미야자키, 최근 슈팅·점유율 모두 앞서 우위 뚜렷",
-      "ai_picks": [
-        "테게바하로 미야자키 승",
-        "언더 2.5"
-      ],
-      "aria_label": "반라우레 vs 테게바하로 미야자키 13:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "16486405",
-      "url": "https://bbongtv4.com/premium/soccer/16486405",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/18 (금)",
-      "time": "15:30",
-      "status": "예정",
-      "result": null,
-      "team1": "쿠웨이트 (U23)",
-      "team2": "우즈베키스탄 (U23)(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "우즈베키스탄 (U23) 승",
-      "ai_picks": [
-        "우즈베키스탄 (U23)(N) 승"
-      ],
-      "aria_label": "쿠웨이트 (U23) vs 우즈베키스탄 (U23)(N) 15:30 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "16486406",
-      "url": "https://bbongtv4.com/premium/soccer/16486406",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/18 (금)",
-      "time": "15:30",
-      "status": "예정",
-      "result": null,
-      "team1": "필리핀 (U23)(N)",
-      "team2": "베트남 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "베트남 (U23) 승",
-      "ai_picks": [
-        "베트남 (U23) 승"
-      ],
-      "aria_label": "필리핀 (U23)(N) vs 베트남 (U23) 15:30 분석 상세",
-      "source_date": "2026-09-18"
-    },
     {
       "id": "2000358462",
       "url": "https://bbongtv4.com/premium/baseball/2000358462",
@@ -1076,6 +1000,82 @@
         "오버 173.5"
       ],
       "aria_label": "시애틀 스톰 여자 vs 라스베가스 에이시스 여자 11:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "16486404",
+      "url": "https://bbongtv4.com/premium/soccer/16486404",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/18 (금)",
+      "time": "13:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "반라우레",
+      "team2": "테게바하로 미야자키",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 22.0,
+        "draw": 22.0,
+        "away": 56.0
+      },
+      "ai_summary": "테게바하로 미야자키, 최근 슈팅·점유율 모두 앞서 우위 뚜렷",
+      "ai_picks": [
+        "테게바하로 미야자키 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 vs 테게바하로 미야자키 13:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "16486405",
+      "url": "https://bbongtv4.com/premium/soccer/16486405",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/18 (금)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "쿠웨이트 (U23)",
+      "team2": "우즈베키스탄 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "우즈베키스탄 (U23) 승",
+      "ai_picks": [
+        "우즈베키스탄 (U23)(N) 승"
+      ],
+      "aria_label": "쿠웨이트 (U23) vs 우즈베키스탄 (U23)(N) 15:30 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "16486406",
+      "url": "https://bbongtv4.com/premium/soccer/16486406",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/18 (금)",
+      "time": "15:30",
+      "status": "예정",
+      "result": null,
+      "team1": "필리핀 (U23)(N)",
+      "team2": "베트남 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "베트남 (U23) 승",
+      "ai_picks": [
+        "베트남 (U23) 승"
+      ],
+      "aria_label": "필리핀 (U23)(N) vs 베트남 (U23) 15:30 분석 상세",
       "source_date": "2026-09-18"
     }
   ]
