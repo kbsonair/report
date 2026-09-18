@@ -1,34 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-18",
-  "scraped_at": "2026-09-17T22:44:14.528294+00:00",
-  "count": 41,
+  "scraped_at": "2026-09-18T01:07:54.668812+00:00",
+  "count": 42,
   "matches": [
-    {
-      "id": "2000364259",
-      "url": "https://bbongtv4.com/premium/baseball/2000364259",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/18 (금)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "마이클 킹 방어율 3.03, 타너 고든 5.55로 선발 투수력 격차 뚜렷",
-      "ai_picks": [
-        "샌디에이고 파드레스 승",
-        "오버 10.5"
-      ],
-      "aria_label": "콜로라도 로키스 vs 샌디에이고 파드레스 04:10 분석 상세",
-      "source_date": "2026-09-18"
-    },
     {
       "id": "2000364260",
       "url": "https://bbongtv4.com/premium/baseball/2000364260",
@@ -306,6 +281,32 @@
         "오버 173.5"
       ],
       "aria_label": "시애틀 스톰 여자 vs 라스베가스 에이시스 여자 11:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "16486404",
+      "url": "https://bbongtv4.com/premium/soccer/16486404",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/18 (금)",
+      "time": "13:00",
+      "status": "예정",
+      "result": null,
+      "team1": "반라우레",
+      "team2": "테게바하로 미야자키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 22.0,
+        "away": 56.0
+      },
+      "ai_summary": "테게바하로 미야자키, 최근 슈팅·점유율 모두 앞서 우위 뚜렷",
+      "ai_picks": [
+        "테게바하로 미야자키 승",
+        "언더 2.5"
+      ],
+      "aria_label": "반라우레 vs 테게바하로 미야자키 13:00 분석 상세",
       "source_date": "2026-09-18"
     },
     {
@@ -1024,6 +1025,31 @@
         "오버 2.5"
       ],
       "aria_label": "소시에다드 vs 본머스 04:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000364259",
+      "url": "https://bbongtv4.com/premium/baseball/2000364259",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/18 (금)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "샌디에이고 파드레스",
+      "score1": 2,
+      "score2": 9,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "마이클 킹 방어율 3.03, 타너 고든 5.55로 선발 투수력 격차 뚜렷",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "오버 10.5"
+      ],
+      "aria_label": "콜로라도 로키스 vs 샌디에이고 파드레스 04:10 분석 상세",
       "source_date": "2026-09-18"
     },
     {
