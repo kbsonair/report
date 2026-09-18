@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T01:07:58.041155+00:00",
+  "scraped_at": "2026-09-18T06:01:44.678131+00:00",
   "kst_yesterday": "2026-09-17",
   "kst_today": "2026-09-18",
   "kst_tomorrow": "2026-09-19",
@@ -412,7 +412,9 @@
       },
       "ai_summary": "체이스 번스 방어율 2.80, 강타선 컵스 상대로 마운드가 변수",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "언더 8.5",
+        "시카고 컵스 -1.5 승"
       ],
       "aria_label": "신시내티 레즈 vs 시카고 컵스 07:40 분석 상세",
       "source_date": "2026-09-19"
@@ -462,7 +464,9 @@
       },
       "ai_summary": "밀워키 브루어스, 시즌 득실차 +1.72와 원정 화력으로 체급 앞선다",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 8.5",
+        "볼티모어 오리올스 +1.5 승"
       ],
       "aria_label": "볼티모어 오리올스 vs 밀워키 브루어스 08:05 분석 상세",
       "source_date": "2026-09-19"
@@ -537,7 +541,8 @@
       },
       "ai_summary": "양 팀 선발 방어율 3.44 대 4.01, 투수전 양상 속 필라델피아 필리스 근소 우위",
       "ai_picks": [
-        "필라델피아 필리스 승"
+        "필라델피아 필리스 승",
+        "언더 7.5"
       ],
       "aria_label": "NY 메츠 vs 필라델피아 필리스 08:15 분석 상세",
       "source_date": "2026-09-19"
@@ -2578,12 +2583,12 @@
       "league": "MLB",
       "date": "9/18 (금)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "휴스턴 애스트로스",
       "team2": "캔자스시티 로열스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 2,
       "prob": {
         "home": 59.0,
         "away": 41.0
@@ -2603,12 +2608,12 @@
       "league": "MLB",
       "date": "9/18 (금)",
       "time": "08:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 메츠",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 3,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -2629,12 +2634,12 @@
       "league": "WNBA",
       "date": "9/18 (금)",
       "time": "08:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애틀랜타 드림 여자",
       "team2": "코네티컷 선 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 103,
+      "score2": 59,
       "prob": {
         "home": 78.0,
         "away": 22.0
@@ -2655,12 +2660,12 @@
       "league": "MLB",
       "date": "9/18 (금)",
       "time": "08:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시카고 화이트삭스",
       "team2": "디트로이트 타이거스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -2681,12 +2686,12 @@
       "league": "WNBA",
       "date": "9/18 (금)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 스카이 여자",
       "team2": "워싱턴 미스틱스 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 80,
+      "score2": 110,
       "prob": {
         "home": 32.0,
         "away": 68.0
@@ -2706,12 +2711,12 @@
       "league": "WNBA",
       "date": "9/18 (금)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "댈러스 윙스 여자",
       "team2": "로스앤젤레스 스파크스 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 97,
+      "score2": 77,
       "prob": {
         "home": 72.0,
         "away": 28.0
@@ -2731,12 +2736,12 @@
       "league": "MLB",
       "date": "9/18 (금)",
       "time": "09:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스 레인저스",
       "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -2756,12 +2761,12 @@
       "league": "LIB Cup",
       "date": "9/18 (금)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "플라멩고 RJ",
       "team2": "인디펜디엔테 델 바예",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -2782,12 +2787,12 @@
       "league": "MLB",
       "date": "9/18 (금)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 에인절스",
       "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 43.0,
         "away": 57.0
@@ -2807,12 +2812,12 @@
       "league": "WNBA",
       "date": "9/18 (금)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "포틀랜드 파이어 여자",
       "team2": "피닉스 머큐리 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 91,
+      "score2": 94,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -2832,12 +2837,12 @@
       "league": "WNBA",
       "date": "9/18 (금)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀 스톰 여자",
       "team2": "라스베가스 에이시스 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 77,
+      "score2": 114,
       "prob": {
         "home": 18.0,
         "away": 82.0
