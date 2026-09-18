@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T15:07:44.515462+00:00",
+  "scraped_at": "2026-09-18T18:33:03.249819+00:00",
   "kst_yesterday": "2026-09-18",
   "kst_today": "2026-09-19",
   "kst_tomorrow": "2026-09-20",
@@ -8,8 +8,108 @@
     "2026-09-19",
     "2026-09-20"
   ],
-  "count": 127,
+  "count": 131,
   "matches": [
+    {
+      "id": "16489149",
+      "url": "https://bbongtv4.com/premium/soccer/16489149",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/20 (일)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이란 (U23)",
+      "team2": "중국 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "이란 (U23) 승",
+      "ai_picks": [
+        "이란 (U23) 승"
+      ],
+      "aria_label": "이란 (U23) vs 중국 (U23) 14:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "16489150",
+      "url": "https://bbongtv4.com/premium/soccer/16489150",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/20 (일)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "북한 (U23)(N)",
+      "team2": "아랍에미리트 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 45.0,
+        "draw": 25.0,
+        "away": 30.0
+      },
+      "ai_summary": "북한 (U23)(N) 승",
+      "ai_picks": [
+        "북한 (U23)(N) 승"
+      ],
+      "aria_label": "북한 (U23)(N) vs 아랍에미리트 (U23) 14:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "16489160",
+      "url": "https://bbongtv4.com/premium/soccer/16489160",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/20 (일)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "키르기스스탄 (U23)",
+      "team2": "일본 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 5.0,
+        "draw": 10.0,
+        "away": 85.0
+      },
+      "ai_summary": "일본 (U23) 승",
+      "ai_picks": [
+        "일본 (U23) 승"
+      ],
+      "aria_label": "키르기스스탄 (U23) vs 일본 (U23) 16:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "16489161",
+      "url": "https://bbongtv4.com/premium/soccer/16489161",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/20 (일)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "중국 홍콩 (U23)",
+      "team2": "태국 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "태국 (U23) 승",
+      "ai_picks": [
+        "태국 (U23) 승"
+      ],
+      "aria_label": "중국 홍콩 (U23) vs 태국 (U23) 16:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
     {
       "id": "2000643349",
       "url": "https://bbongtv4.com/premium/hockey/2000643349",
@@ -978,7 +1078,8 @@
       },
       "ai_summary": "닛폰햄 파이터스, 홈 평균 득점 4.83으로 오릭스 원정 부진과 대조",
       "ai_picks": [
-        "닛폰햄 파이터스 승"
+        "닛폰햄 파이터스 승",
+        "언더 7.5"
       ],
       "aria_label": "닛폰햄 파이터스 vs 오릭스 버팔로스 14:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1002,7 +1103,9 @@
       },
       "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +2.79로 확실한 우위",
       "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승"
+        "후쿠오카 소프트뱅크 호크스 승",
+        "언더 7.5",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
       ],
       "aria_label": "라쿠텐 골든 이글스 vs 후쿠오카 소프트뱅크 호크스 14:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1026,7 +1129,8 @@
       },
       "ai_summary": "요미우리 자이언츠, 최근 3연패에도 홈 강세와 상대전적 우위 뚜렷",
       "ai_picks": [
-        "요미우리 자이언츠 승"
+        "요미우리 자이언츠 승",
+        "언더 6.5"
       ],
       "aria_label": "요미우리 자이언츠 vs 중일 드래곤즈 14:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1177,7 +1281,8 @@
       },
       "ai_summary": "LG 트윈스 최근 4연승 상승세, 한화 이글스는 5경기 무승 부진",
       "ai_picks": [
-        "LG 트윈스 승"
+        "LG 트윈스 승",
+        "오버 8.5"
       ],
       "aria_label": "LG 트윈스 vs 한화 이글스 17:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1201,7 +1306,9 @@
       },
       "ai_summary": "KT 위즈, 최근 6경기 5승1무와 홈 8승1패로 압도적 상승세",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "오버 9.5",
+        "두산 베어스 +1.5 승"
       ],
       "aria_label": "KT 위즈 vs 두산 베어스 17:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1225,7 +1332,8 @@
       },
       "ai_summary": "삼성 라이온즈, 원정 평균득점 6.86로 공격력에서 확실한 우위",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "삼성 라이온즈 -1.5 승"
       ],
       "aria_label": "롯데 자이언츠 vs 삼성 라이온즈 17:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1249,7 +1357,9 @@
       },
       "ai_summary": "KIA 타이거즈 원정 5연패, NC 다이노스 상대전적 4연승 흐름",
       "ai_picks": [
-        "NC 다이노스 승"
+        "NC 다이노스 승",
+        "NC 다이노스 +1.5 승",
+        "언더 9.5"
       ],
       "aria_label": "NC 다이노스 vs KIA 타이거즈 17:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1273,7 +1383,8 @@
       },
       "ai_summary": "치바 롯데 마리너스, 홈 득점력은 앞서지만 시즌 전체 득실차에서 열세",
       "ai_picks": [
-        "세이부 라이온스 승"
+        "세이부 라이온스 승",
+        "언더 6.5"
       ],
       "aria_label": "치바 롯데 마리너스 vs 세이부 라이온스 18:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1297,7 +1408,8 @@
       },
       "ai_summary": "한신 타이거스, 최근 6경기 6연패로 극심한 하락세",
       "ai_picks": [
-        "히로시마 카프 승"
+        "히로시마 카프 승",
+        "언더 4.5"
       ],
       "aria_label": "한신 타이거스 vs 히로시마 카프 18:00 분석 상세",
       "source_date": "2026-09-19"
@@ -1321,7 +1433,9 @@
       },
       "ai_summary": "홈 9경기 8승과 최근 6연승, 요코하마 흐름이 뚜렷한 경기",
       "ai_picks": [
-        "요코하마 베이스타즈 승"
+        "요코하마 베이스타즈 승",
+        "오버 6.5",
+        "야쿠르트 스왈로즈 +1.5 승"
       ],
       "aria_label": "요코하마 베이스타즈 vs 야쿠르트 스왈로즈 18:00 분석 상세",
       "source_date": "2026-09-19"
@@ -3195,12 +3309,12 @@
       "league": "KHL",
       "date": "9/18 (금)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마",
       "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 72.0,
         "away": 28.0
@@ -3219,12 +3333,12 @@
       "league": "KHL",
       "date": "9/18 (금)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "살",
       "team2": "살라바트 우파",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -3243,12 +3357,12 @@
       "league": "KHL",
       "date": "9/18 (금)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "트",
       "team2": "트랙터 첼야빈스크",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 45.0,
         "away": 55.0

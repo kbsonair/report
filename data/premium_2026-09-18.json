@@ -1,81 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-18",
   "source_date": "2026-09-18",
-  "scraped_at": "2026-09-18T15:07:43.694337+00:00",
+  "scraped_at": "2026-09-18T18:33:02.288043+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "2000643351",
-      "url": "https://bbongtv4.com/premium/hockey/2000643351",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/18 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "마",
-      "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 72.0,
-        "away": 28.0
-      },
-      "ai_summary": "마그니토고르스크 홈 3경기 평균 실점 1점, 수비 안정감이 강점",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "마그니토고르스크 vs 바리스 아스타나 23:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2000643353",
-      "url": "https://bbongtv4.com/premium/hockey/2000643353",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/18 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "살",
-      "team2": "살라바트 우파",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "니즈네카민스크 3연승 상승세, 살라바트 우파 홈 배당은 우위 반영",
-      "ai_picks": [
-        "살라바트 우파 승"
-      ],
-      "aria_label": "살라바트 우파 vs 니즈네카민스크 23:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
-    {
-      "id": "2000643355",
-      "url": "https://bbongtv4.com/premium/hockey/2000643355",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/18 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트랙터 첼야빈스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "스파르타크 모스크바 최근 3경기 무패, 트랙터 첼야빈스크는 실점이 많다",
-      "ai_picks": [
-        "스파르타크 모스크바 승"
-      ],
-      "aria_label": "트랙터 첼야빈스크 vs 스파르타크 모스크바 23:00 분석 상세",
-      "source_date": "2026-09-18"
-    },
     {
       "id": "2000364256",
       "url": "https://bbongtv4.com/premium/baseball/2000364256",
@@ -1076,6 +1004,78 @@
         "오버 3.5"
       ],
       "aria_label": "저장성 프로 vs 우한 쓰리 타운스 20:35 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000643351",
+      "url": "https://bbongtv4.com/premium/hockey/2000643351",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/18 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "마",
+      "team2": "마그니토고르스크",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 72.0,
+        "away": 28.0
+      },
+      "ai_summary": "마그니토고르스크 홈 3경기 평균 실점 1점, 수비 안정감이 강점",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "마그니토고르스크 vs 바리스 아스타나 23:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000643353",
+      "url": "https://bbongtv4.com/premium/hockey/2000643353",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/18 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "살",
+      "team2": "살라바트 우파",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "니즈네카민스크 3연승 상승세, 살라바트 우파 홈 배당은 우위 반영",
+      "ai_picks": [
+        "살라바트 우파 승"
+      ],
+      "aria_label": "살라바트 우파 vs 니즈네카민스크 23:00 분석 상세",
+      "source_date": "2026-09-18"
+    },
+    {
+      "id": "2000643355",
+      "url": "https://bbongtv4.com/premium/hockey/2000643355",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/18 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "트",
+      "team2": "트랙터 첼야빈스크",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "스파르타크 모스크바 최근 3경기 무패, 트랙터 첼야빈스크는 실점이 많다",
+      "ai_picks": [
+        "스파르타크 모스크바 승"
+      ],
+      "aria_label": "트랙터 첼야빈스크 vs 스파르타크 모스크바 23:00 분석 상세",
       "source_date": "2026-09-18"
     }
   ]
