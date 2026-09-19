@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T17:51:25.117526+00:00",
+  "scraped_at": "2026-09-19T20:18:46.501079+00:00",
   "kst_yesterday": "2026-09-19",
   "kst_today": "2026-09-20",
   "kst_tomorrow": "2026-09-21",
@@ -8,7 +8,7 @@
     "2026-09-20",
     "2026-09-21"
   ],
-  "count": 290,
+  "count": 293,
   "matches": [
     {
       "id": "2007215144",
@@ -420,7 +420,8 @@
       },
       "ai_summary": "필라델피아 필리스, 선발·시즌 체급 모두 앞서지만 최근 원정 득점력은 제한적",
       "ai_picks": [
-        "필라델피아 필리스 승"
+        "필라델피아 필리스 승",
+        "언더 8.5"
       ],
       "aria_label": "NY 메츠 vs 필라델피아 필리스 02:10 분석 상세",
       "source_date": "2026-09-21"
@@ -570,7 +571,8 @@
       },
       "ai_summary": "개빈 윌리엄스 방어율 3.78, 잭 퍼킨스 6.14로 선발 투수력 격차 뚜렷",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "오버 6.5"
       ],
       "aria_label": "클리블랜드 가디언스 vs 오클랜드 02:40 분석 상세",
       "source_date": "2026-09-21"
@@ -645,7 +647,9 @@
       },
       "ai_summary": "트로이 멜턴 방어율 2.52, 선발 싸움에서 디트로이트가 앞선다",
       "ai_picks": [
-        "디트로이트 타이거스 승"
+        "디트로이트 타이거스 승",
+        "언더 7.5",
+        "디트로이트 타이거스 -1.5 승"
       ],
       "aria_label": "시카고 화이트삭스 vs 디트로이트 타이거스 03:10 분석 상세",
       "source_date": "2026-09-21"
@@ -669,7 +673,9 @@
       },
       "ai_summary": "원정 평균득점 4.45와 팀 방어율 3.63, 애틀란타가 앞선다",
       "ai_picks": [
-        "애틀란타 브레이브스 승"
+        "애틀란타 브레이브스 승",
+        "언더 8.5",
+        "애틀란타 브레이브스 +1.5 승"
       ],
       "aria_label": "휴스턴 애스트로스 vs 애틀란타 브레이브스 03:10 분석 상세",
       "source_date": "2026-09-21"
@@ -693,7 +699,9 @@
       },
       "ai_summary": "워싱턴 내셔널스, 최근 맞대결 9-1 대승에 원정 약세 극복이 관건",
       "ai_picks": [
-        "세인트루이스 카디널스 승"
+        "세인트루이스 카디널스 승",
+        "오버 8.5",
+        "워싱턴 내셔널스 +1.5 승"
       ],
       "aria_label": "세인트루이스 카디널스 vs 워싱턴 내셔널스 03:15 분석 상세",
       "source_date": "2026-09-21"
@@ -1024,7 +1032,9 @@
       },
       "ai_summary": "양 팀 선발 방어율 4점대 중후반, 불안한 마운드가 총득점 흐름에 변수",
       "ai_picks": [
-        "미네소타 트윈스 승"
+        "미네소타 트윈스 승",
+        "오버 8.5",
+        "LA 에인절스 +1.5 승"
       ],
       "aria_label": "LA 에인절스 vs 미네소타 트윈스 05:07 분석 상세",
       "source_date": "2026-09-21"
@@ -1048,7 +1058,9 @@
       },
       "ai_summary": "최근 6경기 4승 흐름, 선발 방어율 3.89가 원정 우위 뒷받침",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 8.5",
+        "NY 양키스 -1.5 승"
       ],
       "aria_label": "애리조나 다이아몬드백스 vs NY 양키스 05:10 분석 상세",
       "source_date": "2026-09-21"
@@ -1096,7 +1108,8 @@
       },
       "ai_summary": "샌디에이고 파드레스, 최근 6경기 5승과 홈 강세로 우위 점한다",
       "ai_picks": [
-        "샌디에이고 파드레스 승"
+        "샌디에이고 파드레스 승",
+        "오버 8.5"
       ],
       "aria_label": "샌디에이고 파드레스 vs 마이애미 말린스 05:10 분석 상세",
       "source_date": "2026-09-21"
@@ -1249,7 +1262,8 @@
       },
       "ai_summary": "자코브 미시오로우스키 방어율 1.89, 선발·불펜 모두 밀워키가 앞선다",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "언더 7.5"
       ],
       "aria_label": "볼티모어 오리올스 vs 밀워키 브루어스 08:20 분석 상세",
       "source_date": "2026-09-21"
@@ -1737,12 +1751,12 @@
       "league": "NOR D1",
       "date": "9/20 (일)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "몰데",
       "team2": "아alesund",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 70.0,
         "draw": 20.0,
@@ -1764,12 +1778,12 @@
       "league": "ITA D1",
       "date": "9/20 (일)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "로마",
       "team2": "인터 밀란",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 33.0,
         "draw": 35.0,
@@ -1791,12 +1805,12 @@
       "league": "BEL D1",
       "date": "9/20 (일)",
       "time": "01:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샤를루아",
       "team2": "세르클 브루주 KSV",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -1817,12 +1831,12 @@
       "league": "ENG PR",
       "date": "9/20 (일)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "노팅엄",
       "team2": "코번트리",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
@@ -1843,12 +1857,12 @@
       "league": "GER D1",
       "date": "9/20 (일)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "슈투트가르트",
       "team2": "도르트문트",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 32.0,
         "draw": 26.0,
@@ -1869,12 +1883,12 @@
       "league": "SPA D1",
       "date": "9/20 (일)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "셀타비고",
       "team2": "산탄데르",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 0,
       "prob": {
         "home": 49.0,
         "draw": 28.0,
@@ -1895,12 +1909,12 @@
       "league": "SCO PR",
       "date": "9/20 (일)",
       "time": "01:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "킬마녹",
       "team2": "하츠",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 17.0,
         "draw": 20.0,
@@ -1921,12 +1935,12 @@
       "league": "HOL D1",
       "date": "9/20 (일)",
       "time": "01:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "스파르타",
       "team2": "헤이렌베인",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 4,
       "prob": {
         "home": 33.0,
         "draw": 33.0,
@@ -1947,12 +1961,12 @@
       "league": "WNBA",
       "date": "9/20 (일)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "댈러스 윙스 여자",
       "team2": "피닉스 머큐리 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 87,
+      "score2": 82,
       "prob": {
         "home": 78.0,
         "away": 22.0
@@ -1972,12 +1986,12 @@
       "league": "POR D1",
       "date": "9/20 (일)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "알베르카",
       "team2": "리우 아베",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 46.0,
         "draw": 32.0,
@@ -1998,12 +2012,12 @@
       "league": "TUR D1",
       "date": "9/20 (일)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "바샥셰히르",
       "team2": "젠클레르빌리기",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 0,
       "prob": {
         "home": 54.0,
         "draw": 24.0,
@@ -2024,12 +2038,12 @@
       "league": "TUR D1",
       "date": "9/20 (일)",
       "time": "02:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "트라브존스포르",
       "team2": "갈라타사라이",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 0,
       "prob": {
         "home": 25.0,
         "draw": 20.0,
@@ -2050,12 +2064,12 @@
       "league": "ARG D1",
       "date": "9/20 (일)",
       "time": "02:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "짐나시아 멘도사",
       "team2": "데",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 48.0,
         "draw": 30.0,
@@ -2076,12 +2090,12 @@
       "league": "ARG D1",
       "date": "9/20 (일)",
       "time": "02:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "김나시아 L.P.",
       "team2": "반필드",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "draw": 26.0,
@@ -2692,6 +2706,55 @@
       "source_date": "2026-09-20"
     },
     {
+      "id": "2000647553",
+      "url": "https://bbongtv4.com/premium/hockey/2000647553",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "몬",
+      "team2": "몬트리올 캐나디언스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "토론토, 결장자 많지만 시장 배당 1.5로 우세 평가",
+      "ai_picks": [
+        "토론토 메이플리프스 승"
+      ],
+      "aria_label": "몬트리올 캐나디언스 vs 토론토 메이플리프스 08:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000648950",
+      "url": "https://bbongtv4.com/premium/hockey/2000648950",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세",
+      "team2": "세인트루이스 블루스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "댈러스 스타스 결장 변수와 배당 격차, 홈팀 우세에 무게",
+      "ai_picks": [
+        "세인트루이스 블루스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "세인트루이스 블루스 vs 댈러스 스타스 08:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
       "id": "2007214758",
       "url": "https://bbongtv4.com/premium/soccer/2007214758",
       "sport": "soccer",
@@ -2977,6 +3040,31 @@
       "source_date": "2026-09-20"
     },
     {
+      "id": "2000645909",
+      "url": "https://bbongtv4.com/premium/hockey/2000645909",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "에",
+      "team2": "에드먼턴 오일러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 74.0,
+        "away": 26.0
+      },
+      "ai_summary": "코너 헬레뷔크 결장과 홈 강세 배당, 에드먼턴 오일러스 우위 뚜렷",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "에드먼턴 오일러스 -1.5 승"
+      ],
+      "aria_label": "에드먼턴 오일러스 vs 위니펙 제츠 09:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
       "id": "2000648951",
       "url": "https://bbongtv4.com/premium/hockey/2000648951",
       "sport": "hockey",
@@ -2995,7 +3083,8 @@
       },
       "ai_summary": "미네소타 와일드, 필립 구스타프손 결장에도 시장 배당 우위",
       "ai_picks": [
-        "미네소타 와일드 승"
+        "미네소타 와일드 승",
+        "시카고 블랙호크스 +1.5 승"
       ],
       "aria_label": "미네소타 와일드 vs 시카고 블랙호크스 09:00 분석 상세",
       "source_date": "2026-09-20"
