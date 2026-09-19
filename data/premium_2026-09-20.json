@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-20",
   "source_date": "2026-09-20",
-  "scraped_at": "2026-09-19T01:34:48.162407+00:00",
-  "count": 34,
+  "scraped_at": "2026-09-19T06:36:14.727564+00:00",
+  "count": 45,
   "matches": [
     {
       "id": "2007214099",
@@ -392,6 +392,103 @@
       "source_date": "2026-09-20"
     },
     {
+      "id": "2000364280",
+      "url": "https://bbongtv4.com/premium/baseball/2000364280",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:05",
+      "status": "예정",
+      "result": null,
+      "team1": "볼티모어 오리올스",
+      "team2": "밀워키 브루어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "밀워키 승",
+      "ai_picks": [
+        "밀워키 브루어스 승"
+      ],
+      "aria_label": "볼티모어 오리올스 vs 밀워키 브루어스 05:05 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364281",
+      "url": "https://bbongtv4.com/premium/baseball/2000364281",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "NY 메츠",
+      "team2": "필라델피아 필리스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "필라델피아 승",
+      "ai_picks": [
+        "필라델피아 필리스 승"
+      ],
+      "aria_label": "NY 메츠 vs 필라델피아 필리스 05:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364282",
+      "url": "https://bbongtv4.com/premium/baseball/2000364282",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:10",
+      "status": "예정",
+      "result": null,
+      "team1": "탬파베이 레이스",
+      "team2": "보스턴 레드삭스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "언더(총득점 7.5 이하) 및 탬파베이 근소 우세, 다만 핸디캡(-1.5)은 회피 권장",
+      "ai_picks": [
+        "언더 7.5",
+        "탬파베이 레이스 승"
+      ],
+      "aria_label": "탬파베이 레이스 vs 보스턴 레드삭스 05:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364283",
+      "url": "https://bbongtv4.com/premium/baseball/2000364283",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "07:10",
+      "status": "예정",
+      "result": null,
+      "team1": "클리블랜드 가디언스",
+      "team2": "오클랜드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "클리블랜드 승리",
+      "ai_picks": [
+        "클리블랜드 가디언스 승"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 오클랜드 07:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
       "id": "2000364284",
       "url": "https://bbongtv4.com/premium/baseball/2000364284",
       "sport": "baseball",
@@ -405,10 +502,10 @@
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 40.0,
-        "away": 60.0
+        "home": 35.0,
+        "away": 65.0
       },
-      "ai_summary": "시카고컵스 승리 (단, 신시내티 +1.5 핸디캡 커버 가능성 높음, 언더 추천)",
+      "ai_summary": "원정팀(시카고컵스) 승",
       "ai_picks": [
         "시카고 컵스 승",
         "신시내티 레즈 +1.5 승"
@@ -430,14 +527,113 @@
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 55.0,
-        "away": 45.0
+        "home": 52.0,
+        "away": 48.0
       },
-      "ai_summary": "피츠버그 승리 + 언더",
+      "ai_summary": "피츠버그(홈) 승리, 언더오버는 오버 8.5 추천",
       "ai_picks": [
         "피츠버그 파이어리츠 승"
       ],
       "aria_label": "피츠버그 파이어리츠 vs 캔자스시티 로열스 07:40 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364286",
+      "url": "https://bbongtv4.com/premium/baseball/2000364286",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "08:05",
+      "status": "예정",
+      "result": null,
+      "team1": "텍사스 레인저스",
+      "team2": "토론토 블루제이스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "언더 8.5 (로스코어 접전 예상), 텍사스 핸디캡 +1.5",
+      "ai_picks": [
+        "텍사스 레인저스 +1.5 승",
+        "언더 8.5"
+      ],
+      "aria_label": "텍사스 레인저스 vs 토론토 블루제이스 08:05 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364287",
+      "url": "https://bbongtv4.com/premium/baseball/2000364287",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "08:10",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고 화이트삭스",
+      "team2": "디트로이트 타이거스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "시카고화이트삭스 승 + 언더 8.5",
+      "ai_picks": [
+        "시카고 화이트삭스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "시카고 화이트삭스 vs 디트로이트 타이거스 08:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364288",
+      "url": "https://bbongtv4.com/premium/baseball/2000364288",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "08:10",
+      "status": "예정",
+      "result": null,
+      "team1": "휴스턴 애스트로스",
+      "team2": "애틀란타 브레이브스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "애틀랜타 승, 오버 8.5 공략 추천",
+      "ai_picks": [
+        "애틀란타 브레이브스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "휴스턴 애스트로스 vs 애틀란타 브레이브스 08:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364289",
+      "url": "https://bbongtv4.com/premium/baseball/2000364289",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "08:15",
+      "status": "예정",
+      "result": null,
+      "team1": "세인트루이스 카디널스",
+      "team2": "워싱턴 내셔널스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "세인트루이스 승리 및 언더 추천",
+      "ai_picks": [
+        "세인트루이스 카디널스 승"
+      ],
+      "aria_label": "세인트루이스 카디널스 vs 워싱턴 내셔널스 08:15 분석 상세",
       "source_date": "2026-09-20"
     },
     {
@@ -542,6 +738,30 @@
         "언더 3.5"
       ],
       "aria_label": "SJ 어스퀘이크스 vs 로스앤젤레스 FC 08:30 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000365015",
+      "url": "https://bbongtv4.com/premium/baseball/2000365015",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "09:10",
+      "status": "예정",
+      "result": null,
+      "team1": "애리조나 다이아몬드백스",
+      "team2": "NY 양키스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "뉴욕양키스 승리",
+      "ai_picks": [
+        "NY 양키스 승"
+      ],
+      "aria_label": "애리조나 다이아몬드백스 vs NY 양키스 09:10 분석 상세",
       "source_date": "2026-09-20"
     },
     {
@@ -671,6 +891,31 @@
       "source_date": "2026-09-20"
     },
     {
+      "id": "2000365017",
+      "url": "https://bbongtv4.com/premium/baseball/2000365017",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "09:40",
+      "status": "예정",
+      "result": null,
+      "team1": "샌디에이고 파드레스",
+      "team2": "마이애미 말린스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "샌디에이고 승리 (언더 7.5 접근 권장)",
+      "ai_picks": [
+        "샌디에이고 파드레스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs 마이애미 말린스 09:40 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
       "id": "2007203439",
       "url": "https://bbongtv4.com/premium/soccer/2007203439",
       "sport": "soccer",
@@ -744,6 +989,32 @@
         "밴쿠버 화이트캡스 승"
       ],
       "aria_label": "레알 솔트레이크 vs 밴쿠버 화이트캡스 10:30 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000365019",
+      "url": "https://bbongtv4.com/premium/baseball/2000365019",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "10:38",
+      "status": "예정",
+      "result": null,
+      "team1": "LA 에인절스",
+      "team2": "미네소타 트윈스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 5.0,
+        "away": 45.0
+      },
+      "ai_summary": "LA엔젤스 승, 언더 7.5",
+      "ai_picks": [
+        "LA 에인절스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "LA 에인절스 vs 미네소타 트윈스 10:38 분석 상세",
       "source_date": "2026-09-20"
     },
     {
