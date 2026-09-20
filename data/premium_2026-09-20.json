@@ -1,137 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-20",
-  "scraped_at": "2026-09-19T22:21:47.307873+00:00",
-  "count": 128,
+  "scraped_at": "2026-09-20T00:22:44.191131+00:00",
+  "count": 130,
   "matches": [
-    {
-      "id": "2007219529",
-      "url": "https://bbongtv4.com/premium/soccer/2007219529",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/20 (일)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미라솔",
-      "team2": "보",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "미라솔 결장자 대거 발생, 보타포구 RJ 원정 약점에도 접전 예상",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "미라솔 vs 보타포구 RJ 05:00 분석 상세",
-      "source_date": "2026-09-20"
-    },
-    {
-      "id": "2000364280",
-      "url": "https://bbongtv4.com/premium/baseball/2000364280",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/20 (일)",
-      "time": "05:05",
-      "status": "예정",
-      "result": null,
-      "team1": "볼티모어 오리올스",
-      "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "시즌 96승과 팀 방어율 3.59, 원정팀 안정감이 앞선 매치",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "오버 7.5",
-        "볼티모어 오리올스 +1.5 승"
-      ],
-      "aria_label": "볼티모어 오리올스 vs 밀워키 브루어스 05:05 분석 상세",
-      "source_date": "2026-09-20"
-    },
-    {
-      "id": "2000364281",
-      "url": "https://bbongtv4.com/premium/baseball/2000364281",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/20 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "NY 메츠",
-      "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "크리스천 스캇 방어율 3.76, 선발 맞대결에서 메츠가 마운드 우위",
-      "ai_picks": [
-        "NY 메츠 승",
-        "언더 8"
-      ],
-      "aria_label": "NY 메츠 vs 필라델피아 필리스 05:10 분석 상세",
-      "source_date": "2026-09-20"
-    },
-    {
-      "id": "2000364282",
-      "url": "https://bbongtv4.com/premium/baseball/2000364282",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/20 (일)",
-      "time": "05:10",
-      "status": "예정",
-      "result": null,
-      "team1": "탬파베이 레이스",
-      "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "탬파베이 홈 13경기 평균득점 5.46, 강한 홈타선이 변수",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "탬파베이 레이스 vs 보스턴 레드삭스 05:10 분석 상세",
-      "source_date": "2026-09-20"
-    },
-    {
-      "id": "2007220192",
-      "url": "https://bbongtv4.com/premium/soccer/2007220192",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "9/20 (일)",
-      "time": "06:30",
-      "status": "예정",
-      "result": null,
-      "team1": "레모",
-      "team2": "산토스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "산토스 최근 5경기 4승, 레모는 4연패 뒤 무승…흐름 격차 뚜렷",
-      "ai_picks": [
-        "산토스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "레모 vs 산토스 06:30 분석 상세",
-      "source_date": "2026-09-20"
-    },
     {
       "id": "2007228516",
       "url": "https://bbongtv4.com/premium/soccer/2007228516",
@@ -925,6 +797,57 @@
         "오버 157"
       ],
       "aria_label": "골든스테이트 발키리 여자 vs 시애틀 스톰 여자 10:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000645910",
+      "url": "https://bbongtv4.com/premium/hockey/2000645910",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "킹",
+      "team2": "LA 킹스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "LA 킹스, 주요 공격수 결장에도 시장 배당 우위로 홈 강세 기대",
+      "ai_picks": [
+        "LA 킹스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "LA 킹스 vs 베가스 골든 나이츠 10:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000646622",
+      "url": "https://bbongtv4.com/premium/hockey/2000646622",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시애틀 크라켄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "밴쿠버 커넉스, 대처 뎀코 결장으로 골리 전력 약화가 변수",
+      "ai_picks": [
+        "시애틀 크라켄 승",
+        "오버 5.5",
+        "밴쿠버 커넉스 +1.5 승"
+      ],
+      "aria_label": "시애틀 크라켄 vs 밴쿠버 커넉스 10:00 분석 상세",
       "source_date": "2026-09-20"
     },
     {
@@ -3306,6 +3229,134 @@
         "인디펜디엔테 +0.5 승"
       ],
       "aria_label": "산타페 유니온 vs 인디펜디엔테 04:45 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2007219529",
+      "url": "https://bbongtv4.com/premium/soccer/2007219529",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/20 (일)",
+      "time": "05:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미라솔",
+      "team2": "보",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "미라솔 결장자 대거 발생, 보타포구 RJ 원정 약점에도 접전 예상",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "미라솔 vs 보타포구 RJ 05:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364280",
+      "url": "https://bbongtv4.com/premium/baseball/2000364280",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:05",
+      "status": "예정",
+      "result": null,
+      "team1": "볼티모어 오리올스",
+      "team2": "밀워키 브루어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "시즌 96승과 팀 방어율 3.59, 원정팀 안정감이 앞선 매치",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "오버 7.5",
+        "볼티모어 오리올스 +1.5 승"
+      ],
+      "aria_label": "볼티모어 오리올스 vs 밀워키 브루어스 05:05 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364281",
+      "url": "https://bbongtv4.com/premium/baseball/2000364281",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NY 메츠",
+      "team2": "필라델피아 필리스",
+      "score1": 10,
+      "score2": 3,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "크리스천 스캇 방어율 3.76, 선발 맞대결에서 메츠가 마운드 우위",
+      "ai_picks": [
+        "NY 메츠 승",
+        "언더 8"
+      ],
+      "aria_label": "NY 메츠 vs 필라델피아 필리스 05:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000364282",
+      "url": "https://bbongtv4.com/premium/baseball/2000364282",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/20 (일)",
+      "time": "05:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "탬파베이 레이스",
+      "team2": "보스턴 레드삭스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "탬파베이 홈 13경기 평균득점 5.46, 강한 홈타선이 변수",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "탬파베이 레이스 vs 보스턴 레드삭스 05:10 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2007220192",
+      "url": "https://bbongtv4.com/premium/soccer/2007220192",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "9/20 (일)",
+      "time": "06:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레모",
+      "team2": "산토스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "산토스 최근 5경기 4승, 레모는 4연패 뒤 무승…흐름 격차 뚜렷",
+      "ai_picks": [
+        "산토스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레모 vs 산토스 06:30 분석 상세",
       "source_date": "2026-09-20"
     }
   ]

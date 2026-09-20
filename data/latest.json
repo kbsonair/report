@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T22:21:50.375772+00:00",
+  "scraped_at": "2026-09-20T00:22:47.514661+00:00",
   "kst_yesterday": "2026-09-19",
   "kst_today": "2026-09-20",
   "kst_tomorrow": "2026-09-21",
@@ -8,7 +8,7 @@
     "2026-09-20",
     "2026-09-21"
   ],
-  "count": 293,
+  "count": 295,
   "matches": [
     {
       "id": "2007215144",
@@ -2457,12 +2457,12 @@
       "league": "BRA D1",
       "date": "9/20 (일)",
       "time": "05:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미라솔",
       "team2": "보",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 32.0,
         "draw": 40.0,
@@ -2509,12 +2509,12 @@
       "league": "MLB",
       "date": "9/20 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 메츠",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 10,
+      "score2": 3,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -2534,12 +2534,12 @@
       "league": "MLB",
       "date": "9/20 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "탬파베이 레이스",
       "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -2559,12 +2559,12 @@
       "league": "BRA D1",
       "date": "9/20 (일)",
       "time": "06:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "레모",
       "team2": "산토스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 25.0,
         "draw": 20.0,
@@ -3371,6 +3371,57 @@
         "오버 157"
       ],
       "aria_label": "골든스테이트 발키리 여자 vs 시애틀 스톰 여자 10:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000645910",
+      "url": "https://bbongtv4.com/premium/hockey/2000645910",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "킹",
+      "team2": "LA 킹스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "LA 킹스, 주요 공격수 결장에도 시장 배당 우위로 홈 강세 기대",
+      "ai_picks": [
+        "LA 킹스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "LA 킹스 vs 베가스 골든 나이츠 10:00 분석 상세",
+      "source_date": "2026-09-20"
+    },
+    {
+      "id": "2000646622",
+      "url": "https://bbongtv4.com/premium/hockey/2000646622",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/20 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시애틀 크라켄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "밴쿠버 커넉스, 대처 뎀코 결장으로 골리 전력 약화가 변수",
+      "ai_picks": [
+        "시애틀 크라켄 승",
+        "오버 5.5",
+        "밴쿠버 커넉스 +1.5 승"
+      ],
+      "aria_label": "시애틀 크라켄 vs 밴쿠버 커넉스 10:00 분석 상세",
       "source_date": "2026-09-20"
     },
     {
