@@ -1,89 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-21",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-21",
-  "scraped_at": "2026-09-20T14:16:14.925208+00:00",
-  "count": 67,
+  "scraped_at": "2026-09-20T17:31:35.362285+00:00",
+  "count": 70,
   "matches": [
-    {
-      "id": "2007215144",
-      "url": "https://bbongtv4.com/premium/soccer/2007215144",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/21 (월)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산",
-      "team2": "산데피오르드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "draw": 38.0,
-        "away": 28.0
-      },
-      "ai_summary": "산데피오르드 결장 8명, 득점력 저하와 홈 부진이 변수로 작용",
-      "ai_picks": [
-        "언더 2.5",
-        "스타르트 +0.5 승"
-      ],
-      "aria_label": "산데피오르드 vs 스타르트 00:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "2007215197",
-      "url": "https://bbongtv4.com/premium/soccer/2007215197",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/21 (월)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트롬쇠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "트롬쇠, 홈 평균 실점 0.5로 수비 안정감 뚜렷…함캄 원정 약세와 대조",
-      "ai_picks": [
-        "트롬쇠 승",
-        "오버 2.5",
-        "함캄 +1.5 승"
-      ],
-      "aria_label": "트롬쇠 vs 함캄 00:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "2007217587",
-      "url": "https://bbongtv4.com/premium/soccer/2007217587",
-      "sport": "soccer",
-      "league": "NOR D1",
-      "date": "9/21 (월)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "비킹",
-      "team2": "릴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "draw": 19.0,
-        "away": 13.0
-      },
-      "ai_summary": "비킹 홈 9전 전승·평균득점 3.4, 압도적 공격력과 홈 강세가 핵심 변수",
-      "ai_picks": [
-        "비킹 승",
-        "오버 3.75",
-        "릴레스트롬 +1.5 승"
-      ],
-      "aria_label": "비킹 vs 릴레스트롬 00:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
     {
       "id": "2007219041",
       "url": "https://bbongtv4.com/premium/soccer/2007219041",
@@ -289,6 +209,31 @@
         "미네소타 링크스 여자 -17.5 승"
       ],
       "aria_label": "코네티컷 선 여자 vs 미네소타 링크스 여자 02:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000646620",
+      "url": "https://bbongtv4.com/premium/hockey/2000646620",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/21 (월)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "데",
+      "team2": "NJ 데빌스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "양 팀 모두 주전 센터 결장, 득점력 저하로 언더 5.5에 무게",
+      "ai_picks": [
+        "언더 5.5",
+        "NY 아일랜더스 승"
+      ],
+      "aria_label": "NJ 데빌스 vs NY 아일랜더스 02:00 분석 상세",
       "source_date": "2026-09-21"
     },
     {
@@ -968,6 +913,30 @@
       "source_date": "2026-09-21"
     },
     {
+      "id": "2000645911",
+      "url": "https://bbongtv4.com/premium/hockey/2000645911",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/21 (월)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애",
+      "team2": "애너하임 덕스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "산호세 샤크스 3명 결장, 애너하임 덕스 홈에서 전력 우위 뚜렷",
+      "ai_picks": [
+        "애너하임 덕스 승"
+      ],
+      "aria_label": "애너하임 덕스 vs 산호세 샤크스 05:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
       "id": "2007232427",
       "url": "https://bbongtv4.com/premium/soccer/2007232427",
       "sport": "soccer",
@@ -1120,6 +1089,31 @@
         "오버 8.5"
       ],
       "aria_label": "샌디에이고 파드레스 vs 마이애미 말린스 05:10 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000647545",
+      "url": "https://bbongtv4.com/premium/hockey/2000647545",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/21 (월)",
+      "time": "06:00",
+      "status": "예정",
+      "result": null,
+      "team1": "탬",
+      "team2": "탬파베이 라이트닝",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "탬파베이 라이트닝 승리 배당 1.33, 시장은 홈팀 우세에 무게",
+      "ai_picks": [
+        "탬파베이 라이트닝 승",
+        "언더 6"
+      ],
+      "aria_label": "탬파베이 라이트닝 vs 내슈빌 프레데터스 06:00 분석 상세",
       "source_date": "2026-09-21"
     },
     {
@@ -1429,7 +1423,9 @@
       },
       "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +2.67로 체급 우위 뚜렷",
       "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승"
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 7.5",
+        "라쿠텐 골든 이글스 +1.5 승"
       ],
       "aria_label": "라쿠텐 골든 이글스 vs 후쿠오카 소프트뱅크 호크스 13:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1453,7 +1449,8 @@
       },
       "ai_summary": "히로시마 카프, 원정 평균 실점 2.6으로 마운드 안정감 우위",
       "ai_picks": [
-        "히로시마 카프 승"
+        "히로시마 카프 승",
+        "오버 6.5"
       ],
       "aria_label": "중일 드래곤즈 vs 히로시마 카프 14:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1477,7 +1474,9 @@
       },
       "ai_summary": "요코하마 베이스타즈, 최근 6경기 5승과 원정 강세로 상승세 뚜렷",
       "ai_picks": [
-        "요코하마 베이스타즈 승"
+        "요코하마 베이스타즈 승",
+        "언더 6.5",
+        "한신 타이거스 +1.5 승"
       ],
       "aria_label": "한신 타이거스 vs 요코하마 베이스타즈 14:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1501,7 +1500,8 @@
       },
       "ai_summary": "닛폰햄 파이터스, 홈 평균득점 4.63으로 오릭스 원정 실점 4.33을 압도",
       "ai_picks": [
-        "닛폰햄 파이터스 승"
+        "닛폰햄 파이터스 승",
+        "오버 7.5"
       ],
       "aria_label": "닛폰햄 파이터스 vs 오릭스 버팔로스 14:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1626,7 +1626,9 @@
       },
       "ai_summary": "원정 평균실점 2.64, 세이부 실점 억제력이 승부의 축",
       "ai_picks": [
-        "세이부 라이온스 승"
+        "세이부 라이온스 승",
+        "언더 6.5",
+        "치바 롯데 마리너스 +1.5 승"
       ],
       "aria_label": "치바 롯데 마리너스 vs 세이부 라이온스 18:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1727,6 +1729,86 @@
         "베트남 여자 승"
       ],
       "aria_label": "베트남 여자 vs 태국 여자 19:30 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2007215144",
+      "url": "https://bbongtv4.com/premium/soccer/2007215144",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/21 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "산",
+      "team2": "산데피오르드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 34.0,
+        "draw": 38.0,
+        "away": 28.0
+      },
+      "ai_summary": "산데피오르드 결장 8명, 득점력 저하와 홈 부진이 변수로 작용",
+      "ai_picks": [
+        "언더 2.5",
+        "스타르트 +0.5 승"
+      ],
+      "aria_label": "산데피오르드 vs 스타르트 00:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2007215197",
+      "url": "https://bbongtv4.com/premium/soccer/2007215197",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/21 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "트",
+      "team2": "트롬쇠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "트롬쇠, 홈 평균 실점 0.5로 수비 안정감 뚜렷…함캄 원정 약세와 대조",
+      "ai_picks": [
+        "트롬쇠 승",
+        "오버 2.5",
+        "함캄 +1.5 승"
+      ],
+      "aria_label": "트롬쇠 vs 함캄 00:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2007217587",
+      "url": "https://bbongtv4.com/premium/soccer/2007217587",
+      "sport": "soccer",
+      "league": "NOR D1",
+      "date": "9/21 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "비킹",
+      "team2": "릴",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 68.0,
+        "draw": 19.0,
+        "away": 13.0
+      },
+      "ai_summary": "비킹 홈 9전 전승·평균득점 3.4, 압도적 공격력과 홈 강세가 핵심 변수",
+      "ai_picks": [
+        "비킹 승",
+        "오버 3.75",
+        "릴레스트롬 +1.5 승"
+      ],
+      "aria_label": "비킹 vs 릴레스트롬 00:00 분석 상세",
       "source_date": "2026-09-21"
     }
   ]
