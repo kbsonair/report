@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-20T05:23:48.823875+00:00",
+  "scraped_at": "2026-09-20T10:05:41.060036+00:00",
   "kst_yesterday": "2026-09-19",
   "kst_today": "2026-09-20",
   "kst_tomorrow": "2026-09-21",
@@ -291,7 +291,8 @@
       },
       "ai_summary": "미네소타 링크스 여자, 시즌 득실차 +6.96으로 코네티컷 선 여자 압도",
       "ai_picks": [
-        "미네소타 링크스 여자 승"
+        "미네소타 링크스 여자 승",
+        "미네소타 링크스 여자 -17.5 승"
       ],
       "aria_label": "코네티컷 선 여자 vs 미네소타 링크스 여자 02:00 분석 상세",
       "source_date": "2026-09-21"
@@ -549,7 +550,9 @@
       },
       "ai_summary": "OPS .771 대 .703, 컵스 타선 우위가 원정 약세를 흔든다",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "오버 9.5",
+        "신시내티 레즈 +1.5 승"
       ],
       "aria_label": "신시내티 레즈 vs 시카고 컵스 02:40 분석 상세",
       "source_date": "2026-09-21"
@@ -728,7 +731,8 @@
       },
       "ai_summary": "텍사스 레인저스, 홈 평균득점 5.64로 강한 공격력 유지",
       "ai_picks": [
-        "텍사스 레인저스 승"
+        "텍사스 레인저스 승",
+        "언더 7.5"
       ],
       "aria_label": "텍사스 레인저스 vs 토론토 블루제이스 03:35 분석 상세",
       "source_date": "2026-09-21"
@@ -806,7 +810,9 @@
       },
       "ai_summary": "뉴욕 리버티 여자 최근 원정 4승1패, 토론토 템포 여자 연패 부진과 대조",
       "ai_picks": [
-        "뉴욕 리버티 여자 승"
+        "뉴욕 리버티 여자 승",
+        "오버 177.5",
+        "뉴욕 리버티 여자 -13.5 승"
       ],
       "aria_label": "토론토 템포 여자 vs 뉴욕 리버티 여자 04:00 분석 상세",
       "source_date": "2026-09-21"
@@ -961,7 +967,8 @@
       },
       "ai_summary": "홈 평균 103.67점 인디애나, 6연승 화력이 판 흔든다",
       "ai_picks": [
-        "인디애나 피버 여자 승"
+        "인디애나 피버 여자 승",
+        "오버 177.5"
       ],
       "aria_label": "인디애나 피버 여자 vs 워싱턴 미스틱스 여자 05:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1089,7 +1096,9 @@
       },
       "ai_summary": "LA 다저스, 홈 8승2패·평균득점 6.6의 강세가 SF 자이언츠와의 체급 차를 뚜렷하게 만든다",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 7.5",
+        "LA 다저스 -1.5 승"
       ],
       "aria_label": "LA 다저스 vs SF 자이언츠 05:10 분석 상세",
       "source_date": "2026-09-21"
@@ -1216,7 +1225,9 @@
       },
       "ai_summary": "로스앤젤레스 스파크스 여자, 최근 맞대결 모두 승리하며 상대 우위 유지",
       "ai_picks": [
-        "로스앤젤레스 스파크스 여자 승"
+        "로스앤젤레스 스파크스 여자 승",
+        "언더 176",
+        "로스앤젤레스 스파크스 여자 -1.5 승"
       ],
       "aria_label": "로스앤젤레스 스파크스 여자 vs 포틀랜드 파이어 여자 08:00 분석 상세",
       "source_date": "2026-09-21"
@@ -1372,7 +1383,9 @@
       },
       "ai_summary": "라스베가스 에이시스 여자, 최근 6경기 중 5승과 114-77 대승으로 상승세 뚜렷",
       "ai_picks": [
-        "라스베가스 에이시스 여자 승"
+        "라스베가스 에이시스 여자 승",
+        "라스베가스 에이시스 여자 -15.5 승",
+        "오버 176.5"
       ],
       "aria_label": "라스베가스 에이시스 여자 vs 시애틀 스톰 여자 10:00 분석 상세",
       "source_date": "2026-09-21"
@@ -3566,12 +3579,12 @@
       "league": "MLB",
       "date": "9/20 (일)",
       "time": "10:38",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 에인절스",
       "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -3617,12 +3630,12 @@
       "league": "MEX D1",
       "date": "9/20 (일)",
       "time": "12:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "클",
       "team2": "클럽 아메리카",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 37.0,
         "draw": 30.0,
@@ -3643,12 +3656,12 @@
       "league": "KBO",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "KT 위즈",
       "team2": "두산 베어스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 8,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -3669,12 +3682,12 @@
       "league": "KBO",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NC 다이노스",
       "team2": "KIA 타이거즈",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 8,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -3694,12 +3707,12 @@
       "league": "NPB",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "닛폰햄 파이터스",
       "team2": "오릭스 버팔로스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 9,
       "prob": {
         "home": 65.0,
         "away": 35.0
@@ -3719,12 +3732,12 @@
       "league": "NPB",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "라쿠텐 골든 이글스",
       "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 3,
       "prob": {
         "home": 28.0,
         "away": 72.0
@@ -3744,12 +3757,12 @@
       "league": "NPB",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요미우리 자이언츠",
       "team2": "야쿠르트 스왈로즈",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -3769,12 +3782,12 @@
       "league": "KBO",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LG 트윈스",
       "team2": "한화 이글스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -3794,12 +3807,12 @@
       "league": "KBO",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "롯데 자이언츠",
       "team2": "삼성 라이온즈",
-      "score1": null,
-      "score2": null,
+      "score1": 13,
+      "score2": 6,
       "prob": {
         "home": 43.0,
         "away": 57.0
@@ -3820,12 +3833,12 @@
       "league": "KBO",
       "date": "9/20 (일)",
       "time": "14:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SSG 랜더스",
       "team2": "키움 히어로즈",
-      "score1": null,
-      "score2": null,
+      "score1": 10,
+      "score2": 5,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -3945,12 +3958,12 @@
       "league": "KOR D2",
       "date": "9/20 (일)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "안산그리너스",
       "team2": "청주",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 20.0,
         "draw": 25.0,
@@ -3971,12 +3984,12 @@
       "league": "KOR D2",
       "date": "9/20 (일)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "용인",
       "team2": "경남FC",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 32.0,
         "draw": 40.0,
@@ -3998,12 +4011,12 @@
       "league": "KOR D1",
       "date": "9/20 (일)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "강원FC",
       "team2": "제주SK",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 32.0,
         "draw": 40.0,
@@ -4024,12 +4037,12 @@
       "league": "KOR D1",
       "date": "9/20 (일)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "전북현대",
       "team2": "광주FC",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 68.0,
         "draw": 22.0,
