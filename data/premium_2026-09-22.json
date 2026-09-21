@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-22",
   "source_date": "2026-09-22",
-  "scraped_at": "2026-09-21T05:10:07.484085+00:00",
-  "count": 19,
+  "scraped_at": "2026-09-21T10:49:52.254369+00:00",
+  "count": 27,
   "matches": [
     {
       "id": "2000643365",
@@ -132,6 +132,126 @@
       "source_date": "2026-09-22"
     },
     {
+      "id": "2000645915",
+      "url": "https://bbongtv4.com/premium/hockey/2000645915",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "워",
+      "team2": "워싱턴 캐피털스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "워싱턴 캐피털스, 2위 순위와 시장 배당에서 근소한 우위",
+      "ai_picks": [
+        "워싱턴 캐피털스 승"
+      ],
+      "aria_label": "워싱턴 캐피털스 vs 필라델피아 플라이어스 08:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000646415",
+      "url": "https://bbongtv4.com/premium/hockey/2000646415",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "콜",
+      "team2": "콜럼버스 블루재킷스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "콜럼버스 블루재킷스, 아담 판틸리 결장에도 시장 배당에서 근소한 우위",
+      "ai_picks": [
+        "콜럼버스 블루재킷스 승"
+      ],
+      "aria_label": "콜럼버스 블루재킷스 vs 디트로이트 레드윙스 08:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000646416",
+      "url": "https://bbongtv4.com/premium/hockey/2000646416",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "피",
+      "team2": "피츠버그 펭귄스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "양 팀 모두 주전 결장, 시장은 완벽한 균형 배당으로 팽팽함 반영",
+      "ai_picks": [
+        "피츠버그 펭귄스 승"
+      ],
+      "aria_label": "피츠버그 펭귄스 vs 버팔로 세이버스 08:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000646623",
+      "url": "https://bbongtv4.com/premium/hockey/2000646623",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "데",
+      "team2": "NJ 데빌스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "데빌스 2-1 승리, 결장자 공백에도 홈에서 안정적 출발",
+      "ai_picks": [
+        "NJ 데빌스 승"
+      ],
+      "aria_label": "NJ 데빌스 vs NY 레인저스 08:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000647555",
+      "url": "https://bbongtv4.com/premium/hockey/2000647555",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "몬",
+      "team2": "몬트리올 캐나디언스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "몬트리올 캐나디언스, 최근 2경기 8득점으로 공격력 앞선다",
+      "ai_picks": [
+        "몬트리올 캐나디언스 승"
+      ],
+      "aria_label": "몬트리올 캐나디언스 vs 오타와 세너터스 08:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
       "id": "2001021263",
       "url": "https://bbongtv4.com/premium/basket/2001021263",
       "sport": "basket",
@@ -155,6 +275,78 @@
         "뉴욕 리버티 여자 +1.5 승"
       ],
       "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 09:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000645916",
+      "url": "https://bbongtv4.com/premium/hockey/2000645916",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "위",
+      "team2": "위니펙 제츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "위니펙 제츠, 코너 헬레뷔크 결장 변수로 수비 불안 우려",
+      "ai_picks": [
+        "콜로라도 애벌런치 승"
+      ],
+      "aria_label": "위니펙 제츠 vs 콜로라도 애벌런치 09:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000648967",
+      "url": "https://bbongtv4.com/premium/hockey/2000648967",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시카고 블랙호크스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "미네소타 와일드, 최근 맞대결 3-2 승리로 심리적 우위 확보",
+      "ai_picks": [
+        "미네소타 와일드 승"
+      ],
+      "aria_label": "시카고 블랙호크스 vs 미네소타 와일드 09:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000648968",
+      "url": "https://bbongtv4.com/premium/hockey/2000648968",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/22 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈",
+      "team2": "댈러스 스타스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "댈러스 스타스, 최근 맞대결 2-1 승리로 상승세 유지",
+      "ai_picks": [
+        "댈러스 스타스 승"
+      ],
+      "aria_label": "댈러스 스타스 vs 세인트루이스 블루스 09:00 분석 상세",
       "source_date": "2026-09-22"
     },
     {

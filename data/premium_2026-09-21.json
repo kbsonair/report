@@ -1,212 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-21",
-  "scraped_at": "2026-09-21T05:10:04.555055+00:00",
+  "scraped_at": "2026-09-21T10:49:48.981985+00:00",
   "count": 70,
   "matches": [
-    {
-      "id": "2000359470",
-      "url": "https://bbongtv4.com/premium/baseball/2000359470",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/21 (월)",
-      "time": "13:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라쿠텐 골든 이글스",
-      "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +2.67로 체급 우위 뚜렷",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 7.5",
-        "라쿠텐 골든 이글스 +1.5 승"
-      ],
-      "aria_label": "라쿠텐 골든 이글스 vs 후쿠오카 소프트뱅크 호크스 13:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "2000359471",
-      "url": "https://bbongtv4.com/premium/baseball/2000359471",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/21 (월)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "중일 드래곤즈",
-      "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "히로시마 카프, 원정 평균 실점 2.6으로 마운드 안정감 우위",
-      "ai_picks": [
-        "히로시마 카프 승",
-        "오버 6.5"
-      ],
-      "aria_label": "중일 드래곤즈 vs 히로시마 카프 14:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "2000359472",
-      "url": "https://bbongtv4.com/premium/baseball/2000359472",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/21 (월)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한신 타이거스",
-      "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "요코하마 베이스타즈, 최근 6경기 5승과 원정 강세로 상승세 뚜렷",
-      "ai_picks": [
-        "요코하마 베이스타즈 승",
-        "언더 6.5",
-        "한신 타이거스 +1.5 승"
-      ],
-      "aria_label": "한신 타이거스 vs 요코하마 베이스타즈 14:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "2000359473",
-      "url": "https://bbongtv4.com/premium/baseball/2000359473",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/21 (월)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "닛폰햄 파이터스",
-      "team2": "오릭스 버팔로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "닛폰햄 파이터스, 홈 평균득점 4.63으로 오릭스 원정 실점 4.33을 압도",
-      "ai_picks": [
-        "닛폰햄 파이터스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "닛폰햄 파이터스 vs 오릭스 버팔로스 14:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "16490790",
-      "url": "https://bbongtv4.com/premium/soccer/16490790",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/21 (월)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "방글라데시 (W)",
-      "team2": "미얀마 (W)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 15.0,
-        "away": 65.0
-      },
-      "ai_summary": "미얀마 (W) 승",
-      "ai_picks": [
-        "미얀마 (W) 승"
-      ],
-      "aria_label": "방글라데시 (W) vs 미얀마 (W) 16:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "16490791",
-      "url": "https://bbongtv4.com/premium/soccer/16490791",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/21 (월)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "중국 여자",
-      "team2": "필리핀 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "중국 (W) 승",
-      "ai_picks": [
-        "중국 여자 승"
-      ],
-      "aria_label": "중국 여자 vs 필리핀 여자 16:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "16490792",
-      "url": "https://bbongtv4.com/premium/soccer/16490792",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/21 (월)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대한민국 여자",
-      "team2": "북한 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "북한 (W) 승",
-      "ai_picks": [
-        "북한 여자 승"
-      ],
-      "aria_label": "대한민국 여자 vs 북한 여자 16:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
-    {
-      "id": "16490793",
-      "url": "https://bbongtv4.com/premium/soccer/16490793",
-      "sport": "soccer",
-      "league": "AGSW",
-      "date": "9/21 (월)",
-      "time": "16:00",
-      "status": "예정",
-      "result": null,
-      "team1": "우즈베키스탄 여자",
-      "team2": "홍콩 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "draw": 20.0,
-        "away": 12.0
-      },
-      "ai_summary": "우즈베키스탄 여자, 최근 2경기 연속 무승부에도 홍콩 여자보다 득점력 앞선다",
-      "ai_picks": [
-        "우즈베키스탄 여자 승",
-        "언더 3"
-      ],
-      "aria_label": "우즈베키스탄 여자 vs 홍콩 여자 16:00 분석 상세",
-      "source_date": "2026-09-21"
-    },
     {
       "id": "2000359474",
       "url": "https://bbongtv4.com/premium/baseball/2000359474",
@@ -295,13 +92,14 @@
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 85.0,
-        "draw": 10.0,
-        "away": 5.0
+        "home": 90.0,
+        "draw": 8.0,
+        "away": 2.0
       },
-      "ai_summary": "일본 (W) 승",
+      "ai_summary": "일본 여자, 최근 2경기 연속 8-0 대승으로 압도적 득점력 과시",
       "ai_picks": [
-        "일본 여자 승"
+        "일본 여자 승",
+        "오버 5.5"
       ],
       "aria_label": "일본 여자 vs 대만 여자 19:30 분석 상세",
       "source_date": "2026-09-21"
@@ -1809,6 +1607,209 @@
         "레온 +0.5 승"
       ],
       "aria_label": "케레타로 vs 레온 11:10 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000359470",
+      "url": "https://bbongtv4.com/premium/baseball/2000359470",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/21 (월)",
+      "time": "13:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라쿠텐 골든 이글스",
+      "team2": "후쿠오카 소프트뱅크 호크스",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실차 +2.67로 체급 우위 뚜렷",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 7.5",
+        "라쿠텐 골든 이글스 +1.5 승"
+      ],
+      "aria_label": "라쿠텐 골든 이글스 vs 후쿠오카 소프트뱅크 호크스 13:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000359471",
+      "url": "https://bbongtv4.com/premium/baseball/2000359471",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/21 (월)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중일 드래곤즈",
+      "team2": "히로시마 카프",
+      "score1": 10,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "히로시마 카프, 원정 평균 실점 2.6으로 마운드 안정감 우위",
+      "ai_picks": [
+        "히로시마 카프 승",
+        "오버 6.5"
+      ],
+      "aria_label": "중일 드래곤즈 vs 히로시마 카프 14:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000359472",
+      "url": "https://bbongtv4.com/premium/baseball/2000359472",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/21 (월)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한신 타이거스",
+      "team2": "요코하마 베이스타즈",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "요코하마 베이스타즈, 최근 6경기 5승과 원정 강세로 상승세 뚜렷",
+      "ai_picks": [
+        "요코하마 베이스타즈 승",
+        "언더 6.5",
+        "한신 타이거스 +1.5 승"
+      ],
+      "aria_label": "한신 타이거스 vs 요코하마 베이스타즈 14:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "2000359473",
+      "url": "https://bbongtv4.com/premium/baseball/2000359473",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/21 (월)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "닛폰햄 파이터스",
+      "team2": "오릭스 버팔로스",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "닛폰햄 파이터스, 홈 평균득점 4.63으로 오릭스 원정 실점 4.33을 압도",
+      "ai_picks": [
+        "닛폰햄 파이터스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "닛폰햄 파이터스 vs 오릭스 버팔로스 14:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "16490790",
+      "url": "https://bbongtv4.com/premium/soccer/16490790",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/21 (월)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "방글라데시 (W)",
+      "team2": "미얀마 (W)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 15.0,
+        "away": 65.0
+      },
+      "ai_summary": "미얀마 (W) 승",
+      "ai_picks": [
+        "미얀마 (W) 승"
+      ],
+      "aria_label": "방글라데시 (W) vs 미얀마 (W) 16:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "16490791",
+      "url": "https://bbongtv4.com/premium/soccer/16490791",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/21 (월)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중국 여자",
+      "team2": "필리핀 여자",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "중국 (W) 승",
+      "ai_picks": [
+        "중국 여자 승"
+      ],
+      "aria_label": "중국 여자 vs 필리핀 여자 16:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "16490792",
+      "url": "https://bbongtv4.com/premium/soccer/16490792",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/21 (월)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대한민국 여자",
+      "team2": "북한 여자",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "북한 (W) 승",
+      "ai_picks": [
+        "북한 여자 승"
+      ],
+      "aria_label": "대한민국 여자 vs 북한 여자 16:00 분석 상세",
+      "source_date": "2026-09-21"
+    },
+    {
+      "id": "16490793",
+      "url": "https://bbongtv4.com/premium/soccer/16490793",
+      "sport": "soccer",
+      "league": "AGSW",
+      "date": "9/21 (월)",
+      "time": "16:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "우즈베키스탄 여자",
+      "team2": "홍콩 여자",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "draw": 20.0,
+        "away": 12.0
+      },
+      "ai_summary": "우즈베키스탄 여자, 최근 2경기 연속 무승부에도 홍콩 여자보다 득점력 앞선다",
+      "ai_picks": [
+        "우즈베키스탄 여자 승",
+        "언더 3"
+      ],
+      "aria_label": "우즈베키스탄 여자 vs 홍콩 여자 16:00 분석 상세",
       "source_date": "2026-09-21"
     }
   ]
