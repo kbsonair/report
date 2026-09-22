@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T23:56:32.024266+00:00",
+  "scraped_at": "2026-09-22T04:36:24.381458+00:00",
   "kst_yesterday": "2026-09-21",
   "kst_today": "2026-09-22",
   "kst_tomorrow": "2026-09-23",
@@ -356,7 +356,9 @@
       },
       "ai_summary": "시카고 컵스, 최근 6경기 4승과 홈 평균득점 7.31로 공격 우위",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "오버 6.5",
+        "시카고 컵스 -1.5 승"
       ],
       "aria_label": "시카고 컵스 vs 마이애미 말린스 08:40 분석 상세",
       "source_date": "2026-09-23"
@@ -508,7 +510,9 @@
       },
       "ai_summary": "오클랜드 6연패와 팀 방어율 5.44, 후반 불펜 운용이 변수",
       "ai_picks": [
-        "LA 에인절스 승"
+        "LA 에인절스 승",
+        "언더 9.5",
+        "오클랜드 +1.5 승"
       ],
       "aria_label": "오클랜드 vs LA 에인절스 10:40 분석 상세",
       "source_date": "2026-09-23"
@@ -532,7 +536,8 @@
       },
       "ai_summary": "로건 길버트 방어율 3.69, 자비엘 5.31로 선발 투수력에서 시애틀 우위",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "언더 7.5"
       ],
       "aria_label": "시애틀 매리너스 vs 휴스턴 애스트로스 10:40 분석 상세",
       "source_date": "2026-09-23"
@@ -556,7 +561,8 @@
       },
       "ai_summary": "앤서니 모리나와 타지 브라드리의 방어율 4.18 대 3.81, 투수전보다 불펜과 후반 집중력이 변수",
       "ai_picks": [
-        "미네소타 트윈스 승"
+        "미네소타 트윈스 승",
+        "오버 7.5"
       ],
       "aria_label": "SF 자이언츠 vs 미네소타 트윈스 10:45 분석 상세",
       "source_date": "2026-09-23"
@@ -580,7 +586,9 @@
       },
       "ai_summary": "A. 윌슨과 J. 영의 득점력, 홈에서 86.23점 기록한 라스베가스 우위",
       "ai_picks": [
-        "라스베가스 에이시스 여자 승"
+        "라스베가스 에이시스 여자 승",
+        "오버 178.5",
+        "라스베가스 에이시스 여자 -16.5 승"
       ],
       "aria_label": "라스베가스 에이시스 여자 vs 로스앤젤레스 스파크스 여자 11:00 분석 상세",
       "source_date": "2026-09-23"
@@ -629,7 +637,9 @@
       },
       "ai_summary": "홈 10승2패와 오피에스 .765, 다저스 체급 우위가 보인다",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "오버 8.5",
+        "LA 다저스 +1.5 승"
       ],
       "aria_label": "LA 다저스 vs 샌디에이고 파드레스 11:10 분석 상세",
       "source_date": "2026-09-23"
@@ -1104,12 +1114,12 @@
       "league": "ARG D1",
       "date": "9/22 (화)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "바",
       "team2": "바라카스 센트럴",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 30.0,
         "draw": 38.0,
@@ -1130,12 +1140,12 @@
       "league": "MLB",
       "date": "9/22 (화)",
       "time": "07:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼티모어 오리올스",
       "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -1155,12 +1165,12 @@
       "league": "MLB",
       "date": "9/22 (화)",
       "time": "07:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디트로이트 타이거스",
       "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -1181,12 +1191,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워",
       "team2": "워싱턴 캐피털스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -1206,12 +1216,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜",
       "team2": "콜럼버스 블루재킷스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1231,12 +1241,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "피",
       "team2": "피츠버그 펭귄스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 1,
       "prob": {
         "home": 50.0,
         "away": 50.0
@@ -1256,12 +1266,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "데",
       "team2": "NJ 데빌스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1281,12 +1291,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "몬",
       "team2": "몬트리올 캐나디언스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1306,12 +1316,12 @@
       "league": "WNBA",
       "date": "9/22 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴욕 리버티 여자",
       "team2": "애틀랜타 드림 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 84,
+      "score2": 95,
       "prob": {
         "home": 45.0,
         "away": 55.0
@@ -1332,12 +1342,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "위",
       "team2": "위니펙 제츠",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 47.0,
         "away": 53.0
@@ -1358,12 +1368,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시",
       "team2": "시카고 블랙호크스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -1384,12 +1394,12 @@
       "league": "NHL",
       "date": "9/22 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "댈",
       "team2": "댈러스 스타스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1409,12 +1419,12 @@
       "league": "ARG D1",
       "date": "9/22 (화)",
       "time": "09:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "라누스",
       "team2": "에스투디안테스 라 플라타",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 37.0,
         "draw": 35.0,
