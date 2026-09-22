@@ -1,158 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-23",
-  "scraped_at": "2026-09-22T18:09:06.769878+00:00",
-  "count": 48,
+  "scraped_at": "2026-09-22T21:27:22.861141+00:00",
+  "count": 50,
   "matches": [
-    {
-      "id": "2000643368",
-      "url": "https://bbongtv4.com/premium/hockey/2000643368",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/23 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "디나모 모스크바 홈 2승 무패, 바리스 아스타나 원정 득점력도 위협적",
-      "ai_picks": [
-        "디나모 모스크바 승"
-      ],
-      "aria_label": "디나모 모스크바 vs 바리스 아스타나 01:30 분석 상세",
-      "source_date": "2026-09-23"
-    },
-    {
-      "id": "2000643369",
-      "url": "https://bbongtv4.com/premium/hockey/2000643369",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/23 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 53.0,
-        "away": 47.0
-      },
-      "ai_summary": "니즈니노브고로드 원정 강세, 아반가르드 옴스크 원정 부진이 변수",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "니즈니노브고로드 vs 아반가르드 옴스크 01:30 분석 상세",
-      "source_date": "2026-09-23"
-    },
-    {
-      "id": "2000643370",
-      "url": "https://bbongtv4.com/premium/hockey/2000643370",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/23 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "상하이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "away": 59.0
-      },
-      "ai_summary": "상하이 최근 4경기 평균실점 4.25, 수비 불안이 변수로 작용",
-      "ai_picks": [
-        "예카테린부르크 승"
-      ],
-      "aria_label": "상하이 vs 예카테린부르크 01:30 분석 상세",
-      "source_date": "2026-09-23"
-    },
-    {
-      "id": "2000352666",
-      "url": "https://bbongtv4.com/premium/baseball/2000352666",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/23 (수)",
-      "time": "02:05",
-      "status": "예정",
-      "result": null,
-      "team1": "NY 양키스",
-      "team2": "탬파베이 레이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "홈 평균득점 6.17 양키스, 원정 4.2 레이스와 접전 구도",
-      "ai_picks": [
-        "NY 양키스 승",
-        "언더 7.5",
-        "탬파베이 레이스 +1.5 승"
-      ],
-      "aria_label": "NY 양키스 vs 탬파베이 레이스 02:05 분석 상세",
-      "source_date": "2026-09-23"
-    },
-    {
-      "id": "2007257283",
-      "url": "https://bbongtv4.com/premium/soccer/2007257283",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "9/23 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "브",
-      "team2": "브레인트리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 34.0,
-        "away": 33.0
-      },
-      "ai_summary": "양 팀 최근 3경기 모두 무패, 득점력은 니덤 마켓이 앞선다",
-      "ai_picks": [
-        "무승부"
-      ],
-      "aria_label": "브레인트리 vs 니덤 마켓 03:45 분석 상세",
-      "source_date": "2026-09-23"
-    },
-    {
-      "id": "2007257292",
-      "url": "https://bbongtv4.com/premium/soccer/2007257292",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "9/23 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트루로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 26.0,
-        "away": 18.0
-      },
-      "ai_summary": "트루로 홈 2경기 2승·평균 3득점, 공격력에서 우위 뚜렷",
-      "ai_picks": [
-        "트루로 승",
-        "오버 2.5"
-      ],
-      "aria_label": "트루로 vs 머서타운 03:45 분석 상세",
-      "source_date": "2026-09-23"
-    },
     {
       "id": "2000365197",
       "url": "https://bbongtv4.com/premium/baseball/2000365197",
@@ -302,6 +153,31 @@
         "언더 5.5"
       ],
       "aria_label": "보스턴 브루인스 vs 필라델피아 플라이어스 08:00 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000646417",
+      "url": "https://bbongtv4.com/premium/hockey/2000646417",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/23 (수)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "피",
+      "team2": "피츠버그 펭귄스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "디트로이트 레드윙스 핵심 결장, 피츠버그 펭귄스 홈 우위에 힘 실린다",
+      "ai_picks": [
+        "피츠버그 펭귄스 승",
+        "언더 6"
+      ],
+      "aria_label": "피츠버그 펭귄스 vs 디트로이트 레드윙스 08:00 분석 상세",
       "source_date": "2026-09-23"
     },
     {
@@ -558,6 +434,32 @@
         "인디애나 피버 여자 +1.5 승"
       ],
       "aria_label": "인디애나 피버 여자 vs 미네소타 링크스 여자 09:00 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000645918",
+      "url": "https://bbongtv4.com/premium/hockey/2000645918",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/23 (수)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "위",
+      "team2": "위니펙 제츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "코너 헬레뷔크 결장과 최근 맞대결 2-5 패배, 위니펙 제츠 수비 불안이 변수",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "오버 6",
+        "에드먼턴 오일러스 +1.5 승"
+      ],
+      "aria_label": "위니펙 제츠 vs 에드먼턴 오일러스 09:00 분석 상세",
       "source_date": "2026-09-23"
     },
     {
@@ -1215,6 +1117,155 @@
         "오만 +0.5 승"
       ],
       "aria_label": "이라크 vs 오만 23:30 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000643368",
+      "url": "https://bbongtv4.com/premium/hockey/2000643368",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/23 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디",
+      "team2": "디나모 모스크바",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "디나모 모스크바 홈 2승 무패, 바리스 아스타나 원정 득점력도 위협적",
+      "ai_picks": [
+        "디나모 모스크바 승"
+      ],
+      "aria_label": "디나모 모스크바 vs 바리스 아스타나 01:30 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000643369",
+      "url": "https://bbongtv4.com/premium/hockey/2000643369",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/23 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니",
+      "team2": "니즈니노브고로드",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 53.0,
+        "away": 47.0
+      },
+      "ai_summary": "니즈니노브고로드 원정 강세, 아반가르드 옴스크 원정 부진이 변수",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "니즈니노브고로드 vs 아반가르드 옴스크 01:30 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000643370",
+      "url": "https://bbongtv4.com/premium/hockey/2000643370",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/23 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "상",
+      "team2": "상하이",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 41.0,
+        "away": 59.0
+      },
+      "ai_summary": "상하이 최근 4경기 평균실점 4.25, 수비 불안이 변수로 작용",
+      "ai_picks": [
+        "예카테린부르크 승"
+      ],
+      "aria_label": "상하이 vs 예카테린부르크 01:30 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2000352666",
+      "url": "https://bbongtv4.com/premium/baseball/2000352666",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/23 (수)",
+      "time": "02:05",
+      "status": "예정",
+      "result": null,
+      "team1": "NY 양키스",
+      "team2": "탬파베이 레이스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "홈 평균득점 6.17 양키스, 원정 4.2 레이스와 접전 구도",
+      "ai_picks": [
+        "NY 양키스 승",
+        "언더 7.5",
+        "탬파베이 레이스 +1.5 승"
+      ],
+      "aria_label": "NY 양키스 vs 탬파베이 레이스 02:05 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2007257283",
+      "url": "https://bbongtv4.com/premium/soccer/2007257283",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "9/23 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "브",
+      "team2": "브레인트리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 34.0,
+        "away": 33.0
+      },
+      "ai_summary": "양 팀 최근 3경기 모두 무패, 득점력은 니덤 마켓이 앞선다",
+      "ai_picks": [
+        "무승부"
+      ],
+      "aria_label": "브레인트리 vs 니덤 마켓 03:45 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "2007257292",
+      "url": "https://bbongtv4.com/premium/soccer/2007257292",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "9/23 (수)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "트",
+      "team2": "트루로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "draw": 26.0,
+        "away": 18.0
+      },
+      "ai_summary": "트루로 홈 2경기 2승·평균 3득점, 공격력에서 우위 뚜렷",
+      "ai_picks": [
+        "트루로 승",
+        "오버 2.5"
+      ],
+      "aria_label": "트루로 vs 머서타운 03:45 분석 상세",
       "source_date": "2026-09-23"
     }
   ]
