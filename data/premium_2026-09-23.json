@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-23",
   "source_date": "2026-09-23",
-  "scraped_at": "2026-09-22T04:36:24.299107+00:00",
-  "count": 42,
+  "scraped_at": "2026-09-22T09:28:38.872373+00:00",
+  "count": 43,
   "matches": [
     {
       "id": "2000643368",
@@ -277,6 +277,31 @@
         "오버 6.5"
       ],
       "aria_label": "보스턴 레드삭스 vs 클리블랜드 가디언스 07:45 분석 상세",
+      "source_date": "2026-09-23"
+    },
+    {
+      "id": "16263110",
+      "url": "https://bbongtv4.com/premium/baseball/16263110",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/23 (수)",
+      "time": "08:05",
+      "status": "예정",
+      "result": null,
+      "team1": "NY 양키스",
+      "team2": "탬파베이 레이스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "양키 스타디움 짧은 담장과 양 팀 선발 방어율 2점대, 저득점 흐름 경계",
+      "ai_picks": [
+        "언더 6.5",
+        "탬파베이 레이스 +1.5 승"
+      ],
+      "aria_label": "NY 양키스 vs 탬파베이 레이스 08:05 분석 상세",
       "source_date": "2026-09-23"
     },
     {
@@ -1040,13 +1065,15 @@
       "score1": null,
       "score2": null,
       "prob": {
-        "home": 50.0,
-        "draw": 28.0,
-        "away": 22.0
+        "home": 41.0,
+        "draw": 30.0,
+        "away": 29.0
       },
-      "ai_summary": "이라크 승",
+      "ai_summary": "이라크 최근 상승세와 오만의 무패 흐름, 배당은 홈팀 우세 반영",
       "ai_picks": [
-        "이라크 승"
+        "무승부",
+        "언더 2.5",
+        "오만 +0.5 승"
       ],
       "aria_label": "이라크 vs 오만 23:30 분석 상세",
       "source_date": "2026-09-23"

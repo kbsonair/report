@@ -1,136 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-22",
-  "scraped_at": "2026-09-22T04:36:22.335594+00:00",
+  "scraped_at": "2026-09-22T09:28:37.064041+00:00",
   "count": 30,
   "matches": [
-    {
-      "id": "2000365196",
-      "url": "https://bbongtv4.com/premium/baseball/2000365196",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/22 (화)",
-      "time": "10:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 53.0,
-        "away": 47.0
-      },
-      "ai_summary": "양 팀 최근 6경기 모두 4패, 미네소타 원정 득점력 저하가 변수",
-      "ai_picks": [
-        "SF 자이언츠 승",
-        "오버 8.5",
-        "SF 자이언츠 +1.5 승"
-      ],
-      "aria_label": "SF 자이언츠 vs 미네소타 트윈스 10:45 분석 상세",
-      "source_date": "2026-09-22"
-    },
-    {
-      "id": "2001021264",
-      "url": "https://bbongtv4.com/premium/basket/2001021264",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "9/22 (화)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "피닉스 머큐리 여자",
-      "team2": "댈러스 윙스 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "away": 72.0
-      },
-      "ai_summary": "댈러스 윙스 여자, 최근 4연승과 시즌 득실 우위로 원정에서도 강세",
-      "ai_picks": [
-        "댈러스 윙스 여자 승",
-        "언더 172.5",
-        "피닉스 머큐리 여자 +6.5 승"
-      ],
-      "aria_label": "피닉스 머큐리 여자 vs 댈러스 윙스 여자 11:00 분석 상세",
-      "source_date": "2026-09-22"
-    },
-    {
-      "id": "16491470",
-      "url": "https://bbongtv4.com/premium/soccer/16491470",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/22 (화)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "필리핀 (U23)",
-      "team2": "쿠웨이트 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "쿠웨이트 (U23) 승",
-      "ai_picks": [
-        "쿠웨이트 (U23) 승"
-      ],
-      "aria_label": "필리핀 (U23) vs 쿠웨이트 (U23) 14:00 분석 상세",
-      "source_date": "2026-09-22"
-    },
-    {
-      "id": "16491471",
-      "url": "https://bbongtv4.com/premium/soccer/16491471",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/22 (화)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베트남 (U23)(N)",
-      "team2": "우즈베키스탄 (U23)(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 30.0,
-        "away": 50.0
-      },
-      "ai_summary": "우즈베키스탄 (U23) 승",
-      "ai_picks": [
-        "우즈베키스탄 (U23)(N) 승"
-      ],
-      "aria_label": "베트남 (U23)(N) vs 우즈베키스탄 (U23)(N) 14:00 분석 상세",
-      "source_date": "2026-09-22"
-    },
-    {
-      "id": "16491472",
-      "url": "https://bbongtv4.com/premium/soccer/16491472",
-      "sport": "soccer",
-      "league": "AGS",
-      "date": "9/22 (화)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한국 (U23)",
-      "team2": "사우디아라비아 (U23)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "한국 (U23) 승",
-      "ai_picks": [
-        "한국 (U23) 승"
-      ],
-      "aria_label": "한국 (U23) vs 사우디아라비아 (U23) 14:00 분석 상세",
-      "source_date": "2026-09-22"
-    },
     {
       "id": "2000359501",
       "url": "https://bbongtv4.com/premium/baseball/2000359501",
@@ -767,6 +640,133 @@
         "에스투디안테스 라 플라타 +0.5 승"
       ],
       "aria_label": "라누스 vs 에스투디안테스 라 플라타 09:15 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2000365196",
+      "url": "https://bbongtv4.com/premium/baseball/2000365196",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/22 (화)",
+      "time": "10:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SF 자이언츠",
+      "team2": "미네소타 트윈스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 53.0,
+        "away": 47.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 4패, 미네소타 원정 득점력 저하가 변수",
+      "ai_picks": [
+        "SF 자이언츠 승",
+        "오버 8.5",
+        "SF 자이언츠 +1.5 승"
+      ],
+      "aria_label": "SF 자이언츠 vs 미네소타 트윈스 10:45 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "2001021264",
+      "url": "https://bbongtv4.com/premium/basket/2001021264",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/22 (화)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피닉스 머큐리 여자",
+      "team2": "댈러스 윙스 여자",
+      "score1": 87,
+      "score2": 86,
+      "prob": {
+        "home": 28.0,
+        "away": 72.0
+      },
+      "ai_summary": "댈러스 윙스 여자, 최근 4연승과 시즌 득실 우위로 원정에서도 강세",
+      "ai_picks": [
+        "댈러스 윙스 여자 승",
+        "언더 172.5",
+        "피닉스 머큐리 여자 +6.5 승"
+      ],
+      "aria_label": "피닉스 머큐리 여자 vs 댈러스 윙스 여자 11:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "16491470",
+      "url": "https://bbongtv4.com/premium/soccer/16491470",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/22 (화)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "필리핀 (U23)",
+      "team2": "쿠웨이트 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "쿠웨이트 (U23) 승",
+      "ai_picks": [
+        "쿠웨이트 (U23) 승"
+      ],
+      "aria_label": "필리핀 (U23) vs 쿠웨이트 (U23) 14:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "16491471",
+      "url": "https://bbongtv4.com/premium/soccer/16491471",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/22 (화)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남 (U23)(N)",
+      "team2": "우즈베키스탄 (U23)(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 30.0,
+        "away": 50.0
+      },
+      "ai_summary": "우즈베키스탄 (U23) 승",
+      "ai_picks": [
+        "우즈베키스탄 (U23)(N) 승"
+      ],
+      "aria_label": "베트남 (U23)(N) vs 우즈베키스탄 (U23)(N) 14:00 분석 상세",
+      "source_date": "2026-09-22"
+    },
+    {
+      "id": "16491472",
+      "url": "https://bbongtv4.com/premium/soccer/16491472",
+      "sport": "soccer",
+      "league": "AGS",
+      "date": "9/22 (화)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한국 (U23)",
+      "team2": "사우디아라비아 (U23)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "한국 (U23) 승",
+      "ai_picks": [
+        "한국 (U23) 승"
+      ],
+      "aria_label": "한국 (U23) vs 사우디아라비아 (U23) 14:00 분석 상세",
       "source_date": "2026-09-22"
     }
   ]
