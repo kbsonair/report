@@ -1,109 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-23T18:37:28.257734+00:00",
-  "count": 32,
+  "scraped_at": "2026-09-23T21:47:27.944585+00:00",
+  "count": 35,
   "matches": [
-    {
-      "id": "2000643372",
-      "url": "https://bbongtv4.com/premium/hockey/2000643372",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/24 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈네카민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "니즈네카민스크 홈 평균득점 3.5, 라다 원정 1.25로 득점력 격차 뚜렷",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "니즈네카민스크 vs 라다 01:30 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365213",
-      "url": "https://bbongtv4.com/premium/baseball/2000365213",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "02:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트 타이거스",
-      "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "디트로이트, 홈 평균실점 3점의 마운드 안정감이 변수",
-      "ai_picks": [
-        "디트로이트 타이거스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "디트로이트 타이거스 vs 워싱턴 내셔널스 02:10 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "16500685",
-      "url": "https://bbongtv4.com/premium/baseball/16500685",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "02:35",
-      "status": "예정",
-      "result": null,
-      "team1": "볼티모어 오리올스",
-      "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "토론토 블루제이스 선발진 불안, 볼티모어 오리올스 타선이 초반 기선 잡을 가능성",
-      "ai_picks": [
-        "볼티모어 오리올스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "볼티모어 오리올스 vs 토론토 블루제이스 02:35 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "16492818",
-      "url": "https://bbongtv4.com/premium/soccer/16492818",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "9/24 (목)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사우디아라비아",
-      "team2": "쿠웨이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "사우디아라비아, 최근 5경기 8득점 공격력으로 쿠웨이트와 대결",
-      "ai_picks": [
-        "사우디아라비아 승",
-        "오버 2.5"
-      ],
-      "aria_label": "사우디아라비아 vs 쿠웨이트 03:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2000365214",
       "url": "https://bbongtv4.com/premium/baseball/2000365214",
@@ -204,6 +104,57 @@
         "언더 7.5"
       ],
       "aria_label": "피츠버그 파이어리츠 vs 세인트루이스 카디널스 07:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000646624",
+      "url": "https://bbongtv4.com/premium/hockey/2000646624",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오",
+      "team2": "오타와 세너터스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2경기 8실점, 수비 불안이 핸디캡 변수",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5",
+        "오타와 세너터스 +1.5 승"
+      ],
+      "aria_label": "오타와 세너터스 vs 토론토 메이플리프스 08:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000661330",
+      "url": "https://bbongtv4.com/premium/hockey/2000661330",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토",
+      "team2": "토론토 메이플리프스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2연패, 결장 변수와 실점 증가가 변수로 작용",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5"
+      ],
+      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
@@ -356,6 +307,31 @@
         "오버 176.5"
       ],
       "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 09:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000648969",
+      "url": "https://bbongtv4.com/premium/hockey/2000648969",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈",
+      "team2": "댈러스 스타스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "댈러스 스타스, 2경기 연속 2-1 승리로 안정된 수비력 과시",
+      "ai_picks": [
+        "댈러스 스타스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "댈러스 스타스 vs 미네소타 와일드 09:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
@@ -812,6 +788,106 @@
         "타지키스탄 승"
       ],
       "aria_label": "아제르바이잔 vs 타지키스탄 00:59 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000643372",
+      "url": "https://bbongtv4.com/premium/hockey/2000643372",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/24 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니",
+      "team2": "니즈네카민스크",
+      "score1": 7,
+      "score2": 3,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "니즈네카민스크 홈 평균득점 3.5, 라다 원정 1.25로 득점력 격차 뚜렷",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "니즈네카민스크 vs 라다 01:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365213",
+      "url": "https://bbongtv4.com/premium/baseball/2000365213",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "02:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트 타이거스",
+      "team2": "워싱턴 내셔널스",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "디트로이트, 홈 평균실점 3점의 마운드 안정감이 변수",
+      "ai_picks": [
+        "디트로이트 타이거스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "디트로이트 타이거스 vs 워싱턴 내셔널스 02:10 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16500685",
+      "url": "https://bbongtv4.com/premium/baseball/16500685",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "02:35",
+      "status": "예정",
+      "result": null,
+      "team1": "볼티모어 오리올스",
+      "team2": "토론토 블루제이스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "토론토 블루제이스 선발진 불안, 볼티모어 오리올스 타선이 초반 기선 잡을 가능성",
+      "ai_picks": [
+        "볼티모어 오리올스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "볼티모어 오리올스 vs 토론토 블루제이스 02:35 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16492818",
+      "url": "https://bbongtv4.com/premium/soccer/16492818",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "9/24 (목)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "사우디아라비아",
+      "team2": "쿠웨이트",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "사우디아라비아, 최근 5경기 8득점 공격력으로 쿠웨이트와 대결",
+      "ai_picks": [
+        "사우디아라비아 승",
+        "오버 2.5"
+      ],
+      "aria_label": "사우디아라비아 vs 쿠웨이트 03:00 분석 상세",
       "source_date": "2026-09-24"
     }
   ]

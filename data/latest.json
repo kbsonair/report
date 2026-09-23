@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T18:37:30.486757+00:00",
+  "scraped_at": "2026-09-23T21:47:30.786357+00:00",
   "kst_yesterday": "2026-09-23",
   "kst_today": "2026-09-24",
   "kst_tomorrow": "2026-09-25",
@@ -8,7 +8,7 @@
     "2026-09-24",
     "2026-09-25"
   ],
-  "count": 140,
+  "count": 143,
   "matches": [
     {
       "id": "2000643375",
@@ -151,7 +151,8 @@
       },
       "ai_summary": "피츠버그 파이어리츠, 최근 4연승과 홈 강세로 우위 점한다",
       "ai_picks": [
-        "피츠버그 파이어리츠 승"
+        "피츠버그 파이어리츠 승",
+        "오버 6.5"
       ],
       "aria_label": "피츠버그 파이어리츠 vs 세인트루이스 카디널스 01:35 분석 상세",
       "source_date": "2026-09-25"
@@ -457,7 +458,8 @@
       },
       "ai_summary": "에두아드오 로드리게스 방어율 2.89, 선발-불펜 모두 애리조나 우위",
       "ai_picks": [
-        "애리조나 다이아몬드백스 승"
+        "애리조나 다이아몬드백스 승",
+        "언더 9.5"
       ],
       "aria_label": "콜로라도 로키스 vs 애리조나 다이아몬드백스 04:10 분석 상세",
       "source_date": "2026-09-25"
@@ -553,7 +555,9 @@
       },
       "ai_summary": "캄 슈리트러 방어율 1.94, 선발 맞대결에서 양키스가 마운드 우위",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 6.5",
+        "탬파베이 레이스 +1.5 승"
       ],
       "aria_label": "NY 양키스 vs 탬파베이 레이스 08:05 분석 상세",
       "source_date": "2026-09-25"
@@ -577,7 +581,9 @@
       },
       "ai_summary": "팀 방어율 3.62 대 4.86, 영봉패 뒤 반등 여지 큰 애틀란타",
       "ai_picks": [
-        "애틀란타 브레이브스 승"
+        "애틀란타 브레이브스 승",
+        "오버 7.5",
+        "애틀란타 브레이브스 -1.5 승"
       ],
       "aria_label": "애틀란타 브레이브스 vs 신시내티 레즈 08:15 분석 상세",
       "source_date": "2026-09-25"
@@ -1273,12 +1279,12 @@
       "league": "KHL",
       "date": "9/24 (목)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니",
       "team2": "니즈네카민스크",
-      "score1": null,
-      "score2": null,
+      "score1": 7,
+      "score2": 3,
       "prob": {
         "home": 70.0,
         "away": 30.0
@@ -1297,12 +1303,12 @@
       "league": "MLB",
       "date": "9/24 (목)",
       "time": "02:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "디트로이트 타이거스",
       "team2": "워싱턴 내셔널스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 4,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1347,12 +1353,12 @@
       "league": "GC",
       "date": "9/24 (목)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "사우디아라비아",
       "team2": "쿠웨이트",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 45.0,
         "draw": 30.0,
@@ -1466,6 +1472,57 @@
         "언더 7.5"
       ],
       "aria_label": "피츠버그 파이어리츠 vs 세인트루이스 카디널스 07:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000646624",
+      "url": "https://bbongtv4.com/premium/hockey/2000646624",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오",
+      "team2": "오타와 세너터스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2경기 8실점, 수비 불안이 핸디캡 변수",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5",
+        "오타와 세너터스 +1.5 승"
+      ],
+      "aria_label": "오타와 세너터스 vs 토론토 메이플리프스 08:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000661330",
+      "url": "https://bbongtv4.com/premium/hockey/2000661330",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토",
+      "team2": "토론토 메이플리프스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2연패, 결장 변수와 실점 증가가 변수로 작용",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5"
+      ],
+      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
@@ -1618,6 +1675,31 @@
         "오버 176.5"
       ],
       "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 09:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000648969",
+      "url": "https://bbongtv4.com/premium/hockey/2000648969",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈",
+      "team2": "댈러스 스타스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "댈러스 스타스, 2경기 연속 2-1 승리로 안정된 수비력 과시",
+      "ai_picks": [
+        "댈러스 스타스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "댈러스 스타스 vs 미네소타 와일드 09:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
