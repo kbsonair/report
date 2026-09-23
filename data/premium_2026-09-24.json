@@ -1,34 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-24",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-23T14:25:30.183817+00:00",
+  "scraped_at": "2026-09-23T18:37:28.257734+00:00",
   "count": 32,
   "matches": [
-    {
-      "id": "16492206",
-      "url": "https://bbongtv4.com/premium/soccer/16492206",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/24 (목)",
-      "time": "00:59",
-      "status": "예정",
-      "result": null,
-      "team1": "아제르바이잔",
-      "team2": "타지키스탄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "타지키스탄 승",
-      "ai_picks": [
-        "타지키스탄 승"
-      ],
-      "aria_label": "아제르바이잔 vs 타지키스탄 00:59 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2000643372",
       "url": "https://bbongtv4.com/premium/hockey/2000643372",
@@ -655,7 +630,9 @@
       },
       "ai_summary": "홈 8승1패 에스에스지, 시즌 2위 삼성 상대로 흐름 우위 시험대",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "오버 9.5",
+        "SSG 랜더스 +2.5 승"
       ],
       "aria_label": "SSG 랜더스 vs 삼성 라이온즈 17:00 분석 상세",
       "source_date": "2026-09-24"
@@ -679,7 +656,8 @@
       },
       "ai_summary": "KT 위즈, 최근 6경기 5승과 홈 평균득점 6.5로 상승세 뚜렷",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "오버 9.5"
       ],
       "aria_label": "KT 위즈 vs NC 다이노스 17:00 분석 상세",
       "source_date": "2026-09-24"
@@ -703,7 +681,9 @@
       },
       "ai_summary": "LG 트윈스 최근 6연승, 득실 모두 앞서며 우위 뚜렷",
       "ai_picks": [
-        "LG 트윈스 승"
+        "LG 트윈스 승",
+        "오버 8.5",
+        "롯데 자이언츠 +1.5 승"
       ],
       "aria_label": "LG 트윈스 vs 롯데 자이언츠 17:00 분석 상세",
       "source_date": "2026-09-24"
@@ -727,7 +707,8 @@
       },
       "ai_summary": "2위 요미우리, 맞대결 4경기 무패 흐름이 우위 근거",
       "ai_picks": [
-        "요미우리 자이언츠 승"
+        "요미우리 자이언츠 승",
+        "언더 6.5"
       ],
       "aria_label": "히로시마 카프 vs 요미우리 자이언츠 18:00 분석 상세",
       "source_date": "2026-09-24"
@@ -751,7 +732,9 @@
       },
       "ai_summary": "상대전적 3전 전승, 시즌 실점 515 대 546이 만든 홈 우위",
       "ai_picks": [
-        "닛폰햄 파이터스 승"
+        "닛폰햄 파이터스 승",
+        "오버 7.5",
+        "라쿠텐 골든 이글스 +1.5 승"
       ],
       "aria_label": "닛폰햄 파이터스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
       "source_date": "2026-09-24"
@@ -804,6 +787,31 @@
         "바르스 카잔 승"
       ],
       "aria_label": "노보시비르스크 vs 바르스 카잔 21:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16492206",
+      "url": "https://bbongtv4.com/premium/soccer/16492206",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "00:59",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아제르바이잔",
+      "team2": "타지키스탄",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "타지키스탄 승",
+      "ai_picks": [
+        "타지키스탄 승"
+      ],
+      "aria_label": "아제르바이잔 vs 타지키스탄 00:59 분석 상세",
       "source_date": "2026-09-24"
     }
   ]
