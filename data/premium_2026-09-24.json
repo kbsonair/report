@@ -1,35 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-23T21:47:27.944585+00:00",
-  "count": 35,
+  "scraped_at": "2026-09-24T00:18:47.655455+00:00",
+  "count": 38,
   "matches": [
-    {
-      "id": "2000365214",
-      "url": "https://bbongtv4.com/premium/baseball/2000365214",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "04:45",
-      "status": "예정",
-      "result": null,
-      "team1": "SF 자이언츠",
-      "team2": "미네소타 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "세사르 퍼도모 방어율 3.72, 홈 성적 앞선 자이언츠가 근소 우위",
-      "ai_picks": [
-        "SF 자이언츠 승",
-        "SF 자이언츠 +1.5 승",
-        "언더 7.5"
-      ],
-      "aria_label": "SF 자이언츠 vs 미네소타 트윈스 04:45 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2000365215",
       "url": "https://bbongtv4.com/premium/baseball/2000365215",
@@ -464,6 +438,31 @@
       "source_date": "2026-09-24"
     },
     {
+      "id": "2000645922",
+      "url": "https://bbongtv4.com/premium/hockey/2000645922",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애",
+      "team2": "애너하임 덕스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "애너하임 6-2 대승 직후, LA 킹스는 2연패와 결장 변수로 부담 커져",
+      "ai_picks": [
+        "애너하임 덕스 승",
+        "오버 6"
+      ],
+      "aria_label": "애너하임 덕스 vs LA 킹스 11:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
       "id": "2000365227",
       "url": "https://bbongtv4.com/premium/baseball/2000365227",
       "sport": "baseball",
@@ -742,6 +741,32 @@
       "source_date": "2026-09-24"
     },
     {
+      "id": "16492883",
+      "url": "https://bbongtv4.com/premium/soccer/16492883",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "대한민국",
+      "team2": "에콰도르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "대한민국, 최근 2경기 무실점 상승세와 에콰도르 원정 무패 흐름이 맞붙는다",
+      "ai_picks": [
+        "언더 2.5",
+        "에콰도르 +0.5 승"
+      ],
+      "aria_label": "대한민국 vs 에콰도르 20:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
       "id": "2000643378",
       "url": "https://bbongtv4.com/premium/hockey/2000643378",
       "sport": "hockey",
@@ -763,6 +788,32 @@
         "바르스 카잔 승"
       ],
       "aria_label": "노보시비르스크 vs 바르스 카잔 21:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16501194",
+      "url": "https://bbongtv4.com/premium/soccer/16501194",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "우즈베키스탄",
+      "team2": "이란",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 25.0,
+        "away": 47.0
+      },
+      "ai_summary": "이란 최근 3연승, 우즈베키스탄은 수비 불안 노출",
+      "ai_picks": [
+        "이란 승",
+        "언더 2.5"
+      ],
+      "aria_label": "우즈베키스탄 vs 이란 23:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
@@ -846,12 +897,12 @@
       "league": "MLB",
       "date": "9/24 (목)",
       "time": "02:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "볼티모어 오리올스",
       "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -888,6 +939,32 @@
         "오버 2.5"
       ],
       "aria_label": "사우디아라비아 vs 쿠웨이트 03:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365214",
+      "url": "https://bbongtv4.com/premium/baseball/2000365214",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "04:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SF 자이언츠",
+      "team2": "미네소타 트윈스",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "세사르 퍼도모 방어율 3.72, 홈 성적 앞선 자이언츠가 근소 우위",
+      "ai_picks": [
+        "SF 자이언츠 승",
+        "SF 자이언츠 +1.5 승",
+        "언더 7.5"
+      ],
+      "aria_label": "SF 자이언츠 vs 미네소타 트윈스 04:45 분석 상세",
       "source_date": "2026-09-24"
     }
   ]
