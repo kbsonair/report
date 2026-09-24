@@ -1,134 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-24T05:04:58.390023+00:00",
+  "scraped_at": "2026-09-24T10:10:58.184200+00:00",
   "count": 39,
   "matches": [
-    {
-      "id": "2000365226",
-      "url": "https://bbongtv4.com/premium/baseball/2000365226",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "10:40",
-      "status": "예정",
-      "result": null,
-      "team1": "오클랜드",
-      "team2": "LA 에인절스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "선발 방어율 6.18 대 2.74, 원정 마운드 우위가 핵심",
-      "ai_picks": [
-        "LA 에인절스 승",
-        "언더 9.5",
-        "오클랜드 +1.5 승"
-      ],
-      "aria_label": "오클랜드 vs LA 에인절스 10:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365227",
-      "url": "https://bbongtv4.com/premium/baseball/2000365227",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "홈 10승2패와 출루장타율 .765, 다저스 체급 우위가 뚜렷",
-      "ai_picks": [
-        "LA 다저스 승",
-        "언더 8.5"
-      ],
-      "aria_label": "LA 다저스 vs 샌디에이고 파드레스 11:10 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365228",
-      "url": "https://bbongtv4.com/premium/baseball/2000365228",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 매리너스",
-      "team2": "휴스턴 애스트로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "양 팀 최근 6경기 모두 실점 4점 이상, 투수진 흔들리며 다득점 양상 우려",
-      "ai_picks": [
-        "시애틀 매리너스 승",
-        "언더 7.5",
-        "휴스턴 애스트로스 +1.5 승"
-      ],
-      "aria_label": "시애틀 매리너스 vs 휴스턴 애스트로스 11:10 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2001050121",
-      "url": "https://bbongtv4.com/premium/basket/2001050121",
-      "sport": "basket",
-      "league": "KBL컵",
-      "date": "9/24 (목)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대",
-      "team2": "대구 한국가스공사",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "대구 한국가스공사, 홈 이점과 최근 흐름이 변수로 작용할 경기",
-      "ai_picks": [
-        "대구 한국가스공사 승"
-      ],
-      "aria_label": "대구 한국가스공사 vs 울산 현대모비스 14:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2001050123",
-      "url": "https://bbongtv4.com/premium/basket/2001050123",
-      "sport": "basket",
-      "league": "KBL컵",
-      "date": "9/24 (목)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "원",
-      "team2": "원주 DB",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 57.0,
-        "away": 43.0
-      },
-      "ai_summary": "원주 DB 최근 흐름과 홈 이점, 서울 삼성과의 접전 예상",
-      "ai_picks": [
-        "원주 DB 승"
-      ],
-      "aria_label": "원주 DB vs 서울 삼성 14:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2001050125",
       "url": "https://bbongtv4.com/premium/basket/2001050125",
@@ -942,6 +817,32 @@
       "source_date": "2026-09-24"
     },
     {
+      "id": "2000365226",
+      "url": "https://bbongtv4.com/premium/baseball/2000365226",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "10:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오클랜드",
+      "team2": "LA 에인절스",
+      "score1": 7,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "선발 방어율 6.18 대 2.74, 원정 마운드 우위가 핵심",
+      "ai_picks": [
+        "LA 에인절스 승",
+        "언더 9.5",
+        "오클랜드 +1.5 승"
+      ],
+      "aria_label": "오클랜드 vs LA 에인절스 10:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
       "id": "2001021271",
       "url": "https://bbongtv4.com/premium/basket/2001021271",
       "sport": "basket",
@@ -990,6 +891,105 @@
         "오버 6"
       ],
       "aria_label": "애너하임 덕스 vs LA 킹스 11:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365227",
+      "url": "https://bbongtv4.com/premium/baseball/2000365227",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "샌디에이고 파드레스",
+      "score1": 1,
+      "score2": 5,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 10승2패와 출루장타율 .765, 다저스 체급 우위가 뚜렷",
+      "ai_picks": [
+        "LA 다저스 승",
+        "언더 8.5"
+      ],
+      "aria_label": "LA 다저스 vs 샌디에이고 파드레스 11:10 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365228",
+      "url": "https://bbongtv4.com/premium/baseball/2000365228",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 매리너스",
+      "team2": "휴스턴 애스트로스",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 실점 4점 이상, 투수진 흔들리며 다득점 양상 우려",
+      "ai_picks": [
+        "시애틀 매리너스 승",
+        "언더 7.5",
+        "휴스턴 애스트로스 +1.5 승"
+      ],
+      "aria_label": "시애틀 매리너스 vs 휴스턴 애스트로스 11:10 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001050121",
+      "url": "https://bbongtv4.com/premium/basket/2001050121",
+      "sport": "basket",
+      "league": "KBL컵",
+      "date": "9/24 (목)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대",
+      "team2": "대구 한국가스공사",
+      "score1": 82,
+      "score2": 87,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "대구 한국가스공사, 홈 이점과 최근 흐름이 변수로 작용할 경기",
+      "ai_picks": [
+        "대구 한국가스공사 승"
+      ],
+      "aria_label": "대구 한국가스공사 vs 울산 현대모비스 14:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001050123",
+      "url": "https://bbongtv4.com/premium/basket/2001050123",
+      "sport": "basket",
+      "league": "KBL컵",
+      "date": "9/24 (목)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "원",
+      "team2": "원주 DB",
+      "score1": 101,
+      "score2": 83,
+      "prob": {
+        "home": 57.0,
+        "away": 43.0
+      },
+      "ai_summary": "원주 DB 최근 흐름과 홈 이점, 서울 삼성과의 접전 예상",
+      "ai_picks": [
+        "원주 DB 승"
+      ],
+      "aria_label": "원주 DB vs 서울 삼성 14:00 분석 상세",
       "source_date": "2026-09-24"
     }
   ]
