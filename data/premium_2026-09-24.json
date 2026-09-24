@@ -1,390 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-24T00:18:47.655455+00:00",
-  "count": 38,
+  "scraped_at": "2026-09-24T05:04:58.390023+00:00",
+  "count": 39,
   "matches": [
-    {
-      "id": "2000365215",
-      "url": "https://bbongtv4.com/premium/baseball/2000365215",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "07:35",
-      "status": "예정",
-      "result": null,
-      "team1": "볼티모어 오리올스",
-      "team2": "토론토 블루제이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "away": 59.0
-      },
-      "ai_summary": "볼티모어 최근 3연패·홈 2승8패, 홈 약세가 변수로 작용",
-      "ai_picks": [
-        "토론토 블루제이스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "볼티모어 오리올스 vs 토론토 블루제이스 07:35 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365216",
-      "url": "https://bbongtv4.com/premium/baseball/2000365216",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "필라델피아 필리스",
-      "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "로건 헨더슨 방어율 2.51, 원정 강세로 밀워키 우위 예상",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "언더 7.5",
-        "밀워키 브루어스 -1.5 승"
-      ],
-      "aria_label": "필라델피아 필리스 vs 밀워키 브루어스 07:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365217",
-      "url": "https://bbongtv4.com/premium/baseball/2000365217",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "07:40",
-      "status": "예정",
-      "result": null,
-      "team1": "피츠버그 파이어리츠",
-      "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "피츠버그 파이어리츠, 최근 4연승 상승세와 홈 강세가 맞물린 경기",
-      "ai_picks": [
-        "피츠버그 파이어리츠 승",
-        "언더 7.5"
-      ],
-      "aria_label": "피츠버그 파이어리츠 vs 세인트루이스 카디널스 07:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000646624",
-      "url": "https://bbongtv4.com/premium/hockey/2000646624",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/24 (목)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오",
-      "team2": "오타와 세너터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "토론토 메이플리프스 최근 2경기 8실점, 수비 불안이 핸디캡 변수",
-      "ai_picks": [
-        "토론토 메이플리프스 승",
-        "오버 5.5",
-        "오타와 세너터스 +1.5 승"
-      ],
-      "aria_label": "오타와 세너터스 vs 토론토 메이플리프스 08:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000661330",
-      "url": "https://bbongtv4.com/premium/hockey/2000661330",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/24 (목)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토",
-      "team2": "토론토 메이플리프스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "토론토 메이플리프스 최근 2연패, 결장 변수와 실점 증가가 변수로 작용",
-      "ai_picks": [
-        "토론토 메이플리프스 승",
-        "오버 5.5"
-      ],
-      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365218",
-      "url": "https://bbongtv4.com/premium/baseball/2000365218",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "08:05",
-      "status": "예정",
-      "result": null,
-      "team1": "NY 양키스",
-      "team2": "탬파베이 레이스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "최근 6경기 5승1패 레이스, 양키스 홈 9승3패와 충돌",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "NY 양키스 vs 탬파베이 레이스 08:05 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365219",
-      "url": "https://bbongtv4.com/premium/baseball/2000365219",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "08:10",
-      "status": "예정",
-      "result": null,
-      "team1": "보스턴 레드삭스",
-      "team2": "클리블랜드 가디언스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "보스턴 선발 슨이 그레이 방어율 2.82, 마운드 우위가 승부 변수",
-      "ai_picks": [
-        "보스턴 레드삭스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "보스턴 레드삭스 vs 클리블랜드 가디언스 08:10 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365220",
-      "url": "https://bbongtv4.com/premium/baseball/2000365220",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "08:15",
-      "status": "예정",
-      "result": null,
-      "team1": "애틀란타 브레이브스",
-      "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "선발 2.18 대 4.70, 홈 마운드 우위가 흐름을 가른다",
-      "ai_picks": [
-        "애틀란타 브레이브스 승",
-        "오버 7.5",
-        "애틀란타 브레이브스 -1.5 승"
-      ],
-      "aria_label": "애틀란타 브레이브스 vs 신시내티 레즈 08:15 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365221",
-      "url": "https://bbongtv4.com/premium/baseball/2000365221",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 컵스",
-      "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "홈 평균득점 7.31과 말린스 원정 실점 5.62가 맞물린다",
-      "ai_picks": [
-        "시카고 컵스 승",
-        "오버 6.5",
-        "마이애미 말린스 +1.5 승"
-      ],
-      "aria_label": "시카고 컵스 vs 마이애미 말린스 08:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365222",
-      "url": "https://bbongtv4.com/premium/baseball/2000365222",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "08:40",
-      "status": "예정",
-      "result": null,
-      "team1": "캔자스시티 로열스",
-      "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "에리크 페데 방어율 3.90, 시카고 화이트삭스 마운드 우위 뚜렷",
-      "ai_picks": [
-        "시카고 화이트삭스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "캔자스시티 로열스 vs 시카고 화이트삭스 08:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2001021270",
-      "url": "https://bbongtv4.com/premium/basket/2001021270",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "9/24 (목)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴욕 리버티 여자",
-      "team2": "애틀랜타 드림 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "홈 9승3패 뉴욕, 원정 7승6패 애틀랜타와 접전 흐름",
-      "ai_picks": [
-        "뉴욕 리버티 여자 승",
-        "오버 176.5"
-      ],
-      "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 09:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000648969",
-      "url": "https://bbongtv4.com/premium/hockey/2000648969",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/24 (목)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "댈",
-      "team2": "댈러스 스타스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "댈러스 스타스, 2경기 연속 2-1 승리로 안정된 수비력 과시",
-      "ai_picks": [
-        "댈러스 스타스 승",
-        "언더 5.5"
-      ],
-      "aria_label": "댈러스 스타스 vs 미네소타 와일드 09:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365223",
-      "url": "https://bbongtv4.com/premium/baseball/2000365223",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "09:05",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스 레인저스",
-      "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "노란 맥레안 방어율 3.18, 텍사스 홈 타선과 접전 예상",
-      "ai_picks": [
-        "텍사스 레인저스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "텍사스 레인저스 vs NY 메츠 09:05 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365224",
-      "url": "https://bbongtv4.com/premium/baseball/2000365224",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/24 (목)",
-      "time": "09:40",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "애리조나 다이아몬드백스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "팀 투구 4.11 대 5.57, 애리조나 마운드 안정성이 앞선다",
-      "ai_picks": [
-        "애리조나 다이아몬드백스 승",
-        "오버 10.5",
-        "애리조나 다이아몬드백스 -1.5 승"
-      ],
-      "aria_label": "콜로라도 로키스 vs 애리조나 다이아몬드백스 09:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2006495481",
-      "url": "https://bbongtv4.com/premium/soccer/2006495481",
-      "sport": "soccer",
-      "league": "USA MLS",
-      "date": "9/24 (목)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 사운더스",
-      "team2": "레알 솔트레이크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 41.0,
-        "draw": 33.0,
-        "away": 26.0
-      },
-      "ai_summary": "시애틀 사운더스 최근 5경기 연속 무승부, 레알 솔트레이크는 5경기 4패로 하락세",
-      "ai_picks": [
-        "시애틀 사운더스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "시애틀 사운더스 vs 레알 솔트레이크 10:30 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2000365226",
       "url": "https://bbongtv4.com/premium/baseball/2000365226",
@@ -409,57 +28,6 @@
         "오클랜드 +1.5 승"
       ],
       "aria_label": "오클랜드 vs LA 에인절스 10:40 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2001021271",
-      "url": "https://bbongtv4.com/premium/basket/2001021271",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "9/24 (목)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "시애틀 스톰 여자",
-      "team2": "댈러스 윙스 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "댈러스 윙스 여자, 최근 4연승과 시즌 득실 우위로 원정 강세 기대",
-      "ai_picks": [
-        "댈러스 윙스 여자 승",
-        "오버 170.5",
-        "댈러스 윙스 여자 -9.5 승"
-      ],
-      "aria_label": "시애틀 스톰 여자 vs 댈러스 윙스 여자 11:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000645922",
-      "url": "https://bbongtv4.com/premium/hockey/2000645922",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/24 (목)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "애",
-      "team2": "애너하임 덕스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "애너하임 6-2 대승 직후, LA 킹스는 2연패와 결장 변수로 부담 커져",
-      "ai_picks": [
-        "애너하임 덕스 승",
-        "오버 6"
-      ],
-      "aria_label": "애너하임 덕스 vs LA 킹스 11:00 분석 상세",
       "source_date": "2026-09-24"
     },
     {
@@ -715,6 +283,31 @@
       "source_date": "2026-09-24"
     },
     {
+      "id": "2001032248",
+      "url": "https://bbongtv4.com/premium/basket/2001032248",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "9/24 (목)",
+      "time": "18:30",
+      "status": "예정",
+      "result": null,
+      "team1": "사",
+      "team2": "사우스 이스트 멜버른",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "기준점 190.5가 높고, 최근 접전 흐름은 홈 핸디를 지지",
+      "ai_picks": [
+        "언더 190.5",
+        "사우스 이스트 멜버른 +2.5 승"
+      ],
+      "aria_label": "사우스 이스트 멜버른 vs 멜버른 유나이티드 18:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
       "id": "16492882",
       "url": "https://bbongtv4.com/premium/soccer/16492882",
       "sport": "soccer",
@@ -965,6 +558,438 @@
         "언더 7.5"
       ],
       "aria_label": "SF 자이언츠 vs 미네소타 트윈스 04:45 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365215",
+      "url": "https://bbongtv4.com/premium/baseball/2000365215",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "07:35",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "볼티모어 오리올스",
+      "team2": "토론토 블루제이스",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 41.0,
+        "away": 59.0
+      },
+      "ai_summary": "볼티모어 최근 3연패·홈 2승8패, 홈 약세가 변수로 작용",
+      "ai_picks": [
+        "토론토 블루제이스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "볼티모어 오리올스 vs 토론토 블루제이스 07:35 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365216",
+      "url": "https://bbongtv4.com/premium/baseball/2000365216",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "필라델피아 필리스",
+      "team2": "밀워키 브루어스",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "로건 헨더슨 방어율 2.51, 원정 강세로 밀워키 우위 예상",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "언더 7.5",
+        "밀워키 브루어스 -1.5 승"
+      ],
+      "aria_label": "필라델피아 필리스 vs 밀워키 브루어스 07:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365217",
+      "url": "https://bbongtv4.com/premium/baseball/2000365217",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "07:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피츠버그 파이어리츠",
+      "team2": "세인트루이스 카디널스",
+      "score1": 1,
+      "score2": 5,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "피츠버그 파이어리츠, 최근 4연승 상승세와 홈 강세가 맞물린 경기",
+      "ai_picks": [
+        "피츠버그 파이어리츠 승",
+        "언더 7.5"
+      ],
+      "aria_label": "피츠버그 파이어리츠 vs 세인트루이스 카디널스 07:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000646624",
+      "url": "https://bbongtv4.com/premium/hockey/2000646624",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오",
+      "team2": "오타와 세너터스",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2경기 8실점, 수비 불안이 핸디캡 변수",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5",
+        "오타와 세너터스 +1.5 승"
+      ],
+      "aria_label": "오타와 세너터스 vs 토론토 메이플리프스 08:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000661330",
+      "url": "https://bbongtv4.com/premium/hockey/2000661330",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토",
+      "team2": "토론토 메이플리프스",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "토론토 메이플리프스 최근 2연패, 결장 변수와 실점 증가가 변수로 작용",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "오버 5.5"
+      ],
+      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365218",
+      "url": "https://bbongtv4.com/premium/baseball/2000365218",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "08:05",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "NY 양키스",
+      "team2": "탬파베이 레이스",
+      "score1": 9,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "최근 6경기 5승1패 레이스, 양키스 홈 9승3패와 충돌",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "NY 양키스 vs 탬파베이 레이스 08:05 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365219",
+      "url": "https://bbongtv4.com/premium/baseball/2000365219",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "08:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "보스턴 레드삭스",
+      "team2": "클리블랜드 가디언스",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "보스턴 선발 슨이 그레이 방어율 2.82, 마운드 우위가 승부 변수",
+      "ai_picks": [
+        "보스턴 레드삭스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "보스턴 레드삭스 vs 클리블랜드 가디언스 08:10 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365220",
+      "url": "https://bbongtv4.com/premium/baseball/2000365220",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "08:15",
+      "status": "종료",
+      "result": "적중",
+      "team1": "애틀란타 브레이브스",
+      "team2": "신시내티 레즈",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "선발 2.18 대 4.70, 홈 마운드 우위가 흐름을 가른다",
+      "ai_picks": [
+        "애틀란타 브레이브스 승",
+        "오버 7.5",
+        "애틀란타 브레이브스 -1.5 승"
+      ],
+      "aria_label": "애틀란타 브레이브스 vs 신시내티 레즈 08:15 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365221",
+      "url": "https://bbongtv4.com/premium/baseball/2000365221",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시카고 컵스",
+      "team2": "마이애미 말린스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "홈 평균득점 7.31과 말린스 원정 실점 5.62가 맞물린다",
+      "ai_picks": [
+        "시카고 컵스 승",
+        "오버 6.5",
+        "마이애미 말린스 +1.5 승"
+      ],
+      "aria_label": "시카고 컵스 vs 마이애미 말린스 08:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365222",
+      "url": "https://bbongtv4.com/premium/baseball/2000365222",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "08:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캔자스시티 로열스",
+      "team2": "시카고 화이트삭스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "에리크 페데 방어율 3.90, 시카고 화이트삭스 마운드 우위 뚜렷",
+      "ai_picks": [
+        "시카고 화이트삭스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "캔자스시티 로열스 vs 시카고 화이트삭스 08:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001021270",
+      "url": "https://bbongtv4.com/premium/basket/2001021270",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/24 (목)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "뉴욕 리버티 여자",
+      "team2": "애틀랜타 드림 여자",
+      "score1": 65,
+      "score2": 83,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "홈 9승3패 뉴욕, 원정 7승6패 애틀랜타와 접전 흐름",
+      "ai_picks": [
+        "뉴욕 리버티 여자 승",
+        "오버 176.5"
+      ],
+      "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 09:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000648969",
+      "url": "https://bbongtv4.com/premium/hockey/2000648969",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "댈",
+      "team2": "댈러스 스타스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "댈러스 스타스, 2경기 연속 2-1 승리로 안정된 수비력 과시",
+      "ai_picks": [
+        "댈러스 스타스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "댈러스 스타스 vs 미네소타 와일드 09:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365223",
+      "url": "https://bbongtv4.com/premium/baseball/2000365223",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "09:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "텍사스 레인저스",
+      "team2": "NY 메츠",
+      "score1": 2,
+      "score2": 7,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "노란 맥레안 방어율 3.18, 텍사스 홈 타선과 접전 예상",
+      "ai_picks": [
+        "텍사스 레인저스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "텍사스 레인저스 vs NY 메츠 09:05 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365224",
+      "url": "https://bbongtv4.com/premium/baseball/2000365224",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/24 (목)",
+      "time": "09:40",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "애리조나 다이아몬드백스",
+      "score1": 3,
+      "score2": 5,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "팀 투구 4.11 대 5.57, 애리조나 마운드 안정성이 앞선다",
+      "ai_picks": [
+        "애리조나 다이아몬드백스 승",
+        "오버 10.5",
+        "애리조나 다이아몬드백스 -1.5 승"
+      ],
+      "aria_label": "콜로라도 로키스 vs 애리조나 다이아몬드백스 09:40 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2006495481",
+      "url": "https://bbongtv4.com/premium/soccer/2006495481",
+      "sport": "soccer",
+      "league": "USA MLS",
+      "date": "9/24 (목)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 사운더스",
+      "team2": "레알 솔트레이크",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 41.0,
+        "draw": 33.0,
+        "away": 26.0
+      },
+      "ai_summary": "시애틀 사운더스 최근 5경기 연속 무승부, 레알 솔트레이크는 5경기 4패로 하락세",
+      "ai_picks": [
+        "시애틀 사운더스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "시애틀 사운더스 vs 레알 솔트레이크 10:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001021271",
+      "url": "https://bbongtv4.com/premium/basket/2001021271",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/24 (목)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "시애틀 스톰 여자",
+      "team2": "댈러스 윙스 여자",
+      "score1": 91,
+      "score2": 103,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "댈러스 윙스 여자, 최근 4연승과 시즌 득실 우위로 원정 강세 기대",
+      "ai_picks": [
+        "댈러스 윙스 여자 승",
+        "오버 170.5",
+        "댈러스 윙스 여자 -9.5 승"
+      ],
+      "aria_label": "시애틀 스톰 여자 vs 댈러스 윙스 여자 11:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000645922",
+      "url": "https://bbongtv4.com/premium/hockey/2000645922",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/24 (목)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "애",
+      "team2": "애너하임 덕스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "애너하임 6-2 대승 직후, LA 킹스는 2연패와 결장 변수로 부담 커져",
+      "ai_picks": [
+        "애너하임 덕스 승",
+        "오버 6"
+      ],
+      "aria_label": "애너하임 덕스 vs LA 킹스 11:00 분석 상세",
       "source_date": "2026-09-24"
     }
   ]
