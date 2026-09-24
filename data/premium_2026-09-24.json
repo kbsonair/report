@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-24",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-24T15:14:49.482897+00:00",
+  "scraped_at": "2026-09-24T19:17:37.573551+00:00",
   "count": 39,
   "matches": [
-    {
-      "id": "2000643378",
-      "url": "https://bbongtv4.com/premium/hockey/2000643378",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/24 (목)",
-      "time": "21:30",
-      "status": "예정",
-      "result": null,
-      "team1": "노",
-      "team2": "노보시비르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "노보시비르스크 홈 득점력 저조, 바르스 카잔 최근 접전 강점 부각",
-      "ai_picks": [
-        "바르스 카잔 승"
-      ],
-      "aria_label": "노보시비르스크 vs 바르스 카잔 21:30 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "16501194",
-      "url": "https://bbongtv4.com/premium/soccer/16501194",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/24 (목)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "우즈베키스탄",
-      "team2": "이란",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 25.0,
-        "away": 47.0
-      },
-      "ai_summary": "이란 최근 3연승, 우즈베키스탄은 수비 불안 노출",
-      "ai_picks": [
-        "이란 승",
-        "언더 2.5"
-      ],
-      "aria_label": "우즈베키스탄 vs 이란 23:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "16492206",
       "url": "https://bbongtv4.com/premium/soccer/16492206",
@@ -990,6 +940,56 @@
         "에콰도르 +0.5 승"
       ],
       "aria_label": "대한민국 vs 에콰도르 20:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000643378",
+      "url": "https://bbongtv4.com/premium/hockey/2000643378",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/24 (목)",
+      "time": "21:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "노",
+      "team2": "노보시비르스크",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "노보시비르스크 홈 득점력 저조, 바르스 카잔 최근 접전 강점 부각",
+      "ai_picks": [
+        "바르스 카잔 승"
+      ],
+      "aria_label": "노보시비르스크 vs 바르스 카잔 21:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16501194",
+      "url": "https://bbongtv4.com/premium/soccer/16501194",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "우즈베키스탄",
+      "team2": "이란",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 28.0,
+        "draw": 25.0,
+        "away": 47.0
+      },
+      "ai_summary": "이란 최근 3연승, 우즈베키스탄은 수비 불안 노출",
+      "ai_picks": [
+        "이란 승",
+        "언더 2.5"
+      ],
+      "aria_label": "우즈베키스탄 vs 이란 23:00 분석 상세",
       "source_date": "2026-09-24"
     }
   ]

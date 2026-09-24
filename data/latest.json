@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T15:14:50.691842+00:00",
+  "scraped_at": "2026-09-24T19:17:38.920201+00:00",
   "kst_yesterday": "2026-09-24",
   "kst_today": "2026-09-25",
   "kst_tomorrow": "2026-09-26",
@@ -8,7 +8,7 @@
     "2026-09-25",
     "2026-09-26"
   ],
-  "count": 131,
+  "count": 137,
   "matches": [
     {
       "id": "2000643382",
@@ -261,7 +261,8 @@
       },
       "ai_summary": "피츠버그 원정 8승4패, 최근 6경기 5승 상승세가 변수",
       "ai_picks": [
-        "피츠버그 파이어리츠 승"
+        "피츠버그 파이어리츠 승",
+        "언더 8.5"
       ],
       "aria_label": "디트로이트 타이거스 vs 피츠버그 파이어리츠 07:40 분석 상세",
       "source_date": "2026-09-26"
@@ -285,7 +286,8 @@
       },
       "ai_summary": "탬파베이 레이스, 시즌 득실차 +1.7로 필라델피아보다 우위",
       "ai_picks": [
-        "탬파베이 레이스 승"
+        "탬파베이 레이스 승",
+        "오버 6.5"
       ],
       "aria_label": "필라델피아 필리스 vs 탬파베이 레이스 07:40 분석 상세",
       "source_date": "2026-09-26"
@@ -477,7 +479,8 @@
       },
       "ai_summary": "98승59패와 홈 평균득점 6.9, 밀워키 체급 우위가 선명",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 8.5"
       ],
       "aria_label": "밀워키 브루어스 vs 세인트루이스 카디널스 08:40 분석 상세",
       "source_date": "2026-09-26"
@@ -1047,12 +1050,12 @@
       "league": "KHL",
       "date": "9/25 (금)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "체",
       "team2": "체레포베츠",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1071,12 +1074,12 @@
       "league": "KHL",
       "date": "9/25 (금)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "니",
       "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -1095,12 +1098,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "01:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "안도라",
       "team2": "몰타",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 28.0,
         "draw": 30.0,
@@ -1572,6 +1575,160 @@
         "오버 168.5"
       ],
       "aria_label": "코네티컷 선 여자 vs 토론토 템포 여자 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000645924",
+      "url": "https://bbongtv4.com/premium/hockey/2000645924",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "필",
+      "team2": "필라델피아 플라이어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "보스턴 브루인스, 최근 2경기 10득점으로 공격력 앞선 흐름",
+      "ai_picks": [
+        "보스턴 브루인스 승",
+        "오버 5.5",
+        "보스턴 브루인스 +1.5 승"
+      ],
+      "aria_label": "필라델피아 플라이어스 vs 보스턴 브루인스 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000646419",
+      "url": "https://bbongtv4.com/premium/hockey/2000646419",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "콜",
+      "team2": "콜럼버스 블루재킷스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "콜럼버스 블루재킷스, 최근 홈 무실점 승리와 배당 우위로 시장 기대 높아",
+      "ai_picks": [
+        "콜럼버스 블루재킷스 승",
+        "피츠버그 펭귄스 +1.5 승",
+        "오버 6"
+      ],
+      "aria_label": "콜럼버스 블루재킷스 vs 피츠버그 펭귄스 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000646420",
+      "url": "https://bbongtv4.com/premium/hockey/2000646420",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "디",
+      "team2": "디트로이트 레드윙스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "디트로이트 레드윙스, 최근 7득점 폭발에도 주전 결장 변수 주목",
+      "ai_picks": [
+        "디트로이트 레드윙스 승",
+        "언더 6"
+      ],
+      "aria_label": "디트로이트 레드윙스 vs 버팔로 세이버스 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000646625",
+      "url": "https://bbongtv4.com/premium/hockey/2000646625",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "레",
+      "team2": "NY 레인저스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "두 경기 연속 1점 차 접전, NJ 데빌스 핸디캡 +1.5에 무게",
+      "ai_picks": [
+        "NY 레인저스 승",
+        "NJ 데빌스 +1.5 승"
+      ],
+      "aria_label": "NY 레인저스 vs NJ 데빌스 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000647549",
+      "url": "https://bbongtv4.com/premium/hockey/2000647549",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "캐",
+      "team2": "캐롤라이나 허리케인스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "캐롤라이나 허리케인스, 결장 변수에도 홈 강세와 최근 득점력 유지",
+      "ai_picks": [
+        "캐롤라이나 허리케인스 승",
+        "언더 6",
+        "내슈빌 프레데터스 +1.5 승"
+      ],
+      "aria_label": "캐롤라이나 허리케인스 vs 내슈빌 프레데터스 08:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000647550",
+      "url": "https://bbongtv4.com/premium/hockey/2000647550",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "탬",
+      "team2": "탬파베이 라이트닝",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "탬파베이 라이트닝, 결장 변수에도 시장 배당에서 압도적 우위",
+      "ai_picks": [
+        "탬파베이 라이트닝 승",
+        "언더 5.5",
+        "플로리다 팬서스 +2.5 승"
+      ],
+      "aria_label": "탬파베이 라이트닝 vs 플로리다 팬서스 08:00 분석 상세",
       "source_date": "2026-09-25"
     },
     {
@@ -3256,12 +3413,12 @@
       "league": "KHL",
       "date": "9/24 (목)",
       "time": "21:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "노",
       "team2": "노보시비르스크",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -3280,12 +3437,12 @@
       "league": "INTERF",
       "date": "9/24 (목)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "우즈베키스탄",
       "team2": "이란",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 28.0,
         "draw": 25.0,
