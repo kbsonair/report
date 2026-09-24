@@ -1,239 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-24",
   "source_date": "2026-09-24",
-  "scraped_at": "2026-09-24T10:10:58.184200+00:00",
+  "scraped_at": "2026-09-24T15:14:49.482897+00:00",
   "count": 39,
   "matches": [
-    {
-      "id": "2001050125",
-      "url": "https://bbongtv4.com/premium/basket/2001050125",
-      "sport": "basket",
-      "league": "KBL컵",
-      "date": "9/24 (목)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "고",
-      "team2": "고양 소노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "서울 SK, 최근 컵대회에서 꾸준한 성적을 바탕으로 우위 점칠 수 있어",
-      "ai_picks": [
-        "서울 SK 승",
-        "고양 소노 +2.5 승"
-      ],
-      "aria_label": "고양 소노 vs 서울 SK 16:30 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000355616",
-      "url": "https://bbongtv4.com/premium/baseball/2000355616",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/24 (목)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "SSG 랜더스",
-      "team2": "삼성 라이온즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "홈 8승1패 에스에스지, 시즌 2위 삼성 상대로 흐름 우위 시험대",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "오버 9.5",
-        "SSG 랜더스 +2.5 승"
-      ],
-      "aria_label": "SSG 랜더스 vs 삼성 라이온즈 17:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365002",
-      "url": "https://bbongtv4.com/premium/baseball/2000365002",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/24 (목)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "KT 위즈",
-      "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "KT 위즈, 최근 6경기 5승과 홈 평균득점 6.5로 상승세 뚜렷",
-      "ai_picks": [
-        "KT 위즈 승",
-        "오버 9.5"
-      ],
-      "aria_label": "KT 위즈 vs NC 다이노스 17:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000365003",
-      "url": "https://bbongtv4.com/premium/baseball/2000365003",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/24 (목)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "LG 트윈스",
-      "team2": "롯데 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "LG 트윈스 최근 6연승, 득실 모두 앞서며 우위 뚜렷",
-      "ai_picks": [
-        "LG 트윈스 승",
-        "오버 8.5",
-        "롯데 자이언츠 +1.5 승"
-      ],
-      "aria_label": "LG 트윈스 vs 롯데 자이언츠 17:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000354626",
-      "url": "https://bbongtv4.com/premium/baseball/2000354626",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/24 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "히로시마 카프",
-      "team2": "요미우리 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "2위 요미우리, 맞대결 4경기 무패 흐름이 우위 근거",
-      "ai_picks": [
-        "요미우리 자이언츠 승",
-        "언더 6.5"
-      ],
-      "aria_label": "히로시마 카프 vs 요미우리 자이언츠 18:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2000360370",
-      "url": "https://bbongtv4.com/premium/baseball/2000360370",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/24 (목)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "닛폰햄 파이터스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "상대전적 3전 전승, 시즌 실점 515 대 546이 만든 홈 우위",
-      "ai_picks": [
-        "닛폰햄 파이터스 승",
-        "오버 7.5",
-        "라쿠텐 골든 이글스 +1.5 승"
-      ],
-      "aria_label": "닛폰햄 파이터스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "2001032248",
-      "url": "https://bbongtv4.com/premium/basket/2001032248",
-      "sport": "basket",
-      "league": "호주 NBL",
-      "date": "9/24 (목)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "사",
-      "team2": "사우스 이스트 멜버른",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "기준점 190.5가 높고, 최근 접전 흐름은 홈 핸디를 지지",
-      "ai_picks": [
-        "언더 190.5",
-        "사우스 이스트 멜버른 +2.5 승"
-      ],
-      "aria_label": "사우스 이스트 멜버른 vs 멜버른 유나이티드 18:30 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "16492882",
-      "url": "https://bbongtv4.com/premium/soccer/16492882",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/24 (목)",
-      "time": "19:05",
-      "status": "예정",
-      "result": null,
-      "team1": "일본",
-      "team2": "우루과이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 25.0,
-        "away": 25.0
-      },
-      "ai_summary": "일본, 3경기 연속 1-0 승리로 안정된 수비력 과시",
-      "ai_picks": [
-        "일본 승",
-        "언더 2.5"
-      ],
-      "aria_label": "일본 vs 우루과이 19:05 분석 상세",
-      "source_date": "2026-09-24"
-    },
-    {
-      "id": "16492883",
-      "url": "https://bbongtv4.com/premium/soccer/16492883",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/24 (목)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대한민국",
-      "team2": "에콰도르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 32.0,
-        "away": 30.0
-      },
-      "ai_summary": "대한민국, 최근 2경기 무실점 상승세와 에콰도르 원정 무패 흐름이 맞붙는다",
-      "ai_picks": [
-        "언더 2.5",
-        "에콰도르 +0.5 승"
-      ],
-      "aria_label": "대한민국 vs 에콰도르 20:00 분석 상세",
-      "source_date": "2026-09-24"
-    },
     {
       "id": "2000643378",
       "url": "https://bbongtv4.com/premium/hockey/2000643378",
@@ -990,6 +760,236 @@
         "원주 DB 승"
       ],
       "aria_label": "원주 DB vs 서울 삼성 14:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001050125",
+      "url": "https://bbongtv4.com/premium/basket/2001050125",
+      "sport": "basket",
+      "league": "KBL컵",
+      "date": "9/24 (목)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "고",
+      "team2": "고양 소노",
+      "score1": 99,
+      "score2": 86,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "서울 SK, 최근 컵대회에서 꾸준한 성적을 바탕으로 우위 점칠 수 있어",
+      "ai_picks": [
+        "서울 SK 승",
+        "고양 소노 +2.5 승"
+      ],
+      "aria_label": "고양 소노 vs 서울 SK 16:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000355616",
+      "url": "https://bbongtv4.com/premium/baseball/2000355616",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/24 (목)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SSG 랜더스",
+      "team2": "삼성 라이온즈",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "홈 8승1패 에스에스지, 시즌 2위 삼성 상대로 흐름 우위 시험대",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "오버 9.5",
+        "SSG 랜더스 +2.5 승"
+      ],
+      "aria_label": "SSG 랜더스 vs 삼성 라이온즈 17:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365002",
+      "url": "https://bbongtv4.com/premium/baseball/2000365002",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/24 (목)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KT 위즈",
+      "team2": "NC 다이노스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "KT 위즈, 최근 6경기 5승과 홈 평균득점 6.5로 상승세 뚜렷",
+      "ai_picks": [
+        "KT 위즈 승",
+        "오버 9.5"
+      ],
+      "aria_label": "KT 위즈 vs NC 다이노스 17:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000365003",
+      "url": "https://bbongtv4.com/premium/baseball/2000365003",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/24 (목)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LG 트윈스",
+      "team2": "롯데 자이언츠",
+      "score1": 4,
+      "score2": 6,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "LG 트윈스 최근 6연승, 득실 모두 앞서며 우위 뚜렷",
+      "ai_picks": [
+        "LG 트윈스 승",
+        "오버 8.5",
+        "롯데 자이언츠 +1.5 승"
+      ],
+      "aria_label": "LG 트윈스 vs 롯데 자이언츠 17:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000354626",
+      "url": "https://bbongtv4.com/premium/baseball/2000354626",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/24 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "히로시마 카프",
+      "team2": "요미우리 자이언츠",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "2위 요미우리, 맞대결 4경기 무패 흐름이 우위 근거",
+      "ai_picks": [
+        "요미우리 자이언츠 승",
+        "언더 6.5"
+      ],
+      "aria_label": "히로시마 카프 vs 요미우리 자이언츠 18:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2000360370",
+      "url": "https://bbongtv4.com/premium/baseball/2000360370",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/24 (목)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "닛폰햄 파이터스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "상대전적 3전 전승, 시즌 실점 515 대 546이 만든 홈 우위",
+      "ai_picks": [
+        "닛폰햄 파이터스 승",
+        "오버 7.5",
+        "라쿠텐 골든 이글스 +1.5 승"
+      ],
+      "aria_label": "닛폰햄 파이터스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "2001032248",
+      "url": "https://bbongtv4.com/premium/basket/2001032248",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "9/24 (목)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "사",
+      "team2": "사우스 이스트 멜버른",
+      "score1": 61,
+      "score2": 86,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "기준점 190.5가 높고, 최근 접전 흐름은 홈 핸디를 지지",
+      "ai_picks": [
+        "언더 190.5",
+        "사우스 이스트 멜버른 +2.5 승"
+      ],
+      "aria_label": "사우스 이스트 멜버른 vs 멜버른 유나이티드 18:30 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16492882",
+      "url": "https://bbongtv4.com/premium/soccer/16492882",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "19:05",
+      "status": "종료",
+      "result": "적중",
+      "team1": "일본",
+      "team2": "우루과이",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 50.0,
+        "draw": 25.0,
+        "away": 25.0
+      },
+      "ai_summary": "일본, 3경기 연속 1-0 승리로 안정된 수비력 과시",
+      "ai_picks": [
+        "일본 승",
+        "언더 2.5"
+      ],
+      "aria_label": "일본 vs 우루과이 19:05 분석 상세",
+      "source_date": "2026-09-24"
+    },
+    {
+      "id": "16492883",
+      "url": "https://bbongtv4.com/premium/soccer/16492883",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/24 (목)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대한민국",
+      "team2": "에콰도르",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "대한민국, 최근 2경기 무실점 상승세와 에콰도르 원정 무패 흐름이 맞붙는다",
+      "ai_picks": [
+        "언더 2.5",
+        "에콰도르 +0.5 승"
+      ],
+      "aria_label": "대한민국 vs 에콰도르 20:00 분석 상세",
       "source_date": "2026-09-24"
     }
   ]
