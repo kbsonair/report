@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T19:17:38.920201+00:00",
+  "scraped_at": "2026-09-24T22:32:58.469805+00:00",
   "kst_yesterday": "2026-09-24",
   "kst_today": "2026-09-25",
   "kst_tomorrow": "2026-09-26",
@@ -311,7 +311,9 @@
       },
       "ai_summary": "워싱턴 내셔널스, 홈 10승5패와 강한 후반 집중력으로 근소 우위",
       "ai_picks": [
-        "워싱턴 내셔널스 승"
+        "워싱턴 내셔널스 승",
+        "오버 7.5",
+        "워싱턴 내셔널스 +1.5 승"
       ],
       "aria_label": "워싱턴 내셔널스 vs NY 메츠 07:45 분석 상세",
       "source_date": "2026-09-26"
@@ -359,7 +361,8 @@
       },
       "ai_summary": "토론토 블루제이스, 홈 평균실점 4.17로 신시내티 원정 실점 8.15에 앞선다",
       "ai_picks": [
-        "토론토 블루제이스 승"
+        "토론토 블루제이스 승",
+        "오버 7.5"
       ],
       "aria_label": "토론토 블루제이스 vs 신시내티 레즈 08:07 분석 상세",
       "source_date": "2026-09-26"
@@ -407,7 +410,9 @@
       },
       "ai_summary": "원정 평균실점 3.62 애틀란타, 투수 지표와 시즌 안정성 우위",
       "ai_picks": [
-        "애틀란타 브레이브스 승"
+        "애틀란타 브레이브스 승",
+        "오버 8.5",
+        "마이애미 말린스 +1.5 승"
       ],
       "aria_label": "마이애미 말린스 vs 애틀란타 브레이브스 08:10 분석 상세",
       "source_date": "2026-09-26"
@@ -431,7 +436,9 @@
       },
       "ai_summary": "원정 2승11패 로키스, 홈 평균득점 5.23 화이트삭스 우위",
       "ai_picks": [
-        "시카고 화이트삭스 승"
+        "시카고 화이트삭스 승",
+        "오버 8.5",
+        "시카고 화이트삭스 -1.5 승"
       ],
       "aria_label": "시카고 화이트삭스 vs 콜로라도 로키스 08:40 분석 상세",
       "source_date": "2026-09-26"
@@ -455,7 +462,9 @@
       },
       "ai_summary": "방어율 3.76 대 4.72, 클리블랜드 마운드 안정감이 우위",
       "ai_picks": [
-        "클리블랜드 가디언스 승"
+        "클리블랜드 가디언스 승",
+        "오버 7.5",
+        "캔자스시티 로열스 +1.5 승"
       ],
       "aria_label": "캔자스시티 로열스 vs 클리블랜드 가디언스 08:40 분석 상세",
       "source_date": "2026-09-26"
@@ -504,7 +513,9 @@
       },
       "ai_summary": "시즌 득실차와 팀 방어율 우위, 원정 불안에도 텍사스 근소 우세",
       "ai_picks": [
-        "텍사스 레인저스 승"
+        "텍사스 레인저스 승",
+        "오버 7.5",
+        "미네소타 트윈스 +1.5 승"
       ],
       "aria_label": "미네소타 트윈스 vs 텍사스 레인저스 09:10 분석 상세",
       "source_date": "2026-09-26"
@@ -1124,12 +1135,12 @@
       "league": "KHL",
       "date": "9/25 (금)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디",
       "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1148,12 +1159,12 @@
       "league": "KHL",
       "date": "9/25 (금)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "스",
       "team2": "스파르타크 모스크바",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1172,12 +1183,12 @@
       "league": "MLB",
       "date": "9/25 (금)",
       "time": "01:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "피츠버그 파이어리츠",
       "team2": "세인트루이스 카디널스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1197,12 +1208,12 @@
       "league": "GC",
       "date": "9/25 (금)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "카타르",
       "team2": "바레인",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 45.0,
         "draw": 30.0,
@@ -1223,12 +1234,12 @@
       "league": "MLB",
       "date": "9/25 (금)",
       "time": "03:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "캔자스시티 로열스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 9,
       "prob": {
         "home": 41.0,
         "away": 59.0
@@ -1249,12 +1260,12 @@
       "league": "MLB",
       "date": "9/25 (금)",
       "time": "03:20",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 컵스",
       "team2": "마이애미 말린스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1300,12 +1311,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "리히텐슈타인",
       "team2": "리투아니아",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 10.0,
         "draw": 15.0,
@@ -1326,12 +1337,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "네덜란드",
       "team2": "독일",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 30.0,
         "draw": 20.0,
@@ -1352,12 +1363,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "세르비아",
       "team2": "그리스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 35.0,
         "draw": 35.0,
@@ -1378,12 +1389,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "오스트리아",
       "team2": "이스라엘",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 60.0,
         "draw": 20.0,
@@ -1404,12 +1415,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "코소보",
       "team2": "아일랜드",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 28.0,
         "draw": 28.0,
@@ -1431,12 +1442,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "노르웨이",
       "team2": "덴마크",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 33.0,
         "draw": 35.0,
@@ -1457,12 +1468,12 @@
       "league": "UEFA NL",
       "date": "9/25 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "포르투갈",
       "team2": "웨일스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 65.0,
         "draw": 20.0,
