@@ -1,165 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-25T20:19:48.924165+00:00",
+  "scraped_at": "2026-09-25T23:22:00.948577+00:00",
   "count": 47,
   "matches": [
-    {
-      "id": "2006679009",
-      "url": "https://bbongtv4.com/premium/soccer/2006679009",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "몬테네그로",
-      "team2": "키프로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "몬테네그로, 4-4-2 고정과 오스마지치 득점력으로 홈 우위 기대",
-      "ai_picks": [
-        "몬테네그로 승",
-        "언더 2.5"
-      ],
-      "aria_label": "몬테네그로 vs 키프로스 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679017",
-      "url": "https://bbongtv4.com/premium/soccer/2006679017",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "헝가리",
-      "team2": "우크라이나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 30.0,
-        "away": 27.0
-      },
-      "ai_summary": "헝가리 최근 4경기 3승, 홈 강세와 조보슬라이의 활약이 변수",
-      "ai_picks": [
-        "헝가리 승",
-        "언더 2.5"
-      ],
-      "aria_label": "헝가리 vs 우크라이나 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679052",
-      "url": "https://bbongtv4.com/premium/soccer/2006679052",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "튀르키예",
-      "team2": "프랑스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "M. 올리세 3골·1도움, 프랑스 공격진의 결정력이 승부를 좌우한다",
-      "ai_picks": [
-        "프랑스 승",
-        "언더 3.5"
-      ],
-      "aria_label": "튀르키예 vs 프랑스 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679333",
-      "url": "https://bbongtv4.com/premium/soccer/2006679333",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "이탈리아",
-      "team2": "벨기에",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "draw": 30.0,
-        "away": 27.0
-      },
-      "ai_summary": "벨기에 주요 미드필더 결장, 이탈리아 수비 집중력에 무게",
-      "ai_picks": [
-        "이탈리아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "이탈리아 vs 벨기에 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679334",
-      "url": "https://bbongtv4.com/premium/soccer/2006679334",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "폴란드",
-      "team2": "보스니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "폴란드 최근 2경기 4실점, 수비 흔들려 언더 2.5에 주목",
-      "ai_picks": [
-        "폴란드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "폴란드 vs 보스니아 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679335",
-      "url": "https://bbongtv4.com/premium/soccer/2006679335",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스웨덴",
-      "team2": "루마니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "스웨덴, 최근 2경기 5실점으로 수비 불안…오버 2.5 가능성 주목",
-      "ai_picks": [
-        "스웨덴 승",
-        "오버 2.5"
-      ],
-      "aria_label": "스웨덴 vs 루마니아 03:45 분석 상세",
-      "source_date": "2026-09-26"
-    },
     {
       "id": "2000365244",
       "url": "https://bbongtv4.com/premium/baseball/2000365244",
@@ -1190,6 +1034,162 @@
         "언더 2.5"
       ],
       "aria_label": "아르메니아 vs 라트비아 01:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679009",
+      "url": "https://bbongtv4.com/premium/soccer/2006679009",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몬테네그로",
+      "team2": "키프로스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "몬테네그로, 4-4-2 고정과 오스마지치 득점력으로 홈 우위 기대",
+      "ai_picks": [
+        "몬테네그로 승",
+        "언더 2.5"
+      ],
+      "aria_label": "몬테네그로 vs 키프로스 03:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679017",
+      "url": "https://bbongtv4.com/premium/soccer/2006679017",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "헝가리",
+      "team2": "우크라이나",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 43.0,
+        "draw": 30.0,
+        "away": 27.0
+      },
+      "ai_summary": "헝가리 최근 4경기 3승, 홈 강세와 조보슬라이의 활약이 변수",
+      "ai_picks": [
+        "헝가리 승",
+        "언더 2.5"
+      ],
+      "aria_label": "헝가리 vs 우크라이나 03:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679052",
+      "url": "https://bbongtv4.com/premium/soccer/2006679052",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "튀르키예",
+      "team2": "프랑스",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "M. 올리세 3골·1도움, 프랑스 공격진의 결정력이 승부를 좌우한다",
+      "ai_picks": [
+        "프랑스 승",
+        "언더 3.5"
+      ],
+      "aria_label": "튀르키예 vs 프랑스 03:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679333",
+      "url": "https://bbongtv4.com/premium/soccer/2006679333",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "이탈리아",
+      "team2": "벨기에",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 43.0,
+        "draw": 30.0,
+        "away": 27.0
+      },
+      "ai_summary": "벨기에 주요 미드필더 결장, 이탈리아 수비 집중력에 무게",
+      "ai_picks": [
+        "이탈리아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "이탈리아 vs 벨기에 03:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679334",
+      "url": "https://bbongtv4.com/premium/soccer/2006679334",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "폴란드",
+      "team2": "보스니아",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "폴란드 최근 2경기 4실점, 수비 흔들려 언더 2.5에 주목",
+      "ai_picks": [
+        "폴란드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "폴란드 vs 보스니아 03:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679335",
+      "url": "https://bbongtv4.com/premium/soccer/2006679335",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스웨덴",
+      "team2": "루마니아",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "스웨덴, 최근 2경기 5실점으로 수비 불안…오버 2.5 가능성 주목",
+      "ai_picks": [
+        "스웨덴 승",
+        "오버 2.5"
+      ],
+      "aria_label": "스웨덴 vs 루마니아 03:45 분석 상세",
       "source_date": "2026-09-26"
     }
   ]
