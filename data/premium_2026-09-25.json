@@ -1,84 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-25",
-  "scraped_at": "2026-09-25T05:59:04.631935+00:00",
-  "count": 59,
+  "scraped_at": "2026-09-25T11:42:29.274950+00:00",
+  "count": 58,
   "matches": [
-    {
-      "id": "2000365243",
-      "url": "https://bbongtv4.com/premium/baseball/2000365243",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/25 (금)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "LA 다저스",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "타일러 글래스나우의 강한 피칭과 홈 타선, 후반 집중력에서 LA 다저스가 앞선다",
-      "ai_picks": [
-        "LA 다저스 승",
-        "언더 7.5"
-      ],
-      "aria_label": "LA 다저스 vs 샌디에이고 파드레스 11:10 분석 상세",
-      "source_date": "2026-09-25"
-    },
-    {
-      "id": "2001050127",
-      "url": "https://bbongtv4.com/premium/basket/2001050127",
-      "sport": "basket",
-      "league": "KBL컵",
-      "date": "9/25 (금)",
-      "time": "14:00",
-      "status": "예정",
-      "result": null,
-      "team1": "부",
-      "team2": "부산 KCC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "부산 KCC, 최근 홈 경기력과 상대 전적에서 우위 보여",
-      "ai_picks": [
-        "부산 KCC 승"
-      ],
-      "aria_label": "부산 KCC vs 창원 LG 14:00 분석 상세",
-      "source_date": "2026-09-25"
-    },
-    {
-      "id": "2001050129",
-      "url": "https://bbongtv4.com/premium/basket/2001050129",
-      "sport": "basket",
-      "league": "KBL컵",
-      "date": "9/25 (금)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "안",
-      "team2": "안양 정관장",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "안양 정관장, 최근 안정된 경기력으로 홈 이점 기대",
-      "ai_picks": [
-        "안양 정관장 승",
-        "언더 164.5",
-        "수원 KT +1.5 승"
-      ],
-      "aria_label": "안양 정관장 vs 수원 KT 16:30 분석 상세",
-      "source_date": "2026-09-25"
-    },
     {
       "id": "2000355615",
       "url": "https://bbongtv4.com/premium/baseball/2000355615",
@@ -154,31 +79,6 @@
         "SSG 랜더스 +1.5 승"
       ],
       "aria_label": "SSG 랜더스 vs 삼성 라이온즈 17:00 분석 상세",
-      "source_date": "2026-09-25"
-    },
-    {
-      "id": "16493660",
-      "url": "https://bbongtv4.com/premium/soccer/16493660",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/25 (금)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "방글라데시",
-      "team2": "말레이시아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "말레이시아 승",
-      "ai_picks": [
-        "말레이시아 승"
-      ],
-      "aria_label": "방글라데시 vs 말레이시아 17:00 분석 상세",
       "source_date": "2026-09-25"
     },
     {
@@ -432,30 +332,6 @@
         "오버 2.5"
       ],
       "aria_label": "인도 vs 파나마 23:00 분석 상세",
-      "source_date": "2026-09-25"
-    },
-    {
-      "id": "2000643380",
-      "url": "https://bbongtv4.com/premium/hockey/2000643380",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/25 (금)",
-      "time": "23:30",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바리스 아스타나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "바리스 아스타나, 홈 평균득점 5.33으로 공격력에서 확실한 우위",
-      "ai_picks": [
-        "바리스 아스타나 승"
-      ],
-      "aria_label": "바리스 아스타나 vs 니즈네카민스크 23:30 분석 상세",
       "source_date": "2026-09-25"
     },
     {
@@ -1502,6 +1378,106 @@
         "퀴라소 +1.5 승"
       ],
       "aria_label": "코스타리카 vs 퀴라소 11:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000365243",
+      "url": "https://bbongtv4.com/premium/baseball/2000365243",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/25 (금)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LA 다저스",
+      "team2": "샌디에이고 파드레스",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "타일러 글래스나우의 강한 피칭과 홈 타선, 후반 집중력에서 LA 다저스가 앞선다",
+      "ai_picks": [
+        "LA 다저스 승",
+        "언더 7.5"
+      ],
+      "aria_label": "LA 다저스 vs 샌디에이고 파드레스 11:10 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2001050127",
+      "url": "https://bbongtv4.com/premium/basket/2001050127",
+      "sport": "basket",
+      "league": "KBL컵",
+      "date": "9/25 (금)",
+      "time": "14:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "부",
+      "team2": "부산 KCC",
+      "score1": 82,
+      "score2": 88,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "부산 KCC, 최근 홈 경기력과 상대 전적에서 우위 보여",
+      "ai_picks": [
+        "부산 KCC 승"
+      ],
+      "aria_label": "부산 KCC vs 창원 LG 14:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2001050129",
+      "url": "https://bbongtv4.com/premium/basket/2001050129",
+      "sport": "basket",
+      "league": "KBL컵",
+      "date": "9/25 (금)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "안",
+      "team2": "안양 정관장",
+      "score1": 75,
+      "score2": 72,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "안양 정관장, 최근 안정된 경기력으로 홈 이점 기대",
+      "ai_picks": [
+        "안양 정관장 승",
+        "언더 164.5",
+        "수원 KT +1.5 승"
+      ],
+      "aria_label": "안양 정관장 vs 수원 KT 16:30 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "16493660",
+      "url": "https://bbongtv4.com/premium/soccer/16493660",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/25 (금)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "방글라데시",
+      "team2": "말레이시아",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "말레이시아 승",
+      "ai_picks": [
+        "말레이시아 승"
+      ],
+      "aria_label": "방글라데시 vs 말레이시아 17:00 분석 상세",
       "source_date": "2026-09-25"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-26",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-25T05:59:06.555424+00:00",
-  "count": 45,
+  "scraped_at": "2026-09-25T11:42:30.982098+00:00",
+  "count": 46,
   "matches": [
     {
       "id": "2000643382",
@@ -633,7 +633,9 @@
       },
       "ai_summary": "팀 방어율 4.50 대 5.45, 휴스턴 마운드 우위가 핵심",
       "ai_picks": [
-        "휴스턴 애스트로스 승"
+        "휴스턴 애스트로스 승",
+        "오버 8.5",
+        "휴스턴 애스트로스 -1.5 승"
       ],
       "aria_label": "오클랜드 vs 휴스턴 애스트로스 10:40 분석 상세",
       "source_date": "2026-09-26"
@@ -831,7 +833,8 @@
       },
       "ai_summary": "서울 SK 최근 상승세와 홈 경기 이점이 변수로 작용할 경기",
       "ai_picks": [
-        "서울 SK 승"
+        "서울 SK 승",
+        "오버 166.5"
       ],
       "aria_label": "서울 SK vs 원주 DB 14:00 분석 상세",
       "source_date": "2026-09-26"
@@ -930,6 +933,30 @@
         "NC 다이노스 승"
       ],
       "aria_label": "NC 다이노스 vs 한화 이글스 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643380",
+      "url": "https://bbongtv4.com/premium/hockey/2000643380",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "바",
+      "team2": "바리스 아스타나",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "바리스 아스타나, 홈 평균득점 5.33으로 공격력에서 확실한 우위",
+      "ai_picks": [
+        "바리스 아스타나 승"
+      ],
+      "aria_label": "바리스 아스타나 vs 니즈네카민스크 17:00 분석 상세",
       "source_date": "2026-09-26"
     },
     {
