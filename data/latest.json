@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T22:32:58.469805+00:00",
+  "scraped_at": "2026-09-25T00:48:17.493247+00:00",
   "kst_yesterday": "2026-09-24",
   "kst_today": "2026-09-25",
   "kst_tomorrow": "2026-09-26",
@@ -8,7 +8,7 @@
     "2026-09-25",
     "2026-09-26"
   ],
-  "count": 137,
+  "count": 143,
   "matches": [
     {
       "id": "2000643382",
@@ -418,6 +418,30 @@
       "source_date": "2026-09-26"
     },
     {
+      "id": "2000646626",
+      "url": "https://bbongtv4.com/premium/hockey/2000646626",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/26 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "아",
+      "team2": "NY 아일랜더스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "NY 아일랜더스, 최근 맞대결 4-3 승리로 상승세 뚜렷",
+      "ai_picks": [
+        "NY 아일랜더스 승"
+      ],
+      "aria_label": "NY 아일랜더스 vs NY 레인저스 08:30 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
       "id": "2000365251",
       "url": "https://bbongtv4.com/premium/baseball/2000365251",
       "sport": "baseball",
@@ -495,6 +519,30 @@
       "source_date": "2026-09-26"
     },
     {
+      "id": "2000648971",
+      "url": "https://bbongtv4.com/premium/hockey/2000648971",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/26 (토)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미",
+      "team2": "미네소타 와일드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "댈러스 스타스, 최근 3경기 모두 2실점 이하로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "댈러스 스타스 승"
+      ],
+      "aria_label": "미네소타 와일드 vs 댈러스 스타스 09:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
       "id": "2000365254",
       "url": "https://bbongtv4.com/premium/baseball/2000365254",
       "sport": "baseball",
@@ -518,6 +566,30 @@
         "미네소타 트윈스 +1.5 승"
       ],
       "aria_label": "미네소타 트윈스 vs 텍사스 레인저스 09:10 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000645929",
+      "url": "https://bbongtv4.com/premium/hockey/2000645929",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/26 (토)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "콜",
+      "team2": "콜로라도 애벌런치",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "콜로라도 애벌런치, 홈에서 결장자 부담에도 반등 노린다",
+      "ai_picks": [
+        "콜로라도 애벌런치 승"
+      ],
+      "aria_label": "콜로라도 애벌런치 vs 위니펙 제츠 09:30 분석 상세",
       "source_date": "2026-09-26"
     },
     {
@@ -589,7 +661,9 @@
       },
       "ai_summary": "샌디에이고 최근 홈 3연승, 강한 홈 화력과 마운드 안정감이 변수",
       "ai_picks": [
-        "샌디에이고 파드레스 승"
+        "샌디에이고 파드레스 승",
+        "오버 7.5",
+        "샌디에이고 파드레스 -1.5 승"
       ],
       "aria_label": "샌디에이고 파드레스 vs 애리조나 다이아몬드백스 10:40 분석 상세",
       "source_date": "2026-09-26"
@@ -613,7 +687,8 @@
       },
       "ai_summary": "선발 맞대결 방어율 3.99 대 3.47, 레이드 뎃머스가 미세하게 앞선다",
       "ai_picks": [
-        "시애틀 매리너스 승"
+        "시애틀 매리너스 승",
+        "언더 6.5"
       ],
       "aria_label": "시애틀 매리너스 vs LA 에인절스 11:10 분석 상세",
       "source_date": "2026-09-26"
@@ -1286,12 +1361,12 @@
       "league": "MLB",
       "date": "9/25 (금)",
       "time": "03:35",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "텍사스 레인저스",
       "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 7,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1495,12 +1570,12 @@
       "league": "MLB",
       "date": "9/25 (금)",
       "time": "04:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜로라도 로키스",
       "team2": "애리조나 다이아몬드백스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 12,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -1897,6 +1972,31 @@
       "source_date": "2026-09-25"
     },
     {
+      "id": "2000645925",
+      "url": "https://bbongtv4.com/premium/hockey/2000645925",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "밴",
+      "team2": "밴쿠버 커넉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "최근 2패 대 2승, 1.37 배당과 흐름이 엇갈린 밴쿠버 홈",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "에드먼턴 오일러스 +1.5 승"
+      ],
+      "aria_label": "밴쿠버 커넉스 vs 에드먼턴 오일러스 10:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
       "id": "2000365241",
       "url": "https://bbongtv4.com/premium/baseball/2000365241",
       "sport": "baseball",
@@ -1996,6 +2096,56 @@
         "오버 175.5"
       ],
       "aria_label": "피닉스 머큐리 여자 vs 라스베가스 에이시스 여자 11:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000645923",
+      "url": "https://bbongtv4.com/premium/hockey/2000645923",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베",
+      "team2": "베가스 골든 나이츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "베가스 골든 나이츠 2경기 연속 원정 승리, 안정된 수비가 강점",
+      "ai_picks": [
+        "베가스 골든 나이츠 승",
+        "오버 5.5"
+      ],
+      "aria_label": "베가스 골든 나이츠 vs 유타 11:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000645926",
+      "url": "https://bbongtv4.com/premium/hockey/2000645926",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "산",
+      "team2": "산호세 샤크스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "애너하임 덕스, 최근 맞대결 6-2 대승과 핸디캡 배당에 주목",
+      "ai_picks": [
+        "애너하임 덕스 +1.5 승",
+        "오버 6"
+      ],
+      "aria_label": "산호세 샤크스 vs 애너하임 덕스 11:00 분석 상세",
       "source_date": "2026-09-25"
     },
     {

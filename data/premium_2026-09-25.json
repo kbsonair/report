@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-25",
-  "scraped_at": "2026-09-24T22:32:56.620876+00:00",
-  "count": 56,
+  "scraped_at": "2026-09-25T00:48:15.215454+00:00",
+  "count": 59,
   "matches": [
-    {
-      "id": "2000365232",
-      "url": "https://bbongtv4.com/premium/baseball/2000365232",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/25 (금)",
-      "time": "03:35",
-      "status": "예정",
-      "result": null,
-      "team1": "텍사스 레인저스",
-      "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "텍사스 레인저스, 홈에서 평균득점 5.38로 공격력 우위 뚜렷",
-      "ai_picks": [
-        "텍사스 레인저스 승",
-        "오버 8.5"
-      ],
-      "aria_label": "텍사스 레인저스 vs NY 메츠 03:35 분석 상세",
-      "source_date": "2026-09-25"
-    },
-    {
-      "id": "2000365233",
-      "url": "https://bbongtv4.com/premium/baseball/2000365233",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/25 (금)",
-      "time": "04:10",
-      "status": "예정",
-      "result": null,
-      "team1": "콜로라도 로키스",
-      "team2": "애리조나 다이아몬드백스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "에두아드오 로드리게스 방어율 2.89, 선발-불펜 모두 애리조나 우위",
-      "ai_picks": [
-        "애리조나 다이아몬드백스 승",
-        "언더 9.5"
-      ],
-      "aria_label": "콜로라도 로키스 vs 애리조나 다이아몬드백스 04:10 분석 상세",
-      "source_date": "2026-09-25"
-    },
     {
       "id": "2000365234",
       "url": "https://bbongtv4.com/premium/baseball/2000365234",
@@ -438,6 +388,31 @@
       "source_date": "2026-09-25"
     },
     {
+      "id": "2000645925",
+      "url": "https://bbongtv4.com/premium/hockey/2000645925",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "밴",
+      "team2": "밴쿠버 커넉스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "최근 2패 대 2승, 1.37 배당과 흐름이 엇갈린 밴쿠버 홈",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "에드먼턴 오일러스 +1.5 승"
+      ],
+      "aria_label": "밴쿠버 커넉스 vs 에드먼턴 오일러스 10:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
       "id": "2000365241",
       "url": "https://bbongtv4.com/premium/baseball/2000365241",
       "sport": "baseball",
@@ -537,6 +512,56 @@
         "오버 175.5"
       ],
       "aria_label": "피닉스 머큐리 여자 vs 라스베가스 에이시스 여자 11:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000645923",
+      "url": "https://bbongtv4.com/premium/hockey/2000645923",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베",
+      "team2": "베가스 골든 나이츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "베가스 골든 나이츠 2경기 연속 원정 승리, 안정된 수비가 강점",
+      "ai_picks": [
+        "베가스 골든 나이츠 승",
+        "오버 5.5"
+      ],
+      "aria_label": "베가스 골든 나이츠 vs 유타 11:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000645926",
+      "url": "https://bbongtv4.com/premium/hockey/2000645926",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/25 (금)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "산",
+      "team2": "산호세 샤크스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "애너하임 덕스, 최근 맞대결 6-2 대승과 핸디캡 배당에 주목",
+      "ai_picks": [
+        "애너하임 덕스 +1.5 승",
+        "오버 6"
+      ],
+      "aria_label": "산호세 샤크스 vs 애너하임 덕스 11:00 분석 상세",
       "source_date": "2026-09-25"
     },
     {
@@ -1246,6 +1271,31 @@
       "source_date": "2026-09-25"
     },
     {
+      "id": "2000365232",
+      "url": "https://bbongtv4.com/premium/baseball/2000365232",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/25 (금)",
+      "time": "03:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "텍사스 레인저스",
+      "team2": "NY 메츠",
+      "score1": 2,
+      "score2": 7,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "텍사스 레인저스, 홈에서 평균득점 5.38로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "텍사스 레인저스 승",
+        "오버 8.5"
+      ],
+      "aria_label": "텍사스 레인저스 vs NY 메츠 03:35 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
       "id": "2006678990",
       "url": "https://bbongtv4.com/premium/soccer/2006678990",
       "sport": "soccer",
@@ -1427,6 +1477,31 @@
         "포르투갈 -1.5 승"
       ],
       "aria_label": "포르투갈 vs 웨일스 03:45 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000365233",
+      "url": "https://bbongtv4.com/premium/baseball/2000365233",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/25 (금)",
+      "time": "04:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜로라도 로키스",
+      "team2": "애리조나 다이아몬드백스",
+      "score1": 8,
+      "score2": 12,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "에두아드오 로드리게스 방어율 2.89, 선발-불펜 모두 애리조나 우위",
+      "ai_picks": [
+        "애리조나 다이아몬드백스 승",
+        "언더 9.5"
+      ],
+      "aria_label": "콜로라도 로키스 vs 애리조나 다이아몬드백스 04:10 분석 상세",
       "source_date": "2026-09-25"
     }
   ]
