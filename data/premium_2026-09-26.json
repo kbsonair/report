@@ -1,85 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-25T16:54:08.774370+00:00",
-  "count": 46,
+  "scraped_at": "2026-09-25T20:19:48.924165+00:00",
+  "count": 47,
   "matches": [
-    {
-      "id": "2000643382",
-      "url": "https://bbongtv4.com/premium/hockey/2000643382",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라",
-      "team2": "라다",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "away": 82.0
-      },
-      "ai_summary": "CSKA 모스크바 원정 4연승, 라다 홈 실점 5점으로 수비 불안",
-      "ai_picks": [
-        "CSKA 모스크바 승"
-      ],
-      "aria_label": "라다 vs CSKA 모스크바 00:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679016",
-      "url": "https://bbongtv4.com/premium/soccer/2006679016",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "조지아",
-      "team2": "북아일랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "조지아 최근 4경기 무패, 홈에서 꾸준한 득점력 유지",
-      "ai_picks": [
-        "조지아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "조지아 vs 북아일랜드 01:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006810793",
-      "url": "https://bbongtv4.com/premium/soccer/2006810793",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아르메니아",
-      "team2": "라트비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "아르메니아, 최근 3경기 연속 무승부 속 득점력 유지가 변수",
-      "ai_picks": [
-        "아르메니아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아르메니아 vs 라트비아 01:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
     {
       "id": "2006679009",
       "url": "https://bbongtv4.com/premium/soccer/2006679009",
@@ -310,6 +234,31 @@
         "워싱턴 내셔널스 +1.5 승"
       ],
       "aria_label": "워싱턴 내셔널스 vs NY 메츠 07:45 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000645928",
+      "url": "https://bbongtv4.com/premium/hockey/2000645928",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/26 (토)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "워",
+      "team2": "워싱턴 캐피털스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "워싱턴 캐피털스 홈 5-2 대승, 최근 득점력에서 앞선 흐름",
+      "ai_picks": [
+        "워싱턴 캐피털스 승",
+        "보스턴 브루인스 +1.5 승"
+      ],
+      "aria_label": "워싱턴 캐피털스 vs 보스턴 브루인스 08:00 분석 상세",
       "source_date": "2026-09-26"
     },
     {
@@ -1165,6 +1114,82 @@
         "스파르타크 모스크바 승"
       ],
       "aria_label": "스파르타크 모스크바 vs 예카테린부르크 23:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643382",
+      "url": "https://bbongtv4.com/premium/hockey/2000643382",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라",
+      "team2": "라다",
+      "score1": 0,
+      "score2": 5,
+      "prob": {
+        "home": 18.0,
+        "away": 82.0
+      },
+      "ai_summary": "CSKA 모스크바 원정 4연승, 라다 홈 실점 5점으로 수비 불안",
+      "ai_picks": [
+        "CSKA 모스크바 승"
+      ],
+      "aria_label": "라다 vs CSKA 모스크바 00:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679016",
+      "url": "https://bbongtv4.com/premium/soccer/2006679016",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "조지아",
+      "team2": "북아일랜드",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "조지아 최근 4경기 무패, 홈에서 꾸준한 득점력 유지",
+      "ai_picks": [
+        "조지아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "조지아 vs 북아일랜드 01:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006810793",
+      "url": "https://bbongtv4.com/premium/soccer/2006810793",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아르메니아",
+      "team2": "라트비아",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "아르메니아, 최근 3경기 연속 무승부 속 득점력 유지가 변수",
+      "ai_picks": [
+        "아르메니아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아르메니아 vs 라트비아 01:00 분석 상세",
       "source_date": "2026-09-26"
     }
   ]

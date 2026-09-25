@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-25",
   "source_date": "2026-09-25",
-  "scraped_at": "2026-09-25T16:54:10.120022+00:00",
+  "scraped_at": "2026-09-25T20:19:50.181911+00:00",
   "count": 58,
   "matches": [
-    {
-      "id": "2000643383",
-      "url": "https://bbongtv4.com/premium/hockey/2000643383",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/25 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트랙터 첼야빈스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "SKA 상트페테르부르크, 최근 6경기 5승의 상승세와 득실 우위 뚜렷",
-      "ai_picks": [
-        "SKA 상트페테르부르크 승"
-      ],
-      "aria_label": "트랙터 첼야빈스크 vs SKA 상트페테르부르크 23:00 분석 상세",
-      "source_date": "2026-09-25"
-    },
     {
       "id": "2000643375",
       "url": "https://bbongtv4.com/premium/hockey/2000643375",
@@ -1452,6 +1428,30 @@
         "인도네시아 승"
       ],
       "aria_label": "인도네시아 vs 싱가포르 21:00 분석 상세",
+      "source_date": "2026-09-25"
+    },
+    {
+      "id": "2000643383",
+      "url": "https://bbongtv4.com/premium/hockey/2000643383",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/25 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "트",
+      "team2": "트랙터 첼야빈스크",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "SKA 상트페테르부르크, 최근 6경기 5승의 상승세와 득실 우위 뚜렷",
+      "ai_picks": [
+        "SKA 상트페테르부르크 승"
+      ],
+      "aria_label": "트랙터 첼야빈스크 vs SKA 상트페테르부르크 23:00 분석 상세",
       "source_date": "2026-09-25"
     },
     {
