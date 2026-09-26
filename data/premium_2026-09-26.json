@@ -1,105 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-26",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-26T16:44:53.344772+00:00",
+  "scraped_at": "2026-09-26T19:37:20.903925+00:00",
   "count": 61,
   "matches": [
-    {
-      "id": "2000643384",
-      "url": "https://bbongtv4.com/premium/hockey/2000643384",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "체",
-      "team2": "체레포베츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "체레포베츠 홈 실점 1.67, 소치 원정 실점 4.5로 수비력 차이 뚜렷",
-      "ai_picks": [
-        "체레포베츠 승"
-      ],
-      "aria_label": "체레포베츠 vs 소치 23:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2000643385",
-      "url": "https://bbongtv4.com/premium/hockey/2000643385",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "디나모 모스크바 홈 평균실점 2.33, 살라바트 우파 원정 득점력 4.33의 대조",
-      "ai_picks": [
-        "디나모 모스크바 승"
-      ],
-      "aria_label": "디나모 모스크바 vs 살라바트 우파 23:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2000643387",
-      "url": "https://bbongtv4.com/premium/hockey/2000643387",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "상하이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "상하이 최근 5경기 중 3승, 득점력은 유지되나 실점 관리가 변수",
-      "ai_picks": [
-        "상하이 승"
-      ],
-      "aria_label": "상하이 vs 디나모 민스크 23:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2000643388",
-      "url": "https://bbongtv4.com/premium/hockey/2000643388",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "스",
-      "team2": "스파르타크 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "스파르타크 모스크바, 홈 평균 실점 0.67로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "스파르타크 모스크바 승"
-      ],
-      "aria_label": "스파르타크 모스크바 vs 예카테린부르크 23:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
     {
       "id": "2000643382",
       "url": "https://bbongtv4.com/premium/hockey/2000643382",
@@ -1557,6 +1461,102 @@
         "스코틀랜드 +0.5 승"
       ],
       "aria_label": "슬로베니아 vs 스코틀랜드 22:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643384",
+      "url": "https://bbongtv4.com/premium/hockey/2000643384",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "체",
+      "team2": "체레포베츠",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "체레포베츠 홈 실점 1.67, 소치 원정 실점 4.5로 수비력 차이 뚜렷",
+      "ai_picks": [
+        "체레포베츠 승"
+      ],
+      "aria_label": "체레포베츠 vs 소치 23:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643385",
+      "url": "https://bbongtv4.com/premium/hockey/2000643385",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디",
+      "team2": "디나모 모스크바",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "디나모 모스크바 홈 평균실점 2.33, 살라바트 우파 원정 득점력 4.33의 대조",
+      "ai_picks": [
+        "디나모 모스크바 승"
+      ],
+      "aria_label": "디나모 모스크바 vs 살라바트 우파 23:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643387",
+      "url": "https://bbongtv4.com/premium/hockey/2000643387",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "상",
+      "team2": "상하이",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "상하이 최근 5경기 중 3승, 득점력은 유지되나 실점 관리가 변수",
+      "ai_picks": [
+        "상하이 승"
+      ],
+      "aria_label": "상하이 vs 디나모 민스크 23:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643388",
+      "url": "https://bbongtv4.com/premium/hockey/2000643388",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스",
+      "team2": "스파르타크 모스크바",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "스파르타크 모스크바, 홈 평균 실점 0.67로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "스파르타크 모스크바 승"
+      ],
+      "aria_label": "스파르타크 모스크바 vs 예카테린부르크 23:00 분석 상세",
       "source_date": "2026-09-26"
     }
   ]

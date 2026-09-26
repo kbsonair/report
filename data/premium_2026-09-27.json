@@ -1,140 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-27",
-  "scraped_at": "2026-09-26T16:44:51.898188+00:00",
+  "scraped_at": "2026-09-26T19:37:19.647526+00:00",
   "count": 74,
   "matches": [
-    {
-      "id": "16495530",
-      "url": "https://bbongtv4.com/premium/soccer/16495530",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "9/27 (일)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "쿠웨이트",
-      "team2": "이라크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "이라크, 최근 4경기 1패만 허용하며 안정적 수비력 유지",
-      "ai_picks": [
-        "이라크 승",
-        "언더 2.5"
-      ],
-      "aria_label": "쿠웨이트 vs 이라크 00:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679001",
-      "url": "https://bbongtv4.com/premium/soccer/2006679001",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "파로 제도",
-      "team2": "카자흐스탄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "파로 제도 최근 홈 경기 승리, 카자흐스탄은 원정서 실점 잦아",
-      "ai_picks": [
-        "파로 제도 승",
-        "언더 2.5"
-      ],
-      "aria_label": "파로 제도 vs 카자흐스탄 01:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679331",
-      "url": "https://bbongtv4.com/premium/soccer/2006679331",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아이슬란드",
-      "team2": "에스토니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 77.0,
-        "draw": 15.0,
-        "away": 8.0
-      },
-      "ai_summary": "아이슬란드 최근 5경기 무승, 그러나 시장은 대승 기대",
-      "ai_picks": [
-        "아이슬란드 승",
-        "오버 2.5",
-        "아이슬란드 -1.5 승"
-      ],
-      "aria_label": "아이슬란드 vs 에스토니아 01:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679332",
-      "url": "https://bbongtv4.com/premium/soccer/2006679332",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산 마리노",
-      "team2": "핀란드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 5.0,
-        "draw": 6.0,
-        "away": 89.0
-      },
-      "ai_summary": "산 마리노, 최근 4경기 모두 1득점에 그쳐 핀란드 상대로 저득점 흐름 예상",
-      "ai_picks": [
-        "언더 3.5",
-        "산 마리노 +2.5 승"
-      ],
-      "aria_label": "산 마리노 vs 핀란드 01:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006810794",
-      "url": "https://bbongtv4.com/premium/soccer/2006810794",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "불가리아",
-      "team2": "룩셈부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 39.0,
-        "draw": 33.0,
-        "away": 28.0
-      },
-      "ai_summary": "불가리아, 최근 2경기 2득점·3실점으로 수비 불안 노출",
-      "ai_picks": [
-        "언더 2.5",
-        "룩셈부르크 +0.5 승"
-      ],
-      "aria_label": "불가리아 vs 룩셈부르크 01:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
     {
       "id": "2000365259",
       "url": "https://bbongtv4.com/premium/baseball/2000365259",
@@ -543,7 +412,9 @@
       },
       "ai_summary": "워싱턴 캐피털스, 최근 맞대결 5-2 승리와 득실 우위로 원정에서도 강세 기대",
       "ai_picks": [
-        "워싱턴 캐피털스 승"
+        "워싱턴 캐피털스 승",
+        "오버 6",
+        "워싱턴 캐피털스 +1.5 승"
       ],
       "aria_label": "필라델피아 플라이어스 vs 워싱턴 캐피털스 06:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1894,6 +1765,137 @@
         "오버 1.5"
       ],
       "aria_label": "리투아니아 vs 아제르바이잔 22:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "16495530",
+      "url": "https://bbongtv4.com/premium/soccer/16495530",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "9/27 (일)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "쿠웨이트",
+      "team2": "이라크",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "이라크, 최근 4경기 1패만 허용하며 안정적 수비력 유지",
+      "ai_picks": [
+        "이라크 승",
+        "언더 2.5"
+      ],
+      "aria_label": "쿠웨이트 vs 이라크 00:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679001",
+      "url": "https://bbongtv4.com/premium/soccer/2006679001",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "파로 제도",
+      "team2": "카자흐스탄",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "파로 제도 최근 홈 경기 승리, 카자흐스탄은 원정서 실점 잦아",
+      "ai_picks": [
+        "파로 제도 승",
+        "언더 2.5"
+      ],
+      "aria_label": "파로 제도 vs 카자흐스탄 01:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679331",
+      "url": "https://bbongtv4.com/premium/soccer/2006679331",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아이슬란드",
+      "team2": "에스토니아",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 77.0,
+        "draw": 15.0,
+        "away": 8.0
+      },
+      "ai_summary": "아이슬란드 최근 5경기 무승, 그러나 시장은 대승 기대",
+      "ai_picks": [
+        "아이슬란드 승",
+        "오버 2.5",
+        "아이슬란드 -1.5 승"
+      ],
+      "aria_label": "아이슬란드 vs 에스토니아 01:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679332",
+      "url": "https://bbongtv4.com/premium/soccer/2006679332",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "산 마리노",
+      "team2": "핀란드",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 5.0,
+        "draw": 6.0,
+        "away": 89.0
+      },
+      "ai_summary": "산 마리노, 최근 4경기 모두 1득점에 그쳐 핀란드 상대로 저득점 흐름 예상",
+      "ai_picks": [
+        "언더 3.5",
+        "산 마리노 +2.5 승"
+      ],
+      "aria_label": "산 마리노 vs 핀란드 01:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006810794",
+      "url": "https://bbongtv4.com/premium/soccer/2006810794",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "불가리아",
+      "team2": "룩셈부르크",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 39.0,
+        "draw": 33.0,
+        "away": 28.0
+      },
+      "ai_summary": "불가리아, 최근 2경기 2득점·3실점으로 수비 불안 노출",
+      "ai_picks": [
+        "언더 2.5",
+        "룩셈부르크 +0.5 승"
+      ],
+      "aria_label": "불가리아 vs 룩셈부르크 01:00 분석 상세",
       "source_date": "2026-09-27"
     }
   ]
