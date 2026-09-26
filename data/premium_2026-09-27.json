@@ -1,244 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-27",
-  "scraped_at": "2026-09-26T19:37:19.647526+00:00",
+  "scraped_at": "2026-09-26T22:11:58.384070+00:00",
   "count": 74,
   "matches": [
-    {
-      "id": "2000365259",
-      "url": "https://bbongtv4.com/premium/baseball/2000365259",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "9/27 (일)",
-      "time": "02:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디트로이트 타이거스",
-      "team2": "피츠버그 파이어리츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "저스틴 벌랜더 방어율 12.27, 선발 불안이 디트로이트의 약점으로 작용",
-      "ai_picks": [
-        "피츠버그 파이어리츠 승",
-        "오버 8.5",
-        "피츠버그 파이어리츠 -1.5 승"
-      ],
-      "aria_label": "디트로이트 타이거스 vs 피츠버그 파이어리츠 02:10 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "16495705",
-      "url": "https://bbongtv4.com/premium/soccer/16495705",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "9/27 (일)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오만",
-      "team2": "사우디아라비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "사우디아라비아 원정 2득점 평균, 오만 홈 약세와 맞물려 우세 전망",
-      "ai_picks": [
-        "사우디아라비아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "오만 vs 사우디아라비아 03:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006678995",
-      "url": "https://bbongtv4.com/premium/soccer/2006678995",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "알바니아",
-      "team2": "벨라루스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "알바니아 3경기 연속 0-1 패배, 벨라루스는 최근 4경기 무패 상승세",
-      "ai_picks": [
-        "벨라루스 승",
-        "언더 2.5",
-        "벨라루스 +1.5 승"
-      ],
-      "aria_label": "알바니아 vs 벨라루스 03:45 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679013",
-      "url": "https://bbongtv4.com/premium/soccer/2006679013",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "슬로바키아",
-      "team2": "몰도바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 22.0,
-        "away": 16.0
-      },
-      "ai_summary": "슬로바키아, 최근 3경기 2승1무로 상승세…몰도바는 4경기 무승 부진",
-      "ai_picks": [
-        "슬로바키아 승",
-        "오버 2.5",
-        "몰도바 +1.5 승"
-      ],
-      "aria_label": "슬로바키아 vs 몰도바 03:45 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679337",
-      "url": "https://bbongtv4.com/premium/soccer/2006679337",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "체코",
-      "team2": "크로아티아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 23.0,
-        "away": 29.0
-      },
-      "ai_summary": "체코 최근 2경기 연속 3득점, 공격 흐름이 크로아티아보다 앞선다",
-      "ai_picks": [
-        "체코 승",
-        "오버 2.5"
-      ],
-      "aria_label": "체코 vs 크로아티아 03:45 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679338",
-      "url": "https://bbongtv4.com/premium/soccer/2006679338",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "잉글랜드",
-      "team2": "스페인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "draw": 35.0,
-        "away": 30.0
-      },
-      "ai_summary": "미켈 오야르사발 3골, 스페인 공격력에 잉글랜드도 긴장해야 할 경기",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "잉글랜드 vs 스페인 03:45 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006679339",
-      "url": "https://bbongtv4.com/premium/soccer/2006679339",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "북마케도니아",
-      "team2": "스위스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 20.0,
-        "away": 62.0
-      },
-      "ai_summary": "스위스, 최근 4경기 6득점으로 공격력에서 북마케도니아 앞선다",
-      "ai_picks": [
-        "스위스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "북마케도니아 vs 스위스 03:45 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000646421",
-      "url": "https://bbongtv4.com/premium/hockey/2000646421",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/27 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "버",
-      "team2": "버팔로 세이버스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "버팔로 세이버스, 홈에서 평균 득실차 +0으로 안정된 경기력",
-      "ai_picks": [
-        "버팔로 세이버스 승",
-        "오버 6",
-        "피츠버그 펭귄스 +1.5 승"
-      ],
-      "aria_label": "버팔로 세이버스 vs 피츠버그 펭귄스 04:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000647551",
-      "url": "https://bbongtv4.com/premium/hockey/2000647551",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/27 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "내",
-      "team2": "내슈빌 프레데터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 46.0,
-        "away": 54.0
-      },
-      "ai_summary": "최근 맞대결 6-5, 양 팀 모두 실점이 많은 접전 양상",
-      "ai_picks": [
-        "캐롤라이나 허리케인스 승",
-        "내슈빌 프레데터스 +1.5 승"
-      ],
-      "aria_label": "내슈빌 프레데터스 vs 캐롤라이나 허리케인스 04:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
     {
       "id": "2000365260",
       "url": "https://bbongtv4.com/premium/baseball/2000365260",
@@ -1336,7 +1101,9 @@
       },
       "ai_summary": "홈 11승2패와 맞대결 3연승, 요코하마가 흐름에서 앞선다",
       "ai_picks": [
-        "요코하마 베이스타즈 승"
+        "요코하마 베이스타즈 승",
+        "오버 6.5",
+        "요코하마 베이스타즈 +1.5 승"
       ],
       "aria_label": "요코하마 베이스타즈 vs 히로시마 카프 14:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1360,7 +1127,8 @@
       },
       "ai_summary": "홈 10승1패와 맞대결 5승1패, 1위 홈팀 흐름이 앞선다",
       "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승"
+        "후쿠오카 소프트뱅크 호크스 승",
+        "후쿠오카 소프트뱅크 호크스 -2.5 승"
       ],
       "aria_label": "후쿠오카 소프트뱅크 호크스 vs 오릭스 버팔로스 14:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1587,7 +1355,8 @@
       },
       "ai_summary": "시즌 594득점 531실점 대 467득점 574실점, 원정 체급 우위",
       "ai_picks": [
-        "닛폰햄 파이터스 승"
+        "닛폰햄 파이터스 승",
+        "오버 6.5"
       ],
       "aria_label": "치바 롯데 마리너스 vs 닛폰햄 파이터스 18:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1611,7 +1380,9 @@
       },
       "ai_summary": "세이부 라이온스, 최근 5경기 4패로 하락세…라쿠텐 골든 이글스는 5승 1패 상승세",
       "ai_picks": [
-        "라쿠텐 골든 이글스 승"
+        "라쿠텐 골든 이글스 승",
+        "언더 7.5",
+        "세이부 라이온스 +1.5 승"
       ],
       "aria_label": "세이부 라이온스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1635,7 +1406,9 @@
       },
       "ai_summary": "홈 7승2패와 맞대결 4전 우위, 요미우리 흐름이 더 앞선다",
       "ai_picks": [
-        "요미우리 자이언츠 승"
+        "요미우리 자이언츠 승",
+        "오버 5.5",
+        "요미우리 자이언츠 -1.5 승"
       ],
       "aria_label": "요미우리 자이언츠 vs 야쿠르트 스왈로즈 18:00 분석 상세",
       "source_date": "2026-09-27"
@@ -1896,6 +1669,241 @@
         "룩셈부르크 +0.5 승"
       ],
       "aria_label": "불가리아 vs 룩셈부르크 01:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000365259",
+      "url": "https://bbongtv4.com/premium/baseball/2000365259",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "9/27 (일)",
+      "time": "02:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디트로이트 타이거스",
+      "team2": "피츠버그 파이어리츠",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "저스틴 벌랜더 방어율 12.27, 선발 불안이 디트로이트의 약점으로 작용",
+      "ai_picks": [
+        "피츠버그 파이어리츠 승",
+        "오버 8.5",
+        "피츠버그 파이어리츠 -1.5 승"
+      ],
+      "aria_label": "디트로이트 타이거스 vs 피츠버그 파이어리츠 02:10 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "16495705",
+      "url": "https://bbongtv4.com/premium/soccer/16495705",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "9/27 (일)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오만",
+      "team2": "사우디아라비아",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "사우디아라비아 원정 2득점 평균, 오만 홈 약세와 맞물려 우세 전망",
+      "ai_picks": [
+        "사우디아라비아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "오만 vs 사우디아라비아 03:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006678995",
+      "url": "https://bbongtv4.com/premium/soccer/2006678995",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알바니아",
+      "team2": "벨라루스",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "알바니아 3경기 연속 0-1 패배, 벨라루스는 최근 4경기 무패 상승세",
+      "ai_picks": [
+        "벨라루스 승",
+        "언더 2.5",
+        "벨라루스 +1.5 승"
+      ],
+      "aria_label": "알바니아 vs 벨라루스 03:45 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679013",
+      "url": "https://bbongtv4.com/premium/soccer/2006679013",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "슬로바키아",
+      "team2": "몰도바",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 22.0,
+        "away": 16.0
+      },
+      "ai_summary": "슬로바키아, 최근 3경기 2승1무로 상승세…몰도바는 4경기 무승 부진",
+      "ai_picks": [
+        "슬로바키아 승",
+        "오버 2.5",
+        "몰도바 +1.5 승"
+      ],
+      "aria_label": "슬로바키아 vs 몰도바 03:45 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679337",
+      "url": "https://bbongtv4.com/premium/soccer/2006679337",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "체코",
+      "team2": "크로아티아",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 23.0,
+        "away": 29.0
+      },
+      "ai_summary": "체코 최근 2경기 연속 3득점, 공격 흐름이 크로아티아보다 앞선다",
+      "ai_picks": [
+        "체코 승",
+        "오버 2.5"
+      ],
+      "aria_label": "체코 vs 크로아티아 03:45 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679338",
+      "url": "https://bbongtv4.com/premium/soccer/2006679338",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "잉글랜드",
+      "team2": "스페인",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 35.0,
+        "draw": 35.0,
+        "away": 30.0
+      },
+      "ai_summary": "미켈 오야르사발 3골, 스페인 공격력에 잉글랜드도 긴장해야 할 경기",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "잉글랜드 vs 스페인 03:45 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006679339",
+      "url": "https://bbongtv4.com/premium/soccer/2006679339",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "북마케도니아",
+      "team2": "스위스",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "스위스, 최근 4경기 6득점으로 공격력에서 북마케도니아 앞선다",
+      "ai_picks": [
+        "스위스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "북마케도니아 vs 스위스 03:45 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000646421",
+      "url": "https://bbongtv4.com/premium/hockey/2000646421",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/27 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "버",
+      "team2": "버팔로 세이버스",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "버팔로 세이버스, 홈에서 평균 득실차 +0으로 안정된 경기력",
+      "ai_picks": [
+        "버팔로 세이버스 승",
+        "오버 6",
+        "피츠버그 펭귄스 +1.5 승"
+      ],
+      "aria_label": "버팔로 세이버스 vs 피츠버그 펭귄스 04:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000647551",
+      "url": "https://bbongtv4.com/premium/hockey/2000647551",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/27 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "내",
+      "team2": "내슈빌 프레데터스",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 46.0,
+        "away": 54.0
+      },
+      "ai_summary": "최근 맞대결 6-5, 양 팀 모두 실점이 많은 접전 양상",
+      "ai_picks": [
+        "캐롤라이나 허리케인스 승",
+        "내슈빌 프레데터스 +1.5 승"
+      ],
+      "aria_label": "내슈빌 프레데터스 vs 캐롤라이나 허리케인스 04:00 분석 상세",
       "source_date": "2026-09-27"
     }
   ]
