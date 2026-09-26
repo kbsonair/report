@@ -1,137 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-26",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-26T12:26:32.089166+00:00",
+  "scraped_at": "2026-09-26T16:44:53.344772+00:00",
   "count": 61,
   "matches": [
-    {
-      "id": "2000354996",
-      "url": "https://bbongtv4.com/premium/baseball/2000354996",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/26 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트 스왈로즈",
-      "team2": "중일 드래곤즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "야쿠르트 홈 평균실점 5.64, 중일 시즌 실점 512가 만든 우위",
-      "ai_picks": [
-        "중일 드래곤즈 승",
-        "오버 7.5",
-        "야쿠르트 스왈로즈 +1.5 승"
-      ],
-      "aria_label": "야쿠르트 스왈로즈 vs 중일 드래곤즈 18:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2000360375",
-      "url": "https://bbongtv4.com/premium/baseball/2000360375",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/26 (토)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후쿠오카 소프트뱅크 호크스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "홈 10승1패와 시즌 1위, 맞대결 2연패 뒤 반등 여지",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "오버 7.5",
-        "후쿠오카 소프트뱅크 호크스 -2.5 승"
-      ],
-      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2000643386",
-      "url": "https://bbongtv4.com/premium/hockey/2000643386",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/26 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "마",
-      "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "마그니토고르스크 홈 평균실점 1.6, 수비 안정감이 승부처",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "마그니토고르스크 vs 바르스 카잔 20:30 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "16494966",
-      "url": "https://bbongtv4.com/premium/soccer/16494966",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/26 (토)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "베트남",
-      "team2": "필리핀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 15.0,
-        "away": 15.0
-      },
-      "ai_summary": "베트남 홈 3경기 평균득점 2.67, 공격력 우위가 뚜렷하다",
-      "ai_picks": [
-        "베트남 승",
-        "오버 2.5"
-      ],
-      "aria_label": "베트남 vs 필리핀 20:30 분석 상세",
-      "source_date": "2026-09-26"
-    },
-    {
-      "id": "2006679336",
-      "url": "https://bbongtv4.com/premium/soccer/2006679336",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/26 (토)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "슬로베니아",
-      "team2": "스코틀랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 33.0,
-        "away": 34.0
-      },
-      "ai_summary": "슬로베니아 최근 4경기 모두 실점, 스코틀랜드도 득점력 유지",
-      "ai_picks": [
-        "오버 2.5",
-        "스코틀랜드 +0.5 승"
-      ],
-      "aria_label": "슬로베니아 vs 스코틀랜드 22:00 분석 상세",
-      "source_date": "2026-09-26"
-    },
     {
       "id": "2000643384",
       "url": "https://bbongtv4.com/premium/hockey/2000643384",
@@ -1557,6 +1429,134 @@
         "파키스탄 +2.5 승"
       ],
       "aria_label": "파키스탄 vs 태국 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000354996",
+      "url": "https://bbongtv4.com/premium/baseball/2000354996",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/26 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트 스왈로즈",
+      "team2": "중일 드래곤즈",
+      "score1": 5,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "야쿠르트 홈 평균실점 5.64, 중일 시즌 실점 512가 만든 우위",
+      "ai_picks": [
+        "중일 드래곤즈 승",
+        "오버 7.5",
+        "야쿠르트 스왈로즈 +1.5 승"
+      ],
+      "aria_label": "야쿠르트 스왈로즈 vs 중일 드래곤즈 18:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000360375",
+      "url": "https://bbongtv4.com/premium/baseball/2000360375",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/26 (토)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후쿠오카 소프트뱅크 호크스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "홈 10승1패와 시즌 1위, 맞대결 2연패 뒤 반등 여지",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "오버 7.5",
+        "후쿠오카 소프트뱅크 호크스 -2.5 승"
+      ],
+      "aria_label": "후쿠오카 소프트뱅크 호크스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2000643386",
+      "url": "https://bbongtv4.com/premium/hockey/2000643386",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/26 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "마",
+      "team2": "마그니토고르스크",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "마그니토고르스크 홈 평균실점 1.6, 수비 안정감이 승부처",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "마그니토고르스크 vs 바르스 카잔 20:30 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494966",
+      "url": "https://bbongtv4.com/premium/soccer/16494966",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/26 (토)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베트남",
+      "team2": "필리핀",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 70.0,
+        "draw": 15.0,
+        "away": 15.0
+      },
+      "ai_summary": "베트남 홈 3경기 평균득점 2.67, 공격력 우위가 뚜렷하다",
+      "ai_picks": [
+        "베트남 승",
+        "오버 2.5"
+      ],
+      "aria_label": "베트남 vs 필리핀 20:30 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "2006679336",
+      "url": "https://bbongtv4.com/premium/soccer/2006679336",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/26 (토)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "슬로베니아",
+      "team2": "스코틀랜드",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 33.0,
+        "draw": 33.0,
+        "away": 34.0
+      },
+      "ai_summary": "슬로베니아 최근 4경기 모두 실점, 스코틀랜드도 득점력 유지",
+      "ai_picks": [
+        "오버 2.5",
+        "스코틀랜드 +0.5 승"
+      ],
+      "aria_label": "슬로베니아 vs 스코틀랜드 22:00 분석 상세",
       "source_date": "2026-09-26"
     }
   ]
