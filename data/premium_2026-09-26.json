@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-26",
-  "scraped_at": "2026-09-25T23:22:00.948577+00:00",
-  "count": 47,
+  "scraped_at": "2026-09-26T01:58:03.703574+00:00",
+  "count": 61,
   "matches": [
     {
       "id": "2000365244",
@@ -384,6 +384,32 @@
       "source_date": "2026-09-26"
     },
     {
+      "id": "16493866",
+      "url": "https://bbongtv4.com/premium/soccer/16493866",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/26 (토)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "온두라스",
+      "team2": "수리남",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 63.0,
+        "draw": 21.0,
+        "away": 16.0
+      },
+      "ai_summary": "온두라스, 최근 2경기 2득점 4실점…수비 불안이 변수로 작용",
+      "ai_picks": [
+        "온두라스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "온두라스 vs 수리남 10:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
       "id": "2007231837",
       "url": "https://bbongtv4.com/premium/soccer/2007231837",
       "sport": "soccer",
@@ -509,6 +535,32 @@
         "언더 7.5"
       ],
       "aria_label": "SF 자이언츠 vs LA 다저스 11:15 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16493876",
+      "url": "https://bbongtv4.com/premium/soccer/16493876",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/26 (토)",
+      "time": "12:00",
+      "status": "예정",
+      "result": null,
+      "team1": "엘살바도르",
+      "team2": "마르티니크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "엘살바도르, 최근 5경기 중 3경기 무실점 전술 안정감 부각",
+      "ai_picks": [
+        "엘살바도르 승",
+        "언더 2.5"
+      ],
+      "aria_label": "엘살바도르 vs 마르티니크 12:00 분석 상세",
       "source_date": "2026-09-26"
     },
     {
@@ -763,6 +815,295 @@
       "source_date": "2026-09-26"
     },
     {
+      "id": "16494825",
+      "url": "https://bbongtv4.com/premium/soccer/16494825",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "블라우블리츠",
+      "team2": "알비렉스 니가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 38.0,
+        "away": 29.0
+      },
+      "ai_summary": "블라우블리츠 홈 득점력(1.75)과 알비렉스 니가타 원정 실점(2.25)이 총득점 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "알비렉스 니가타 +0.5 승"
+      ],
+      "aria_label": "블라우블리츠 vs 알비렉스 니가타 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494826",
+      "url": "https://bbongtv4.com/premium/soccer/16494826",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이마바리",
+      "team2": "쇼난 벨마레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 18.0,
+        "draw": 26.0,
+        "away": 56.0
+      },
+      "ai_summary": "쇼난 벨마레 원정 5경기 무패, 이마바리 홈 실점률 1.75가 변수",
+      "ai_picks": [
+        "쇼난 벨마레 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이마바리 vs 쇼난 벨마레 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494827",
+      "url": "https://bbongtv4.com/premium/soccer/16494827",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이와키",
+      "team2": "베갈타 센다이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 22.0,
+        "draw": 23.0,
+        "away": 55.0
+      },
+      "ai_summary": "베갈타 센다이 원정 평균득점 2.2, 공격력 우위가 승부 변수",
+      "ai_picks": [
+        "베갈타 센다이 승",
+        "오버 2.5"
+      ],
+      "aria_label": "이와키 vs 베갈타 센다이 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494828",
+      "url": "https://bbongtv4.com/premium/soccer/16494828",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "이와타",
+      "team2": "반라우레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 63.0,
+        "draw": 24.0,
+        "away": 13.0
+      },
+      "ai_summary": "이와타, 홈 평균 실점 0.75와 반라우레 원정 무득점이 맞물린 경기",
+      "ai_picks": [
+        "이와타 승",
+        "언더 2.5"
+      ],
+      "aria_label": "이와타 vs 반라우레 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494829",
+      "url": "https://bbongtv4.com/premium/soccer/16494829",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "몬테디오 야마가타",
+      "team2": "사가ン 토수",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 28.0,
+        "away": 40.0
+      },
+      "ai_summary": "양 팀 최근 6경기 모두 2골 이상, 득점 분포와 배당 모두 오버 쪽 시사",
+      "ai_picks": [
+        "오버 2.5",
+        "사가ン 토수 승"
+      ],
+      "aria_label": "몬테디오 야마가타 vs 사가ン 토수 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494830",
+      "url": "https://bbongtv4.com/premium/soccer/16494830",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오이타 트리니타",
+      "team2": "후지에다 MYFC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 28.0,
+        "draw": 40.0,
+        "away": 32.0
+      },
+      "ai_summary": "후지에다 MYFC, 원정 득점력 1.67로 오이타 트리니타 수비 흔들 수 있다",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "오이타 트리니타 vs 후지에다 MYFC 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494831",
+      "url": "https://bbongtv4.com/premium/soccer/16494831",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오미야 아르디자",
+      "team2": "코후",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 56.0,
+        "draw": 26.0,
+        "away": 18.0
+      },
+      "ai_summary": "시즌 무패 오미야, 코후 원정 평균실점 2.17이 가르는 홈 우위",
+      "ai_picks": [
+        "오미야 아르디자 승",
+        "언더 2.5",
+        "오미야 아르디자 -0.5 승"
+      ],
+      "aria_label": "오미야 아르디자 vs 코후 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494832",
+      "url": "https://bbongtv4.com/premium/soccer/16494832",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "테게바하로 미야자키",
+      "team2": "홋카이도 콘사돌레 삿포로",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "테게바하로 미야자키, 최근 2경기 6득점으로 공격력 상승세 뚜렷",
+      "ai_picks": [
+        "테게바하로 미야자키 승",
+        "오버 2.5"
+      ],
+      "aria_label": "테게바하로 미야자키 vs 홋카이도 콘사돌레 삿포로 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494833",
+      "url": "https://bbongtv4.com/premium/soccer/16494833",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "도쿠시마",
+      "team2": "토치기 시티",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 32.0,
+        "away": 36.0
+      },
+      "ai_summary": "도쿠시마 홈 무실점 4경기 vs 토치기 시티 원정 1.71득점, 상반된 흐름이 맞붙는다",
+      "ai_picks": [
+        "언더 2.5",
+        "토치기 시티 +1.5 승"
+      ],
+      "aria_label": "도쿠시마 vs 토치기 시티 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494834",
+      "url": "https://bbongtv4.com/premium/soccer/16494834",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토야마",
+      "team2": "요코하마 FC",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 30.0,
+        "away": 37.0
+      },
+      "ai_summary": "양 팀 모두 경기당 득점 1.9, 후반 집중력과 공격 전개가 승부처",
+      "ai_picks": [
+        "오버 2.5",
+        "요코하마 FC -0.5 승"
+      ],
+      "aria_label": "토야마 vs 요코하마 FC 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
+      "id": "16494846",
+      "url": "https://bbongtv4.com/premium/soccer/16494846",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/26 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "파키스탄",
+      "team2": "태국",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 8.0,
+        "draw": 7.0,
+        "away": 85.0
+      },
+      "ai_summary": "파키스탄 최근 4경기 무실점, 태국 우세에도 핸디캡 변수 주목",
+      "ai_picks": [
+        "태국 승",
+        "언더 3.75",
+        "파키스탄 +2.5 승"
+      ],
+      "aria_label": "파키스탄 vs 태국 17:00 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
       "id": "2000354996",
       "url": "https://bbongtv4.com/premium/baseball/2000354996",
       "sport": "baseball",
@@ -839,6 +1180,32 @@
       "source_date": "2026-09-26"
     },
     {
+      "id": "16494966",
+      "url": "https://bbongtv4.com/premium/soccer/16494966",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/26 (토)",
+      "time": "20:30",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남",
+      "team2": "필리핀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 15.0,
+        "away": 15.0
+      },
+      "ai_summary": "베트남 홈 3경기 평균득점 2.67, 공격력 우위가 뚜렷하다",
+      "ai_picks": [
+        "베트남 승",
+        "오버 2.5"
+      ],
+      "aria_label": "베트남 vs 필리핀 20:30 분석 상세",
+      "source_date": "2026-09-26"
+    },
+    {
       "id": "2006679336",
       "url": "https://bbongtv4.com/premium/soccer/2006679336",
       "sport": "soccer",
@@ -848,7 +1215,7 @@
       "status": "예정",
       "result": null,
       "team1": "슬로베니아",
-      "team2": "스",
+      "team2": "스코틀랜드",
       "score1": null,
       "score2": null,
       "prob": {
