@@ -1,213 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-27",
   "source_date": "2026-09-27",
-  "scraped_at": "2026-09-27T12:26:14.250661+00:00",
+  "scraped_at": "2026-09-27T17:16:23.246712+00:00",
   "count": 77,
   "matches": [
-    {
-      "id": "2000360571",
-      "url": "https://bbongtv4.com/premium/baseball/2000360571",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/27 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바 롯데 마리너스",
-      "team2": "닛폰햄 파이터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "시즌 594득점 531실점 대 467득점 574실점, 원정 체급 우위",
-      "ai_picks": [
-        "닛폰햄 파이터스 승",
-        "오버 6.5"
-      ],
-      "aria_label": "치바 롯데 마리너스 vs 닛폰햄 파이터스 18:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000360572",
-      "url": "https://bbongtv4.com/premium/baseball/2000360572",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/27 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부 라이온스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "세이부 라이온스, 최근 5경기 4패로 하락세…라쿠텐 골든 이글스는 5승 1패 상승세",
-      "ai_picks": [
-        "라쿠텐 골든 이글스 승",
-        "언더 7.5",
-        "세이부 라이온스 +1.5 승"
-      ],
-      "aria_label": "세이부 라이온스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000365208",
-      "url": "https://bbongtv4.com/premium/baseball/2000365208",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/27 (일)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요미우리 자이언츠",
-      "team2": "야쿠르트 스왈로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 64.0,
-        "away": 36.0
-      },
-      "ai_summary": "홈 7승2패와 맞대결 4전 우위, 요미우리 흐름이 더 앞선다",
-      "ai_picks": [
-        "요미우리 자이언츠 승",
-        "오버 5.5",
-        "요미우리 자이언츠 -1.5 승"
-      ],
-      "aria_label": "요미우리 자이언츠 vs 야쿠르트 스왈로즈 18:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2007221235",
-      "url": "https://bbongtv4.com/premium/soccer/2007221235",
-      "sport": "soccer",
-      "league": "KOR D1",
-      "date": "9/27 (일)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "강원FC",
-      "team2": "인천유나이티드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "양 팀 최근 6경기 중 4경기 무승부, 접전 양상과 저득점 흐름이 뚜렷하다",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "강원FC vs 인천유나이티드 19:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000643390",
-      "url": "https://bbongtv4.com/premium/hockey/2000643390",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/27 (일)",
-      "time": "19:30",
-      "status": "예정",
-      "result": null,
-      "team1": "노",
-      "team2": "노보시비르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "away": 82.0
-      },
-      "ai_summary": "로코모티프 야로슬라블 원정 4연승, 노보시비르스크 홈 득점력 저하",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "노보시비르스크 vs 로코모티프 야로슬라블 19:30 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "16497710",
-      "url": "https://bbongtv4.com/premium/soccer/16497710",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/27 (일)",
-      "time": "20:35",
-      "status": "예정",
-      "result": null,
-      "team1": "중국",
-      "team2": "뉴질랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "중국 홈 2경기 무패·평균 실점 0, 수비 안정감이 승부 변수",
-      "ai_picks": [
-        "중국 승",
-        "언더 2.5",
-        "뉴질랜드 +1.5 승"
-      ],
-      "aria_label": "중국 vs 뉴질랜드 20:35 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2000643389",
-      "url": "https://bbongtv4.com/premium/hockey/2000643389",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/27 (일)",
-      "time": "21:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바리스 아스타나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "바리스 아스타나 홈 평균득점 5.33, 공격력에서 앞선 흐름",
-      "ai_picks": [
-        "바리스 아스타나 승"
-      ],
-      "aria_label": "바리스 아스타나 vs SKA 상트페테르부르크 21:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
-    {
-      "id": "2006678992",
-      "url": "https://bbongtv4.com/premium/soccer/2006678992",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/27 (일)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "리투아니아",
-      "team2": "아제르바이잔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "리투아니아 최근 2-0 완승, 홈 우위와 득점력 모두 앞선다",
-      "ai_picks": [
-        "리투아니아 승",
-        "오버 1.5"
-      ],
-      "aria_label": "리투아니아 vs 아제르바이잔 22:00 분석 상세",
-      "source_date": "2026-09-27"
-    },
     {
       "id": "16495530",
       "url": "https://bbongtv4.com/premium/soccer/16495530",
@@ -1977,6 +1773,210 @@
         "키움 히어로즈 +1.5 승"
       ],
       "aria_label": "NC 다이노스 vs 키움 히어로즈 17:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000360571",
+      "url": "https://bbongtv4.com/premium/baseball/2000360571",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/27 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "치바 롯데 마리너스",
+      "team2": "닛폰햄 파이터스",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "시즌 594득점 531실점 대 467득점 574실점, 원정 체급 우위",
+      "ai_picks": [
+        "닛폰햄 파이터스 승",
+        "오버 6.5"
+      ],
+      "aria_label": "치바 롯데 마리너스 vs 닛폰햄 파이터스 18:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000360572",
+      "url": "https://bbongtv4.com/premium/baseball/2000360572",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/27 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부 라이온스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "세이부 라이온스, 최근 5경기 4패로 하락세…라쿠텐 골든 이글스는 5승 1패 상승세",
+      "ai_picks": [
+        "라쿠텐 골든 이글스 승",
+        "언더 7.5",
+        "세이부 라이온스 +1.5 승"
+      ],
+      "aria_label": "세이부 라이온스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000365208",
+      "url": "https://bbongtv4.com/premium/baseball/2000365208",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/27 (일)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요미우리 자이언츠",
+      "team2": "야쿠르트 스왈로즈",
+      "score1": 11,
+      "score2": 0,
+      "prob": {
+        "home": 64.0,
+        "away": 36.0
+      },
+      "ai_summary": "홈 7승2패와 맞대결 4전 우위, 요미우리 흐름이 더 앞선다",
+      "ai_picks": [
+        "요미우리 자이언츠 승",
+        "오버 5.5",
+        "요미우리 자이언츠 -1.5 승"
+      ],
+      "aria_label": "요미우리 자이언츠 vs 야쿠르트 스왈로즈 18:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2007221235",
+      "url": "https://bbongtv4.com/premium/soccer/2007221235",
+      "sport": "soccer",
+      "league": "KOR D1",
+      "date": "9/27 (일)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "강원FC",
+      "team2": "인천유나이티드",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "양 팀 최근 6경기 중 4경기 무승부, 접전 양상과 저득점 흐름이 뚜렷하다",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "강원FC vs 인천유나이티드 19:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000643390",
+      "url": "https://bbongtv4.com/premium/hockey/2000643390",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/27 (일)",
+      "time": "19:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "노",
+      "team2": "노보시비르스크",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 18.0,
+        "away": 82.0
+      },
+      "ai_summary": "로코모티프 야로슬라블 원정 4연승, 노보시비르스크 홈 득점력 저하",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "노보시비르스크 vs 로코모티프 야로슬라블 19:30 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "16497710",
+      "url": "https://bbongtv4.com/premium/soccer/16497710",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/27 (일)",
+      "time": "20:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중국",
+      "team2": "뉴질랜드",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "중국 홈 2경기 무패·평균 실점 0, 수비 안정감이 승부 변수",
+      "ai_picks": [
+        "중국 승",
+        "언더 2.5",
+        "뉴질랜드 +1.5 승"
+      ],
+      "aria_label": "중국 vs 뉴질랜드 20:35 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000643389",
+      "url": "https://bbongtv4.com/premium/hockey/2000643389",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/27 (일)",
+      "time": "21:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "바",
+      "team2": "바리스 아스타나",
+      "score1": 3,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "바리스 아스타나 홈 평균득점 5.33, 공격력에서 앞선 흐름",
+      "ai_picks": [
+        "바리스 아스타나 승"
+      ],
+      "aria_label": "바리스 아스타나 vs SKA 상트페테르부르크 21:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2006678992",
+      "url": "https://bbongtv4.com/premium/soccer/2006678992",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/27 (일)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "리투아니아",
+      "team2": "아제르바이잔",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "리투아니아 최근 2-0 완승, 홈 우위와 득점력 모두 앞선다",
+      "ai_picks": [
+        "리투아니아 승",
+        "오버 1.5"
+      ],
+      "aria_label": "리투아니아 vs 아제르바이잔 22:00 분석 상세",
       "source_date": "2026-09-27"
     }
   ]
