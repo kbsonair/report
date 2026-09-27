@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T22:12:00.189540+00:00",
+  "scraped_at": "2026-09-27T00:41:42.497252+00:00",
   "kst_yesterday": "2026-09-26",
   "kst_today": "2026-09-27",
   "kst_tomorrow": "2026-09-28",
@@ -8,7 +8,7 @@
     "2026-09-27",
     "2026-09-28"
   ],
-  "count": 176,
+  "count": 182,
   "matches": [
     {
       "id": "16496846",
@@ -170,6 +170,30 @@
         "리히텐슈타인 +1.5 승"
       ],
       "aria_label": "몰타 vs 리히텐슈타인 01:30 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2001068083",
+      "url": "https://bbongtv4.com/premium/basket/2001068083",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/28 (월)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "미",
+      "team2": "미네소타 링크스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "홈 평균득점 92.13, 최근 맞대결 패배가 변수인 미네소타 경기",
+      "ai_picks": [
+        "미네소타 링크스 여자 승"
+      ],
+      "aria_label": "미네소타 링크스 여자 vs 뉴욕 리버티 여자 03:00 분석 상세",
       "source_date": "2026-09-28"
     },
     {
@@ -446,7 +470,8 @@
       },
       "ai_summary": "토론토 블루제이스, 홈 평균득점 4.75와 신시내티 원정 실점 7.67로 공격 우위",
       "ai_picks": [
-        "토론토 블루제이스 승"
+        "토론토 블루제이스 승",
+        "언더 8.5"
       ],
       "aria_label": "토론토 블루제이스 vs 신시내티 레즈 04:07 분석 상세",
       "source_date": "2026-09-28"
@@ -679,6 +704,30 @@
       "source_date": "2026-09-28"
     },
     {
+      "id": "2001068087",
+      "url": "https://bbongtv4.com/premium/basket/2001068087",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/28 (월)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라",
+      "team2": "라스베가스 에이시스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "라스베가스 에이시스 여자, 최근 6연승과 홈 평균득점 92.07로 상승세 뚜렷",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승"
+      ],
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 05:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
       "id": "16498287",
       "url": "https://bbongtv4.com/premium/soccer/16498287",
       "sport": "soccer",
@@ -702,6 +751,30 @@
         "오버 2.5"
       ],
       "aria_label": "볼리비아 vs 파라과이 05:30 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2001068081",
+      "url": "https://bbongtv4.com/premium/basket/2001068081",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/28 (월)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애",
+      "team2": "애틀랜타 드림 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 평균득점 95.12, 최근 5연승 애틀랜타의 득점 흐름 우위",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승"
+      ],
+      "aria_label": "애틀랜타 드림 여자 vs 워싱턴 미스틱스 여자 08:00 분석 상세",
       "source_date": "2026-09-28"
     },
     {
@@ -1428,12 +1501,12 @@
       "league": "MLB",
       "date": "9/27 (일)",
       "time": "04:07",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "토론토 블루제이스",
       "team2": "신시내티 레즈",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 5,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1453,12 +1526,12 @@
       "league": "NHL",
       "date": "9/27 (일)",
       "time": "05:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "킹",
       "team2": "LA 킹스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1478,12 +1551,12 @@
       "league": "MLB",
       "date": "9/27 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "SF 자이언츠",
       "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -1530,12 +1603,12 @@
       "league": "MLB",
       "date": "9/27 (일)",
       "time": "05:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마이애미 말린스",
       "team2": "애틀란타 브레이브스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 8,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -1582,12 +1655,12 @@
       "league": "NHL",
       "date": "9/27 (일)",
       "time": "06:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "필",
       "team2": "필라델피아 플라이어스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 5,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -1608,12 +1681,12 @@
       "league": "NHL",
       "date": "9/27 (일)",
       "time": "06:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "유",
       "team2": "유타",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -2262,6 +2335,30 @@
       "source_date": "2026-09-27"
     },
     {
+      "id": "2000645933",
+      "url": "https://bbongtv4.com/premium/hockey/2000645933",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/27 (일)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "에",
+      "team2": "에드먼턴 오일러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "에드먼턴 오일러스, 2경기 연속 2-1 승리로 안정적인 수비력 과시",
+      "ai_picks": [
+        "에드먼턴 오일러스 승"
+      ],
+      "aria_label": "에드먼턴 오일러스 vs 캘거리 플레임스 10:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
       "id": "16498261",
       "url": "https://bbongtv4.com/premium/soccer/16498261",
       "sport": "soccer",
@@ -2365,6 +2462,30 @@
         "LA 에인절스 +1.5 승"
       ],
       "aria_label": "시애틀 매리너스 vs LA 에인절스 10:40 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2000645934",
+      "url": "https://bbongtv4.com/premium/hockey/2000645934",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/27 (일)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베",
+      "team2": "베가스 골든 나이츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "베가스 골든 나이츠, 최근 3연승과 결장 변수 우위로 홈에서 유리",
+      "ai_picks": [
+        "베가스 골든 나이츠 승"
+      ],
+      "aria_label": "베가스 골든 나이츠 vs 산호세 샤크스 11:00 분석 상세",
       "source_date": "2026-09-27"
     },
     {
@@ -2599,6 +2720,31 @@
         "고양 소노 -1.5 승"
       ],
       "aria_label": "수원 KT vs 고양 소노 14:00 분석 상세",
+      "source_date": "2026-09-27"
+    },
+    {
+      "id": "2001032256",
+      "url": "https://bbongtv4.com/premium/basket/2001032256",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "9/27 (일)",
+      "time": "15:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애",
+      "team2": "애들레이드",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "B. 코턴의 평균 33점 활약, 애들레이드 공격력에 시장도 우세 전망",
+      "ai_picks": [
+        "애들레이드 승",
+        "오버 188.5"
+      ],
+      "aria_label": "애들레이드 vs 케언스 타이팬스 15:00 분석 상세",
       "source_date": "2026-09-27"
     },
     {
