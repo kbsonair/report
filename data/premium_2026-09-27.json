@@ -1,7 +1,7 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-27",
   "source_date": "2026-09-27",
-  "scraped_at": "2026-09-27T20:13:11.785968+00:00",
+  "scraped_at": "2026-09-27T23:07:55.135987+00:00",
   "count": 77,
   "matches": [
     {
@@ -453,12 +453,12 @@
       "league": "MLB",
       "date": "9/27 (일)",
       "time": "05:05",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워싱턴 내셔널스",
       "team2": "NY 메츠",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 4,
       "prob": {
         "home": 53.0,
         "away": 47.0
