@@ -1,314 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-29",
-  "scraped_at": "2026-09-28T16:59:42.670263+00:00",
+  "scraped_at": "2026-09-28T22:29:59.934441+00:00",
   "count": 26,
   "matches": [
-    {
-      "id": "2006678996",
-      "url": "https://bbongtv4.com/premium/soccer/2006678996",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아르메니아",
-      "team2": "몬테네그로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 37.0,
-        "away": 31.0
-      },
-      "ai_summary": "양 팀 모두 최근 5경기 무패, 평균 실점 1점 이하로 접전 예상",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "아르메니아 vs 몬테네그로 01:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679015",
-      "url": "https://bbongtv4.com/premium/soccer/2006679015",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "조지아",
-      "team2": "우크라이나",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "우크라이나 원정 3경기 2승, 조지아 홈 득점력은 제한적",
-      "ai_picks": [
-        "언더 2.5",
-        "우크라이나 +1.5 승"
-      ],
-      "aria_label": "조지아 vs 우크라이나 01:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006810795",
-      "url": "https://bbongtv4.com/premium/soccer/2006810795",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라트비아",
-      "team2": "키프로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 31.0,
-        "draw": 32.0,
-        "away": 37.0
-      },
-      "ai_summary": "키프로스 최근 원정 3경기 1승1무1패, 라트비아 무득점 부진이 변수",
-      "ai_picks": [
-        "키프로스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "라트비아 vs 키프로스 01:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000643393",
-      "url": "https://bbongtv4.com/premium/hockey/2000643393",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/29 (화)",
-      "time": "01:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "away": 20.0
-      },
-      "ai_summary": "디나모 민스크 홈 평균득점 3.75, 라다 원정 5연패와 대조적 흐름",
-      "ai_picks": [
-        "디나모 민스크 승"
-      ],
-      "aria_label": "디나모 민스크 vs 라다 01:10 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000643394",
-      "url": "https://bbongtv4.com/premium/hockey/2000643394",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/29 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "디나모 모스크바, 홈 평균실점 2.6에도 불구하고 시장은 우세 전망",
-      "ai_picks": [
-        "디나모 모스크바 승"
-      ],
-      "aria_label": "디나모 모스크바 vs 트랙터 첼야빈스크 01:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000643395",
-      "url": "https://bbongtv4.com/premium/hockey/2000643395",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/29 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "away": 44.0
-      },
-      "ai_summary": "니즈니노브고로드 홈 평균실점 1.5, 수비 안정감이 승부 변수",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "니즈니노브고로드 vs 살라바트 우파 01:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000643396",
-      "url": "https://bbongtv4.com/premium/hockey/2000643396",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/29 (화)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "상하이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "away": 22.0
-      },
-      "ai_summary": "상하이 홈 2경기 전승, 소치 원정 4연패로 홈 강세 뚜렷",
-      "ai_picks": [
-        "상하이 승"
-      ],
-      "aria_label": "상하이 vs 소치 01:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679023",
-      "url": "https://bbongtv4.com/premium/soccer/2006679023",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "북아일랜드",
-      "team2": "헝가리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 28.0,
-        "away": 32.0
-      },
-      "ai_summary": "북아일랜드 1위, 헝가리 득점력 앞세워 반전 노리는 맞대결",
-      "ai_picks": [
-        "북아일랜드 승",
-        "오버 2.5",
-        "헝가리 +0.5 승"
-      ],
-      "aria_label": "북아일랜드 vs 헝가리 03:45 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679034",
-      "url": "https://bbongtv4.com/premium/soccer/2006679034",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "벨기에",
-      "team2": "프랑스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 35.0,
-        "away": 35.0
-      },
-      "ai_summary": "벨기에 홈 2경기 연속 무실점, 수비 안정감이 변수로 작용",
-      "ai_picks": [
-        "무승부",
-        "언더 3.5"
-      ],
-      "aria_label": "벨기에 vs 프랑스 03:45 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679346",
-      "url": "https://bbongtv4.com/premium/soccer/2006679346",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "튀르키예",
-      "team2": "이탈리아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "튀르키예 홈 평균득점 2, 이탈리아 원정 무실점 기록이 맞붙는 경기",
-      "ai_picks": [
-        "튀르키예 승",
-        "언더 2.5"
-      ],
-      "aria_label": "튀르키예 vs 이탈리아 03:45 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679347",
-      "url": "https://bbongtv4.com/premium/soccer/2006679347",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "루마니아",
-      "team2": "보스니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "보스니아 최근 3경기 연속 무승부, 루마니아는 실점 관리에 약점 노출",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "루마니아 vs 보스니아 03:45 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2006679348",
-      "url": "https://bbongtv4.com/premium/soccer/2006679348",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/29 (화)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스웨덴",
-      "team2": "폴란드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "스웨덴 홈 2경기 평균 2득점, 폴란드 최근 3경기 무승에 득점력 저조",
-      "ai_picks": [
-        "스웨덴 승",
-        "오버 2.5"
-      ],
-      "aria_label": "스웨덴 vs 폴란드 03:45 분석 상세",
-      "source_date": "2026-09-29"
-    },
     {
       "id": "16497684",
       "url": "https://bbongtv4.com/premium/soccer/16497684",
@@ -667,6 +362,311 @@
         "베트남 +0.5 승"
       ],
       "aria_label": "태국 vs 베트남 20:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006678996",
+      "url": "https://bbongtv4.com/premium/soccer/2006678996",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아르메니아",
+      "team2": "몬테네그로",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 37.0,
+        "away": 31.0
+      },
+      "ai_summary": "양 팀 모두 최근 5경기 무패, 평균 실점 1점 이하로 접전 예상",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "아르메니아 vs 몬테네그로 01:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679015",
+      "url": "https://bbongtv4.com/premium/soccer/2006679015",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "조지아",
+      "team2": "우크라이나",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "우크라이나 원정 3경기 2승, 조지아 홈 득점력은 제한적",
+      "ai_picks": [
+        "언더 2.5",
+        "우크라이나 +1.5 승"
+      ],
+      "aria_label": "조지아 vs 우크라이나 01:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006810795",
+      "url": "https://bbongtv4.com/premium/soccer/2006810795",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라트비아",
+      "team2": "키프로스",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 31.0,
+        "draw": 32.0,
+        "away": 37.0
+      },
+      "ai_summary": "키프로스 최근 원정 3경기 1승1무1패, 라트비아 무득점 부진이 변수",
+      "ai_picks": [
+        "키프로스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "라트비아 vs 키프로스 01:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000643393",
+      "url": "https://bbongtv4.com/premium/hockey/2000643393",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/29 (화)",
+      "time": "01:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "디",
+      "team2": "디나모 민스크",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 80.0,
+        "away": 20.0
+      },
+      "ai_summary": "디나모 민스크 홈 평균득점 3.75, 라다 원정 5연패와 대조적 흐름",
+      "ai_picks": [
+        "디나모 민스크 승"
+      ],
+      "aria_label": "디나모 민스크 vs 라다 01:10 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000643394",
+      "url": "https://bbongtv4.com/premium/hockey/2000643394",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/29 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디",
+      "team2": "디나모 모스크바",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "디나모 모스크바, 홈 평균실점 2.6에도 불구하고 시장은 우세 전망",
+      "ai_picks": [
+        "디나모 모스크바 승"
+      ],
+      "aria_label": "디나모 모스크바 vs 트랙터 첼야빈스크 01:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000643395",
+      "url": "https://bbongtv4.com/premium/hockey/2000643395",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/29 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "니",
+      "team2": "니즈니노브고로드",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 56.0,
+        "away": 44.0
+      },
+      "ai_summary": "니즈니노브고로드 홈 평균실점 1.5, 수비 안정감이 승부 변수",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "니즈니노브고로드 vs 살라바트 우파 01:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000643396",
+      "url": "https://bbongtv4.com/premium/hockey/2000643396",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/29 (화)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "상",
+      "team2": "상하이",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 78.0,
+        "away": 22.0
+      },
+      "ai_summary": "상하이 홈 2경기 전승, 소치 원정 4연패로 홈 강세 뚜렷",
+      "ai_picks": [
+        "상하이 승"
+      ],
+      "aria_label": "상하이 vs 소치 01:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679023",
+      "url": "https://bbongtv4.com/premium/soccer/2006679023",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "북아일랜드",
+      "team2": "헝가리",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 40.0,
+        "draw": 28.0,
+        "away": 32.0
+      },
+      "ai_summary": "북아일랜드 1위, 헝가리 득점력 앞세워 반전 노리는 맞대결",
+      "ai_picks": [
+        "북아일랜드 승",
+        "오버 2.5",
+        "헝가리 +0.5 승"
+      ],
+      "aria_label": "북아일랜드 vs 헝가리 03:45 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679034",
+      "url": "https://bbongtv4.com/premium/soccer/2006679034",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "벨기에",
+      "team2": "프랑스",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 35.0,
+        "away": 35.0
+      },
+      "ai_summary": "벨기에 홈 2경기 연속 무실점, 수비 안정감이 변수로 작용",
+      "ai_picks": [
+        "무승부",
+        "언더 3.5"
+      ],
+      "aria_label": "벨기에 vs 프랑스 03:45 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679346",
+      "url": "https://bbongtv4.com/premium/soccer/2006679346",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "튀르키예",
+      "team2": "이탈리아",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "튀르키예 홈 평균득점 2, 이탈리아 원정 무실점 기록이 맞붙는 경기",
+      "ai_picks": [
+        "튀르키예 승",
+        "언더 2.5"
+      ],
+      "aria_label": "튀르키예 vs 이탈리아 03:45 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679347",
+      "url": "https://bbongtv4.com/premium/soccer/2006679347",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "루마니아",
+      "team2": "보스니아",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "보스니아 최근 3경기 연속 무승부, 루마니아는 실점 관리에 약점 노출",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "루마니아 vs 보스니아 03:45 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2006679348",
+      "url": "https://bbongtv4.com/premium/soccer/2006679348",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/29 (화)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스웨덴",
+      "team2": "폴란드",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "스웨덴 홈 2경기 평균 2득점, 폴란드 최근 3경기 무승에 득점력 저조",
+      "ai_picks": [
+        "스웨덴 승",
+        "오버 2.5"
+      ],
+      "aria_label": "스웨덴 vs 폴란드 03:45 분석 상세",
       "source_date": "2026-09-29"
     }
   ]
