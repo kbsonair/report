@@ -1,215 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-28",
   "source_date": "2026-09-28",
-  "scraped_at": "2026-09-28T08:27:16.138578+00:00",
+  "scraped_at": "2026-09-28T16:59:43.907695+00:00",
   "count": 45,
   "matches": [
-    {
-      "id": "16497626",
-      "url": "https://bbongtv4.com/premium/soccer/16497626",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/28 (월)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "싱가포르",
-      "team2": "방글라데시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 56.0,
-        "draw": 25.0,
-        "away": 19.0
-      },
-      "ai_summary": "싱가포르 홈 평균득점 2.5, 공격력 우위가 승부의 핵심",
-      "ai_picks": [
-        "싱가포르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "싱가포르 vs 방글라데시 17:00 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "2000360573",
-      "url": "https://bbongtv4.com/premium/baseball/2000360573",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/28 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바 롯데 마리너스",
-      "team2": "닛폰햄 파이터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "시즌 596득점 531실점, 닛폰햄의 안정감이 더 앞선다",
-      "ai_picks": [
-        "닛폰햄 파이터스 승",
-        "치바 롯데 마리너스 +1.5 승",
-        "언더 6.5"
-      ],
-      "aria_label": "치바 롯데 마리너스 vs 닛폰햄 파이터스 18:00 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "2000360574",
-      "url": "https://bbongtv4.com/premium/baseball/2000360574",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/28 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부 라이온스",
-      "team2": "라쿠텐 골든 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "세이부 라이온스, 시즌 전체 득실·상대전적에서 앞서 우위 뚜렷",
-      "ai_picks": [
-        "세이부 라이온스 승",
-        "언더 6.5",
-        "라쿠텐 골든 이글스 +1.5 승"
-      ],
-      "aria_label": "세이부 라이온스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "2000365225",
-      "url": "https://bbongtv4.com/premium/baseball/2000365225",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/28 (월)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요코하마 베이스타즈",
-      "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "홈 12승3패와 맞대결 3연승, 요코하마 쪽 흐름이 더 안정적",
-      "ai_picks": [
-        "요코하마 베이스타즈 승",
-        "오버 6.5",
-        "히로시마 카프 +1.5 승"
-      ],
-      "aria_label": "요코하마 베이스타즈 vs 히로시마 카프 18:00 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "16498294",
-      "url": "https://bbongtv4.com/premium/soccer/16498294",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/28 (월)",
-      "time": "19:25",
-      "status": "예정",
-      "result": null,
-      "team1": "일본",
-      "team2": "베네수엘라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "일본, 최근 4경기 연속 1실점 이하로 안정된 수비력 유지",
-      "ai_picks": [
-        "일본 승",
-        "언더 2.5"
-      ],
-      "aria_label": "일본 vs 베네수엘라 19:25 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "16498295",
-      "url": "https://bbongtv4.com/premium/soccer/16498295",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "9/28 (월)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대한민국",
-      "team2": "우루과이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "대한민국, 홈 3경기 연속 무실점·평균 3득점으로 압도적 흐름",
-      "ai_picks": [
-        "대한민국 승",
-        "언더 2.5"
-      ],
-      "aria_label": "대한민국 vs 우루과이 20:00 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "16497630",
-      "url": "https://bbongtv4.com/premium/soccer/16497630",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/28 (월)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "말레이시아",
-      "team2": "인도네시아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "인도네시아 홈 3연승·무실점, 말레이시아 원정 득점력과 대조",
-      "ai_picks": [
-        "말레이시아 승",
-        "언더 3"
-      ],
-      "aria_label": "말레이시아 vs 인도네시아 20:30 분석 상세",
-      "source_date": "2026-09-28"
-    },
-    {
-      "id": "2000643392",
-      "url": "https://bbongtv4.com/premium/hockey/2000643392",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/28 (월)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "아반가르드 옴스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "아반가르드 옴스크, 홈에서 평균 득점 2.5로 마그니토고르스크 상대 강세",
-      "ai_picks": [
-        "아반가르드 옴스크 승"
-      ],
-      "aria_label": "아반가르드 옴스크 vs 마그니토고르스크 22:30 분석 상세",
-      "source_date": "2026-09-28"
-    },
     {
       "id": "16496846",
       "url": "https://bbongtv4.com/premium/soccer/16496846",
@@ -1166,6 +960,212 @@
         "오버 2.5"
       ],
       "aria_label": "네카사 vs 클럽 아메리카 12:10 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "16497626",
+      "url": "https://bbongtv4.com/premium/soccer/16497626",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/28 (월)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "싱가포르",
+      "team2": "방글라데시",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 56.0,
+        "draw": 25.0,
+        "away": 19.0
+      },
+      "ai_summary": "싱가포르 홈 평균득점 2.5, 공격력 우위가 승부의 핵심",
+      "ai_picks": [
+        "싱가포르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "싱가포르 vs 방글라데시 17:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2000360573",
+      "url": "https://bbongtv4.com/premium/baseball/2000360573",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/28 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "치바 롯데 마리너스",
+      "team2": "닛폰햄 파이터스",
+      "score1": 3,
+      "score2": 8,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "시즌 596득점 531실점, 닛폰햄의 안정감이 더 앞선다",
+      "ai_picks": [
+        "닛폰햄 파이터스 승",
+        "치바 롯데 마리너스 +1.5 승",
+        "언더 6.5"
+      ],
+      "aria_label": "치바 롯데 마리너스 vs 닛폰햄 파이터스 18:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2000360574",
+      "url": "https://bbongtv4.com/premium/baseball/2000360574",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/28 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부 라이온스",
+      "team2": "라쿠텐 골든 이글스",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "세이부 라이온스, 시즌 전체 득실·상대전적에서 앞서 우위 뚜렷",
+      "ai_picks": [
+        "세이부 라이온스 승",
+        "언더 6.5",
+        "라쿠텐 골든 이글스 +1.5 승"
+      ],
+      "aria_label": "세이부 라이온스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2000365225",
+      "url": "https://bbongtv4.com/premium/baseball/2000365225",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/28 (월)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요코하마 베이스타즈",
+      "team2": "히로시마 카프",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "홈 12승3패와 맞대결 3연승, 요코하마 쪽 흐름이 더 안정적",
+      "ai_picks": [
+        "요코하마 베이스타즈 승",
+        "오버 6.5",
+        "히로시마 카프 +1.5 승"
+      ],
+      "aria_label": "요코하마 베이스타즈 vs 히로시마 카프 18:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "16498294",
+      "url": "https://bbongtv4.com/premium/soccer/16498294",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/28 (월)",
+      "time": "19:25",
+      "status": "종료",
+      "result": "적중",
+      "team1": "일본",
+      "team2": "베네수엘라",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "일본, 최근 4경기 연속 1실점 이하로 안정된 수비력 유지",
+      "ai_picks": [
+        "일본 승",
+        "언더 2.5"
+      ],
+      "aria_label": "일본 vs 베네수엘라 19:25 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "16498295",
+      "url": "https://bbongtv4.com/premium/soccer/16498295",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "9/28 (월)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대한민국",
+      "team2": "우루과이",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "대한민국, 홈 3경기 연속 무실점·평균 3득점으로 압도적 흐름",
+      "ai_picks": [
+        "대한민국 승",
+        "언더 2.5"
+      ],
+      "aria_label": "대한민국 vs 우루과이 20:00 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "16497630",
+      "url": "https://bbongtv4.com/premium/soccer/16497630",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/28 (월)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말레이시아",
+      "team2": "인도네시아",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "인도네시아 홈 3연승·무실점, 말레이시아 원정 득점력과 대조",
+      "ai_picks": [
+        "말레이시아 승",
+        "언더 3"
+      ],
+      "aria_label": "말레이시아 vs 인도네시아 20:30 분석 상세",
+      "source_date": "2026-09-28"
+    },
+    {
+      "id": "2000643392",
+      "url": "https://bbongtv4.com/premium/hockey/2000643392",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/28 (월)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아",
+      "team2": "아반가르드 옴스크",
+      "score1": 1,
+      "score2": 5,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "아반가르드 옴스크, 홈에서 평균 득점 2.5로 마그니토고르스크 상대 강세",
+      "ai_picks": [
+        "아반가르드 옴스크 승"
+      ],
+      "aria_label": "아반가르드 옴스크 vs 마그니토고르스크 22:30 분석 상세",
       "source_date": "2026-09-28"
     }
   ]

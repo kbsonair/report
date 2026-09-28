@@ -1,8 +1,8 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-09-29",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-29",
-  "scraped_at": "2026-09-28T08:27:18.475010+00:00",
-  "count": 22,
+  "scraped_at": "2026-09-28T16:59:42.670263+00:00",
+  "count": 26,
   "matches": [
     {
       "id": "2006678996",
@@ -310,6 +310,86 @@
       "source_date": "2026-09-29"
     },
     {
+      "id": "16497684",
+      "url": "https://bbongtv4.com/premium/soccer/16497684",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/29 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "자메이카",
+      "team2": "온두라스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "자메이카, 최근 6경기 4승과 홈 3연속 득점으로 상승세 뚜렷",
+      "ai_picks": [
+        "자메이카 승",
+        "오버 2.5"
+      ],
+      "aria_label": "자메이카 vs 온두라스 09:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16497691",
+      "url": "https://bbongtv4.com/premium/soccer/16497691",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/29 (화)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "과테말라",
+      "team2": "엘살바도르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "엘살바도르, 최근 3-1 승리와 +0.16 득실차로 상승세 뚜렷",
+      "ai_picks": [
+        "엘살바도르 승",
+        "엘살바도르 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "과테말라 vs 엘살바도르 11:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498400",
+      "url": "https://bbongtv4.com/premium/soccer/16498400",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/29 (화)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "필리핀",
+      "team2": "파키스탄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "필리핀 홈 2경기 연속 5득점, 공격력에서 앞선 흐름",
+      "ai_picks": [
+        "필리핀 승",
+        "오버 2.5",
+        "필리핀 -1.5 승"
+      ],
+      "aria_label": "필리핀 vs 파키스탄 17:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
       "id": "2000354980",
       "url": "https://bbongtv4.com/premium/baseball/2000354980",
       "sport": "baseball",
@@ -328,7 +408,9 @@
       },
       "ai_summary": "시즌 실점 431 대 584, 맞대결 흐름도 한신 쪽으로 기운다",
       "ai_picks": [
-        "한신 타이거스 승"
+        "한신 타이거스 승",
+        "오버 6",
+        "한신 타이거스 -1.5 승"
       ],
       "aria_label": "한신 타이거스 vs 야쿠르트 스왈로즈 18:00 분석 상세",
       "source_date": "2026-09-29"
@@ -352,7 +434,8 @@
       },
       "ai_summary": "라쿠텐 골든 이글스, 최근 맞대결 2연승과 홈 평균실점 2.75로 우세 분위기",
       "ai_picks": [
-        "라쿠텐 골든 이글스 승"
+        "라쿠텐 골든 이글스 승",
+        "언더 7"
       ],
       "aria_label": "라쿠텐 골든 이글스 vs 치바 롯데 마리너스 18:00 분석 상세",
       "source_date": "2026-09-29"
@@ -376,7 +459,8 @@
       },
       "ai_summary": "세이부 라이온스, 최근 맞대결 3연승과 홈 강세로 우위 점쳐져",
       "ai_picks": [
-        "세이부 라이온스 승"
+        "세이부 라이온스 승",
+        "언더 6.5"
       ],
       "aria_label": "세이부 라이온스 vs 오릭스 버팔로스 18:00 분석 상세",
       "source_date": "2026-09-29"
@@ -400,7 +484,9 @@
       },
       "ai_summary": "홈 7승2패와 시즌 득실 우위, 요미우리 반등 쪽에 무게",
       "ai_picks": [
-        "요미우리 자이언츠 승"
+        "요미우리 자이언츠 승",
+        "언더 5.5",
+        "히로시마 카프 +1.5 승"
       ],
       "aria_label": "요미우리 자이언츠 vs 히로시마 카프 18:00 분석 상세",
       "source_date": "2026-09-29"
@@ -448,7 +534,8 @@
       },
       "ai_summary": "두산 베어스, 홈 평균실점 3.23으로 안정감…NC 다이노스 원정 득점력은 변수",
       "ai_picks": [
-        "두산 베어스 승"
+        "두산 베어스 승",
+        "오버 7.5"
       ],
       "aria_label": "두산 베어스 vs NC 다이노스 18:30 분석 상세",
       "source_date": "2026-09-29"
@@ -472,7 +559,8 @@
       },
       "ai_summary": "KT 위즈 원정 평균득점 6.27, 공격력에서 앞선 흐름 뚜렷",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "오버 8.5"
       ],
       "aria_label": "KIA 타이거즈 vs KT 위즈 18:30 분석 상세",
       "source_date": "2026-09-29"
@@ -496,7 +584,9 @@
       },
       "ai_summary": "롯데 자이언츠, 최근 6경기 5승 상승세와 홈 득점력 회복이 변수",
       "ai_picks": [
-        "롯데 자이언츠 승"
+        "롯데 자이언츠 승",
+        "오버 10.5",
+        "롯데 자이언츠 -1.5 승"
       ],
       "aria_label": "롯데 자이언츠 vs 키움 히어로즈 18:30 분석 상세",
       "source_date": "2026-09-29"
@@ -520,7 +610,9 @@
       },
       "ai_summary": "삼성 2위와 홈 7승4패, 한화 원정 4승12패가 만든 우위",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "오버 10.5",
+        "삼성 라이온즈 -2.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 한화 이글스 18:30 분석 상세",
       "source_date": "2026-09-29"
@@ -544,9 +636,37 @@
       },
       "ai_summary": "LG 트윈스 원정 11승2패, SSG 랜더스 홈 강세와 맞붙는 경기",
       "ai_picks": [
-        "LG 트윈스 승"
+        "LG 트윈스 승",
+        "SSG 랜더스 +1.5 승"
       ],
       "aria_label": "SSG 랜더스 vs LG 트윈스 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498433",
+      "url": "https://bbongtv4.com/premium/soccer/16498433",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/29 (화)",
+      "time": "20:30",
+      "status": "예정",
+      "result": null,
+      "team1": "태국",
+      "team2": "베트남",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 15.0,
+        "away": 60.0
+      },
+      "ai_summary": "베트남 최근 6연승, 득실차 +2.6으로 상승세 뚜렷",
+      "ai_picks": [
+        "베트남 승",
+        "오버 2.5",
+        "베트남 +0.5 승"
+      ],
+      "aria_label": "태국 vs 베트남 20:30 분석 상세",
       "source_date": "2026-09-29"
     }
   ]
