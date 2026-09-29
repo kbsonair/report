@@ -1,737 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-09-29",
   "source_date": "2026-09-29",
-  "scraped_at": "2026-09-29T08:43:33.256428+00:00",
+  "scraped_at": "2026-09-29T15:32:16.826476+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "16498400",
-      "url": "https://bbongtv4.com/premium/soccer/16498400",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/29 (화)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "필리핀",
-      "team2": "파키스탄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "필리핀 홈 2경기 연속 5득점, 공격력에서 앞선 흐름",
-      "ai_picks": [
-        "필리핀 승",
-        "오버 2.5",
-        "필리핀 -1.5 승"
-      ],
-      "aria_label": "필리핀 vs 파키스탄 17:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000354980",
-      "url": "https://bbongtv4.com/premium/baseball/2000354980",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/29 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한신 타이거스",
-      "team2": "야쿠르트 스왈로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 66.0,
-        "away": 34.0
-      },
-      "ai_summary": "시즌 실점 431 대 584, 맞대결 흐름도 한신 쪽으로 기운다",
-      "ai_picks": [
-        "한신 타이거스 승",
-        "오버 6",
-        "한신 타이거스 -1.5 승"
-      ],
-      "aria_label": "한신 타이거스 vs 야쿠르트 스왈로즈 18:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000360575",
-      "url": "https://bbongtv4.com/premium/baseball/2000360575",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/29 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라쿠텐 골든 이글스",
-      "team2": "치바 롯데 마리너스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "라쿠텐 골든 이글스, 최근 맞대결 2연승과 홈 평균실점 2.75로 우세 분위기",
-      "ai_picks": [
-        "라쿠텐 골든 이글스 승",
-        "언더 7"
-      ],
-      "aria_label": "라쿠텐 골든 이글스 vs 치바 롯데 마리너스 18:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000360576",
-      "url": "https://bbongtv4.com/premium/baseball/2000360576",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/29 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세이부 라이온스",
-      "team2": "오릭스 버팔로스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "세이부 라이온스, 최근 맞대결 3연승과 홈 강세로 우위 점쳐져",
-      "ai_picks": [
-        "세이부 라이온스 승",
-        "언더 6.5"
-      ],
-      "aria_label": "세이부 라이온스 vs 오릭스 버팔로스 18:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000365238",
-      "url": "https://bbongtv4.com/premium/baseball/2000365238",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "9/29 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요미우리 자이언츠",
-      "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 57.0,
-        "away": 43.0
-      },
-      "ai_summary": "홈 7승2패와 시즌 득실 우위, 요미우리 반등 쪽에 무게",
-      "ai_picks": [
-        "요미우리 자이언츠 승",
-        "언더 5.5",
-        "히로시마 카프 +1.5 승"
-      ],
-      "aria_label": "요미우리 자이언츠 vs 히로시마 카프 18:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000643398",
-      "url": "https://bbongtv4.com/premium/hockey/2000643398",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/29 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "하",
-      "team2": "하바로프스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "니즈네카민스크, 최근 2경기 13득점 폭발로 공격력 상승세",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "하바로프스크 vs 니즈네카민스크 18:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000355887",
-      "url": "https://bbongtv4.com/premium/baseball/2000355887",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/29 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "두산 베어스",
-      "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "두산 베어스, 홈 평균실점 3.23으로 안정감…NC 다이노스 원정 득점력은 변수",
-      "ai_picks": [
-        "두산 베어스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "두산 베어스 vs NC 다이노스 18:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000355888",
-      "url": "https://bbongtv4.com/premium/baseball/2000355888",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/29 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KIA 타이거즈",
-      "team2": "KT 위즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "KT 위즈 원정 평균득점 6.27, 공격력에서 앞선 흐름 뚜렷",
-      "ai_picks": [
-        "KT 위즈 승",
-        "오버 8.5"
-      ],
-      "aria_label": "KIA 타이거즈 vs KT 위즈 18:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000355894",
-      "url": "https://bbongtv4.com/premium/baseball/2000355894",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/29 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "롯데 자이언츠",
-      "team2": "키움 히어로즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "롯데 자이언츠, 최근 6경기 5승 상승세와 홈 득점력 회복이 변수",
-      "ai_picks": [
-        "롯데 자이언츠 승",
-        "오버 10.5",
-        "롯데 자이언츠 -1.5 승"
-      ],
-      "aria_label": "롯데 자이언츠 vs 키움 히어로즈 18:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000355895",
-      "url": "https://bbongtv4.com/premium/baseball/2000355895",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/29 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "삼성 라이온즈",
-      "team2": "한화 이글스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 64.0,
-        "away": 36.0
-      },
-      "ai_summary": "삼성 2위와 홈 7승4패, 한화 원정 4승12패가 만든 우위",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "오버 10.5",
-        "삼성 라이온즈 -2.5 승"
-      ],
-      "aria_label": "삼성 라이온즈 vs 한화 이글스 18:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "2000355901",
-      "url": "https://bbongtv4.com/premium/baseball/2000355901",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "9/29 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "SSG 랜더스",
-      "team2": "LG 트윈스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "LG 트윈스 원정 11승2패, SSG 랜더스 홈 강세와 맞붙는 경기",
-      "ai_picks": [
-        "LG 트윈스 승",
-        "SSG 랜더스 +1.5 승"
-      ],
-      "aria_label": "SSG 랜더스 vs LG 트윈스 18:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498408",
-      "url": "https://bbongtv4.com/premium/soccer/16498408",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에히메",
-      "team2": "FC 도쿄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 10.0,
-        "away": 80.0
-      },
-      "ai_summary": "FC 도쿄 최근 6경기 5승, 원정에서도 실점 0.75로 안정감",
-      "ai_picks": [
-        "FC 도쿄 승",
-        "언더 3.5"
-      ],
-      "aria_label": "에히메 vs FC 도쿄 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498409",
-      "url": "https://bbongtv4.com/premium/soccer/16498409",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후지에다 MYFC",
-      "team2": "세레소 오사카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 23.0,
-        "away": 54.0
-      },
-      "ai_summary": "세레소 오사카 원정 득점력 저조, 홈팀의 견고한 수비가 변수",
-      "ai_picks": [
-        "세레소 오사카 승",
-        "언더 2.5",
-        "후지에다 MYFC +0.5 승"
-      ],
-      "aria_label": "후지에다 MYFC vs 세레소 오사카 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498410",
-      "url": "https://bbongtv4.com/premium/soccer/16498410",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "홋카이도 콘사돌레 삿포로",
-      "team2": "오카야마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "오카야마 최근 4승1패, 원정 득점력과 시장 배당 모두 앞선다",
-      "ai_picks": [
-        "오카야마 승",
-        "오버 2.5"
-      ],
-      "aria_label": "홋카이도 콘사돌레 삿포로 vs 오카야마 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498411",
-      "url": "https://bbongtv4.com/premium/soccer/16498411",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카나자와",
-      "team2": "시미즈 S-펄스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 22.0,
-        "away": 55.0
-      },
-      "ai_summary": "시미즈 S-펄스 최근 2연승, 원정 실점 증가가 변수로 작용",
-      "ai_picks": [
-        "시미즈 S-펄스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "카나자와 vs 시미즈 S-펄스 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498412",
-      "url": "https://bbongtv4.com/premium/soccer/16498412",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "구마모토",
-      "team2": "가와사키 프론탈레",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "가와사키 프론탈레, 최근 6경기 4승1무로 득점력과 흐름 모두 앞선다",
-      "ai_picks": [
-        "가와사키 프론탈레 승",
-        "언더 3.5"
-      ],
-      "aria_label": "구마모토 vs 가와사키 프론탈레 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498413",
-      "url": "https://bbongtv4.com/premium/soccer/16498413",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "기라반즈 기타큐슈",
-      "team2": "나고야 그램퍼스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 17.0,
-        "away": 65.0
-      },
-      "ai_summary": "나고야 그램퍼스, 원정 4연패에도 시장은 대승 기대하지 않는다",
-      "ai_picks": [
-        "나고야 그램퍼스 승",
-        "기라반즈 기타큐슈 +1.5 승"
-      ],
-      "aria_label": "기라반즈 기타큐슈 vs 나고야 그램퍼스 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498414",
-      "url": "https://bbongtv4.com/premium/soccer/16498414",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "오사카",
-      "team2": "아비스파 후쿠오카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 15.0,
-        "away": 60.0
-      },
-      "ai_summary": "오사카 최근 3경기 8득점, 아비스파 후쿠오카 원정 3연패와 대조적",
-      "ai_picks": [
-        "오버 2.5",
-        "오사카 +1.5 승"
-      ],
-      "aria_label": "오사카 vs 아비스파 후쿠오카 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498415",
-      "url": "https://bbongtv4.com/premium/soccer/16498415",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토치기 시티",
-      "team2": "산프레체 히로시마",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 10.0,
-        "away": 80.0
-      },
-      "ai_summary": "산프레체 히로시마, 최근 6경기 5승과 득실차 +1.89로 압도적 우위",
-      "ai_picks": [
-        "산프레체 히로시마 승",
-        "오버 3.5",
-        "산프레체 히로시마 -1.5 승"
-      ],
-      "aria_label": "토치기 시티 vs 산프레체 히로시마 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498416",
-      "url": "https://bbongtv4.com/premium/soccer/16498416",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토야마",
-      "team2": "우라와 레드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "우라와 레드, 최근 6경기 5승과 원정 다득점 흐름이 강점",
-      "ai_picks": [
-        "우라와 레드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "토야마 vs 우라와 레드 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498417",
-      "url": "https://bbongtv4.com/premium/soccer/16498417",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "기후",
-      "team2": "요코하마 FC",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 25.0,
-        "away": 50.0
-      },
-      "ai_summary": "요코하마 FC, 원정 평균 실점 1.8에도 공격진 다득점이 변수",
-      "ai_picks": [
-        "요코하마 FC 승",
-        "오버 2.5"
-      ],
-      "aria_label": "기후 vs 요코하마 FC 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498418",
-      "url": "https://bbongtv4.com/premium/soccer/16498418",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "이와타",
-      "team2": "치바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 32.0,
-        "away": 30.0
-      },
-      "ai_summary": "이와타 원정 득점력 우위, 치바는 실점 관리에 약점 보여",
-      "ai_picks": [
-        "오버 2.5",
-        "치바 +0.5 승"
-      ],
-      "aria_label": "이와타 vs 치바 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498419",
-      "url": "https://bbongtv4.com/premium/soccer/16498419",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "후쿠시마 유나이티드",
-      "team2": "미토",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 15.0,
-        "away": 75.0
-      },
-      "ai_summary": "후쿠시마 유나이티드 홈 2경기 평균 5.5득점, 미토 원정 실점은 1.2에 그쳐",
-      "ai_picks": [
-        "미토 승",
-        "오버 2.5",
-        "후쿠시마 유나이티드 +1.5 승"
-      ],
-      "aria_label": "후쿠시마 유나이티드 vs 미토 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498420",
-      "url": "https://bbongtv4.com/premium/soccer/16498420",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "사가ン 토수",
-      "team2": "베르디",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 38.0,
-        "away": 32.0
-      },
-      "ai_summary": "사가ン 토수 홈 평균득점 2, 베르디 원정 득점력 저하가 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "사가ン 토수 +0.5 승"
-      ],
-      "aria_label": "사가ン 토수 vs 베르디 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498421",
-      "url": "https://bbongtv4.com/premium/soccer/16498421",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "가이너레 토토리",
-      "team2": "V-바렌 나가사키",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "가이너레 토토리 홈 2경기 평균득점 2, 원정팀 실점도 높아 오버 가능성 부각",
-      "ai_picks": [
-        "V-바렌 나가사키 승",
-        "오버 2.5",
-        "가이너레 토토리 +1.5 승"
-      ],
-      "aria_label": "가이너레 토토리 vs V-바렌 나가사키 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498422",
-      "url": "https://bbongtv4.com/premium/soccer/16498422",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야마가",
-      "team2": "알비렉스 니가타",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 24.0,
-        "away": 48.0
-      },
-      "ai_summary": "알비렉스 니가타 원정 실점 2.2, 다득점 흐름이 오버 쪽에 힘을 준다",
-      "ai_picks": [
-        "알비렉스 니가타 승",
-        "오버 2.5"
-      ],
-      "aria_label": "야마가 vs 알비렉스 니가타 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498423",
-      "url": "https://bbongtv4.com/premium/soccer/16498423",
-      "sport": "soccer",
-      "league": "JLC",
-      "date": "9/29 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "몬테디오 야마가타",
-      "team2": "요코하마 F. 마리노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "draw": 20.0,
-        "away": 58.0
-      },
-      "ai_summary": "요코하마 F. 마리노스 원정 평균득점 1.5, 공격력에서 우위 보인다",
-      "ai_picks": [
-        "요코하마 F. 마리노스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "몬테디오 야마가타 vs 요코하마 F. 마리노스 19:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16498433",
-      "url": "https://bbongtv4.com/premium/soccer/16498433",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "9/29 (화)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "태국",
-      "team2": "베트남",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 15.0,
-        "away": 60.0
-      },
-      "ai_summary": "베트남 최근 6연승, 득실차 +2.6으로 상승세 뚜렷",
-      "ai_picks": [
-        "베트남 승",
-        "오버 2.5",
-        "베트남 +0.5 승"
-      ],
-      "aria_label": "태국 vs 베트남 20:30 분석 상세",
-      "source_date": "2026-09-29"
-    },
     {
       "id": "2006678996",
       "url": "https://bbongtv4.com/premium/soccer/2006678996",
@@ -1088,6 +360,734 @@
         "언더 2.5"
       ],
       "aria_label": "과테말라 vs 엘살바도르 11:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498400",
+      "url": "https://bbongtv4.com/premium/soccer/16498400",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/29 (화)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "필리핀",
+      "team2": "파키스탄",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "필리핀 홈 2경기 연속 5득점, 공격력에서 앞선 흐름",
+      "ai_picks": [
+        "필리핀 승",
+        "오버 2.5",
+        "필리핀 -1.5 승"
+      ],
+      "aria_label": "필리핀 vs 파키스탄 17:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000354980",
+      "url": "https://bbongtv4.com/premium/baseball/2000354980",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/29 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한신 타이거스",
+      "team2": "야쿠르트 스왈로즈",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 66.0,
+        "away": 34.0
+      },
+      "ai_summary": "시즌 실점 431 대 584, 맞대결 흐름도 한신 쪽으로 기운다",
+      "ai_picks": [
+        "한신 타이거스 승",
+        "오버 6",
+        "한신 타이거스 -1.5 승"
+      ],
+      "aria_label": "한신 타이거스 vs 야쿠르트 스왈로즈 18:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000360575",
+      "url": "https://bbongtv4.com/premium/baseball/2000360575",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/29 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "라쿠텐 골든 이글스",
+      "team2": "치바 롯데 마리너스",
+      "score1": 3,
+      "score2": 6,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "라쿠텐 골든 이글스, 최근 맞대결 2연승과 홈 평균실점 2.75로 우세 분위기",
+      "ai_picks": [
+        "라쿠텐 골든 이글스 승",
+        "언더 7"
+      ],
+      "aria_label": "라쿠텐 골든 이글스 vs 치바 롯데 마리너스 18:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000360576",
+      "url": "https://bbongtv4.com/premium/baseball/2000360576",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/29 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "세이부 라이온스",
+      "team2": "오릭스 버팔로스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "세이부 라이온스, 최근 맞대결 3연승과 홈 강세로 우위 점쳐져",
+      "ai_picks": [
+        "세이부 라이온스 승",
+        "언더 6.5"
+      ],
+      "aria_label": "세이부 라이온스 vs 오릭스 버팔로스 18:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000365238",
+      "url": "https://bbongtv4.com/premium/baseball/2000365238",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "9/29 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요미우리 자이언츠",
+      "team2": "히로시마 카프",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 57.0,
+        "away": 43.0
+      },
+      "ai_summary": "홈 7승2패와 시즌 득실 우위, 요미우리 반등 쪽에 무게",
+      "ai_picks": [
+        "요미우리 자이언츠 승",
+        "언더 5.5",
+        "히로시마 카프 +1.5 승"
+      ],
+      "aria_label": "요미우리 자이언츠 vs 히로시마 카프 18:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000643398",
+      "url": "https://bbongtv4.com/premium/hockey/2000643398",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/29 (화)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "하",
+      "team2": "하바로프스크",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "니즈네카민스크, 최근 2경기 13득점 폭발로 공격력 상승세",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "하바로프스크 vs 니즈네카민스크 18:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000355887",
+      "url": "https://bbongtv4.com/premium/baseball/2000355887",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/29 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "두산 베어스",
+      "team2": "NC 다이노스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "두산 베어스, 홈 평균실점 3.23으로 안정감…NC 다이노스 원정 득점력은 변수",
+      "ai_picks": [
+        "두산 베어스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "두산 베어스 vs NC 다이노스 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000355888",
+      "url": "https://bbongtv4.com/premium/baseball/2000355888",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/29 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KIA 타이거즈",
+      "team2": "KT 위즈",
+      "score1": 5,
+      "score2": 8,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "KT 위즈 원정 평균득점 6.27, 공격력에서 앞선 흐름 뚜렷",
+      "ai_picks": [
+        "KT 위즈 승",
+        "오버 8.5"
+      ],
+      "aria_label": "KIA 타이거즈 vs KT 위즈 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000355894",
+      "url": "https://bbongtv4.com/premium/baseball/2000355894",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/29 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "롯데 자이언츠",
+      "team2": "키움 히어로즈",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "롯데 자이언츠, 최근 6경기 5승 상승세와 홈 득점력 회복이 변수",
+      "ai_picks": [
+        "롯데 자이언츠 승",
+        "오버 10.5",
+        "롯데 자이언츠 -1.5 승"
+      ],
+      "aria_label": "롯데 자이언츠 vs 키움 히어로즈 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000355895",
+      "url": "https://bbongtv4.com/premium/baseball/2000355895",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/29 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "삼성 라이온즈",
+      "team2": "한화 이글스",
+      "score1": 10,
+      "score2": 5,
+      "prob": {
+        "home": 64.0,
+        "away": 36.0
+      },
+      "ai_summary": "삼성 2위와 홈 7승4패, 한화 원정 4승12패가 만든 우위",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "오버 10.5",
+        "삼성 라이온즈 -2.5 승"
+      ],
+      "aria_label": "삼성 라이온즈 vs 한화 이글스 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "2000355901",
+      "url": "https://bbongtv4.com/premium/baseball/2000355901",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "9/29 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "SSG 랜더스",
+      "team2": "LG 트윈스",
+      "score1": 7,
+      "score2": 1,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "LG 트윈스 원정 11승2패, SSG 랜더스 홈 강세와 맞붙는 경기",
+      "ai_picks": [
+        "LG 트윈스 승",
+        "SSG 랜더스 +1.5 승"
+      ],
+      "aria_label": "SSG 랜더스 vs LG 트윈스 18:30 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498408",
+      "url": "https://bbongtv4.com/premium/soccer/16498408",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에히메",
+      "team2": "FC 도쿄",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 10.0,
+        "draw": 10.0,
+        "away": 80.0
+      },
+      "ai_summary": "FC 도쿄 최근 6경기 5승, 원정에서도 실점 0.75로 안정감",
+      "ai_picks": [
+        "FC 도쿄 승",
+        "언더 3.5"
+      ],
+      "aria_label": "에히메 vs FC 도쿄 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498409",
+      "url": "https://bbongtv4.com/premium/soccer/16498409",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후지에다 MYFC",
+      "team2": "세레소 오사카",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 23.0,
+        "draw": 23.0,
+        "away": 54.0
+      },
+      "ai_summary": "세레소 오사카 원정 득점력 저조, 홈팀의 견고한 수비가 변수",
+      "ai_picks": [
+        "세레소 오사카 승",
+        "언더 2.5",
+        "후지에다 MYFC +0.5 승"
+      ],
+      "aria_label": "후지에다 MYFC vs 세레소 오사카 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498410",
+      "url": "https://bbongtv4.com/premium/soccer/16498410",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "홋카이도 콘사돌레 삿포로",
+      "team2": "오카야마",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "오카야마 최근 4승1패, 원정 득점력과 시장 배당 모두 앞선다",
+      "ai_picks": [
+        "오카야마 승",
+        "오버 2.5"
+      ],
+      "aria_label": "홋카이도 콘사돌레 삿포로 vs 오카야마 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498411",
+      "url": "https://bbongtv4.com/premium/soccer/16498411",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "카나자와",
+      "team2": "시미즈 S-펄스",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 23.0,
+        "draw": 22.0,
+        "away": 55.0
+      },
+      "ai_summary": "시미즈 S-펄스 최근 2연승, 원정 실점 증가가 변수로 작용",
+      "ai_picks": [
+        "시미즈 S-펄스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "카나자와 vs 시미즈 S-펄스 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498412",
+      "url": "https://bbongtv4.com/premium/soccer/16498412",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "구마모토",
+      "team2": "가와사키 프론탈레",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "가와사키 프론탈레, 최근 6경기 4승1무로 득점력과 흐름 모두 앞선다",
+      "ai_picks": [
+        "가와사키 프론탈레 승",
+        "언더 3.5"
+      ],
+      "aria_label": "구마모토 vs 가와사키 프론탈레 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498413",
+      "url": "https://bbongtv4.com/premium/soccer/16498413",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "기라반즈 기타큐슈",
+      "team2": "나고야 그램퍼스",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 18.0,
+        "draw": 17.0,
+        "away": 65.0
+      },
+      "ai_summary": "나고야 그램퍼스, 원정 4연패에도 시장은 대승 기대하지 않는다",
+      "ai_picks": [
+        "나고야 그램퍼스 승",
+        "기라반즈 기타큐슈 +1.5 승"
+      ],
+      "aria_label": "기라반즈 기타큐슈 vs 나고야 그램퍼스 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498414",
+      "url": "https://bbongtv4.com/premium/soccer/16498414",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오사카",
+      "team2": "아비스파 후쿠오카",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "draw": 15.0,
+        "away": 60.0
+      },
+      "ai_summary": "오사카 최근 3경기 8득점, 아비스파 후쿠오카 원정 3연패와 대조적",
+      "ai_picks": [
+        "오버 2.5",
+        "오사카 +1.5 승"
+      ],
+      "aria_label": "오사카 vs 아비스파 후쿠오카 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498415",
+      "url": "https://bbongtv4.com/premium/soccer/16498415",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토치기 시티",
+      "team2": "산프레체 히로시마",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 10.0,
+        "draw": 10.0,
+        "away": 80.0
+      },
+      "ai_summary": "산프레체 히로시마, 최근 6경기 5승과 득실차 +1.89로 압도적 우위",
+      "ai_picks": [
+        "산프레체 히로시마 승",
+        "오버 3.5",
+        "산프레체 히로시마 -1.5 승"
+      ],
+      "aria_label": "토치기 시티 vs 산프레체 히로시마 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498416",
+      "url": "https://bbongtv4.com/premium/soccer/16498416",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토야마",
+      "team2": "우라와 레드",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "우라와 레드, 최근 6경기 5승과 원정 다득점 흐름이 강점",
+      "ai_picks": [
+        "우라와 레드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토야마 vs 우라와 레드 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498417",
+      "url": "https://bbongtv4.com/premium/soccer/16498417",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "기후",
+      "team2": "요코하마 FC",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 25.0,
+        "draw": 25.0,
+        "away": 50.0
+      },
+      "ai_summary": "요코하마 FC, 원정 평균 실점 1.8에도 공격진 다득점이 변수",
+      "ai_picks": [
+        "요코하마 FC 승",
+        "오버 2.5"
+      ],
+      "aria_label": "기후 vs 요코하마 FC 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498418",
+      "url": "https://bbongtv4.com/premium/soccer/16498418",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "이와타",
+      "team2": "치바",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "이와타 원정 득점력 우위, 치바는 실점 관리에 약점 보여",
+      "ai_picks": [
+        "오버 2.5",
+        "치바 +0.5 승"
+      ],
+      "aria_label": "이와타 vs 치바 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498419",
+      "url": "https://bbongtv4.com/premium/soccer/16498419",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "후쿠시마 유나이티드",
+      "team2": "미토",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 10.0,
+        "draw": 15.0,
+        "away": 75.0
+      },
+      "ai_summary": "후쿠시마 유나이티드 홈 2경기 평균 5.5득점, 미토 원정 실점은 1.2에 그쳐",
+      "ai_picks": [
+        "미토 승",
+        "오버 2.5",
+        "후쿠시마 유나이티드 +1.5 승"
+      ],
+      "aria_label": "후쿠시마 유나이티드 vs 미토 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498420",
+      "url": "https://bbongtv4.com/premium/soccer/16498420",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "사가ン 토수",
+      "team2": "베르디",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 38.0,
+        "away": 32.0
+      },
+      "ai_summary": "사가ン 토수 홈 평균득점 2, 베르디 원정 득점력 저하가 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "사가ン 토수 +0.5 승"
+      ],
+      "aria_label": "사가ン 토수 vs 베르디 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498421",
+      "url": "https://bbongtv4.com/premium/soccer/16498421",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "가이너레 토토리",
+      "team2": "V-바렌 나가사키",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "가이너레 토토리 홈 2경기 평균득점 2, 원정팀 실점도 높아 오버 가능성 부각",
+      "ai_picks": [
+        "V-바렌 나가사키 승",
+        "오버 2.5",
+        "가이너레 토토리 +1.5 승"
+      ],
+      "aria_label": "가이너레 토토리 vs V-바렌 나가사키 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498422",
+      "url": "https://bbongtv4.com/premium/soccer/16498422",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "야마가",
+      "team2": "알비렉스 니가타",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 28.0,
+        "draw": 24.0,
+        "away": 48.0
+      },
+      "ai_summary": "알비렉스 니가타 원정 실점 2.2, 다득점 흐름이 오버 쪽에 힘을 준다",
+      "ai_picks": [
+        "알비렉스 니가타 승",
+        "오버 2.5"
+      ],
+      "aria_label": "야마가 vs 알비렉스 니가타 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498423",
+      "url": "https://bbongtv4.com/premium/soccer/16498423",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "9/29 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몬테디오 야마가타",
+      "team2": "요코하마 F. 마리노스",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 22.0,
+        "draw": 20.0,
+        "away": 58.0
+      },
+      "ai_summary": "요코하마 F. 마리노스 원정 평균득점 1.5, 공격력에서 우위 보인다",
+      "ai_picks": [
+        "요코하마 F. 마리노스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "몬테디오 야마가타 vs 요코하마 F. 마리노스 19:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16498433",
+      "url": "https://bbongtv4.com/premium/soccer/16498433",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "9/29 (화)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "태국",
+      "team2": "베트남",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 25.0,
+        "draw": 15.0,
+        "away": 60.0
+      },
+      "ai_summary": "베트남 최근 6연승, 득실차 +2.6으로 상승세 뚜렷",
+      "ai_picks": [
+        "베트남 승",
+        "오버 2.5",
+        "베트남 +0.5 승"
+      ],
+      "aria_label": "태국 vs 베트남 20:30 분석 상세",
       "source_date": "2026-09-29"
     }
   ]
