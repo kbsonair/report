@@ -1,137 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-30",
-  "scraped_at": "2026-09-29T15:32:15.582188+00:00",
+  "scraped_at": "2026-09-29T20:12:55.256310+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "2006679288",
-      "url": "https://bbongtv4.com/premium/soccer/2006679288",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/30 (수)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "몰도바",
-      "team2": "파로 제도",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 34.0,
-        "away": 34.0
-      },
-      "ai_summary": "몰도바 최근 5경기 1승도 없고, 파로 제도 실점 관리가 더 안정적",
-      "ai_picks": [
-        "오버 1.5",
-        "파로 제도 -1.5 승"
-      ],
-      "aria_label": "몰도바 vs 파로 제도 01:00 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "2006679344",
-      "url": "https://bbongtv4.com/premium/soccer/2006679344",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "9/30 (수)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "핀란드",
-      "team2": "벨라루스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "핀란드, 7-0 대승 포함 최근 득점력 앞세워 홈 우위 기대",
-      "ai_picks": [
-        "핀란드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "핀란드 vs 벨라루스 01:00 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "2000643397",
-      "url": "https://bbongtv4.com/premium/hockey/2000643397",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/30 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "모",
-      "team2": "CSKA 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 53.0,
-        "away": 47.0
-      },
-      "ai_summary": "CSKA 모스크바, 원정 강세와 달리 홈에서는 평균 2.25득점에 그쳐",
-      "ai_picks": [
-        "CSKA 모스크바 승"
-      ],
-      "aria_label": "CSKA 모스크바 vs SKA 상트페테르부르크 01:30 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "16498486",
-      "url": "https://bbongtv4.com/premium/soccer/16498486",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "9/30 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "오만",
-      "team2": "쿠웨이트",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 63.0,
-        "draw": 22.0,
-        "away": 15.0
-      },
-      "ai_summary": "오만 홈 평균득점 2, 쿠웨이트 원정 평균실점 1.5로 득점 기대감 높아",
-      "ai_picks": [
-        "오만 승",
-        "오버 2.5"
-      ],
-      "aria_label": "오만 vs 쿠웨이트 02:30 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "16498487",
-      "url": "https://bbongtv4.com/premium/soccer/16498487",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "9/30 (수)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "사우디아라비아",
-      "team2": "이라크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "사우디아라비아, 최근 4경기 무실점과 홈 무패로 수비 안정감 부각",
-      "ai_picks": [
-        "사우디아라비아 승",
-        "언더 2"
-      ],
-      "aria_label": "사우디아라비아 vs 이라크 02:30 분석 상세",
-      "source_date": "2026-09-30"
-    },
     {
       "id": "2000367535",
       "url": "https://bbongtv4.com/premium/baseball/2000367535",
@@ -903,6 +775,134 @@
         "예카테린부르크 승"
       ],
       "aria_label": "예카테린부르크 vs 라다 23:00 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2006679288",
+      "url": "https://bbongtv4.com/premium/soccer/2006679288",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/30 (수)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몰도바",
+      "team2": "파로 제도",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 32.0,
+        "draw": 34.0,
+        "away": 34.0
+      },
+      "ai_summary": "몰도바 최근 5경기 1승도 없고, 파로 제도 실점 관리가 더 안정적",
+      "ai_picks": [
+        "오버 1.5",
+        "파로 제도 -1.5 승"
+      ],
+      "aria_label": "몰도바 vs 파로 제도 01:00 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2006679344",
+      "url": "https://bbongtv4.com/premium/soccer/2006679344",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "9/30 (수)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "핀란드",
+      "team2": "벨라루스",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "핀란드, 7-0 대승 포함 최근 득점력 앞세워 홈 우위 기대",
+      "ai_picks": [
+        "핀란드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "핀란드 vs 벨라루스 01:00 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2000643397",
+      "url": "https://bbongtv4.com/premium/hockey/2000643397",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/30 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "모",
+      "team2": "CSKA 모스크바",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 53.0,
+        "away": 47.0
+      },
+      "ai_summary": "CSKA 모스크바, 원정 강세와 달리 홈에서는 평균 2.25득점에 그쳐",
+      "ai_picks": [
+        "CSKA 모스크바 승"
+      ],
+      "aria_label": "CSKA 모스크바 vs SKA 상트페테르부르크 01:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "16498486",
+      "url": "https://bbongtv4.com/premium/soccer/16498486",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "9/30 (수)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "오만",
+      "team2": "쿠웨이트",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 63.0,
+        "draw": 22.0,
+        "away": 15.0
+      },
+      "ai_summary": "오만 홈 평균득점 2, 쿠웨이트 원정 평균실점 1.5로 득점 기대감 높아",
+      "ai_picks": [
+        "오만 승",
+        "오버 2.5"
+      ],
+      "aria_label": "오만 vs 쿠웨이트 02:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "16498487",
+      "url": "https://bbongtv4.com/premium/soccer/16498487",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "9/30 (수)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "사우디아라비아",
+      "team2": "이라크",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "사우디아라비아, 최근 4경기 무실점과 홈 무패로 수비 안정감 부각",
+      "ai_picks": [
+        "사우디아라비아 승",
+        "언더 2"
+      ],
+      "aria_label": "사우디아라비아 vs 이라크 02:30 분석 상세",
       "source_date": "2026-09-30"
     }
   ]
