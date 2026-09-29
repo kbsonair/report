@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-30",
   "source_date": "2026-09-30",
-  "scraped_at": "2026-09-28T22:30:02.214215+00:00",
-  "count": 33,
+  "scraped_at": "2026-09-29T02:17:50.390460+00:00",
+  "count": 35,
   "matches": [
     {
       "id": "2006679288",
@@ -14,7 +14,7 @@
       "status": "예정",
       "result": null,
       "team1": "몰도바",
-      "team2": "파",
+      "team2": "파로 제도",
       "score1": null,
       "score2": null,
       "prob": {
@@ -40,7 +40,7 @@
       "status": "예정",
       "result": null,
       "team1": "핀란드",
-      "team2": "벨",
+      "team2": "벨라루스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -193,8 +193,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "스",
-      "team2": "스코틀랜드",
+      "team1": "스코틀랜드",
+      "team2": "스위스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -298,8 +298,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "산",
-      "team2": "산 마리노",
+      "team1": "산 마리노",
+      "team2": "알바니아",
       "score1": null,
       "score2": null,
       "prob": {
@@ -471,6 +471,32 @@
       "source_date": "2026-09-30"
     },
     {
+      "id": "2001068368",
+      "url": "https://bbongtv4.com/premium/basket/2001068368",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/30 (수)",
+      "time": "07:30",
+      "status": "예정",
+      "result": null,
+      "team1": "인디애나 피버 여자",
+      "team2": "라스베가스 에이시스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "최근 6연승 라스베가스, 맞대결 최신 2경기 우위까지 겹친다",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "오버 183.5",
+        "라스베가스 에이시스 여자 +1.5 승"
+      ],
+      "aria_label": "인디애나 피버 여자 vs 라스베가스 에이시스 여자 07:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
       "id": "2000651371",
       "url": "https://bbongtv4.com/premium/hockey/2000651371",
       "sport": "hockey",
@@ -547,6 +573,30 @@
       "source_date": "2026-09-30"
     },
     {
+      "id": "2001068370",
+      "url": "https://bbongtv4.com/premium/basket/2001068370",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "9/30 (수)",
+      "time": "09:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕 리버티 여자",
+      "team2": "미네소타 링크스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "뉴욕 리버티 여자, 최근 맞대결 2연승과 홈 득점력 우위가 변수",
+      "ai_picks": [
+        "뉴욕 리버티 여자 승"
+      ],
+      "aria_label": "뉴욕 리버티 여자 vs 미네소타 링크스 여자 09:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
       "id": "16498559",
       "url": "https://bbongtv4.com/premium/soccer/16498559",
       "sport": "soccer",
@@ -566,7 +616,9 @@
       },
       "ai_summary": "멕시코, 최근 6경기 무패와 홈 득점력에서 우위 보여",
       "ai_picks": [
-        "멕시코 승"
+        "멕시코 승",
+        "오버 2.5",
+        "멕시코 -1.5 승"
       ],
       "aria_label": "멕시코 vs 페루 10:00 분석 상세",
       "source_date": "2026-09-30"
