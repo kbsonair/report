@@ -1,62 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-29",
-  "scraped_at": "2026-09-29T02:17:48.734103+00:00",
+  "scraped_at": "2026-09-29T08:43:33.256428+00:00",
   "count": 42,
   "matches": [
-    {
-      "id": "16497684",
-      "url": "https://bbongtv4.com/premium/soccer/16497684",
-      "sport": "soccer",
-      "league": "CON  NL",
-      "date": "9/29 (화)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "자메이카",
-      "team2": "온두라스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "자메이카, 최근 6경기 4승과 홈 3연속 득점으로 상승세 뚜렷",
-      "ai_picks": [
-        "자메이카 승",
-        "오버 2.5"
-      ],
-      "aria_label": "자메이카 vs 온두라스 09:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
-    {
-      "id": "16497691",
-      "url": "https://bbongtv4.com/premium/soccer/16497691",
-      "sport": "soccer",
-      "league": "CON  NL",
-      "date": "9/29 (화)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "과테말라",
-      "team2": "엘살바도르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 20.0,
-        "away": 60.0
-      },
-      "ai_summary": "엘살바도르, 최근 3-1 승리와 +0.16 득실차로 상승세 뚜렷",
-      "ai_picks": [
-        "엘살바도르 승",
-        "엘살바도르 +0.5 승",
-        "언더 2.5"
-      ],
-      "aria_label": "과테말라 vs 엘살바도르 11:00 분석 상세",
-      "source_date": "2026-09-29"
-    },
     {
       "id": "16498400",
       "url": "https://bbongtv4.com/premium/soccer/16498400",
@@ -1088,6 +1035,59 @@
         "오버 2.5"
       ],
       "aria_label": "스웨덴 vs 폴란드 03:45 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16497684",
+      "url": "https://bbongtv4.com/premium/soccer/16497684",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/29 (화)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "자메이카",
+      "team2": "온두라스",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "자메이카, 최근 6경기 4승과 홈 3연속 득점으로 상승세 뚜렷",
+      "ai_picks": [
+        "자메이카 승",
+        "오버 2.5"
+      ],
+      "aria_label": "자메이카 vs 온두라스 09:00 분석 상세",
+      "source_date": "2026-09-29"
+    },
+    {
+      "id": "16497691",
+      "url": "https://bbongtv4.com/premium/soccer/16497691",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "9/29 (화)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "과테말라",
+      "team2": "엘살바도르",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 20.0,
+        "draw": 20.0,
+        "away": 60.0
+      },
+      "ai_summary": "엘살바도르, 최근 3-1 승리와 +0.16 득실차로 상승세 뚜렷",
+      "ai_picks": [
+        "엘살바도르 승",
+        "엘살바도르 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "과테말라 vs 엘살바도르 11:00 분석 상세",
       "source_date": "2026-09-29"
     }
   ]

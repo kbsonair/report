@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T02:17:50.460714+00:00",
+  "scraped_at": "2026-09-29T08:43:35.511219+00:00",
   "kst_yesterday": "2026-09-28",
   "kst_today": "2026-09-29",
   "kst_tomorrow": "2026-09-30",
@@ -147,8 +147,8 @@
       "time": "03:00",
       "status": "예정",
       "result": null,
-      "team1": "애",
-      "team2": "애틀란타 브레이브스",
+      "team1": "애틀란타 브레이브스",
+      "team2": "필라델피아 필리스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -410,8 +410,8 @@
       "time": "05:00",
       "status": "예정",
       "result": null,
-      "team1": "샌",
-      "team2": "샌디에이고 파드레스",
+      "team1": "샌디에이고 파드레스",
+      "team2": "시카고 컵스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -435,8 +435,8 @@
       "time": "06:00",
       "status": "예정",
       "result": null,
-      "team1": "휴",
-      "team2": "휴스턴 애스트로스",
+      "team1": "휴스턴 애스트로스",
+      "team2": "시카고 화이트삭스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -597,7 +597,9 @@
       },
       "ai_summary": "뉴욕 리버티 여자, 최근 맞대결 2연승과 홈 득점력 우위가 변수",
       "ai_picks": [
-        "뉴욕 리버티 여자 승"
+        "뉴욕 리버티 여자 승",
+        "언더 172.5",
+        "뉴욕 리버티 여자 +3.5 승"
       ],
       "aria_label": "뉴욕 리버티 여자 vs 미네소타 링크스 여자 09:30 분석 상세",
       "source_date": "2026-09-30"
@@ -1210,12 +1212,12 @@
       "league": "CON  NL",
       "date": "9/29 (화)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "자메이카",
       "team2": "온두라스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 60.0,
         "draw": 20.0,
@@ -1236,12 +1238,12 @@
       "league": "CON  NL",
       "date": "9/29 (화)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "과테말라",
       "team2": "엘살바도르",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 0,
       "prob": {
         "home": 20.0,
         "draw": 20.0,
