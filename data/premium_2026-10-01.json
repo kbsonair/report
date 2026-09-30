@@ -1,181 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-01",
-  "scraped_at": "2026-09-30T16:51:09.858625+00:00",
+  "scraped_at": "2026-09-30T21:19:30.224662+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "2000643399",
-      "url": "https://bbongtv4.com/premium/hockey/2000643399",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/1 (목)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바르스 카잔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "바르스 카잔, 홈 4승1패와 평균 실점 1.8로 수비 우위 뚜렷",
-      "ai_picks": [
-        "바르스 카잔 승"
-      ],
-      "aria_label": "바르스 카잔 vs 바리스 아스타나 01:00 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "2000643400",
-      "url": "https://bbongtv4.com/premium/hockey/2000643400",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/1 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "로",
-      "team2": "로코모티프 야로슬라블",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 77.0,
-        "away": 23.0
-      },
-      "ai_summary": "로코모티프 야로슬라블, 홈 평균득점 2.4와 최근 상승세로 우위",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "로코모티프 야로슬라블 vs 노보시비르스크 01:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "2000643401",
-      "url": "https://bbongtv4.com/premium/hockey/2000643401",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/1 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "상하이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "마그니토고르스크 원정 3승1패, 상하이 홈 3연승과 맞붙는다",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "상하이 vs 마그니토고르스크 01:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "2000643402",
-      "url": "https://bbongtv4.com/premium/hockey/2000643402",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/1 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "소",
-      "team2": "소치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "살라바트 우파 원정 3승1무1패, 소치 홈 득점력 저조가 변수",
-      "ai_picks": [
-        "살라바트 우파 승"
-      ],
-      "aria_label": "소치 vs 살라바트 우파 01:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "2000643403",
-      "url": "https://bbongtv4.com/premium/hockey/2000643403",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/1 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "스",
-      "team2": "스파르타크 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "스파르타크 모스크바, 최근 3연패에도 득실차·홈 성적에서 우위",
-      "ai_picks": [
-        "스파르타크 모스크바 승"
-      ],
-      "aria_label": "스파르타크 모스크바 vs 트랙터 첼야빈스크 01:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "16500519",
-      "url": "https://bbongtv4.com/premium/soccer/16500519",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "10/1 (목)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "바레인",
-      "team2": "예멘",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "draw": 30.0,
-        "away": 20.0
-      },
-      "ai_summary": "양 팀 최근 2경기 모두 무득점, 언더 2.5에 무게 실린다",
-      "ai_picks": [
-        "바레인 승",
-        "언더 2.5"
-      ],
-      "aria_label": "바레인 vs 예멘 02:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "16500520",
-      "url": "https://bbongtv4.com/premium/soccer/16500520",
-      "sport": "soccer",
-      "league": "GC",
-      "date": "10/1 (목)",
-      "time": "02:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아랍에미리트",
-      "team2": "카타르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "아랍에미리트 최근 2경기 7득점, 공격력에서 카타르 앞선 흐름",
-      "ai_picks": [
-        "아랍에미리트 승",
-        "오버 2.5"
-      ],
-      "aria_label": "아랍에미리트 vs 카타르 02:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
     {
       "id": "2000367533",
       "url": "https://bbongtv4.com/premium/baseball/2000367533",
@@ -735,6 +563,178 @@
         "싱가포르 +1.5 승"
       ],
       "aria_label": "말레이시아 vs 싱가포르 20:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2000643399",
+      "url": "https://bbongtv4.com/premium/hockey/2000643399",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/1 (목)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바",
+      "team2": "바르스 카잔",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "바르스 카잔, 홈 4승1패와 평균 실점 1.8로 수비 우위 뚜렷",
+      "ai_picks": [
+        "바르스 카잔 승"
+      ],
+      "aria_label": "바르스 카잔 vs 바리스 아스타나 01:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2000643400",
+      "url": "https://bbongtv4.com/premium/hockey/2000643400",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/1 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "로",
+      "team2": "로코모티프 야로슬라블",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 77.0,
+        "away": 23.0
+      },
+      "ai_summary": "로코모티프 야로슬라블, 홈 평균득점 2.4와 최근 상승세로 우위",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "로코모티프 야로슬라블 vs 노보시비르스크 01:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2000643401",
+      "url": "https://bbongtv4.com/premium/hockey/2000643401",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/1 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "상",
+      "team2": "상하이",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "마그니토고르스크 원정 3승1패, 상하이 홈 3연승과 맞붙는다",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "상하이 vs 마그니토고르스크 01:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2000643402",
+      "url": "https://bbongtv4.com/premium/hockey/2000643402",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/1 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "소",
+      "team2": "소치",
+      "score1": 6,
+      "score2": 3,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "살라바트 우파 원정 3승1무1패, 소치 홈 득점력 저조가 변수",
+      "ai_picks": [
+        "살라바트 우파 승"
+      ],
+      "aria_label": "소치 vs 살라바트 우파 01:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2000643403",
+      "url": "https://bbongtv4.com/premium/hockey/2000643403",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/1 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "스",
+      "team2": "스파르타크 모스크바",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "스파르타크 모스크바, 최근 3연패에도 득실차·홈 성적에서 우위",
+      "ai_picks": [
+        "스파르타크 모스크바 승"
+      ],
+      "aria_label": "스파르타크 모스크바 vs 트랙터 첼야빈스크 01:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16500519",
+      "url": "https://bbongtv4.com/premium/soccer/16500519",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "10/1 (목)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "바레인",
+      "team2": "예멘",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 50.0,
+        "draw": 30.0,
+        "away": 20.0
+      },
+      "ai_summary": "양 팀 최근 2경기 모두 무득점, 언더 2.5에 무게 실린다",
+      "ai_picks": [
+        "바레인 승",
+        "언더 2.5"
+      ],
+      "aria_label": "바레인 vs 예멘 02:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16500520",
+      "url": "https://bbongtv4.com/premium/soccer/16500520",
+      "sport": "soccer",
+      "league": "GC",
+      "date": "10/1 (목)",
+      "time": "02:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아랍에미리트",
+      "team2": "카타르",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "아랍에미리트 최근 2경기 7득점, 공격력에서 카타르 앞선 흐름",
+      "ai_picks": [
+        "아랍에미리트 승",
+        "오버 2.5"
+      ],
+      "aria_label": "아랍에미리트 vs 카타르 02:30 분석 상세",
       "source_date": "2026-10-01"
     }
   ]

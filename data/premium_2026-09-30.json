@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-09-30",
   "source_date": "2026-09-30",
-  "scraped_at": "2026-09-30T16:51:10.775445+00:00",
+  "scraped_at": "2026-09-30T21:19:31.665407+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "2000643404",
-      "url": "https://bbongtv4.com/premium/hockey/2000643404",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "9/30 (수)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "예",
-      "team2": "예카테린부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "라다 원정 5연패, 예카테린부르크 홈에서 반등 쉽지 않다",
-      "ai_picks": [
-        "예카테린부르크 승"
-      ],
-      "aria_label": "예카테린부르크 vs 라다 23:00 분석 상세",
-      "source_date": "2026-09-30"
-    },
     {
       "id": "2006679288",
       "url": "https://bbongtv4.com/premium/soccer/2006679288",
@@ -903,6 +879,30 @@
         "삼성 라이온즈 -1.5 승"
       ],
       "aria_label": "삼성 라이온즈 vs 한화 이글스 18:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2000643404",
+      "url": "https://bbongtv4.com/premium/hockey/2000643404",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "9/30 (수)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "예",
+      "team2": "예카테린부르크",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "라다 원정 5연패, 예카테린부르크 홈에서 반등 쉽지 않다",
+      "ai_picks": [
+        "예카테린부르크 승"
+      ],
+      "aria_label": "예카테린부르크 vs 라다 23:00 분석 상세",
       "source_date": "2026-09-30"
     }
   ]
