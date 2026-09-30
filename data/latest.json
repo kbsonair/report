@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T04:51:28.345363+00:00",
+  "scraped_at": "2026-09-30T11:00:21.449427+00:00",
   "kst_yesterday": "2026-09-29",
   "kst_today": "2026-09-30",
   "kst_tomorrow": "2026-10-01",
@@ -266,8 +266,8 @@
       "time": "08:30",
       "status": "예정",
       "result": null,
-      "team1": "필",
-      "team2": "필라델피아 플라이어스",
+      "team1": "필라델피아 플라이어스",
+      "team2": "피츠버그 펭귄스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -291,8 +291,8 @@
       "time": "08:30",
       "status": "예정",
       "result": null,
-      "team1": "토",
-      "team2": "토론토 메이플리프스",
+      "team1": "토론토 메이플리프스",
+      "team2": "NY 아일랜더스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -368,8 +368,8 @@
       "time": "09:00",
       "status": "예정",
       "result": null,
-      "team1": "라",
-      "team2": "라스베가스 에이시스 여자",
+      "team1": "라스베가스 에이시스 여자",
+      "team2": "인디애나 피버 여자",
       "score1": null,
       "score2": null,
       "prob": {
@@ -429,7 +429,8 @@
       },
       "ai_summary": "시카고 컵스, 시즌 총득점 850점의 강타선이 변수로 작용할 경기",
       "ai_picks": [
-        "시카고 컵스 승"
+        "시카고 컵스 승",
+        "언더 7.5"
       ],
       "aria_label": "샌디에이고 파드레스 vs 시카고 컵스 11:00 분석 상세",
       "source_date": "2026-10-01"
@@ -443,8 +444,8 @@
       "time": "11:00",
       "status": "예정",
       "result": null,
-      "team1": "콜",
-      "team2": "콜로라도 애벌런치",
+      "team1": "콜로라도 애벌런치",
+      "team2": "LA 킹스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1128,12 +1129,12 @@
       "league": "MLB",
       "date": "9/30 (수)",
       "time": "05:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌디에이고 파드레스",
       "team2": "시카고 컵스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 0,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1358,12 +1359,12 @@
       "league": "NHL",
       "date": "9/30 (수)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "에드먼턴 오일러스",
       "team2": "밴쿠버 커넉스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 6,
       "prob": {
         "home": 70.0,
         "away": 30.0
@@ -1384,12 +1385,12 @@
       "league": "NHL",
       "date": "9/30 (수)",
       "time": "11:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "베가스 골든 나이츠",
       "team2": "시카고 블랙호크스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1409,12 +1410,12 @@
       "league": "호주 NBL",
       "date": "9/30 (수)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴",
       "team2": "뉴질랜드 브레이커스",
-      "score1": null,
-      "score2": null,
+      "score1": 98,
+      "score2": 75,
       "prob": {
         "home": 62.0,
         "away": 38.0

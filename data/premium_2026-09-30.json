@@ -1,86 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-09-30",
-  "scraped_at": "2026-09-30T04:51:25.330186+00:00",
+  "scraped_at": "2026-09-30T11:00:19.455867+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "2000651373",
-      "url": "https://bbongtv4.com/premium/hockey/2000651373",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/30 (수)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에드먼턴 오일러스",
-      "team2": "밴쿠버 커넉스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "에드먼턴 오일러스, 홈 2경기 평균 4.5득점으로 공격력 뚜렷",
-      "ai_picks": [
-        "에드먼턴 오일러스 승",
-        "언더 6.5",
-        "에드먼턴 오일러스 -1.5 승"
-      ],
-      "aria_label": "에드먼턴 오일러스 vs 밴쿠버 커넉스 11:00 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "2000651374",
-      "url": "https://bbongtv4.com/premium/hockey/2000651374",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "9/30 (수)",
-      "time": "11:30",
-      "status": "예정",
-      "result": null,
-      "team1": "베가스 골든 나이츠",
-      "team2": "시카고 블랙호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "베가스 골든 나이츠, 홈에서 평균 3.5득점에도 불안한 실점이 변수",
-      "ai_picks": [
-        "베가스 골든 나이츠 승",
-        "오버 5.5"
-      ],
-      "aria_label": "베가스 골든 나이츠 vs 시카고 블랙호크스 11:30 분석 상세",
-      "source_date": "2026-09-30"
-    },
-    {
-      "id": "2001032260",
-      "url": "https://bbongtv4.com/premium/basket/2001032260",
-      "sport": "basket",
-      "league": "호주 NBL",
-      "date": "9/30 (수)",
-      "time": "16:30",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴",
-      "team2": "뉴질랜드 브레이커스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "전체 득실차 +2.33 대 -9.67, 뉴질랜드 쪽 균형 우위",
-      "ai_picks": [
-        "뉴질랜드 브레이커스 승",
-        "언더 183",
-        "뉴질랜드 브레이커스 -3.5 승"
-      ],
-      "aria_label": "뉴질랜드 브레이커스 vs 케언스 타이팬스 16:30 분석 상세",
-      "source_date": "2026-09-30"
-    },
     {
       "id": "2000354985",
       "url": "https://bbongtv4.com/premium/baseball/2000354985",
@@ -682,12 +605,12 @@
       "league": "MLB",
       "date": "9/30 (수)",
       "time": "05:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌디에이고 파드레스",
       "team2": "시카고 컵스",
-      "score1": null,
-      "score2": null,
+      "score1": 8,
+      "score2": 0,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -903,6 +826,83 @@
         "멕시코 -1.5 승"
       ],
       "aria_label": "멕시코 vs 페루 10:00 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2000651373",
+      "url": "https://bbongtv4.com/premium/hockey/2000651373",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/30 (수)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "에드먼턴 오일러스",
+      "team2": "밴쿠버 커넉스",
+      "score1": 5,
+      "score2": 6,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "에드먼턴 오일러스, 홈 2경기 평균 4.5득점으로 공격력 뚜렷",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "언더 6.5",
+        "에드먼턴 오일러스 -1.5 승"
+      ],
+      "aria_label": "에드먼턴 오일러스 vs 밴쿠버 커넉스 11:00 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2000651374",
+      "url": "https://bbongtv4.com/premium/hockey/2000651374",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "9/30 (수)",
+      "time": "11:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베가스 골든 나이츠",
+      "team2": "시카고 블랙호크스",
+      "score1": 5,
+      "score2": 2,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "베가스 골든 나이츠, 홈에서 평균 3.5득점에도 불안한 실점이 변수",
+      "ai_picks": [
+        "베가스 골든 나이츠 승",
+        "오버 5.5"
+      ],
+      "aria_label": "베가스 골든 나이츠 vs 시카고 블랙호크스 11:30 분석 상세",
+      "source_date": "2026-09-30"
+    },
+    {
+      "id": "2001032260",
+      "url": "https://bbongtv4.com/premium/basket/2001032260",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "9/30 (수)",
+      "time": "16:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴",
+      "team2": "뉴질랜드 브레이커스",
+      "score1": 98,
+      "score2": 75,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "전체 득실차 +2.33 대 -9.67, 뉴질랜드 쪽 균형 우위",
+      "ai_picks": [
+        "뉴질랜드 브레이커스 승",
+        "언더 183",
+        "뉴질랜드 브레이커스 -3.5 승"
+      ],
+      "aria_label": "뉴질랜드 브레이커스 vs 케언스 타이팬스 16:30 분석 상세",
       "source_date": "2026-09-30"
     }
   ]
