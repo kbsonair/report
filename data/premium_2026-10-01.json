@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-01",
   "source_date": "2026-10-01",
-  "scraped_at": "2026-09-29T23:46:50.677374+00:00",
-  "count": 25,
+  "scraped_at": "2026-09-30T04:51:28.254356+00:00",
+  "count": 29,
   "matches": [
     {
       "id": "2000643399",
@@ -220,9 +220,35 @@
       },
       "ai_summary": "휴스턴 애스트로스, 최근 6경기 4승과 홈런 파워로 홈 우위 기대",
       "ai_picks": [
-        "휴스턴 애스트로스 승"
+        "휴스턴 애스트로스 승",
+        "언더 7.5"
       ],
       "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 06:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2001068364",
+      "url": "https://bbongtv4.com/premium/basket/2001068364",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴 미스틱스 여자",
+      "team2": "애틀랜타 드림 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "최근 6경기 전승 애틀랜타, 전체 득실차 +5.75가 무게추",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승",
+        "오버 165.5"
+      ],
+      "aria_label": "워싱턴 미스틱스 여자 vs 애틀랜타 드림 여자 08:00 분석 상세",
       "source_date": "2026-10-01"
     },
     {
@@ -320,9 +346,62 @@
       },
       "ai_summary": "양키 스타디움 홈 강세와 최근 맞대결 대승, 양키스 우위 뚜렷",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 6.5",
+        "NY 양키스 -1.5 승"
       ],
       "aria_label": "NY 양키스 vs 보스턴 레드삭스 09:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2001068665",
+      "url": "https://bbongtv4.com/premium/basket/2001068665",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라",
+      "team2": "라스베가스 에이시스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "오버 181.5",
+        "라스베가스 에이시스 여자 -3.5 승"
+      ],
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 09:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16506883",
+      "url": "https://bbongtv4.com/premium/basket/16506883",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈러스 윙스 여자",
+      "team2": "골든스테이트 발키리 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "away": 68.0
+      },
+      "ai_summary": "골든스테이트 발키리 여자, 최근 2경기 모두 10점차 이상 승리로 상대 우위",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 155.5"
+      ],
+      "aria_label": "댈러스 윙스 여자 vs 골든스테이트 발키리 여자 10:00 분석 상세",
       "source_date": "2026-10-01"
     },
     {
@@ -616,6 +695,33 @@
         "언더 3.5"
       ],
       "aria_label": "인도네시아 vs 방글라데시 20:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16501224",
+      "url": "https://bbongtv4.com/premium/soccer/16501224",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/1 (목)",
+      "time": "20:30",
+      "status": "예정",
+      "result": null,
+      "team1": "말레이시아",
+      "team2": "싱가포르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 20.0,
+        "away": 10.0
+      },
+      "ai_summary": "말레이시아 최근 3-0 원정승, 홈 강세와 공격진 활약이 변수",
+      "ai_picks": [
+        "말레이시아 승",
+        "오버 2.5",
+        "싱가포르 +1.5 승"
+      ],
+      "aria_label": "말레이시아 vs 싱가포르 20:30 분석 상세",
       "source_date": "2026-10-01"
     }
   ]

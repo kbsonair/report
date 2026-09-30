@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T23:46:50.763119+00:00",
+  "scraped_at": "2026-09-30T04:51:28.345363+00:00",
   "kst_yesterday": "2026-09-29",
   "kst_today": "2026-09-30",
   "kst_tomorrow": "2026-10-01",
@@ -8,7 +8,7 @@
     "2026-09-30",
     "2026-10-01"
   ],
-  "count": 102,
+  "count": 106,
   "matches": [
     {
       "id": "2000643399",
@@ -226,9 +226,35 @@
       },
       "ai_summary": "휴스턴 애스트로스, 최근 6경기 4승과 홈런 파워로 홈 우위 기대",
       "ai_picks": [
-        "휴스턴 애스트로스 승"
+        "휴스턴 애스트로스 승",
+        "언더 7.5"
       ],
       "aria_label": "휴스턴 애스트로스 vs 시카고 화이트삭스 06:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2001068364",
+      "url": "https://bbongtv4.com/premium/basket/2001068364",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "워싱턴 미스틱스 여자",
+      "team2": "애틀랜타 드림 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "최근 6경기 전승 애틀랜타, 전체 득실차 +5.75가 무게추",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승",
+        "오버 165.5"
+      ],
+      "aria_label": "워싱턴 미스틱스 여자 vs 애틀랜타 드림 여자 08:00 분석 상세",
       "source_date": "2026-10-01"
     },
     {
@@ -326,9 +352,62 @@
       },
       "ai_summary": "양키 스타디움 홈 강세와 최근 맞대결 대승, 양키스 우위 뚜렷",
       "ai_picks": [
-        "NY 양키스 승"
+        "NY 양키스 승",
+        "오버 6.5",
+        "NY 양키스 -1.5 승"
       ],
       "aria_label": "NY 양키스 vs 보스턴 레드삭스 09:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "2001068665",
+      "url": "https://bbongtv4.com/premium/basket/2001068665",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "라",
+      "team2": "라스베가스 에이시스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "오버 181.5",
+        "라스베가스 에이시스 여자 -3.5 승"
+      ],
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 09:00 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16506883",
+      "url": "https://bbongtv4.com/premium/basket/16506883",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/1 (목)",
+      "time": "10:00",
+      "status": "예정",
+      "result": null,
+      "team1": "댈러스 윙스 여자",
+      "team2": "골든스테이트 발키리 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "away": 68.0
+      },
+      "ai_summary": "골든스테이트 발키리 여자, 최근 2경기 모두 10점차 이상 승리로 상대 우위",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 155.5"
+      ],
+      "aria_label": "댈러스 윙스 여자 vs 골든스테이트 발키리 여자 10:00 분석 상세",
       "source_date": "2026-10-01"
     },
     {
@@ -622,6 +701,33 @@
         "언더 3.5"
       ],
       "aria_label": "인도네시아 vs 방글라데시 20:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16501224",
+      "url": "https://bbongtv4.com/premium/soccer/16501224",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/1 (목)",
+      "time": "20:30",
+      "status": "예정",
+      "result": null,
+      "team1": "말레이시아",
+      "team2": "싱가포르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "draw": 20.0,
+        "away": 10.0
+      },
+      "ai_summary": "말레이시아 최근 3-0 원정승, 홈 강세와 공격진 활약이 변수",
+      "ai_picks": [
+        "말레이시아 승",
+        "오버 2.5",
+        "싱가포르 +1.5 승"
+      ],
+      "aria_label": "말레이시아 vs 싱가포르 20:30 분석 상세",
       "source_date": "2026-10-01"
     },
     {
@@ -996,12 +1102,12 @@
       "league": "MLB",
       "date": "9/30 (수)",
       "time": "05:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 양키스",
       "team2": "보스턴 레드삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 0,
       "prob": {
         "home": 70.0,
         "away": 30.0
@@ -1047,12 +1153,12 @@
       "league": "MLB",
       "date": "9/30 (수)",
       "time": "06:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "휴스턴 애스트로스",
       "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 6,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1072,12 +1178,12 @@
       "league": "NHL",
       "date": "9/30 (수)",
       "time": "06:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "캐롤라이나 허리케인스",
       "team2": "플로리다 팬서스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -1097,12 +1203,12 @@
       "league": "WNBA",
       "date": "9/30 (수)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "인디애나 피버 여자",
       "team2": "라스베가스 에이시스 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 99,
+      "score2": 89,
       "prob": {
         "home": 38.0,
         "away": 62.0
@@ -1123,12 +1229,12 @@
       "league": "NHL",
       "date": "9/30 (수)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토론토 메이플리프스",
       "team2": "몬트리올 캐나디언스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1148,12 +1254,12 @@
       "league": "NHL",
       "date": "9/30 (수)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보스턴 브루인스",
       "team2": "NY 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1173,12 +1279,12 @@
       "league": "INTERF",
       "date": "9/30 (수)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미국",
       "team2": "칠레",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 68.0,
         "draw": 19.0,
@@ -1199,12 +1305,12 @@
       "league": "WNBA",
       "date": "9/30 (수)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "뉴욕 리버티 여자",
       "team2": "미네소타 링크스 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 87,
+      "score2": 71,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1225,12 +1331,12 @@
       "league": "INTERF",
       "date": "9/30 (수)",
       "time": "10:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "멕시코",
       "team2": "페루",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "draw": 25.0,
