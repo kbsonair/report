@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T21:19:32.990257+00:00",
+  "scraped_at": "2026-10-01T00:38:19.416829+00:00",
   "kst_yesterday": "2026-09-30",
   "kst_today": "2026-10-01",
   "kst_tomorrow": "2026-10-02",
@@ -8,7 +8,7 @@
     "2026-10-01",
     "2026-10-02"
   ],
-  "count": 99,
+  "count": 101,
   "matches": [
     {
       "id": "2001042784",
@@ -107,6 +107,57 @@
         "CSKA 모스크바 승"
       ],
       "aria_label": "디나모 민스크 vs CSKA 모스크바 01:30 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000367537",
+      "url": "https://bbongtv4.com/premium/baseball/2000367537",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/2 (금)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀란타 브레이브스",
+      "team2": "필라델피아 필리스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "애틀란타 브레이브스, 홈에서 평균득점 앞서며 후반 집중력도 우위",
+      "ai_picks": [
+        "애틀란타 브레이브스 승",
+        "오버 7.5",
+        "애틀란타 브레이브스 +1.5 승"
+      ],
+      "aria_label": "애틀란타 브레이브스 vs 필라델피아 필리스 03:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001042786",
+      "url": "https://bbongtv4.com/premium/basket/2001042786",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/2 (금)",
+      "time": "03:30",
+      "status": "예정",
+      "result": null,
+      "team1": "비",
+      "team2": "비르투스 볼로냐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "away": 85.0
+      },
+      "ai_summary": "올림피아코스, 최근 2경기 모두 90점 이상 득점하며 공격력 우위",
+      "ai_picks": [
+        "올림피아코스 승",
+        "비르투스 볼로냐 +9.5 승"
+      ],
+      "aria_label": "비르투스 볼로냐 vs 올림피아코스 03:30 분석 상세",
       "source_date": "2026-10-02"
     },
     {
@@ -743,7 +794,8 @@
       },
       "ai_summary": "대한민국, 최근 홈 3경기 2승과 손흥민 3골로 공격 우위 뚜렷",
       "ai_picks": [
-        "대한민국 승"
+        "대한민국 승",
+        "오버 2.5"
       ],
       "aria_label": "대한민국 vs 베네수엘라 20:00 분석 상세",
       "source_date": "2026-10-02"
@@ -793,7 +845,9 @@
       },
       "ai_summary": "중국 홈 평균 실점 1, 팔레스타인 원정 무패 흐름이 변수",
       "ai_picks": [
-        "무승부"
+        "무승부",
+        "언더 3.5",
+        "팔레스타인 +1.5 승"
       ],
       "aria_label": "중국 vs 팔레스타인 20:35 분석 상세",
       "source_date": "2026-10-02"
@@ -1075,12 +1129,12 @@
       "league": "MLB",
       "date": "10/1 (목)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "애틀란타 브레이브스",
       "team2": "필라델피아 필리스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 56.0,
         "away": 44.0
