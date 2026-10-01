@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-02",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-01T00:38:19.333498+00:00",
-  "count": 37,
+  "scraped_at": "2026-10-01T06:33:57.973248+00:00",
+  "count": 38,
   "matches": [
     {
       "id": "2001042784",
@@ -295,8 +295,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "웨",
-      "team2": "웨일스",
+      "team1": "웨일스",
+      "team2": "노르웨이",
       "score1": null,
       "score2": null,
       "prob": {
@@ -322,7 +322,7 @@
       "status": "예정",
       "result": null,
       "team1": "몰타",
-      "team2": "지",
+      "team2": "지브롤터",
       "score1": null,
       "score2": null,
       "prob": {
@@ -439,6 +439,31 @@
         "NY 레인저스 +1.5 승"
       ],
       "aria_label": "NY 레인저스 vs 탬파베이 라이트닝 08:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001068943",
+      "url": "https://bbongtv4.com/premium/basket/2001068943",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/2 (금)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "골든스테이트 발키리 여자",
+      "team2": "댈러스 윙스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "골든스테이트 발키리 여자, 홈 평균 실점 73.64로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 157.5"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 댈러스 윙스 여자 09:00 분석 상세",
       "source_date": "2026-10-02"
     },
     {
@@ -763,7 +788,8 @@
       },
       "ai_summary": "대전 코레일, 홈 1.5득점·0.75실점의 안정감과 강릉 원정 2.75실점의 불안이 맞선다",
       "ai_picks": [
-        "대전 코레일 승"
+        "대전 코레일 승",
+        "언더 2.5"
       ],
       "aria_label": "대전 코레일 vs 강릉 19:00 분석 상세",
       "source_date": "2026-10-02"
