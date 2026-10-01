@@ -1,60 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-10-02",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-01T13:53:17.155789+00:00",
+  "scraped_at": "2026-10-01T19:20:35.712131+00:00",
   "count": 40,
   "matches": [
-    {
-      "id": "2001042784",
-      "url": "https://bbongtv4.com/premium/basket/2001042784",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/2 (금)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "하",
-      "team2": "하포엘 텔아비브",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 50.0,
-        "away": 50.0
-      },
-      "ai_summary": "레알마드리드 원정 평균 득실차 +1, 접전 양상 속 핸디캡 변수 주목",
-      "ai_picks": [
-        "레알마드리드 +1.5 승",
-        "언더 175.5"
-      ],
-      "aria_label": "하포엘 텔아비브 vs 레알마드리드 01:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2006678989",
-      "url": "https://bbongtv4.com/premium/soccer/2006678989",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/2 (금)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아제르바이잔",
-      "team2": "리히텐슈타인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "draw": 20.0,
-        "away": 5.0
-      },
-      "ai_summary": "리히텐슈타인 최근 4경기 연속 0-2 패배, 득점력 부진이 변수",
-      "ai_picks": [
-        "아제르바이잔 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아제르바이잔 vs 리히텐슈타인 01:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
     {
       "id": "2000643405",
       "url": "https://bbongtv4.com/premium/hockey/2000643405",
@@ -715,7 +664,8 @@
       },
       "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실 +3.04로 체급 우위 뚜렷",
       "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승"
+        "후쿠오카 소프트뱅크 호크스 승",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
       ],
       "aria_label": "치바 롯데 마리너스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
       "source_date": "2026-10-02"
@@ -739,7 +689,8 @@
       },
       "ai_summary": "상대전적 5전 전패, 야쿠르트 홈 평균실점 5.38이 부담",
       "ai_picks": [
-        "요미우리 자이언츠 승"
+        "요미우리 자이언츠 승",
+        "언더 6.5"
       ],
       "aria_label": "야쿠르트 스왈로즈 vs 요미우리 자이언츠 18:00 분석 상세",
       "source_date": "2026-10-02"
@@ -1022,6 +973,57 @@
         "언더 2.5"
       ],
       "aria_label": "카자흐스탄 vs 몰도바 23:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001042784",
+      "url": "https://bbongtv4.com/premium/basket/2001042784",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/2 (금)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "하",
+      "team2": "하포엘 텔아비브",
+      "score1": 102,
+      "score2": 98,
+      "prob": {
+        "home": 50.0,
+        "away": 50.0
+      },
+      "ai_summary": "레알마드리드 원정 평균 득실차 +1, 접전 양상 속 핸디캡 변수 주목",
+      "ai_picks": [
+        "레알마드리드 +1.5 승",
+        "언더 175.5"
+      ],
+      "aria_label": "하포엘 텔아비브 vs 레알마드리드 01:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2006678989",
+      "url": "https://bbongtv4.com/premium/soccer/2006678989",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/2 (금)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아제르바이잔",
+      "team2": "리히텐슈타인",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 75.0,
+        "draw": 20.0,
+        "away": 5.0
+      },
+      "ai_summary": "리히텐슈타인 최근 4경기 연속 0-2 패배, 득점력 부진이 변수",
+      "ai_picks": [
+        "아제르바이잔 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아제르바이잔 vs 리히텐슈타인 01:00 분석 상세",
       "source_date": "2026-10-02"
     }
   ]

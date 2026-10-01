@@ -1,62 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-10-01",
   "source_date": "2026-10-01",
-  "scraped_at": "2026-10-01T13:53:14.993253+00:00",
+  "scraped_at": "2026-10-01T19:20:36.555867+00:00",
   "count": 29,
   "matches": [
-    {
-      "id": "16501223",
-      "url": "https://bbongtv4.com/premium/soccer/16501223",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "10/1 (목)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인도네시아",
-      "team2": "방글라데시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 85.0,
-        "draw": 12.0,
-        "away": 3.0
-      },
-      "ai_summary": "인도네시아 홈 3연승·평균 실점 0, 방글라데시 원정 득점력 한계",
-      "ai_picks": [
-        "인도네시아 승",
-        "언더 3.5"
-      ],
-      "aria_label": "인도네시아 vs 방글라데시 20:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "16501224",
-      "url": "https://bbongtv4.com/premium/soccer/16501224",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "10/1 (목)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "말레이시아",
-      "team2": "싱가포르",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 20.0,
-        "away": 10.0
-      },
-      "ai_summary": "말레이시아 최근 3-0 원정승, 홈 강세와 공격진 활약이 변수",
-      "ai_picks": [
-        "말레이시아 승",
-        "오버 2.5",
-        "싱가포르 +1.5 승"
-      ],
-      "aria_label": "말레이시아 vs 싱가포르 20:30 분석 상세",
-      "source_date": "2026-10-01"
-    },
     {
       "id": "2000643399",
       "url": "https://bbongtv4.com/premium/hockey/2000643399",
@@ -514,12 +461,12 @@
       "league": "NPB",
       "date": "10/1 (목)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "한신 타이거스",
       "team2": "요미우리 자이언츠",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 2,
       "prob": {
         "home": 56.0,
         "away": 44.0
@@ -735,6 +682,59 @@
         "언더 2.5"
       ],
       "aria_label": "일본 vs 에콰도르 19:10 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16501223",
+      "url": "https://bbongtv4.com/premium/soccer/16501223",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/1 (목)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인도네시아",
+      "team2": "방글라데시",
+      "score1": 9,
+      "score2": 2,
+      "prob": {
+        "home": 85.0,
+        "draw": 12.0,
+        "away": 3.0
+      },
+      "ai_summary": "인도네시아 홈 3연승·평균 실점 0, 방글라데시 원정 득점력 한계",
+      "ai_picks": [
+        "인도네시아 승",
+        "언더 3.5"
+      ],
+      "aria_label": "인도네시아 vs 방글라데시 20:30 분석 상세",
+      "source_date": "2026-10-01"
+    },
+    {
+      "id": "16501224",
+      "url": "https://bbongtv4.com/premium/soccer/16501224",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/1 (목)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "말레이시아",
+      "team2": "싱가포르",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 70.0,
+        "draw": 20.0,
+        "away": 10.0
+      },
+      "ai_summary": "말레이시아 최근 3-0 원정승, 홈 강세와 공격진 활약이 변수",
+      "ai_picks": [
+        "말레이시아 승",
+        "오버 2.5",
+        "싱가포르 +1.5 승"
+      ],
+      "aria_label": "말레이시아 vs 싱가포르 20:30 분석 상세",
       "source_date": "2026-10-01"
     }
   ]
