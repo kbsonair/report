@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-02",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-01T06:33:57.973248+00:00",
-  "count": 38,
+  "scraped_at": "2026-10-01T13:53:17.155789+00:00",
+  "count": 40,
   "matches": [
     {
       "id": "2001042784",
@@ -374,8 +374,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "콜",
-      "team2": "콜럼버스 블루재킷스",
+      "team1": "콜럼버스 블루재킷스",
+      "team2": "버팔로 세이버스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -400,8 +400,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "데",
-      "team2": "NJ 데빌스",
+      "team1": "NJ 데빌스",
+      "team2": "필라델피아 플라이어스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -425,8 +425,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "레",
-      "team2": "NY 레인저스",
+      "team1": "NY 레인저스",
+      "team2": "탬파베이 라이트닝",
       "score1": null,
       "score2": null,
       "prob": {
@@ -475,8 +475,8 @@
       "time": "09:00",
       "status": "예정",
       "result": null,
-      "team1": "내",
-      "team2": "내슈빌 프레데터스",
+      "team1": "내슈빌 프레데터스",
+      "team2": "미네소타 와일드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -526,8 +526,8 @@
       "time": "10:00",
       "status": "예정",
       "result": null,
-      "team1": "캘",
-      "team2": "캘거리 플레임스",
+      "team1": "캘거리 플레임스",
+      "team2": "시애틀 크라켄",
       "score1": null,
       "score2": null,
       "prob": {
@@ -551,8 +551,8 @@
       "time": "10:30",
       "status": "예정",
       "result": null,
-      "team1": "유",
-      "team2": "유타",
+      "team1": "유타",
+      "team2": "시카고 블랙호크스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -576,8 +576,8 @@
       "time": "11:00",
       "status": "예정",
       "result": null,
-      "team1": "산",
-      "team2": "산호세 샤크스",
+      "team1": "산호세 샤크스",
+      "team2": "플로리다 팬서스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -601,8 +601,8 @@
       "time": "11:00",
       "status": "예정",
       "result": null,
-      "team1": "밴",
-      "team2": "밴쿠버 커넉스",
+      "team1": "밴쿠버 커넉스",
+      "team2": "에드먼턴 오일러스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -642,6 +642,58 @@
         "니카라과 +1.5 승"
       ],
       "aria_label": "니카라과 vs 코스타리카 11:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502038",
+      "url": "https://bbongtv4.com/premium/soccer/16502038",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/2 (금)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "태국",
+      "team2": "필리핀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "태국, 홈 2경기 평균득점 2점과 최근 무패 흐름이 강점",
+      "ai_picks": [
+        "태국 승",
+        "오버 2.5"
+      ],
+      "aria_label": "태국 vs 필리핀 17:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502039",
+      "url": "https://bbongtv4.com/premium/soccer/16502039",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/2 (금)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "베트남",
+      "team2": "파키스탄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 80.0,
+        "draw": 15.0,
+        "away": 5.0
+      },
+      "ai_summary": "베트남 홈 4경기 4승·평균 2.25득점, 강한 홈 화력이 변수",
+      "ai_picks": [
+        "베트남 승",
+        "언더 3.5"
+      ],
+      "aria_label": "베트남 vs 파키스탄 17:00 분석 상세",
       "source_date": "2026-10-02"
     },
     {
@@ -738,7 +790,8 @@
       },
       "ai_summary": "수원FC 여자, 최근 6경기 5승과 원정 2.71득점으로 압도적 우세",
       "ai_picks": [
-        "수원FC 여자 승"
+        "수원FC 여자 승",
+        "오버 2.5"
       ],
       "aria_label": "세종 스포츠토토 여자 vs 수원FC 여자 19:00 분석 상세",
       "source_date": "2026-10-02"
@@ -763,7 +816,8 @@
       },
       "ai_summary": "화천 W, 원정 8경기 무패와 최근 3경기 맞대결 우세가 강점",
       "ai_picks": [
-        "화천 W 승"
+        "화천 W 승",
+        "언더 2.5"
       ],
       "aria_label": "인천 현대제철 여자 vs 화천 W 19:00 분석 상세",
       "source_date": "2026-10-02"
