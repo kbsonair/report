@@ -1,293 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-10-02",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-02T08:59:49.674025+00:00",
+  "scraped_at": "2026-10-02T15:43:24.902252+00:00",
   "count": 41,
   "matches": [
-    {
-      "id": "16502038",
-      "url": "https://bbongtv4.com/premium/soccer/16502038",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "10/2 (금)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "태국",
-      "team2": "필리핀",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "태국, 홈 2경기 평균득점 2점과 최근 무패 흐름이 강점",
-      "ai_picks": [
-        "태국 승",
-        "오버 2.5"
-      ],
-      "aria_label": "태국 vs 필리핀 17:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "16502039",
-      "url": "https://bbongtv4.com/premium/soccer/16502039",
-      "sport": "soccer",
-      "league": "FIFA ASEAN",
-      "date": "10/2 (금)",
-      "time": "17:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베트남",
-      "team2": "파키스탄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 80.0,
-        "draw": 15.0,
-        "away": 5.0
-      },
-      "ai_summary": "베트남 홈 4경기 4승·평균 2.25득점, 강한 홈 화력이 변수",
-      "ai_picks": [
-        "베트남 승",
-        "언더 3.5"
-      ],
-      "aria_label": "베트남 vs 파키스탄 17:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000354987",
-      "url": "https://bbongtv4.com/premium/baseball/2000354987",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "10/2 (금)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바 롯데 마리너스",
-      "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실 +3.04로 체급 우위 뚜렷",
-      "ai_picks": [
-        "후쿠오카 소프트뱅크 호크스 승",
-        "후쿠오카 소프트뱅크 호크스 -1.5 승"
-      ],
-      "aria_label": "치바 롯데 마리너스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000365272",
-      "url": "https://bbongtv4.com/premium/baseball/2000365272",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "10/2 (금)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "야쿠르트 스왈로즈",
-      "team2": "요미우리 자이언츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "away": 66.0
-      },
-      "ai_summary": "상대전적 5전 전패, 야쿠르트 홈 평균실점 5.38이 부담",
-      "ai_picks": [
-        "요미우리 자이언츠 승",
-        "언더 6.5"
-      ],
-      "aria_label": "야쿠르트 스왈로즈 vs 요미우리 자이언츠 18:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2001032266",
-      "url": "https://bbongtv4.com/premium/basket/2001032266",
-      "sport": "basket",
-      "league": "호주 NBL",
-      "date": "10/2 (금)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "일",
-      "team2": "일라와라 호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 34.0,
-        "away": 66.0
-      },
-      "ai_summary": "원정 2승1패 애들레이드, 일라와라 3연패 수비 불안 공략 구도",
-      "ai_picks": [
-        "애들레이드 승",
-        "오버 185.5",
-        "애들레이드 -5.5 승"
-      ],
-      "aria_label": "일라와라 호크스 vs 애들레이드 18:30 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2007203394",
-      "url": "https://bbongtv4.com/premium/soccer/2007203394",
-      "sport": "soccer",
-      "league": "WK리그 (여자축구)",
-      "date": "10/2 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "세",
-      "team2": "세종 스포츠토토 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 10.0,
-        "draw": 10.0,
-        "away": 80.0
-      },
-      "ai_summary": "수원FC 여자, 최근 6경기 5승과 원정 2.71득점으로 압도적 우세",
-      "ai_picks": [
-        "수원FC 여자 승",
-        "오버 2.5"
-      ],
-      "aria_label": "세종 스포츠토토 여자 vs 수원FC 여자 19:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2007204454",
-      "url": "https://bbongtv4.com/premium/soccer/2007204454",
-      "sport": "soccer",
-      "league": "WK리그 (여자축구)",
-      "date": "10/2 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "인",
-      "team2": "인천 현대제철 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "draw": 25.0,
-        "away": 55.0
-      },
-      "ai_summary": "화천 W, 원정 8경기 무패와 최근 3경기 맞대결 우세가 강점",
-      "ai_picks": [
-        "화천 W 승",
-        "언더 2.5"
-      ],
-      "aria_label": "인천 현대제철 여자 vs 화천 W 19:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2007212589",
-      "url": "https://bbongtv4.com/premium/soccer/2007212589",
-      "sport": "soccer",
-      "league": "K리그3",
-      "date": "10/2 (금)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대",
-      "team2": "대전 코레일",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 25.0,
-        "away": 20.0
-      },
-      "ai_summary": "대전 코레일, 홈 1.5득점·0.75실점의 안정감과 강릉 원정 2.75실점의 불안이 맞선다",
-      "ai_picks": [
-        "대전 코레일 승",
-        "언더 2.5"
-      ],
-      "aria_label": "대전 코레일 vs 강릉 19:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "16502410",
-      "url": "https://bbongtv4.com/premium/soccer/16502410",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/2 (금)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대한민국",
-      "team2": "베네수엘라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 20.0,
-        "away": 22.0
-      },
-      "ai_summary": "대한민국, 최근 홈 3경기 2승과 손흥민 3골로 공격 우위 뚜렷",
-      "ai_picks": [
-        "대한민국 승",
-        "오버 2.5"
-      ],
-      "aria_label": "대한민국 vs 베네수엘라 20:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2001032268",
-      "url": "https://bbongtv4.com/premium/basket/2001032268",
-      "sport": "basket",
-      "league": "호주 NBL",
-      "date": "10/2 (금)",
-      "time": "20:30",
-      "status": "예정",
-      "result": null,
-      "team1": "퍼",
-      "team2": "퍼스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "사우스 이스트 멜버른, 최근 맞대결 21점 차 대승이 변수로 작용",
-      "ai_picks": [
-        "사우스 이스트 멜버른 승",
-        "오버 188.5"
-      ],
-      "aria_label": "퍼스 vs 사우스 이스트 멜버른 20:30 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "16502047",
-      "url": "https://bbongtv4.com/premium/soccer/16502047",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/2 (금)",
-      "time": "20:35",
-      "status": "예정",
-      "result": null,
-      "team1": "중국",
-      "team2": "팔레스타인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 35.0,
-        "away": 25.0
-      },
-      "ai_summary": "중국 홈 평균 실점 1, 팔레스타인 원정 무패 흐름이 변수",
-      "ai_picks": [
-        "무승부",
-        "언더 3.5",
-        "팔레스타인 +1.5 승"
-      ],
-      "aria_label": "중국 vs 팔레스타인 20:35 분석 상세",
-      "source_date": "2026-10-02"
-    },
     {
       "id": "2000643408",
       "url": "https://bbongtv4.com/premium/hockey/2000643408",
@@ -1050,6 +766,290 @@
         "니카라과 +1.5 승"
       ],
       "aria_label": "니카라과 vs 코스타리카 11:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502038",
+      "url": "https://bbongtv4.com/premium/soccer/16502038",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/2 (금)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "태국",
+      "team2": "필리핀",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "태국, 홈 2경기 평균득점 2점과 최근 무패 흐름이 강점",
+      "ai_picks": [
+        "태국 승",
+        "오버 2.5"
+      ],
+      "aria_label": "태국 vs 필리핀 17:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502039",
+      "url": "https://bbongtv4.com/premium/soccer/16502039",
+      "sport": "soccer",
+      "league": "FIFA ASEAN",
+      "date": "10/2 (금)",
+      "time": "17:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베트남",
+      "team2": "파키스탄",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 80.0,
+        "draw": 15.0,
+        "away": 5.0
+      },
+      "ai_summary": "베트남 홈 4경기 4승·평균 2.25득점, 강한 홈 화력이 변수",
+      "ai_picks": [
+        "베트남 승",
+        "언더 3.5"
+      ],
+      "aria_label": "베트남 vs 파키스탄 17:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000354987",
+      "url": "https://bbongtv4.com/premium/baseball/2000354987",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "10/2 (금)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "치바 롯데 마리너스",
+      "team2": "후쿠오카 소프트뱅크 호크스",
+      "score1": 3,
+      "score2": 4,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "후쿠오카 소프트뱅크 호크스, 시즌 득실 +3.04로 체급 우위 뚜렷",
+      "ai_picks": [
+        "후쿠오카 소프트뱅크 호크스 승",
+        "후쿠오카 소프트뱅크 호크스 -1.5 승"
+      ],
+      "aria_label": "치바 롯데 마리너스 vs 후쿠오카 소프트뱅크 호크스 18:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000365272",
+      "url": "https://bbongtv4.com/premium/baseball/2000365272",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "10/2 (금)",
+      "time": "18:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "야쿠르트 스왈로즈",
+      "team2": "요미우리 자이언츠",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 34.0,
+        "away": 66.0
+      },
+      "ai_summary": "상대전적 5전 전패, 야쿠르트 홈 평균실점 5.38이 부담",
+      "ai_picks": [
+        "요미우리 자이언츠 승",
+        "언더 6.5"
+      ],
+      "aria_label": "야쿠르트 스왈로즈 vs 요미우리 자이언츠 18:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001032266",
+      "url": "https://bbongtv4.com/premium/basket/2001032266",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "10/2 (금)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "일",
+      "team2": "일라와라 호크스",
+      "score1": 114,
+      "score2": 92,
+      "prob": {
+        "home": 34.0,
+        "away": 66.0
+      },
+      "ai_summary": "원정 2승1패 애들레이드, 일라와라 3연패 수비 불안 공략 구도",
+      "ai_picks": [
+        "애들레이드 승",
+        "오버 185.5",
+        "애들레이드 -5.5 승"
+      ],
+      "aria_label": "일라와라 호크스 vs 애들레이드 18:30 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2007203394",
+      "url": "https://bbongtv4.com/premium/soccer/2007203394",
+      "sport": "soccer",
+      "league": "WK리그 (여자축구)",
+      "date": "10/2 (금)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "세",
+      "team2": "세종 스포츠토토 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "draw": 10.0,
+        "away": 80.0
+      },
+      "ai_summary": "수원FC 여자, 최근 6경기 5승과 원정 2.71득점으로 압도적 우세",
+      "ai_picks": [
+        "수원FC 여자 승",
+        "오버 2.5"
+      ],
+      "aria_label": "세종 스포츠토토 여자 vs 수원FC 여자 19:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2007204454",
+      "url": "https://bbongtv4.com/premium/soccer/2007204454",
+      "sport": "soccer",
+      "league": "WK리그 (여자축구)",
+      "date": "10/2 (금)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인",
+      "team2": "인천 현대제철 여자",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 20.0,
+        "draw": 25.0,
+        "away": 55.0
+      },
+      "ai_summary": "화천 W, 원정 8경기 무패와 최근 3경기 맞대결 우세가 강점",
+      "ai_picks": [
+        "화천 W 승",
+        "언더 2.5"
+      ],
+      "aria_label": "인천 현대제철 여자 vs 화천 W 19:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2007212589",
+      "url": "https://bbongtv4.com/premium/soccer/2007212589",
+      "sport": "soccer",
+      "league": "K리그3",
+      "date": "10/2 (금)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "대",
+      "team2": "대전 코레일",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 25.0,
+        "away": 20.0
+      },
+      "ai_summary": "대전 코레일, 홈 1.5득점·0.75실점의 안정감과 강릉 원정 2.75실점의 불안이 맞선다",
+      "ai_picks": [
+        "대전 코레일 승",
+        "언더 2.5"
+      ],
+      "aria_label": "대전 코레일 vs 강릉 19:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502410",
+      "url": "https://bbongtv4.com/premium/soccer/16502410",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/2 (금)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "대한민국",
+      "team2": "베네수엘라",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "draw": 20.0,
+        "away": 22.0
+      },
+      "ai_summary": "대한민국, 최근 홈 3경기 2승과 손흥민 3골로 공격 우위 뚜렷",
+      "ai_picks": [
+        "대한민국 승",
+        "오버 2.5"
+      ],
+      "aria_label": "대한민국 vs 베네수엘라 20:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001032268",
+      "url": "https://bbongtv4.com/premium/basket/2001032268",
+      "sport": "basket",
+      "league": "호주 NBL",
+      "date": "10/2 (금)",
+      "time": "20:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "퍼",
+      "team2": "퍼스",
+      "score1": 92,
+      "score2": 88,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "사우스 이스트 멜버른, 최근 맞대결 21점 차 대승이 변수로 작용",
+      "ai_picks": [
+        "사우스 이스트 멜버른 승",
+        "오버 188.5"
+      ],
+      "aria_label": "퍼스 vs 사우스 이스트 멜버른 20:30 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16502047",
+      "url": "https://bbongtv4.com/premium/soccer/16502047",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/2 (금)",
+      "time": "20:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중국",
+      "team2": "팔레스타인",
+      "score1": 0,
+      "score2": 5,
+      "prob": {
+        "home": 40.0,
+        "draw": 35.0,
+        "away": 25.0
+      },
+      "ai_summary": "중국 홈 평균 실점 1, 팔레스타인 원정 무패 흐름이 변수",
+      "ai_picks": [
+        "무승부",
+        "언더 3.5",
+        "팔레스타인 +1.5 승"
+      ],
+      "aria_label": "중국 vs 팔레스타인 20:35 분석 상세",
       "source_date": "2026-10-02"
     }
   ]
