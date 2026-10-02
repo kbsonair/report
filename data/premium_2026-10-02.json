@@ -1,107 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-02",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-02T15:43:24.902252+00:00",
+  "scraped_at": "2026-10-02T23:59:01.578968+00:00",
   "count": 41,
   "matches": [
-    {
-      "id": "2000643408",
-      "url": "https://bbongtv4.com/premium/hockey/2000643408",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/2 (금)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "아반가르드 옴스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 82.0,
-        "away": 18.0
-      },
-      "ai_summary": "라다 원정 6연패, 아반가르드 옴스크 홈 강세와 득실 우위 뚜렷",
-      "ai_picks": [
-        "아반가르드 옴스크 승"
-      ],
-      "aria_label": "아반가르드 옴스크 vs 라다 22:30 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000643411",
-      "url": "https://bbongtv4.com/premium/hockey/2000643411",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/2 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "살",
-      "team2": "살라바트 우파",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "살라바트 우파, 최근 6경기 4승과 득실차 +1.11로 상승세 뚜렷",
-      "ai_picks": [
-        "살라바트 우파 승"
-      ],
-      "aria_label": "살라바트 우파 vs 노보시비르스크 23:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000643413",
-      "url": "https://bbongtv4.com/premium/hockey/2000643413",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/2 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "예",
-      "team2": "예카테린부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 63.0,
-        "away": 37.0
-      },
-      "ai_summary": "예카테린부르크 최근 원정 4연패, 홈에서 반등 기대 높아진다",
-      "ai_picks": [
-        "예카테린부르크 승"
-      ],
-      "aria_label": "예카테린부르크 vs 하바로프스크 23:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2006679005",
-      "url": "https://bbongtv4.com/premium/soccer/2006679005",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/2 (금)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카자흐스탄",
-      "team2": "몰도바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 32.0,
-        "away": 20.0
-      },
-      "ai_summary": "카자흐스탄 최근 4경기 모두 실점, 몰도바도 원정 득점력 저조",
-      "ai_picks": [
-        "카자흐스탄 승",
-        "언더 2.5"
-      ],
-      "aria_label": "카자흐스탄 vs 몰도바 23:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
     {
       "id": "2001042784",
       "url": "https://bbongtv4.com/premium/basket/2001042784",
@@ -903,12 +805,12 @@
       "league": "WK리그 (여자축구)",
       "date": "10/2 (금)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "세",
       "team2": "세종 스포츠토토 여자",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 10.0,
         "draw": 10.0,
@@ -1050,6 +952,104 @@
         "팔레스타인 +1.5 승"
       ],
       "aria_label": "중국 vs 팔레스타인 20:35 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000643408",
+      "url": "https://bbongtv4.com/premium/hockey/2000643408",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/2 (금)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아",
+      "team2": "아반가르드 옴스크",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 82.0,
+        "away": 18.0
+      },
+      "ai_summary": "라다 원정 6연패, 아반가르드 옴스크 홈 강세와 득실 우위 뚜렷",
+      "ai_picks": [
+        "아반가르드 옴스크 승"
+      ],
+      "aria_label": "아반가르드 옴스크 vs 라다 22:30 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000643411",
+      "url": "https://bbongtv4.com/premium/hockey/2000643411",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/2 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "살",
+      "team2": "살라바트 우파",
+      "score1": 2,
+      "score2": 4,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "살라바트 우파, 최근 6경기 4승과 득실차 +1.11로 상승세 뚜렷",
+      "ai_picks": [
+        "살라바트 우파 승"
+      ],
+      "aria_label": "살라바트 우파 vs 노보시비르스크 23:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000643413",
+      "url": "https://bbongtv4.com/premium/hockey/2000643413",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/2 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "예",
+      "team2": "예카테린부르크",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 63.0,
+        "away": 37.0
+      },
+      "ai_summary": "예카테린부르크 최근 원정 4연패, 홈에서 반등 기대 높아진다",
+      "ai_picks": [
+        "예카테린부르크 승"
+      ],
+      "aria_label": "예카테린부르크 vs 하바로프스크 23:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2006679005",
+      "url": "https://bbongtv4.com/premium/soccer/2006679005",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/2 (금)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "카자흐스탄",
+      "team2": "몰도바",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "draw": 32.0,
+        "away": 20.0
+      },
+      "ai_summary": "카자흐스탄 최근 4경기 모두 실점, 몰도바도 원정 득점력 저조",
+      "ai_picks": [
+        "카자흐스탄 승",
+        "언더 2.5"
+      ],
+      "aria_label": "카자흐스탄 vs 몰도바 23:00 분석 상세",
       "source_date": "2026-10-02"
     }
   ]

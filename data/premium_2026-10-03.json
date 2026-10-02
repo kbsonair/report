@@ -1,420 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-03",
-  "scraped_at": "2026-10-02T15:43:23.937644+00:00",
-  "count": 58,
+  "scraped_at": "2026-10-02T23:59:00.782430+00:00",
+  "count": 65,
   "matches": [
-    {
-      "id": "2000643409",
-      "url": "https://bbongtv4.com/premium/hockey/2000643409",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바르스 카잔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "바르스 카잔, 홈 평균 실점 1.8로 안정된 수비력 우위",
-      "ai_picks": [
-        "바르스 카잔 승"
-      ],
-      "aria_label": "바르스 카잔 vs 트랙터 첼야빈스크 01:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643410",
-      "url": "https://bbongtv4.com/premium/hockey/2000643410",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈네카민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "니즈네카민스크, 홈에서 평균 4.2득점으로 강한 공격력 유지",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "니즈네카민스크 vs 바리스 아스타나 01:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679000",
-      "url": "https://bbongtv4.com/premium/soccer/2006679000",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "키프로스",
-      "team2": "아르메니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 36.0,
-        "draw": 35.0,
-        "away": 29.0
-      },
-      "ai_summary": "키프로스 홈 평균 실점 0.75, 아르메니아 원정 무경험이 변수로 작용",
-      "ai_picks": [
-        "언더 2.5",
-        "아르메니아 +0.5 승"
-      ],
-      "aria_label": "키프로스 vs 아르메니아 01:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006810797",
-      "url": "https://bbongtv4.com/premium/soccer/2006810797",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라트비아",
-      "team2": "몬테네그로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "몬테네그로 최근 2경기 5득점, 라트비아는 2경기 무득점으로 대조적 흐름",
-      "ai_picks": [
-        "몬테네그로 승",
-        "언더 2.5"
-      ],
-      "aria_label": "라트비아 vs 몬테네그로 01:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643412",
-      "url": "https://bbongtv4.com/premium/hockey/2000643412",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "스",
-      "team2": "스파르타크 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "마그니토고르스크 원정 득점력, 최근 4연승 상승세로 우위 기대",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "스파르타크 모스크바 vs 마그니토고르스크 01:30 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2001042783",
-      "url": "https://bbongtv4.com/premium/basket/2001042783",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/3 (토)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "베",
-      "team2": "베식타시",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "베식타시 94-96 접전 이후 홈, 바르셀로나 119점 경기로 화력 확인",
-      "ai_picks": [
-        "베식타시 승",
-        "오버 168.5",
-        "바르셀로나 +2.5 승"
-      ],
-      "aria_label": "베식타시 vs 바르셀로나 02:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2001042789",
-      "url": "https://bbongtv4.com/premium/basket/2001042789",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/3 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "리",
-      "team2": "리옹-빌르르반",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "발렌시아 2승0패와 평균득실차 +6.66, 원정 우위가 뚜렷",
-      "ai_picks": [
-        "발렌시아 승",
-        "오버 170.5",
-        "발렌시아 -3.5 승"
-      ],
-      "aria_label": "리옹-빌르르반 vs 발렌시아 03:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2001042792",
-      "url": "https://bbongtv4.com/premium/basket/2001042792",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/3 (토)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바이에른",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "파르티잔 모자르트 벳 2경기 연속 90점대, 득점력 상승세가 변수",
-      "ai_picks": [
-        "바이에른 승",
-        "오버 167.5"
-      ],
-      "aria_label": "바이에른 vs 파르티잔 모자르트 벳 03:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2001042791",
-      "url": "https://bbongtv4.com/premium/basket/2001042791",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/3 (토)",
-      "time": "03:30",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바스코니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "20위 0승2패 바스코니아, 93득점·104실점 흐름이 부담",
-      "ai_picks": [
-        "올림피아 밀라노 승",
-        "오버 175.5",
-        "올림피아 밀라노 -1.5 승"
-      ],
-      "aria_label": "바스코니아 vs 올림피아 밀라노 03:30 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679002",
-      "url": "https://bbongtv4.com/premium/soccer/2006679002",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "파로 제도",
-      "team2": "슬로바키아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 15.0,
-        "away": 70.0
-      },
-      "ai_summary": "슬로바키아 최근 5경기 4승, 파로 제도는 무승 행진 이어가",
-      "ai_picks": [
-        "슬로바키아 승",
-        "언더 2.5",
-        "슬로바키아 -0.5 승"
-      ],
-      "aria_label": "파로 제도 vs 슬로바키아 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679018",
-      "url": "https://bbongtv4.com/premium/soccer/2006679018",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "헝가리",
-      "team2": "조지아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 28.0,
-        "away": 24.0
-      },
-      "ai_summary": "헝가리 홈 3경기 2승, 조지아 원정 경험 부족이 변수",
-      "ai_picks": [
-        "헝가리 승",
-        "언더 2.5",
-        "조지아 +1.5 승"
-      ],
-      "aria_label": "헝가리 vs 조지아 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679033",
-      "url": "https://bbongtv4.com/premium/soccer/2006679033",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "우크라이나",
-      "team2": "북아일랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "양 팀 모두 2경기 무실점, 수비 조직력에서 팽팽한 흐름",
-      "ai_picks": [
-        "우크라이나 승",
-        "언더 2.5"
-      ],
-      "aria_label": "우크라이나 vs 북아일랜드 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679035",
-      "url": "https://bbongtv4.com/premium/soccer/2006679035",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "벨기에",
-      "team2": "튀르키예",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "벨기에, 홈 평균실점 0.5로 수비 안정…튀르키예 원정 약세 뚜렷",
-      "ai_picks": [
-        "벨기에 승",
-        "언더 3.5"
-      ],
-      "aria_label": "벨기에 vs 튀르키예 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2006679036",
-      "url": "https://bbongtv4.com/premium/soccer/2006679036",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "프랑스",
-      "team2": "이탈리아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "프랑스, 2경기 연속 무실점에 홈 이점까지 더해진 우세 흐름",
-      "ai_picks": [
-        "프랑스 승",
-        "언더 3.5"
-      ],
-      "aria_label": "프랑스 vs 이탈리아 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007260805",
-      "url": "https://bbongtv4.com/premium/soccer/2007260805",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "보스니아",
-      "team2": "스웨덴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 25.0,
-        "away": 45.0
-      },
-      "ai_summary": "비다드 기오케레스 3골, 스웨덴 공격진의 결정력이 승부 변수",
-      "ai_picks": [
-        "스웨덴 승",
-        "오버 2.5"
-      ],
-      "aria_label": "보스니아 vs 스웨덴 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007260806",
-      "url": "https://bbongtv4.com/premium/soccer/2007260806",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "폴란드",
-      "team2": "루마니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 38.0,
-        "away": 29.0
-      },
-      "ai_summary": "폴란드 최근 4경기 1득점, 루마니아도 2연패로 공격력 저하",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5"
-      ],
-      "aria_label": "폴란드 vs 루마니아 03:45 분석 상세",
-      "source_date": "2026-10-03"
-    },
     {
       "id": "16502200",
       "url": "https://bbongtv4.com/premium/soccer/16502200",
@@ -922,7 +511,9 @@
       },
       "ai_summary": "고양 소노, 최근 2경기 연속 99점 이상 득점으로 공격력 앞선다",
       "ai_picks": [
-        "고양 소노 승"
+        "고양 소노 승",
+        "오버 167.5",
+        "고양 소노 -9.5 승"
       ],
       "aria_label": "고양 소노 vs 대구 한국가스공사 14:00 분석 상세",
       "source_date": "2026-10-03"
@@ -946,9 +537,64 @@
       },
       "ai_summary": "창원 LG, 최근 2경기 모두 85점 이상 득점하며 공격력 우위",
       "ai_picks": [
-        "창원 LG 승"
+        "창원 LG 승",
+        "오버 166.5",
+        "창원 LG +1.5 승"
       ],
       "aria_label": "부산 KCC vs 창원 LG 14:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503080",
+      "url": "https://bbongtv4.com/premium/soccer/16503080",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "10/3 (토)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "알비렉스 니가타",
+      "team2": "도쿠시마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "도쿠시마 원정 실점 2.17, 수비 불안이 승부에 변수로 작용",
+      "ai_picks": [
+        "오버 2.5",
+        "도쿠시마 +0.5 승"
+      ],
+      "aria_label": "알비렉스 니가타 vs 도쿠시마 14:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503081",
+      "url": "https://bbongtv4.com/premium/soccer/16503081",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "10/3 (토)",
+      "time": "14:00",
+      "status": "예정",
+      "result": null,
+      "team1": "후지에다 MYFC",
+      "team2": "쇼난 벨마레",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "draw": 37.0,
+        "away": 33.0
+      },
+      "ai_summary": "원정 3승3무0패 쇼난, 홈 평균실점 0.8 후지에다와 접전",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "후지에다 MYFC +0.5 승"
+      ],
+      "aria_label": "후지에다 MYFC vs 쇼난 벨마레 14:00 분석 상세",
       "source_date": "2026-10-03"
     },
     {
@@ -1055,6 +701,58 @@
       "source_date": "2026-10-03"
     },
     {
+      "id": "16503106",
+      "url": "https://bbongtv4.com/premium/soccer/16503106",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "10/3 (토)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "마치다",
+      "team2": "교토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "draw": 20.0,
+        "away": 18.0
+      },
+      "ai_summary": "마치다 홈 평균득점 2.14, 교토 원정 실점 1.5로 득점 우위 뚜렷",
+      "ai_picks": [
+        "마치다 승",
+        "오버 2.5"
+      ],
+      "aria_label": "마치다 vs 교토 16:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503107",
+      "url": "https://bbongtv4.com/premium/soccer/16503107",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "10/3 (토)",
+      "time": "16:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코후",
+      "team2": "토야마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "토야마, 원정 4승·공격 지표 우위로 승격권 유지 노린다",
+      "ai_picks": [
+        "토야마 승",
+        "오버 2.5"
+      ],
+      "aria_label": "코후 vs 토야마 16:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
       "id": "2001032270",
       "url": "https://bbongtv4.com/premium/basket/2001032270",
       "sport": "basket",
@@ -1098,9 +796,62 @@
       },
       "ai_summary": "양 팀 모두 최근 2경기 연승, 접전 양상 속 홈 코트가 변수",
       "ai_picks": [
-        "안양 정관장 승"
+        "안양 정관장 승",
+        "언더 157.5"
       ],
       "aria_label": "안양 정관장 vs 울산 현대모비스 16:30 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503110",
+      "url": "https://bbongtv4.com/premium/soccer/16503110",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "10/3 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "오이타 트리니타",
+      "team2": "몬테디오 야마가타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 35.0,
+        "away": 33.0
+      },
+      "ai_summary": "양 팀 모두 최근 6경기 실점 6점, 수비 안정감이 저득점 흐름을 만든다",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "오이타 트리니타 vs 몬테디오 야마가타 17:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503111",
+      "url": "https://bbongtv4.com/premium/soccer/16503111",
+      "sport": "soccer",
+      "league": "JPN D2",
+      "date": "10/3 (토)",
+      "time": "17:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토치기 시티",
+      "team2": "이마바리",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "draw": 27.0,
+        "away": 19.0
+      },
+      "ai_summary": "토치기 시티 홈 평균득점 1.75, 이마바리 원정 실점 2.5로 다득점 흐름",
+      "ai_picks": [
+        "토치기 시티 승",
+        "오버 2.5"
+      ],
+      "aria_label": "토치기 시티 vs 이마바리 17:00 분석 상세",
       "source_date": "2026-10-03"
     },
     {
@@ -1254,6 +1005,32 @@
         "멜버른 유나이티드 -8.5 승"
       ],
       "aria_label": "멜버른 유나이티드 vs 케언스 타이팬스 18:30 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "16503164",
+      "url": "https://bbongtv4.com/premium/soccer/16503164",
+      "sport": "soccer",
+      "league": "JLC",
+      "date": "10/3 (토)",
+      "time": "19:00",
+      "status": "예정",
+      "result": null,
+      "team1": "카시와 레이솔",
+      "team2": "감바 오사카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 25.0,
+        "away": 15.0
+      },
+      "ai_summary": "카시와 레이솔, 홈 5경기 평균득점 2.4로 공격력 앞선다",
+      "ai_picks": [
+        "카시와 레이솔 승",
+        "오버 2.5"
+      ],
+      "aria_label": "카시와 레이솔 vs 감바 오사카 19:00 분석 상세",
       "source_date": "2026-10-03"
     },
     {
@@ -1480,6 +1257,417 @@
         "로코모티프 야로슬라블 승"
       ],
       "aria_label": "디나모 민스크 vs 로코모티프 야로슬라블 23:10 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643409",
+      "url": "https://bbongtv4.com/premium/hockey/2000643409",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "바",
+      "team2": "바르스 카잔",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "바르스 카잔, 홈 평균 실점 1.8로 안정된 수비력 우위",
+      "ai_picks": [
+        "바르스 카잔 승"
+      ],
+      "aria_label": "바르스 카잔 vs 트랙터 첼야빈스크 01:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643410",
+      "url": "https://bbongtv4.com/premium/hockey/2000643410",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "니",
+      "team2": "니즈네카민스크",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "니즈네카민스크, 홈에서 평균 4.2득점으로 강한 공격력 유지",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "니즈네카민스크 vs 바리스 아스타나 01:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679000",
+      "url": "https://bbongtv4.com/premium/soccer/2006679000",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "키프로스",
+      "team2": "아르메니아",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 36.0,
+        "draw": 35.0,
+        "away": 29.0
+      },
+      "ai_summary": "키프로스 홈 평균 실점 0.75, 아르메니아 원정 무경험이 변수로 작용",
+      "ai_picks": [
+        "언더 2.5",
+        "아르메니아 +0.5 승"
+      ],
+      "aria_label": "키프로스 vs 아르메니아 01:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006810797",
+      "url": "https://bbongtv4.com/premium/soccer/2006810797",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라트비아",
+      "team2": "몬테네그로",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "몬테네그로 최근 2경기 5득점, 라트비아는 2경기 무득점으로 대조적 흐름",
+      "ai_picks": [
+        "몬테네그로 승",
+        "언더 2.5"
+      ],
+      "aria_label": "라트비아 vs 몬테네그로 01:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643412",
+      "url": "https://bbongtv4.com/premium/hockey/2000643412",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스",
+      "team2": "스파르타크 모스크바",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "마그니토고르스크 원정 득점력, 최근 4연승 상승세로 우위 기대",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "스파르타크 모스크바 vs 마그니토고르스크 01:30 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2001042783",
+      "url": "https://bbongtv4.com/premium/basket/2001042783",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/3 (토)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "베",
+      "team2": "베식타시",
+      "score1": 82,
+      "score2": 95,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "베식타시 94-96 접전 이후 홈, 바르셀로나 119점 경기로 화력 확인",
+      "ai_picks": [
+        "베식타시 승",
+        "오버 168.5",
+        "바르셀로나 +2.5 승"
+      ],
+      "aria_label": "베식타시 vs 바르셀로나 02:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2001042789",
+      "url": "https://bbongtv4.com/premium/basket/2001042789",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/3 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "리",
+      "team2": "리옹-빌르르반",
+      "score1": 92,
+      "score2": 105,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "발렌시아 2승0패와 평균득실차 +6.66, 원정 우위가 뚜렷",
+      "ai_picks": [
+        "발렌시아 승",
+        "오버 170.5",
+        "발렌시아 -3.5 승"
+      ],
+      "aria_label": "리옹-빌르르반 vs 발렌시아 03:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2001042792",
+      "url": "https://bbongtv4.com/premium/basket/2001042792",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/3 (토)",
+      "time": "03:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "바",
+      "team2": "바이에른",
+      "score1": 84,
+      "score2": 86,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "파르티잔 모자르트 벳 2경기 연속 90점대, 득점력 상승세가 변수",
+      "ai_picks": [
+        "바이에른 승",
+        "오버 167.5"
+      ],
+      "aria_label": "바이에른 vs 파르티잔 모자르트 벳 03:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2001042791",
+      "url": "https://bbongtv4.com/premium/basket/2001042791",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/3 (토)",
+      "time": "03:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "바",
+      "team2": "바스코니아",
+      "score1": 87,
+      "score2": 76,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "20위 0승2패 바스코니아, 93득점·104실점 흐름이 부담",
+      "ai_picks": [
+        "올림피아 밀라노 승",
+        "오버 175.5",
+        "올림피아 밀라노 -1.5 승"
+      ],
+      "aria_label": "바스코니아 vs 올림피아 밀라노 03:30 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679002",
+      "url": "https://bbongtv4.com/premium/soccer/2006679002",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "파로 제도",
+      "team2": "슬로바키아",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 15.0,
+        "draw": 15.0,
+        "away": 70.0
+      },
+      "ai_summary": "슬로바키아 최근 5경기 4승, 파로 제도는 무승 행진 이어가",
+      "ai_picks": [
+        "슬로바키아 승",
+        "언더 2.5",
+        "슬로바키아 -0.5 승"
+      ],
+      "aria_label": "파로 제도 vs 슬로바키아 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679018",
+      "url": "https://bbongtv4.com/premium/soccer/2006679018",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "헝가리",
+      "team2": "조지아",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 28.0,
+        "away": 24.0
+      },
+      "ai_summary": "헝가리 홈 3경기 2승, 조지아 원정 경험 부족이 변수",
+      "ai_picks": [
+        "헝가리 승",
+        "언더 2.5",
+        "조지아 +1.5 승"
+      ],
+      "aria_label": "헝가리 vs 조지아 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679033",
+      "url": "https://bbongtv4.com/premium/soccer/2006679033",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "우크라이나",
+      "team2": "북아일랜드",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "양 팀 모두 2경기 무실점, 수비 조직력에서 팽팽한 흐름",
+      "ai_picks": [
+        "우크라이나 승",
+        "언더 2.5"
+      ],
+      "aria_label": "우크라이나 vs 북아일랜드 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679035",
+      "url": "https://bbongtv4.com/premium/soccer/2006679035",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "벨기에",
+      "team2": "튀르키예",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "벨기에, 홈 평균실점 0.5로 수비 안정…튀르키예 원정 약세 뚜렷",
+      "ai_picks": [
+        "벨기에 승",
+        "언더 3.5"
+      ],
+      "aria_label": "벨기에 vs 튀르키예 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679036",
+      "url": "https://bbongtv4.com/premium/soccer/2006679036",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "프랑스",
+      "team2": "이탈리아",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "프랑스, 2경기 연속 무실점에 홈 이점까지 더해진 우세 흐름",
+      "ai_picks": [
+        "프랑스 승",
+        "언더 3.5"
+      ],
+      "aria_label": "프랑스 vs 이탈리아 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007260805",
+      "url": "https://bbongtv4.com/premium/soccer/2007260805",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "보스니아",
+      "team2": "스웨덴",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 30.0,
+        "draw": 25.0,
+        "away": 45.0
+      },
+      "ai_summary": "비다드 기오케레스 3골, 스웨덴 공격진의 결정력이 승부 변수",
+      "ai_picks": [
+        "스웨덴 승",
+        "오버 2.5"
+      ],
+      "aria_label": "보스니아 vs 스웨덴 03:45 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007260806",
+      "url": "https://bbongtv4.com/premium/soccer/2007260806",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "폴란드",
+      "team2": "루마니아",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 33.0,
+        "draw": 38.0,
+        "away": 29.0
+      },
+      "ai_summary": "폴란드 최근 4경기 1득점, 루마니아도 2연패로 공격력 저하",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5"
+      ],
+      "aria_label": "폴란드 vs 루마니아 03:45 분석 상세",
       "source_date": "2026-10-03"
     }
   ]
