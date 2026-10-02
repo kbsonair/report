@@ -1,111 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-01T23:24:46.365859+00:00",
-  "count": 40,
+  "scraped_at": "2026-10-02T02:33:56.575980+00:00",
+  "count": 41,
   "matches": [
-    {
-      "id": "16501317",
-      "url": "https://bbongtv4.com/premium/soccer/16501317",
-      "sport": "soccer",
-      "league": "CON  NL",
-      "date": "10/2 (금)",
-      "time": "07:00",
-      "status": "예정",
-      "result": null,
-      "team1": "퀴라소",
-      "team2": "트리니다드 토바고",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "draw": 23.0,
-        "away": 15.0
-      },
-      "ai_summary": "퀴라소 홈 평균득점 5, 트리니다드 토바고 원정 3연패로 격차 뚜렷",
-      "ai_picks": [
-        "퀴라소 승",
-        "오버 2.5"
-      ],
-      "aria_label": "퀴라소 vs 트리니다드 토바고 07:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651378",
-      "url": "https://bbongtv4.com/premium/hockey/2000651378",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "콜럼버스 블루재킷스",
-      "team2": "버팔로 세이버스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "홈 2승0패와 원정 0승2패, 장소 격차가 승부를 가른다",
-      "ai_picks": [
-        "콜럼버스 블루재킷스 승",
-        "언더 6.5",
-        "버팔로 세이버스 +1.5 승"
-      ],
-      "aria_label": "콜럼버스 블루재킷스 vs 버팔로 세이버스 08:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651380",
-      "url": "https://bbongtv4.com/premium/hockey/2000651380",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NJ 데빌스",
-      "team2": "필라델피아 플라이어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "데빌스 홈 2승 무패·평균 실점 1.5, 수비 안정감이 승부처",
-      "ai_picks": [
-        "NJ 데빌스 승",
-        "언더 5.5"
-      ],
-      "aria_label": "NJ 데빌스 vs 필라델피아 플라이어스 08:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651381",
-      "url": "https://bbongtv4.com/premium/hockey/2000651381",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "NY 레인저스",
-      "team2": "탬파베이 라이트닝",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "NY 레인저스, 홈 평균득점 3.5로 공격력 뚜렷…탬파베이와 접전 예상",
-      "ai_picks": [
-        "오버 5.5",
-        "NY 레인저스 +1.5 승"
-      ],
-      "aria_label": "NY 레인저스 vs 탬파베이 라이트닝 08:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
     {
       "id": "2001068943",
       "url": "https://bbongtv4.com/premium/basket/2001068943",
@@ -157,29 +55,29 @@
       "source_date": "2026-10-02"
     },
     {
-      "id": "16501324",
-      "url": "https://bbongtv4.com/premium/soccer/16501324",
-      "sport": "soccer",
-      "league": "CON  NL",
+      "id": "2001068665",
+      "url": "https://bbongtv4.com/premium/basket/2001068665",
+      "sport": "basket",
+      "league": "WNBA",
       "date": "10/2 (금)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "도미니카공화국",
-      "team2": "아이티",
-      "score1": null,
-      "score2": null,
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라스베가스 에이시스 여자",
+      "team2": "인디애나 피버 여자",
+      "score1": 99,
+      "score2": 89,
       "prob": {
-        "home": 30.0,
-        "draw": 33.0,
-        "away": 37.0
+        "home": 58.0,
+        "away": 42.0
       },
-      "ai_summary": "득점 5 대 5 동률, 2위와 3위 접전 속 골 흐름이 먼저",
+      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
       "ai_picks": [
-        "오버 2.5",
-        "도미니카공화국 +0.5 승"
+        "라스베가스 에이시스 여자 승",
+        "오버 181.5",
+        "라스베가스 에이시스 여자 -3.5 승"
       ],
-      "aria_label": "도미니카공화국 vs 아이티 09:00 분석 상세",
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 10:00 분석 상세",
       "source_date": "2026-10-02"
     },
     {
@@ -1024,6 +922,134 @@
         "지브롤터 +1.5 승"
       ],
       "aria_label": "몰타 vs 지브롤터 03:45 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16501317",
+      "url": "https://bbongtv4.com/premium/soccer/16501317",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/2 (금)",
+      "time": "07:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "퀴라소",
+      "team2": "트리니다드 토바고",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 62.0,
+        "draw": 23.0,
+        "away": 15.0
+      },
+      "ai_summary": "퀴라소 홈 평균득점 5, 트리니다드 토바고 원정 3연패로 격차 뚜렷",
+      "ai_picks": [
+        "퀴라소 승",
+        "오버 2.5"
+      ],
+      "aria_label": "퀴라소 vs 트리니다드 토바고 07:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651378",
+      "url": "https://bbongtv4.com/premium/hockey/2000651378",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜럼버스 블루재킷스",
+      "team2": "버팔로 세이버스",
+      "score1": 6,
+      "score2": 3,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "홈 2승0패와 원정 0승2패, 장소 격차가 승부를 가른다",
+      "ai_picks": [
+        "콜럼버스 블루재킷스 승",
+        "언더 6.5",
+        "버팔로 세이버스 +1.5 승"
+      ],
+      "aria_label": "콜럼버스 블루재킷스 vs 버팔로 세이버스 08:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651380",
+      "url": "https://bbongtv4.com/premium/hockey/2000651380",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NJ 데빌스",
+      "team2": "필라델피아 플라이어스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "데빌스 홈 2승 무패·평균 실점 1.5, 수비 안정감이 승부처",
+      "ai_picks": [
+        "NJ 데빌스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "NJ 데빌스 vs 필라델피아 플라이어스 08:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651381",
+      "url": "https://bbongtv4.com/premium/hockey/2000651381",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "NY 레인저스",
+      "team2": "탬파베이 라이트닝",
+      "score1": 5,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "NY 레인저스, 홈 평균득점 3.5로 공격력 뚜렷…탬파베이와 접전 예상",
+      "ai_picks": [
+        "오버 5.5",
+        "NY 레인저스 +1.5 승"
+      ],
+      "aria_label": "NY 레인저스 vs 탬파베이 라이트닝 08:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16501324",
+      "url": "https://bbongtv4.com/premium/soccer/16501324",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/2 (금)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "도미니카공화국",
+      "team2": "아이티",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 30.0,
+        "draw": 33.0,
+        "away": 37.0
+      },
+      "ai_summary": "득점 5 대 5 동률, 2위와 3위 접전 속 골 흐름이 먼저",
+      "ai_picks": [
+        "오버 2.5",
+        "도미니카공화국 +0.5 승"
+      ],
+      "aria_label": "도미니카공화국 vs 아이티 09:00 분석 상세",
       "source_date": "2026-10-02"
     }
   ]

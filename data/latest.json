@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T23:24:48.901236+00:00",
+  "scraped_at": "2026-10-02T02:33:58.544303+00:00",
   "kst_yesterday": "2026-10-01",
   "kst_today": "2026-10-02",
   "kst_tomorrow": "2026-10-03",
@@ -246,8 +246,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "파",
-      "team2": "파로 제도",
+      "team1": "파로 제도",
+      "team2": "슬로바키아",
       "score1": null,
       "score2": null,
       "prob": {
@@ -301,7 +301,7 @@
       "status": "예정",
       "result": null,
       "team1": "우크라이나",
-      "team2": "북",
+      "team2": "북아일랜드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1815,12 +1815,12 @@
       "league": "CON  NL",
       "date": "10/2 (금)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "퀴라소",
       "team2": "트리니다드 토바고",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 62.0,
         "draw": 23.0,
@@ -1841,12 +1841,12 @@
       "league": "NHL",
       "date": "10/2 (금)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜럼버스 블루재킷스",
       "team2": "버팔로 세이버스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 3,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1867,12 +1867,12 @@
       "league": "NHL",
       "date": "10/2 (금)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NJ 데빌스",
       "team2": "필라델피아 플라이어스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -1892,12 +1892,12 @@
       "league": "NHL",
       "date": "10/2 (금)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 레인저스",
       "team2": "탬파베이 라이트닝",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 1,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1967,12 +1967,12 @@
       "league": "CON  NL",
       "date": "10/2 (금)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "도미니카공화국",
       "team2": "아이티",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 30.0,
         "draw": 33.0,
@@ -1984,6 +1984,32 @@
         "도미니카공화국 +0.5 승"
       ],
       "aria_label": "도미니카공화국 vs 아이티 09:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001068665",
+      "url": "https://bbongtv4.com/premium/basket/2001068665",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/2 (금)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라스베가스 에이시스 여자",
+      "team2": "인디애나 피버 여자",
+      "score1": 99,
+      "score2": 89,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "오버 181.5",
+        "라스베가스 에이시스 여자 -3.5 승"
+      ],
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 10:00 분석 상세",
       "source_date": "2026-10-02"
     },
     {
@@ -2842,32 +2868,6 @@
         "NY 양키스 -1.5 승"
       ],
       "aria_label": "NY 양키스 vs 보스턴 레드삭스 09:00 분석 상세",
-      "source_date": "2026-10-01"
-    },
-    {
-      "id": "2001068665",
-      "url": "https://bbongtv4.com/premium/basket/2001068665",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/1 (목)",
-      "time": "09:00",
-      "status": "종료",
-      "result": "적중",
-      "team1": "라스베가스 에이시스 여자",
-      "team2": "인디애나 피버 여자",
-      "score1": 99,
-      "score2": 89,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
-      "ai_picks": [
-        "라스베가스 에이시스 여자 승",
-        "오버 181.5",
-        "라스베가스 에이시스 여자 -3.5 승"
-      ],
-      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 09:00 분석 상세",
       "source_date": "2026-10-01"
     },
     {
