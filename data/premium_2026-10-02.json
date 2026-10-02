@@ -1,212 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-02",
-  "scraped_at": "2026-10-02T02:33:56.575980+00:00",
+  "scraped_at": "2026-10-02T08:59:49.674025+00:00",
   "count": 41,
   "matches": [
-    {
-      "id": "2001068943",
-      "url": "https://bbongtv4.com/premium/basket/2001068943",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/2 (금)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "골든스테이트 발키리 여자",
-      "team2": "댈러스 윙스 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "골든스테이트 발키리 여자, 홈 평균 실점 73.64로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "골든스테이트 발키리 여자 승",
-        "오버 157.5"
-      ],
-      "aria_label": "골든스테이트 발키리 여자 vs 댈러스 윙스 여자 09:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651379",
-      "url": "https://bbongtv4.com/premium/hockey/2000651379",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "내슈빌 프레데터스",
-      "team2": "미네소타 와일드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "away": 55.0
-      },
-      "ai_summary": "내슈빌 최근 4경기 평균실점 4점, 미네소타 원정 득점 저조",
-      "ai_picks": [
-        "언더 6",
-        "내슈빌 프레데터스 +1.5 승"
-      ],
-      "aria_label": "내슈빌 프레데터스 vs 미네소타 와일드 09:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2001068665",
-      "url": "https://bbongtv4.com/premium/basket/2001068665",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/2 (금)",
-      "time": "10:00",
-      "status": "종료",
-      "result": "적중",
-      "team1": "라스베가스 에이시스 여자",
-      "team2": "인디애나 피버 여자",
-      "score1": 99,
-      "score2": 89,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
-      "ai_picks": [
-        "라스베가스 에이시스 여자 승",
-        "오버 181.5",
-        "라스베가스 에이시스 여자 -3.5 승"
-      ],
-      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 10:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651377",
-      "url": "https://bbongtv4.com/premium/hockey/2000651377",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "캘거리 플레임스",
-      "team2": "시애틀 크라켄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "시애틀 크라켄, 최근 4경기 3승과 맞대결 우위로 원정에서도 강세",
-      "ai_picks": [
-        "시애틀 크라켄 승",
-        "오버 5.5"
-      ],
-      "aria_label": "캘거리 플레임스 vs 시애틀 크라켄 10:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651383",
-      "url": "https://bbongtv4.com/premium/hockey/2000651383",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "10:30",
-      "status": "예정",
-      "result": null,
-      "team1": "유타",
-      "team2": "시카고 블랙호크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "유타 홈에서 평균 득점 3.67, 시카고 블랙호크스 원정 득점 저조",
-      "ai_picks": [
-        "유타 승",
-        "언더 5.5"
-      ],
-      "aria_label": "유타 vs 시카고 블랙호크스 10:30 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651382",
-      "url": "https://bbongtv4.com/premium/hockey/2000651382",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산호세 샤크스",
-      "team2": "플로리다 팬서스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "산호세 샤크스, 홈 평균 실점 1점의 수비력으로 접전 예상",
-      "ai_picks": [
-        "산호세 샤크스 승",
-        "산호세 샤크스 +1.5 승"
-      ],
-      "aria_label": "산호세 샤크스 vs 플로리다 팬서스 11:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2000651384",
-      "url": "https://bbongtv4.com/premium/hockey/2000651384",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/2 (금)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "밴쿠버 커넉스",
-      "team2": "에드먼턴 오일러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "에드먼턴 오일러스, 최근 4연승과 원정 무실점 행진이 강점",
-      "ai_picks": [
-        "에드먼턴 오일러스 승",
-        "언더 6.5"
-      ],
-      "aria_label": "밴쿠버 커넉스 vs 에드먼턴 오일러스 11:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "16501328",
-      "url": "https://bbongtv4.com/premium/soccer/16501328",
-      "sport": "soccer",
-      "league": "CON  NL",
-      "date": "10/2 (금)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "니카라과",
-      "team2": "코스타리카",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 40.0,
-        "away": 30.0
-      },
-      "ai_summary": "양 팀 모두 실점이 많고 최근 2연패, 접전 속 무승부 가능성 부각",
-      "ai_picks": [
-        "무승부",
-        "오버 2.5",
-        "니카라과 +1.5 승"
-      ],
-      "aria_label": "니카라과 vs 코스타리카 11:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
     {
       "id": "16502038",
       "url": "https://bbongtv4.com/premium/soccer/16502038",
@@ -1027,6 +824,56 @@
       "source_date": "2026-10-02"
     },
     {
+      "id": "2001068943",
+      "url": "https://bbongtv4.com/premium/basket/2001068943",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/2 (금)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "골든스테이트 발키리 여자",
+      "team2": "댈러스 윙스 여자",
+      "score1": 108,
+      "score2": 100,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "골든스테이트 발키리 여자, 홈 평균 실점 73.64로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 157.5"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 댈러스 윙스 여자 09:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651379",
+      "url": "https://bbongtv4.com/premium/hockey/2000651379",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "내슈빌 프레데터스",
+      "team2": "미네소타 와일드",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 45.0,
+        "away": 55.0
+      },
+      "ai_summary": "내슈빌 최근 4경기 평균실점 4점, 미네소타 원정 득점 저조",
+      "ai_picks": [
+        "언더 6",
+        "내슈빌 프레데터스 +1.5 승"
+      ],
+      "aria_label": "내슈빌 프레데터스 vs 미네소타 와일드 09:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
       "id": "16501324",
       "url": "https://bbongtv4.com/premium/soccer/16501324",
       "sport": "soccer",
@@ -1050,6 +897,159 @@
         "도미니카공화국 +0.5 승"
       ],
       "aria_label": "도미니카공화국 vs 아이티 09:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2001068665",
+      "url": "https://bbongtv4.com/premium/basket/2001068665",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/2 (금)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라스베가스 에이시스 여자",
+      "team2": "인디애나 피버 여자",
+      "score1": 99,
+      "score2": 89,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 13승3패 라스베가스, 최근 반등력은 아직 살아 있다",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "오버 181.5",
+        "라스베가스 에이시스 여자 -3.5 승"
+      ],
+      "aria_label": "라스베가스 에이시스 여자 vs 인디애나 피버 여자 10:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651377",
+      "url": "https://bbongtv4.com/premium/hockey/2000651377",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캘거리 플레임스",
+      "team2": "시애틀 크라켄",
+      "score1": 1,
+      "score2": 6,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "시애틀 크라켄, 최근 4경기 3승과 맞대결 우위로 원정에서도 강세",
+      "ai_picks": [
+        "시애틀 크라켄 승",
+        "오버 5.5"
+      ],
+      "aria_label": "캘거리 플레임스 vs 시애틀 크라켄 10:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651383",
+      "url": "https://bbongtv4.com/premium/hockey/2000651383",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "10:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "유타",
+      "team2": "시카고 블랙호크스",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "유타 홈에서 평균 득점 3.67, 시카고 블랙호크스 원정 득점 저조",
+      "ai_picks": [
+        "유타 승",
+        "언더 5.5"
+      ],
+      "aria_label": "유타 vs 시카고 블랙호크스 10:30 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651382",
+      "url": "https://bbongtv4.com/premium/hockey/2000651382",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "산호세 샤크스",
+      "team2": "플로리다 팬서스",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "산호세 샤크스, 홈 평균 실점 1점의 수비력으로 접전 예상",
+      "ai_picks": [
+        "산호세 샤크스 승",
+        "산호세 샤크스 +1.5 승"
+      ],
+      "aria_label": "산호세 샤크스 vs 플로리다 팬서스 11:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "2000651384",
+      "url": "https://bbongtv4.com/premium/hockey/2000651384",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/2 (금)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밴쿠버 커넉스",
+      "team2": "에드먼턴 오일러스",
+      "score1": 7,
+      "score2": 9,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "에드먼턴 오일러스, 최근 4연승과 원정 무실점 행진이 강점",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "언더 6.5"
+      ],
+      "aria_label": "밴쿠버 커넉스 vs 에드먼턴 오일러스 11:00 분석 상세",
+      "source_date": "2026-10-02"
+    },
+    {
+      "id": "16501328",
+      "url": "https://bbongtv4.com/premium/soccer/16501328",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/2 (금)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "니카라과",
+      "team2": "코스타리카",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "draw": 40.0,
+        "away": 30.0
+      },
+      "ai_summary": "양 팀 모두 실점이 많고 최근 2연패, 접전 속 무승부 가능성 부각",
+      "ai_picks": [
+        "무승부",
+        "오버 2.5",
+        "니카라과 +1.5 승"
+      ],
+      "aria_label": "니카라과 vs 코스타리카 11:00 분석 상세",
       "source_date": "2026-10-02"
     }
   ]
