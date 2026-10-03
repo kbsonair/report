@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T23:59:02.434466+00:00",
+  "scraped_at": "2026-10-03T05:07:44.598454+00:00",
   "kst_yesterday": "2026-10-02",
   "kst_today": "2026-10-03",
   "kst_tomorrow": "2026-10-04",
@@ -8,7 +8,7 @@
     "2026-10-03",
     "2026-10-04"
   ],
-  "count": 157,
+  "count": 158,
   "matches": [
     {
       "id": "2006678998",
@@ -452,6 +452,32 @@
       "source_date": "2026-10-04"
     },
     {
+      "id": "2001042140",
+      "url": "https://bbongtv4.com/premium/basket/2001042140",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "토",
+      "team2": "토론토 랩터스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "1.86 대 1.94 원정 우위, 1.5점 핸디는 접전 신호",
+      "ai_picks": [
+        "마이애미 히트 승",
+        "언더 228.5",
+        "토론토 랩터스 +1.5 승"
+      ],
+      "aria_label": "토론토 랩터스 vs 마이애미 히트 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
       "id": "2000651388",
       "url": "https://bbongtv4.com/premium/hockey/2000651388",
       "sport": "hockey",
@@ -825,7 +851,9 @@
       },
       "ai_summary": "미국, 홈 3경기 평균득점 3점으로 공격력 우위 뚜렷",
       "ai_picks": [
-        "미국 승"
+        "미국 승",
+        "오버 2.5",
+        "멕시코 +0.5 승"
       ],
       "aria_label": "미국 vs 멕시코 11:10 분석 상세",
       "source_date": "2026-10-04"
@@ -849,7 +877,8 @@
       },
       "ai_summary": "사우스 이스트 멜버른, 평균 득실차 -3으로 일라와라보다 안정된 경기력",
       "ai_picks": [
-        "사우스 이스트 멜버른 승"
+        "사우스 이스트 멜버른 승",
+        "오버 191.5"
       ],
       "aria_label": "사우스 이스트 멜버른 vs 일라와라 호크스 13:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1045,7 +1074,8 @@
       },
       "ai_summary": "애들레이드, 홈에서 83-69 대승 포함 최근 흐름 우위",
       "ai_picks": [
-        "애들레이드 승"
+        "애들레이드 승",
+        "오버 181.5"
       ],
       "aria_label": "애들레이드 vs 뉴질랜드 브레이커스 15:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1712,12 +1742,12 @@
       "league": "CON  NL",
       "date": "10/3 (토)",
       "time": "07:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "수리남",
       "team2": "과테말라",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "draw": 20.0,
@@ -1738,12 +1768,12 @@
       "league": "ARG D1",
       "date": "10/3 (토)",
       "time": "07:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "인",
       "team2": "인디펜디엔테",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 33.0,
         "draw": 33.0,
@@ -1764,12 +1794,12 @@
       "league": "NHL",
       "date": "10/3 (토)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디트로이트 레드윙스",
       "team2": "NY 레인저스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1790,12 +1820,12 @@
       "league": "NHL",
       "date": "10/3 (토)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "캐롤라이나 허리케인스",
       "team2": "워싱턴 캐피털스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -1815,12 +1845,12 @@
       "league": "BRA D1",
       "date": "10/3 (토)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "상파울루",
       "team2": "산토스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 32.0,
         "draw": 28.0,
@@ -1842,12 +1872,12 @@
       "league": "NHL",
       "date": "10/3 (토)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "위니펙 제츠",
       "team2": "보스턴 브루인스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1867,12 +1897,12 @@
       "league": "CON  NL",
       "date": "10/3 (토)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "마르티니크",
       "team2": "온두라스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 23.0,
         "draw": 17.0,
@@ -1893,12 +1923,12 @@
       "league": "INTERF",
       "date": "10/3 (토)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜롬비아",
       "team2": "파라과이",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 1,
       "prob": {
         "home": 55.0,
         "draw": 25.0,
@@ -1919,12 +1949,12 @@
       "league": "ARG D1",
       "date": "10/3 (토)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "인디펜디엔테 리바다비아",
       "team2": "김",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 1,
       "prob": {
         "home": 48.0,
         "draw": 30.0,
@@ -1945,12 +1975,12 @@
       "league": "ARG D1",
       "date": "10/3 (토)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "보카 주니어스",
       "team2": "산타페 유니온",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 60.0,
         "draw": 25.0,
@@ -1965,18 +1995,43 @@
       "source_date": "2026-10-03"
     },
     {
+      "id": "2001068943",
+      "url": "https://bbongtv4.com/premium/basket/2001068943",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/3 (토)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "골든스테이트 발키리 여자",
+      "team2": "댈러스 윙스 여자",
+      "score1": 108,
+      "score2": 100,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "골든스테이트 발키리 여자, 홈 평균 실점 73.64로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 157.5"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 댈러스 윙스 여자 10:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
       "id": "2000651385",
       "url": "https://bbongtv4.com/premium/hockey/2000651385",
       "sport": "hockey",
       "league": "NHL",
       "date": "10/3 (토)",
       "time": "10:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "댈러스 스타스",
       "team2": "세인트루이스 블루스",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 4,
       "prob": {
         "home": 65.0,
         "away": 35.0
@@ -1996,12 +2051,12 @@
       "league": "NHL",
       "date": "10/3 (토)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "베가스 골든 나이츠",
       "team2": "애너하임 덕스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 4,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -2021,12 +2076,12 @@
       "league": "CON  NL",
       "date": "10/3 (토)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "엘살바도르",
       "team2": "자메이카",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 30.0,
         "draw": 25.0,
@@ -3395,31 +3450,6 @@
         "NY 레인저스 +1.5 승"
       ],
       "aria_label": "NY 레인저스 vs 탬파베이 라이트닝 08:00 분석 상세",
-      "source_date": "2026-10-02"
-    },
-    {
-      "id": "2001068943",
-      "url": "https://bbongtv4.com/premium/basket/2001068943",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/2 (금)",
-      "time": "09:00",
-      "status": "종료",
-      "result": "적중",
-      "team1": "골든스테이트 발키리 여자",
-      "team2": "댈러스 윙스 여자",
-      "score1": 108,
-      "score2": 100,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "골든스테이트 발키리 여자, 홈 평균 실점 73.64로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "골든스테이트 발키리 여자 승",
-        "오버 157.5"
-      ],
-      "aria_label": "골든스테이트 발키리 여자 vs 댈러스 윙스 여자 09:00 분석 상세",
       "source_date": "2026-10-02"
     },
     {
