@@ -1,215 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-04",
-  "scraped_at": "2026-10-03T18:35:29.540555+00:00",
+  "scraped_at": "2026-10-03T21:45:05.302704+00:00",
   "count": 52,
   "matches": [
-    {
-      "id": "2000643418",
-      "url": "https://bbongtv4.com/premium/hockey/2000643418",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/4 (일)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "소",
-      "team2": "소치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "away": 68.0
-      },
-      "ai_summary": "니즈니노브고로드 원정 평균실점 1.8, 소치 홈 득점력으로 접전 가능성",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "소치 vs 니즈니노브고로드 01:30 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000367538",
-      "url": "https://bbongtv4.com/premium/baseball/2000367538",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "10/4 (일)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "클리블랜드 가디언스",
-      "team2": "시카고 화이트삭스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "파커 메시크 방어율 2.56, 홈 마운드 우위가 경기 흐름에 영향",
-      "ai_picks": [
-        "클리블랜드 가디언스 승",
-        "오버 6.5"
-      ],
-      "aria_label": "클리블랜드 가디언스 vs 시카고 화이트삭스 02:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007253222",
-      "url": "https://bbongtv4.com/premium/soccer/2007253222",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "10/4 (일)",
-      "time": "02:45",
-      "status": "예정",
-      "result": null,
-      "team1": "데펜사 이 후스티시아",
-      "team2": "산 로렌소",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 24.0,
-        "away": 18.0
-      },
-      "ai_summary": "데펜사 이 후스티시아, 홈 4승1무 무패와 산 로렌소 원정 무득점 부진이 겹친다",
-      "ai_picks": [
-        "데펜사 이 후스티시아 승",
-        "언더 2"
-      ],
-      "aria_label": "데펜사 이 후스티시아 vs 산 로렌소 02:45 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "16504023",
-      "url": "https://bbongtv4.com/premium/soccer/16504023",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/4 (일)",
-      "time": "03:10",
-      "status": "예정",
-      "result": null,
-      "team1": "캐나다",
-      "team2": "페루",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 22.0,
-        "away": 18.0
-      },
-      "ai_summary": "캐나다, 홈 4승2무 흐름과 페루 원정 실점 2점대가 변수로 작용",
-      "ai_picks": [
-        "캐나다 승",
-        "오버 2.5"
-      ],
-      "aria_label": "캐나다 vs 페루 03:10 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2006679291",
-      "url": "https://bbongtv4.com/premium/soccer/2006679291",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스페인",
-      "team2": "체코",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 83.0,
-        "draw": 12.0,
-        "away": 5.0
-      },
-      "ai_summary": "스페인 최근 2경기 7득점, 홈에서 공격력 극대화된 흐름",
-      "ai_picks": [
-        "스페인 승",
-        "오버 3.5",
-        "스페인 -2.5 승"
-      ],
-      "aria_label": "스페인 vs 체코 03:45 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007261143",
-      "url": "https://bbongtv4.com/premium/soccer/2007261143",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "북마케도니아",
-      "team2": "스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 20.0,
-        "away": 65.0
-      },
-      "ai_summary": "스코틀랜드 원정 2경기 무패와 북마케도니아 5경기 무득점, 공격력 격차 뚜렷",
-      "ai_picks": [
-        "스코틀랜드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "북마케도니아 vs 스코틀랜드 03:45 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007261144",
-      "url": "https://bbongtv4.com/premium/soccer/2007261144",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스위스",
-      "team2": "슬로베니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "draw": 22.0,
-        "away": 10.0
-      },
-      "ai_summary": "스위스, 2경기 연속 3-0 완승에 무실점…공수 밸런스가 압도적",
-      "ai_picks": [
-        "스위스 승",
-        "언더 2.5"
-      ],
-      "aria_label": "스위스 vs 슬로베니아 03:45 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "16504041",
-      "url": "https://bbongtv4.com/premium/soccer/16504041",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/4 (일)",
-      "time": "04:00",
-      "status": "예정",
-      "result": null,
-      "team1": "코트디부아르",
-      "team2": "카메룬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 20.0,
-        "away": 20.0
-      },
-      "ai_summary": "코트디부아르 최근 4경기 9득점, 공격력 상승세가 배당에도 반영",
-      "ai_picks": [
-        "코트디부아르 승",
-        "오버 2.5"
-      ],
-      "aria_label": "코트디부아르 vs 카메룬 04:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
     {
       "id": "2000367852",
       "url": "https://bbongtv4.com/premium/baseball/2000367852",
@@ -1332,6 +1126,212 @@
         "룩셈부르크 -0.5 승"
       ],
       "aria_label": "에스토니아 vs 룩셈부르크 01:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000643418",
+      "url": "https://bbongtv4.com/premium/hockey/2000643418",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/4 (일)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소",
+      "team2": "소치",
+      "score1": 0,
+      "score2": 6,
+      "prob": {
+        "home": 32.0,
+        "away": 68.0
+      },
+      "ai_summary": "니즈니노브고로드 원정 평균실점 1.8, 소치 홈 득점력으로 접전 가능성",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "소치 vs 니즈니노브고로드 01:30 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000367538",
+      "url": "https://bbongtv4.com/premium/baseball/2000367538",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/4 (일)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "클리블랜드 가디언스",
+      "team2": "시카고 화이트삭스",
+      "score1": 0,
+      "score2": 3,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "파커 메시크 방어율 2.56, 홈 마운드 우위가 경기 흐름에 영향",
+      "ai_picks": [
+        "클리블랜드 가디언스 승",
+        "오버 6.5"
+      ],
+      "aria_label": "클리블랜드 가디언스 vs 시카고 화이트삭스 02:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007253222",
+      "url": "https://bbongtv4.com/premium/soccer/2007253222",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "10/4 (일)",
+      "time": "02:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "데펜사 이 후스티시아",
+      "team2": "산 로렌소",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "draw": 24.0,
+        "away": 18.0
+      },
+      "ai_summary": "데펜사 이 후스티시아, 홈 4승1무 무패와 산 로렌소 원정 무득점 부진이 겹친다",
+      "ai_picks": [
+        "데펜사 이 후스티시아 승",
+        "언더 2"
+      ],
+      "aria_label": "데펜사 이 후스티시아 vs 산 로렌소 02:45 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "16504023",
+      "url": "https://bbongtv4.com/premium/soccer/16504023",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/4 (일)",
+      "time": "03:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "캐나다",
+      "team2": "페루",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 60.0,
+        "draw": 22.0,
+        "away": 18.0
+      },
+      "ai_summary": "캐나다, 홈 4승2무 흐름과 페루 원정 실점 2점대가 변수로 작용",
+      "ai_picks": [
+        "캐나다 승",
+        "오버 2.5"
+      ],
+      "aria_label": "캐나다 vs 페루 03:10 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2006679291",
+      "url": "https://bbongtv4.com/premium/soccer/2006679291",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스페인",
+      "team2": "체코",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 83.0,
+        "draw": 12.0,
+        "away": 5.0
+      },
+      "ai_summary": "스페인 최근 2경기 7득점, 홈에서 공격력 극대화된 흐름",
+      "ai_picks": [
+        "스페인 승",
+        "오버 3.5",
+        "스페인 -2.5 승"
+      ],
+      "aria_label": "스페인 vs 체코 03:45 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007261143",
+      "url": "https://bbongtv4.com/premium/soccer/2007261143",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "북마케도니아",
+      "team2": "스",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 20.0,
+        "away": 65.0
+      },
+      "ai_summary": "스코틀랜드 원정 2경기 무패와 북마케도니아 5경기 무득점, 공격력 격차 뚜렷",
+      "ai_picks": [
+        "스코틀랜드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "북마케도니아 vs 스코틀랜드 03:45 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007261144",
+      "url": "https://bbongtv4.com/premium/soccer/2007261144",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스위스",
+      "team2": "슬로베니아",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 68.0,
+        "draw": 22.0,
+        "away": 10.0
+      },
+      "ai_summary": "스위스, 2경기 연속 3-0 완승에 무실점…공수 밸런스가 압도적",
+      "ai_picks": [
+        "스위스 승",
+        "언더 2.5"
+      ],
+      "aria_label": "스위스 vs 슬로베니아 03:45 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "16504041",
+      "url": "https://bbongtv4.com/premium/soccer/16504041",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/4 (일)",
+      "time": "04:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "코트디부아르",
+      "team2": "카메룬",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "draw": 20.0,
+        "away": 20.0
+      },
+      "ai_summary": "코트디부아르 최근 4경기 9득점, 공격력 상승세가 배당에도 반영",
+      "ai_picks": [
+        "코트디부아르 승",
+        "오버 2.5"
+      ],
+      "aria_label": "코트디부아르 vs 카메룬 04:00 분석 상세",
       "source_date": "2026-10-04"
     }
   ]
