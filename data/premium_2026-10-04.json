@@ -1,114 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-10-04",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-04",
-  "scraped_at": "2026-10-03T14:54:41.930689+00:00",
+  "scraped_at": "2026-10-03T18:35:29.540555+00:00",
   "count": 52,
   "matches": [
-    {
-      "id": "2006678998",
-      "url": "https://bbongtv4.com/premium/soccer/2006678998",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "벨라루스",
-      "team2": "산 마리노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 78.0,
-        "draw": 17.0,
-        "away": 5.0
-      },
-      "ai_summary": "조별 실점 2 대 10 격차, 벨라루스 우위 속 득점력 검증 필요",
-      "ai_picks": [
-        "벨라루스 승",
-        "언더 3.5",
-        "산 마리노 +2.5 승"
-      ],
-      "aria_label": "벨라루스 vs 산 마리노 01:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2006679287",
-      "url": "https://bbongtv4.com/premium/soccer/2006679287",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아이슬란드",
-      "team2": "불가리아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "아이슬란드, 최근 6경기 4득점·실점 최소로 수비 안정감 뚜렷",
-      "ai_picks": [
-        "아이슬란드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아이슬란드 vs 불가리아 01:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007260981",
-      "url": "https://bbongtv4.com/premium/soccer/2007260981",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "크로아티아",
-      "team2": "잉글랜드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 23.0,
-        "draw": 20.0,
-        "away": 57.0
-      },
-      "ai_summary": "잉글랜드 최근 6경기 득실 +6, 크로아티아는 -2로 흐름 차이 뚜렷",
-      "ai_picks": [
-        "잉글랜드 승",
-        "오버 2.5"
-      ],
-      "aria_label": "크로아티아 vs 잉글랜드 01:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007261145",
-      "url": "https://bbongtv4.com/premium/soccer/2007261145",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/4 (일)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에스토니아",
-      "team2": "룩셈부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 28.0,
-        "draw": 32.0,
-        "away": 40.0
-      },
-      "ai_summary": "에스토니아 2경기 1실점, 룩셈부르크 원정 2연승 흐름이 맞붙는다",
-      "ai_picks": [
-        "언더 2.5",
-        "룩셈부르크 -0.5 승"
-      ],
-      "aria_label": "에스토니아 vs 룩셈부르크 01:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
     {
       "id": "2000643418",
       "url": "https://bbongtv4.com/premium/hockey/2000643418",
@@ -1332,6 +1227,111 @@
         "스파르타크 모스크바 승"
       ],
       "aria_label": "스파르타크 모스크바 vs 바리스 아스타나 23:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2006678998",
+      "url": "https://bbongtv4.com/premium/soccer/2006678998",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "벨라루스",
+      "team2": "산 마리노",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 78.0,
+        "draw": 17.0,
+        "away": 5.0
+      },
+      "ai_summary": "조별 실점 2 대 10 격차, 벨라루스 우위 속 득점력 검증 필요",
+      "ai_picks": [
+        "벨라루스 승",
+        "언더 3.5",
+        "산 마리노 +2.5 승"
+      ],
+      "aria_label": "벨라루스 vs 산 마리노 01:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2006679287",
+      "url": "https://bbongtv4.com/premium/soccer/2006679287",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아이슬란드",
+      "team2": "불가리아",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "아이슬란드, 최근 6경기 4득점·실점 최소로 수비 안정감 뚜렷",
+      "ai_picks": [
+        "아이슬란드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아이슬란드 vs 불가리아 01:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007260981",
+      "url": "https://bbongtv4.com/premium/soccer/2007260981",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "크로아티아",
+      "team2": "잉글랜드",
+      "score1": 0,
+      "score2": 7,
+      "prob": {
+        "home": 23.0,
+        "draw": 20.0,
+        "away": 57.0
+      },
+      "ai_summary": "잉글랜드 최근 6경기 득실 +6, 크로아티아는 -2로 흐름 차이 뚜렷",
+      "ai_picks": [
+        "잉글랜드 승",
+        "오버 2.5"
+      ],
+      "aria_label": "크로아티아 vs 잉글랜드 01:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007261145",
+      "url": "https://bbongtv4.com/premium/soccer/2007261145",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/4 (일)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에스토니아",
+      "team2": "룩셈부르크",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 28.0,
+        "draw": 32.0,
+        "away": 40.0
+      },
+      "ai_summary": "에스토니아 2경기 1실점, 룩셈부르크 원정 2연승 흐름이 맞붙는다",
+      "ai_picks": [
+        "언더 2.5",
+        "룩셈부르크 -0.5 승"
+      ],
+      "aria_label": "에스토니아 vs 룩셈부르크 01:00 분석 상세",
       "source_date": "2026-10-04"
     }
   ]

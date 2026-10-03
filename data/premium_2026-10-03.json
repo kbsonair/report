@@ -1,235 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-10-03",
   "source_date": "2026-10-03",
-  "scraped_at": "2026-10-03T14:54:39.768105+00:00",
+  "scraped_at": "2026-10-03T18:35:30.874362+00:00",
   "count": 66,
   "matches": [
-    {
-      "id": "2006679352",
-      "url": "https://bbongtv4.com/premium/soccer/2006679352",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/3 (토)",
-      "time": "22:00",
-      "status": "예정",
-      "result": null,
-      "team1": "핀란드",
-      "team2": "알바니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 35.0,
-        "away": 27.0
-      },
-      "ai_summary": "양 팀 모두 무실점 행진, 핀란드 홈 득점력과 알바니아 안정감이 맞선다",
-      "ai_picks": [
-        "언더 2.5",
-        "핀란드 승"
-      ],
-      "aria_label": "핀란드 vs 알바니아 22:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643414",
-      "url": "https://bbongtv4.com/premium/hockey/2000643414",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "체",
-      "team2": "체레포베츠",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "체레포베츠 홈 평균 실점 1.6, 상하이 원정 실점 4.25로 수비력 차이 뚜렷",
-      "ai_picks": [
-        "체레포베츠 승"
-      ],
-      "aria_label": "체레포베츠 vs 상하이 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643415",
-      "url": "https://bbongtv4.com/premium/hockey/2000643415",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "모",
-      "team2": "CSKA 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "CSKA 모스크바 최근 6연승, 득점력과 안정된 수비 모두 앞선다",
-      "ai_picks": [
-        "CSKA 모스크바 승"
-      ],
-      "aria_label": "CSKA 모스크바 vs 디나모 모스크바 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643417",
-      "url": "https://bbongtv4.com/premium/hockey/2000643417",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "SKA 상트페테르부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "SKA 상트페테르부르크, 홈 4승 무패와 평균득점 4.5로 압도적 우위",
-      "ai_picks": [
-        "SKA 상트페테르부르크 승"
-      ],
-      "aria_label": "SKA 상트페테르부르크 vs 블라디보스토크 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007259548",
-      "url": "https://bbongtv4.com/premium/soccer/2007259548",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "케",
-      "team2": "케터링",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 28.0,
-        "away": 32.0
-      },
-      "ai_summary": "양 팀 최근 3경기 모두 실점, 언더 3.5 배당이 낮은 이유 주목",
-      "ai_picks": [
-        "언더 3.5",
-        "우스터 +1.5 승"
-      ],
-      "aria_label": "케터링 vs 우스터 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007259550",
-      "url": "https://bbongtv4.com/premium/soccer/2007259550",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "레",
-      "team2": "레이스턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 63.0,
-        "draw": 20.0,
-        "away": 17.0
-      },
-      "ai_summary": "코번트리 유나이티드 8명 결장, 레이스턴의 홈 강세가 변수로 작용",
-      "ai_picks": [
-        "레이스턴 승",
-        "오버 2.5"
-      ],
-      "aria_label": "레이스턴 vs 코번트리 유나이티드 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007260232",
-      "url": "https://bbongtv4.com/premium/soccer/2007260232",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "크",
-      "team2": "크레이 원더러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "draw": 30.0,
-        "away": 23.0
-      },
-      "ai_summary": "크레이 원더러스 홈 2경기 평균실점 0.5, 수비 안정감이 변수",
-      "ai_picks": [
-        "크레이 원더러스 승",
-        "언더 3",
-        "치펜햄 +1.5 승"
-      ],
-      "aria_label": "크레이 원더러스 vs 치펜햄 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2007260238",
-      "url": "https://bbongtv4.com/premium/soccer/2007260238",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/3 (토)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트루로",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 25.0,
-        "away": 27.0
-      },
-      "ai_summary": "트루로 홈 3연승, 평균득점 2.67로 공격력 앞선다",
-      "ai_picks": [
-        "트루로 승"
-      ],
-      "aria_label": "트루로 vs 시렌세스터 23:00 분석 상세",
-      "source_date": "2026-10-03"
-    },
-    {
-      "id": "2000643416",
-      "url": "https://bbongtv4.com/premium/hockey/2000643416",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/3 (토)",
-      "time": "23:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "로코모티프 야로슬라블, 원정 4승1패와 실점 억제로 우세 흐름",
-      "ai_picks": [
-        "로코모티프 야로슬라블 승"
-      ],
-      "aria_label": "디나모 민스크 vs 로코모티프 야로슬라블 23:10 분석 상세",
-      "source_date": "2026-10-03"
-    },
     {
       "id": "2000643409",
       "url": "https://bbongtv4.com/premium/hockey/2000643409",
@@ -1693,6 +1467,232 @@
         "오버 2.5"
       ],
       "aria_label": "카시와 레이솔 vs 감바 오사카 19:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2006679352",
+      "url": "https://bbongtv4.com/premium/soccer/2006679352",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/3 (토)",
+      "time": "22:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "핀란드",
+      "team2": "알바니아",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 38.0,
+        "draw": 35.0,
+        "away": 27.0
+      },
+      "ai_summary": "양 팀 모두 무실점 행진, 핀란드 홈 득점력과 알바니아 안정감이 맞선다",
+      "ai_picks": [
+        "언더 2.5",
+        "핀란드 승"
+      ],
+      "aria_label": "핀란드 vs 알바니아 22:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643414",
+      "url": "https://bbongtv4.com/premium/hockey/2000643414",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "체",
+      "team2": "체레포베츠",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "체레포베츠 홈 평균 실점 1.6, 상하이 원정 실점 4.25로 수비력 차이 뚜렷",
+      "ai_picks": [
+        "체레포베츠 승"
+      ],
+      "aria_label": "체레포베츠 vs 상하이 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643415",
+      "url": "https://bbongtv4.com/premium/hockey/2000643415",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "모",
+      "team2": "CSKA 모스크바",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "CSKA 모스크바 최근 6연승, 득점력과 안정된 수비 모두 앞선다",
+      "ai_picks": [
+        "CSKA 모스크바 승"
+      ],
+      "aria_label": "CSKA 모스크바 vs 디나모 모스크바 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643417",
+      "url": "https://bbongtv4.com/premium/hockey/2000643417",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "상",
+      "team2": "SKA 상트페테르부르크",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "SKA 상트페테르부르크, 홈 4승 무패와 평균득점 4.5로 압도적 우위",
+      "ai_picks": [
+        "SKA 상트페테르부르크 승"
+      ],
+      "aria_label": "SKA 상트페테르부르크 vs 블라디보스토크 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007259548",
+      "url": "https://bbongtv4.com/premium/soccer/2007259548",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "케",
+      "team2": "케터링",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "draw": 28.0,
+        "away": 32.0
+      },
+      "ai_summary": "양 팀 최근 3경기 모두 실점, 언더 3.5 배당이 낮은 이유 주목",
+      "ai_picks": [
+        "언더 3.5",
+        "우스터 +1.5 승"
+      ],
+      "aria_label": "케터링 vs 우스터 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007259550",
+      "url": "https://bbongtv4.com/premium/soccer/2007259550",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레",
+      "team2": "레이스턴",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 63.0,
+        "draw": 20.0,
+        "away": 17.0
+      },
+      "ai_summary": "코번트리 유나이티드 8명 결장, 레이스턴의 홈 강세가 변수로 작용",
+      "ai_picks": [
+        "레이스턴 승",
+        "오버 2.5"
+      ],
+      "aria_label": "레이스턴 vs 코번트리 유나이티드 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007260232",
+      "url": "https://bbongtv4.com/premium/soccer/2007260232",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "크",
+      "team2": "크레이 원더러스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 47.0,
+        "draw": 30.0,
+        "away": 23.0
+      },
+      "ai_summary": "크레이 원더러스 홈 2경기 평균실점 0.5, 수비 안정감이 변수",
+      "ai_picks": [
+        "크레이 원더러스 승",
+        "언더 3",
+        "치펜햄 +1.5 승"
+      ],
+      "aria_label": "크레이 원더러스 vs 치펜햄 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2007260238",
+      "url": "https://bbongtv4.com/premium/soccer/2007260238",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/3 (토)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "트",
+      "team2": "트루로",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 25.0,
+        "away": 27.0
+      },
+      "ai_summary": "트루로 홈 3연승, 평균득점 2.67로 공격력 앞선다",
+      "ai_picks": [
+        "트루로 승"
+      ],
+      "aria_label": "트루로 vs 시렌세스터 23:00 분석 상세",
+      "source_date": "2026-10-03"
+    },
+    {
+      "id": "2000643416",
+      "url": "https://bbongtv4.com/premium/hockey/2000643416",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/3 (토)",
+      "time": "23:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디",
+      "team2": "디나모 민스크",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "로코모티프 야로슬라블, 원정 4승1패와 실점 억제로 우세 흐름",
+      "ai_picks": [
+        "로코모티프 야로슬라블 승"
+      ],
+      "aria_label": "디나모 민스크 vs 로코모티프 야로슬라블 23:10 분석 상세",
       "source_date": "2026-10-03"
     }
   ]
