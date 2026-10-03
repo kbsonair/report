@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T10:28:09.871166+00:00",
+  "scraped_at": "2026-10-03T14:54:42.012844+00:00",
   "kst_yesterday": "2026-10-02",
   "kst_today": "2026-10-03",
   "kst_tomorrow": "2026-10-04",
@@ -902,7 +902,8 @@
       },
       "ai_summary": "홈 평균득점 5.9 대 원정 4.33, 한화 득점 기대가 앞선다",
       "ai_picks": [
-        "한화 이글스 승"
+        "한화 이글스 승",
+        "오버 9.5"
       ],
       "aria_label": "한화 이글스 vs 키움 히어로즈 14:00 분석 상세",
       "source_date": "2026-10-04"
@@ -926,7 +927,9 @@
       },
       "ai_summary": "KIA 타이거즈, 시즌 득실차 +0.69로 LG 트윈스보다 안정적",
       "ai_picks": [
-        "KIA 타이거즈 승"
+        "KIA 타이거즈 승",
+        "KIA 타이거즈 +1.5 승",
+        "언더 9.5"
       ],
       "aria_label": "LG 트윈스 vs KIA 타이거즈 14:00 분석 상세",
       "source_date": "2026-10-04"
@@ -950,7 +953,8 @@
       },
       "ai_summary": "SSG 랜더스, 최근 3연승과 원정 실점 억제로 우세 흐름",
       "ai_picks": [
-        "SSG 랜더스 승"
+        "SSG 랜더스 승",
+        "오버 9.5"
       ],
       "aria_label": "NC 다이노스 vs SSG 랜더스 14:00 분석 상세",
       "source_date": "2026-10-04"
@@ -974,7 +978,8 @@
       },
       "ai_summary": "홈 10승4패와 원정 3승7패, 삼성의 장소 이점이 더 선명하다",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "오버 9.5"
       ],
       "aria_label": "삼성 라이온즈 vs 두산 베어스 14:00 분석 상세",
       "source_date": "2026-10-04"
@@ -998,7 +1003,8 @@
       },
       "ai_summary": "최근 2연승 맞대결, 원주 DB는 103점·101점 득점으로 홈 우위",
       "ai_picks": [
-        "원주 DB 승"
+        "원주 DB 승",
+        "오버 165.5"
       ],
       "aria_label": "원주 DB vs 고양 소노 14:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1099,7 +1105,9 @@
       },
       "ai_summary": "수원 KT, 최근 2경기 모두 패배 속 실점 114점 등 수비 불안 노출",
       "ai_picks": [
-        "수원 KT 승"
+        "수원 KT 승",
+        "오버 168.5",
+        "수원 KT -3.5 승"
       ],
       "aria_label": "수원 KT vs 서울 삼성 16:30 분석 상세",
       "source_date": "2026-10-04"
@@ -1123,7 +1131,9 @@
       },
       "ai_summary": "84승 선두 KT, 맞대결 3경기 모두 우위라 홈 신뢰가 높다",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "언더 9.5",
+        "KT 위즈 -1.5 승"
       ],
       "aria_label": "KT 위즈 vs 롯데 자이언츠 17:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1147,7 +1157,9 @@
       },
       "ai_summary": "전체 득실차는 라쿠텐 우위, 최근 맞대결도 팽팽",
       "ai_picks": [
-        "라쿠텐 골든 이글스 승"
+        "라쿠텐 골든 이글스 승",
+        "언더 7.5",
+        "치바 롯데 마리너스 +1.5 승"
       ],
       "aria_label": "치바 롯데 마리너스 vs 라쿠텐 골든 이글스 18:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1171,7 +1183,9 @@
       },
       "ai_summary": "히로시마 최근 6경기 5승, 원정 평균득점 3.53이 앞선다",
       "ai_picks": [
-        "히로시마 카프 승"
+        "히로시마 카프 승",
+        "오버 6.5",
+        "야쿠르트 스왈로즈 +1.5 승"
       ],
       "aria_label": "야쿠르트 스왈로즈 vs 히로시마 카프 18:00 분석 상세",
       "source_date": "2026-10-04"
@@ -1195,7 +1209,9 @@
       },
       "ai_summary": "요코하마 베이스타즈, 홈 평균득점 4.53으로 공격력 앞서",
       "ai_picks": [
-        "요코하마 베이스타즈 승"
+        "요코하마 베이스타즈 승",
+        "오버 7.5",
+        "요코하마 베이스타즈 +1.5 승"
       ],
       "aria_label": "요코하마 베이스타즈 vs 한신 타이거스 18:00 분석 상세",
       "source_date": "2026-10-04"
@@ -2515,12 +2531,12 @@
       "league": "호주 NBL",
       "date": "10/3 (토)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "브",
       "team2": "브리즈번 불릿스",
-      "score1": null,
-      "score2": null,
+      "score1": 99,
+      "score2": 109,
       "prob": {
         "home": 68.0,
         "away": 32.0
@@ -2540,12 +2556,12 @@
       "league": "KBL",
       "date": "10/3 (토)",
       "time": "16:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "안",
       "team2": "안양 정관장",
-      "score1": null,
-      "score2": null,
+      "score1": 88,
+      "score2": 85,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -2565,12 +2581,12 @@
       "league": "JPN D2",
       "date": "10/3 (토)",
       "time": "17:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "오이타 트리니타",
       "team2": "몬테디오 야마가타",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 32.0,
         "draw": 35.0,
@@ -2591,12 +2607,12 @@
       "league": "JPN D2",
       "date": "10/3 (토)",
       "time": "17:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토치기 시티",
       "team2": "이마바리",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 54.0,
         "draw": 27.0,
@@ -2617,12 +2633,12 @@
       "league": "K리그3",
       "date": "10/3 (토)",
       "time": "17:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "울",
       "team2": "울산 시민",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 18.0,
         "draw": 20.0,
@@ -2643,12 +2659,12 @@
       "league": "NPB",
       "date": "10/3 (토)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "라쿠텐 골든 이글스",
       "team2": "오릭스 버팔로스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 0,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -2668,12 +2684,12 @@
       "league": "NPB",
       "date": "10/3 (토)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "치바 롯데 마리너스",
       "team2": "후쿠오카 소프트뱅크 호크스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 28.0,
         "away": 72.0
@@ -2719,12 +2735,12 @@
       "league": "NPB",
       "date": "10/3 (토)",
       "time": "18:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "요미우리 자이언츠",
       "team2": "요코하마 베이스타즈",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -2745,12 +2761,12 @@
       "league": "호주 NBL",
       "date": "10/3 (토)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "멜",
       "team2": "멜버른 유나이티드",
-      "score1": null,
-      "score2": null,
+      "score1": 95,
+      "score2": 107,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -2770,12 +2786,12 @@
       "league": "JLC",
       "date": "10/3 (토)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "카시와 레이솔",
       "team2": "감바 오사카",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 3,
       "prob": {
         "home": 60.0,
         "draw": 25.0,
