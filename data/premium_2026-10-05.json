@@ -1,167 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-05",
-  "scraped_at": "2026-10-04T20:15:27.760085+00:00",
+  "scraped_at": "2026-10-04T23:17:41.121398+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "2001068945",
-      "url": "https://bbongtv4.com/premium/basket/2001068945",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/5 (월)",
-      "time": "03:00",
-      "status": "예정",
-      "result": null,
-      "team1": "애틀랜타 드림 여자",
-      "team2": "뉴욕 리버티 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "애틀랜타 드림 여자, 최근 6연승과 홈 평균 95.18점의 강세가 변수",
-      "ai_picks": [
-        "애틀랜타 드림 여자 승",
-        "오버 173.5",
-        "애틀랜타 드림 여자 -3.5 승"
-      ],
-      "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 03:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006679042",
-      "url": "https://bbongtv4.com/premium/soccer/2006679042",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "그리스",
-      "team2": "독일",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 32.0,
-        "away": 30.0
-      },
-      "ai_summary": "그리스, 최근 맞대결 1-0 승리와 홈 무패로 독일에 우세한 흐름",
-      "ai_picks": [
-        "그리스 승",
-        "오버 2.5"
-      ],
-      "aria_label": "그리스 vs 독일 03:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006679047",
-      "url": "https://bbongtv4.com/premium/soccer/2006679047",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "네덜란드",
-      "team2": "세르비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 25.0,
-        "away": 15.0
-      },
-      "ai_summary": "네덜란드 최근 5경기 무패, 세르비아 3연패로 분위기 대조",
-      "ai_picks": [
-        "네덜란드 승",
-        "언더 3.5",
-        "세르비아 +2.5 승"
-      ],
-      "aria_label": "네덜란드 vs 세르비아 03:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006679284",
-      "url": "https://bbongtv4.com/premium/soccer/2006679284",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "아일랜드",
-      "team2": "이스라엘",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 25.0,
-        "away": 15.0
-      },
-      "ai_summary": "아일랜드, 최근 맞대결 3-0 승리와 홈 무패 흐름이 우세 근거",
-      "ai_picks": [
-        "아일랜드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아일랜드 vs 이스라엘 03:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006679313",
-      "url": "https://bbongtv4.com/premium/soccer/2006679313",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "포르투갈",
-      "team2": "노르웨이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "draw": 20.0,
-        "away": 15.0
-      },
-      "ai_summary": "포르투갈, 홈 3전 전승과 득실 우위로 안정적 리드 유지",
-      "ai_picks": [
-        "포르투갈 승",
-        "언더 3.5"
-      ],
-      "aria_label": "포르투갈 vs 노르웨이 03:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2007261695",
-      "url": "https://bbongtv4.com/premium/soccer/2007261695",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "웨",
-      "team2": "웨일스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "덴마크, 최근 맞대결 2-0 승리와 공격력에서 우위 보여",
-      "ai_picks": [
-        "덴마크 승",
-        "오버 2.5",
-        "덴마크 -0.5 승"
-      ],
-      "aria_label": "웨일스 vs 덴마크 03:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
     {
       "id": "2000367578",
       "url": "https://bbongtv4.com/premium/baseball/2000367578",
@@ -186,58 +28,6 @@
         "샌디에이고 파드레스 +1.5 승"
       ],
       "aria_label": "밀워키 브루어스 vs 샌디에이고 파드레스 05:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2001069208",
-      "url": "https://bbongtv4.com/premium/basket/2001069208",
-      "sport": "basket",
-      "league": "WNBA",
-      "date": "10/5 (월)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "골",
-      "team2": "골든스테이트 발키리 여자",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "라스베가스 에이시스 여자, 최근 맞대결 3연승과 평균 10점 차 우위",
-      "ai_picks": [
-        "라스베가스 에이시스 여자 승",
-        "언더 161.5"
-      ],
-      "aria_label": "골든스테이트 발키리 여자 vs 라스베가스 에이시스 여자 05:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2007258303",
-      "url": "https://bbongtv4.com/premium/soccer/2007258303",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "10/5 (월)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "타예레스 코르도바",
-      "team2": "벨그라노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 30.0,
-        "away": 45.0
-      },
-      "ai_summary": "벨그라노, 최근 3경기 기대득점 2.73으로 공격 효율 앞서",
-      "ai_picks": [
-        "벨그라노 승",
-        "언더 2",
-        "벨그라노 +0.5 승"
-      ],
-      "aria_label": "타예레스 코르도바 vs 벨그라노 05:00 분석 상세",
       "source_date": "2026-10-05"
     },
     {
@@ -866,6 +656,216 @@
         "언더 2"
       ],
       "aria_label": "우라칸 vs 알도시비 02:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2001068945",
+      "url": "https://bbongtv4.com/premium/basket/2001068945",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/5 (월)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타 드림 여자",
+      "team2": "뉴욕 리버티 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "애틀랜타 드림 여자, 최근 6연승과 홈 평균 95.18점의 강세가 변수",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승",
+        "오버 173.5",
+        "애틀랜타 드림 여자 -3.5 승"
+      ],
+      "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 03:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006679042",
+      "url": "https://bbongtv4.com/premium/soccer/2006679042",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "그리스",
+      "team2": "독일",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "그리스, 최근 맞대결 1-0 승리와 홈 무패로 독일에 우세한 흐름",
+      "ai_picks": [
+        "그리스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "그리스 vs 독일 03:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006679047",
+      "url": "https://bbongtv4.com/premium/soccer/2006679047",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "네덜란드",
+      "team2": "세르비아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 25.0,
+        "away": 15.0
+      },
+      "ai_summary": "네덜란드 최근 5경기 무패, 세르비아 3연패로 분위기 대조",
+      "ai_picks": [
+        "네덜란드 승",
+        "언더 3.5",
+        "세르비아 +2.5 승"
+      ],
+      "aria_label": "네덜란드 vs 세르비아 03:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006679284",
+      "url": "https://bbongtv4.com/premium/soccer/2006679284",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "아일랜드",
+      "team2": "이스라엘",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 25.0,
+        "away": 15.0
+      },
+      "ai_summary": "아일랜드, 최근 맞대결 3-0 승리와 홈 무패 흐름이 우세 근거",
+      "ai_picks": [
+        "아일랜드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아일랜드 vs 이스라엘 03:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006679313",
+      "url": "https://bbongtv4.com/premium/soccer/2006679313",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "포르투갈",
+      "team2": "노르웨이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 20.0,
+        "away": 15.0
+      },
+      "ai_summary": "포르투갈, 홈 3전 전승과 득실 우위로 안정적 리드 유지",
+      "ai_picks": [
+        "포르투갈 승",
+        "언더 3.5"
+      ],
+      "aria_label": "포르투갈 vs 노르웨이 03:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2007261695",
+      "url": "https://bbongtv4.com/premium/soccer/2007261695",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "웨",
+      "team2": "웨일스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "덴마크, 최근 맞대결 2-0 승리와 공격력에서 우위 보여",
+      "ai_picks": [
+        "덴마크 승",
+        "오버 2.5",
+        "덴마크 -0.5 승"
+      ],
+      "aria_label": "웨일스 vs 덴마크 03:45 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2001069208",
+      "url": "https://bbongtv4.com/premium/basket/2001069208",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/5 (월)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "골",
+      "team2": "골든스테이트 발키리 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "라스베가스 에이시스 여자, 최근 맞대결 3연승과 평균 10점 차 우위",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승",
+        "언더 161.5"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 라스베가스 에이시스 여자 05:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2007258303",
+      "url": "https://bbongtv4.com/premium/soccer/2007258303",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "10/5 (월)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "타예레스 코르도바",
+      "team2": "벨그라노",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "draw": 30.0,
+        "away": 45.0
+      },
+      "ai_summary": "벨그라노, 최근 3경기 기대득점 2.73으로 공격 효율 앞서",
+      "ai_picks": [
+        "벨그라노 승",
+        "언더 2",
+        "벨그라노 +0.5 승"
+      ],
+      "aria_label": "타예레스 코르도바 vs 벨그라노 05:00 분석 상세",
       "source_date": "2026-10-05"
     },
     {
