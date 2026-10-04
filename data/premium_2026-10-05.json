@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-05",
   "source_date": "2026-10-05",
-  "scraped_at": "2026-10-03T21:45:07.497222+00:00",
-  "count": 31,
+  "scraped_at": "2026-10-04T00:24:26.050998+00:00",
+  "count": 33,
   "matches": [
     {
       "id": "2001049395",
@@ -186,6 +186,30 @@
       "source_date": "2026-10-05"
     },
     {
+      "id": "2001068945",
+      "url": "https://bbongtv4.com/premium/basket/2001068945",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/5 (월)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타 드림 여자",
+      "team2": "뉴욕 리버티 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "애틀랜타 드림 여자, 최근 6연승과 홈 평균 95.18점의 강세가 변수",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승"
+      ],
+      "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 03:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
       "id": "2006679042",
       "url": "https://bbongtv4.com/premium/soccer/2006679042",
       "sport": "soccer",
@@ -342,6 +366,30 @@
       "source_date": "2026-10-05"
     },
     {
+      "id": "2001069208",
+      "url": "https://bbongtv4.com/premium/basket/2001069208",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/5 (월)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "골",
+      "team2": "골든스테이트 발키리 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "라스베가스 에이시스 여자, 최근 맞대결 3연승과 평균 10점 차 우위",
+      "ai_picks": [
+        "라스베가스 에이시스 여자 승"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 라스베가스 에이시스 여자 05:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
       "id": "2007258303",
       "url": "https://bbongtv4.com/premium/soccer/2007258303",
       "sport": "soccer",
@@ -438,7 +486,8 @@
       },
       "ai_summary": "LA 다저스, 홈 평균득점 5.93으로 공격력 우위 뚜렷",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "언더 7.5"
       ],
       "aria_label": "LA 다저스 vs 애틀란타 브레이브스 09:00 분석 상세",
       "source_date": "2026-10-05"

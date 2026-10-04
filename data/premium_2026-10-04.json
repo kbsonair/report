@@ -1,113 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-04",
-  "scraped_at": "2026-10-03T21:45:05.302704+00:00",
-  "count": 52,
+  "scraped_at": "2026-10-04T00:24:23.232770+00:00",
+  "count": 64,
   "matches": [
-    {
-      "id": "2000367852",
-      "url": "https://bbongtv4.com/premium/baseball/2000367852",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "10/4 (일)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "다",
-      "team2": "LA 다저스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "LA 다저스, 홈 평균득점 5.93으로 강한 공격력 유지",
-      "ai_picks": [
-        "LA 다저스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "LA 다저스 vs 애틀란타 브레이브스 05:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007253223",
-      "url": "https://bbongtv4.com/premium/soccer/2007253223",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "10/4 (일)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "아틀레티코 투쿠만",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "아틀레티코 투쿠만 홈 5경기 무승, 저득점 경향이 무승부 가능성 높인다",
-      "ai_picks": [
-        "무승부",
-        "언더 1.5"
-      ],
-      "aria_label": "아틀레티코 투쿠만 vs 바라카스 센트럴 05:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007253224",
-      "url": "https://bbongtv4.com/premium/soccer/2007253224",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "10/4 (일)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "뉴",
-      "team2": "뉴웰스 올드 보이즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 35.0,
-        "away": 32.0
-      },
-      "ai_summary": "양 팀 승점·득실차 동률, 홈 강세와 라누스 원정 득점력이 변수",
-      "ai_picks": [
-        "무승부",
-        "오버 1.5",
-        "뉴웰스 올드 보이즈 +0.5 승"
-      ],
-      "aria_label": "뉴웰스 올드 보이즈 vs 라누스 05:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2007107821",
-      "url": "https://bbongtv4.com/premium/soccer/2007107821",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "10/4 (일)",
-      "time": "06:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "아틀레치쿠 미네이루",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 29.0,
-        "away": 23.0
-      },
-      "ai_summary": "아틀레치쿠 미네이루, 홈 5경기 평균득점 2로 공격력 앞선다",
-      "ai_picks": [
-        "아틀레치쿠 미네이루 승",
-        "언더 2.5"
-      ],
-      "aria_label": "아틀레치쿠 미네이루 vs 브라간치노 06:30 분석 상세",
-      "source_date": "2026-10-04"
-    },
     {
       "id": "2000367541",
       "url": "https://bbongtv4.com/premium/baseball/2000367541",
@@ -567,6 +463,30 @@
       "source_date": "2026-10-04"
     },
     {
+      "id": "2001037344",
+      "url": "https://bbongtv4.com/premium/basket/2001037344",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "13:10",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시마네",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "다이아몬드 돌핀스, 최근 3경기 12점 이상 격차로 연승하며 상승세",
+      "ai_picks": [
+        "다이아몬드 돌핀스 승"
+      ],
+      "aria_label": "시마네 vs 다이아몬드 돌핀스 13:10 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
       "id": "2000355907",
       "url": "https://bbongtv4.com/premium/baseball/2000355907",
       "sport": "baseball",
@@ -745,6 +665,198 @@
       "source_date": "2026-10-04"
     },
     {
+      "id": "2001037345",
+      "url": "https://bbongtv4.com/premium/basket/2001037345",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "알",
+      "team2": "알티리 치바",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 67.0,
+        "away": 33.0
+      },
+      "ai_summary": "알티리 치바, 최근 맞대결 99-90 승리로 분위기 반전",
+      "ai_picks": [
+        "알티리 치바 승"
+      ],
+      "aria_label": "알티리 치바 vs 브레이브 썬더스 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037347",
+      "url": "https://bbongtv4.com/premium/basket/2001037347",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "레",
+      "team2": "레반가 홋카이도",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "108-105 직전 맞대결, 홈 득점력 앞선 홋카이도 우위",
+      "ai_picks": [
+        "레반가 홋카이도 승"
+      ],
+      "aria_label": "레반가 홋카이도 vs 센다이 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037348",
+      "url": "https://bbongtv4.com/premium/basket/2001037348",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "오",
+      "team2": "오사카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시호스 미카와, 최근 2연승과 맞대결 대승으로 분위기 우위",
+      "ai_picks": [
+        "시호스 미카와 승"
+      ],
+      "aria_label": "오사카 vs 시호스 미카와 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037349",
+      "url": "https://bbongtv4.com/premium/basket/2001037349",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "사",
+      "team2": "사가",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 10.0,
+        "away": 90.0
+      },
+      "ai_summary": "네오피닉스, 최근 3경기 평균득실차 +16.66으로 압도적 상승세",
+      "ai_picks": [
+        "네오피닉스 승"
+      ],
+      "aria_label": "사가 vs 네오피닉스 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037350",
+      "url": "https://bbongtv4.com/premium/basket/2001037350",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시가",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "류큐, 최근 2연승과 원정 득실 우위로 우세 흐름",
+      "ai_picks": [
+        "류큐 승"
+      ],
+      "aria_label": "시가 vs 류큐 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037351",
+      "url": "https://bbongtv4.com/premium/basket/2001037351",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "도",
+      "team2": "도쿄 선로커스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 80.0,
+        "away": 20.0
+      },
+      "ai_summary": "도쿄 선로커스, 최근 2경기 연속 90점 이상 득점으로 공격력 우위",
+      "ai_picks": [
+        "도쿄 선로커스 승"
+      ],
+      "aria_label": "도쿄 선로커스 vs 아키타 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037352",
+      "url": "https://bbongtv4.com/premium/basket/2001037352",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:05",
+      "status": "예정",
+      "result": null,
+      "team1": "토",
+      "team2": "토야마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "토야마, 최근 맞대결 10점 차 승리로 분위기 반전 성공",
+      "ai_picks": [
+        "토야마 승"
+      ],
+      "aria_label": "토야마 vs 우츠노미야 브렉스 14:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037353",
+      "url": "https://bbongtv4.com/premium/basket/2001037353",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "14:35",
+      "status": "예정",
+      "result": null,
+      "team1": "교",
+      "team2": "교토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "교토, 최근 2승과 홈 평균득점 85.33으로 상승세 뚜렷",
+      "ai_picks": [
+        "교토 승"
+      ],
+      "aria_label": "교토 vs 나가사키 14:35 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
       "id": "2001032274",
       "url": "https://bbongtv4.com/premium/basket/2001032274",
       "sport": "basket",
@@ -767,6 +879,78 @@
         "오버 181.5"
       ],
       "aria_label": "애들레이드 vs 뉴질랜드 브레이커스 15:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037354",
+      "url": "https://bbongtv4.com/premium/basket/2001037354",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "15:00",
+      "status": "예정",
+      "result": null,
+      "team1": "히",
+      "team2": "히로시마 D.",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "away": 15.0
+      },
+      "ai_summary": "히로시마 D. 최근 3경기 모두 17점차 이상 대승, 압도적 득실차",
+      "ai_picks": [
+        "히로시마 D. 승"
+      ],
+      "aria_label": "히로시마 D. vs 고베 15:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037355",
+      "url": "https://bbongtv4.com/premium/basket/2001037355",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "15:05",
+      "status": "예정",
+      "result": null,
+      "team1": "군",
+      "team2": "군마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "군마 홈 3연승과 평균 득실차 +11.67, 홈 강세가 뚜렷하다",
+      "ai_picks": [
+        "군마 승"
+      ],
+      "aria_label": "군마 vs 이바라키 로봇 15:05 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001037356",
+      "url": "https://bbongtv4.com/premium/basket/2001037356",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/4 (일)",
+      "time": "15:05",
+      "status": "예정",
+      "result": null,
+      "team1": "요",
+      "team2": "요코하마",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "요코하마, 최근 맞대결 포함 2연승과 홈 이점으로 우세 흐름",
+      "ai_picks": [
+        "요코하마 승"
+      ],
+      "aria_label": "요코하마 vs 신슈 15:05 분석 상세",
       "source_date": "2026-10-04"
     },
     {
@@ -1332,6 +1516,110 @@
         "오버 2.5"
       ],
       "aria_label": "코트디부아르 vs 카메룬 04:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000367852",
+      "url": "https://bbongtv4.com/premium/baseball/2000367852",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/4 (일)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "다",
+      "team2": "LA 다저스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "LA 다저스, 홈 평균득점 5.93으로 강한 공격력 유지",
+      "ai_picks": [
+        "LA 다저스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "LA 다저스 vs 애틀란타 브레이브스 05:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007253223",
+      "url": "https://bbongtv4.com/premium/soccer/2007253223",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "10/4 (일)",
+      "time": "05:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아",
+      "team2": "아틀레티코 투쿠만",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "아틀레티코 투쿠만 홈 5경기 무승, 저득점 경향이 무승부 가능성 높인다",
+      "ai_picks": [
+        "무승부",
+        "언더 1.5"
+      ],
+      "aria_label": "아틀레티코 투쿠만 vs 바라카스 센트럴 05:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007253224",
+      "url": "https://bbongtv4.com/premium/soccer/2007253224",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "10/4 (일)",
+      "time": "05:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "뉴",
+      "team2": "뉴웰스 올드 보이즈",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 33.0,
+        "draw": 35.0,
+        "away": 32.0
+      },
+      "ai_summary": "양 팀 승점·득실차 동률, 홈 강세와 라누스 원정 득점력이 변수",
+      "ai_picks": [
+        "무승부",
+        "오버 1.5",
+        "뉴웰스 올드 보이즈 +0.5 승"
+      ],
+      "aria_label": "뉴웰스 올드 보이즈 vs 라누스 05:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2007107821",
+      "url": "https://bbongtv4.com/premium/soccer/2007107821",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "10/4 (일)",
+      "time": "06:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "아",
+      "team2": "아틀레치쿠 미네이루",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 48.0,
+        "draw": 29.0,
+        "away": 23.0
+      },
+      "ai_summary": "아틀레치쿠 미네이루, 홈 5경기 평균득점 2로 공격력 앞선다",
+      "ai_picks": [
+        "아틀레치쿠 미네이루 승",
+        "언더 2.5"
+      ],
+      "aria_label": "아틀레치쿠 미네이루 vs 브라간치노 06:30 분석 상세",
       "source_date": "2026-10-04"
     }
   ]
