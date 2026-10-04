@@ -1,442 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-04",
-  "scraped_at": "2026-10-04T00:24:23.232770+00:00",
+  "scraped_at": "2026-10-04T06:19:53.680081+00:00",
   "count": 64,
   "matches": [
-    {
-      "id": "2000367541",
-      "url": "https://bbongtv4.com/premium/baseball/2000367541",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "10/4 (일)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "탬파베이 레이스",
-      "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "드류 라스무센의 안정감, 홈 강세와 불펜 여력에서 탬파베이 레이스 우위",
-      "ai_picks": [
-        "탬파베이 레이스 승",
-        "오버 6.5",
-        "NY 양키스 +1.5 승"
-      ],
-      "aria_label": "탬파베이 레이스 vs NY 양키스 07:30 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2001042140",
-      "url": "https://bbongtv4.com/premium/basket/2001042140",
-      "sport": "basket",
-      "league": "NBA",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토",
-      "team2": "토론토 랩터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "1.86 대 1.94 원정 우위, 1.5점 핸디는 접전 신호",
-      "ai_picks": [
-        "마이애미 히트 승",
-        "언더 228.5",
-        "토론토 랩터스 +1.5 승"
-      ],
-      "aria_label": "토론토 랩터스 vs 마이애미 히트 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651388",
-      "url": "https://bbongtv4.com/premium/hockey/2000651388",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "버",
-      "team2": "버팔로 세이버스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "버팔로 세이버스 홈 평균득점 3점, 시카고 블랙호크스 원정 3연패",
-      "ai_picks": [
-        "버팔로 세이버스 승",
-        "언더 6"
-      ],
-      "aria_label": "버팔로 세이버스 vs 시카고 블랙호크스 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651391",
-      "url": "https://bbongtv4.com/premium/hockey/2000651391",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "피",
-      "team2": "피츠버그 펭귄스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "양 팀 모두 최근 득점력 상승, 피츠버그 펭귄스 홈에서 반등세",
-      "ai_picks": [
-        "피츠버그 펭귄스 승",
-        "언더 6"
-      ],
-      "aria_label": "피츠버그 펭귄스 vs 몬트리올 캐나디언스 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651392",
-      "url": "https://bbongtv4.com/premium/hockey/2000651392",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "탬",
-      "team2": "탬파베이 라이트닝",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "워싱턴 캐피털스, 최근 4경기 평균득실차 +1.75로 상승세 뚜렷",
-      "ai_picks": [
-        "워싱턴 캐피털스 승",
-        "워싱턴 캐피털스 +1.5 승"
-      ],
-      "aria_label": "탬파베이 라이트닝 vs 워싱턴 캐피털스 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651405",
-      "url": "https://bbongtv4.com/premium/hockey/2000651405",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "콜",
-      "team2": "콜럼버스 블루재킷스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "콜럼버스 블루재킷스 홈 2경기 무실점, 수비 안정감이 강점",
-      "ai_picks": [
-        "콜럼버스 블루재킷스 승",
-        "오버 6"
-      ],
-      "aria_label": "콜럼버스 블루재킷스 vs 유타 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651406",
-      "url": "https://bbongtv4.com/premium/hockey/2000651406",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "에",
-      "team2": "에드먼턴 오일러스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "에드먼턴 오일러스, 홈 평균득점 4.67로 공격력에서 앞선다",
-      "ai_picks": [
-        "에드먼턴 오일러스 승",
-        "오버 6.5"
-      ],
-      "aria_label": "에드먼턴 오일러스 vs 시애틀 크라켄 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651407",
-      "url": "https://bbongtv4.com/premium/hockey/2000651407",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "필",
-      "team2": "필라델피아 플라이어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "필라델피아 플라이어스, 최근 6경기 중 5경기에서 1득점 이하로 공격력 저하",
-      "ai_picks": [
-        "캐롤라이나 허리케인스 승",
-        "오버 5.5"
-      ],
-      "aria_label": "필라델피아 플라이어스 vs 캐롤라이나 허리케인스 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651408",
-      "url": "https://bbongtv4.com/premium/hockey/2000651408",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:00",
-      "status": "예정",
-      "result": null,
-      "team1": "토",
-      "team2": "토론토 메이플리프스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "토론토 메이플리프스, 최근 맞대결 2연승과 홈 득실 우위로 유리한 흐름",
-      "ai_picks": [
-        "토론토 메이플리프스 승",
-        "토론토 메이플리프스 -1.5 승"
-      ],
-      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651390",
-      "url": "https://bbongtv4.com/premium/hockey/2000651390",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "08:30",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "NY 아일랜더스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "NY 아일랜더스 홈 2경기 평균득점 1, 데빌스 강한 수비력에 고전",
-      "ai_picks": [
-        "NJ 데빌스 승",
-        "언더 6",
-        "NJ 데빌스 +1.5 승"
-      ],
-      "aria_label": "NY 아일랜더스 vs NJ 데빌스 08:30 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651389",
-      "url": "https://bbongtv4.com/premium/hockey/2000651389",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "미",
-      "team2": "미네소타 와일드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "보스턴 브루인스 원정 2연패, 미네소타 와일드 홈에서 반등 가능성",
-      "ai_picks": [
-        "미네소타 와일드 승",
-        "언더 5.5"
-      ],
-      "aria_label": "미네소타 와일드 vs 보스턴 브루인스 09:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651409",
-      "url": "https://bbongtv4.com/premium/hockey/2000651409",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "09:00",
-      "status": "예정",
-      "result": null,
-      "team1": "내",
-      "team2": "내슈빌 프레데터스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "댈러스 스타스, 최근 4경기 연속 2실점 이하로 안정된 수비력",
-      "ai_picks": [
-        "댈러스 스타스 승",
-        "언더 6.5"
-      ],
-      "aria_label": "내슈빌 프레데터스 vs 댈러스 스타스 09:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000367576",
-      "url": "https://bbongtv4.com/premium/baseball/2000367576",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "10/4 (일)",
-      "time": "09:30",
-      "status": "예정",
-      "result": null,
-      "team1": "밀워키 브루어스",
-      "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "away": 40.0
-      },
-      "ai_summary": "자코브 미시오로우스키 방어율 1.80, 선발 우위가 밀워키에 힘을 실어준다",
-      "ai_picks": [
-        "밀워키 브루어스 승",
-        "오버 6.5",
-        "밀워키 브루어스 -1.5 승"
-      ],
-      "aria_label": "밀워키 브루어스 vs 샌디에이고 파드레스 09:30 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651410",
-      "url": "https://bbongtv4.com/premium/hockey/2000651410",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "10:00",
-      "status": "예정",
-      "result": null,
-      "team1": "콜",
-      "team2": "콜로라도 애벌런치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 75.0,
-        "away": 25.0
-      },
-      "ai_summary": "콜로라도 애벌런치, 홈 3경기 평균 5.67득점의 강력한 화력",
-      "ai_picks": [
-        "콜로라도 애벌런치 승",
-        "오버 6.5",
-        "콜로라도 애벌런치 -1.5 승"
-      ],
-      "aria_label": "콜로라도 애벌런치 vs 세인트루이스 블루스 10:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651411",
-      "url": "https://bbongtv4.com/premium/hockey/2000651411",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "산",
-      "team2": "산호세 샤크스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "산호세 샤크스, 홈 평균실점 1점의 견고함이 승부처",
-      "ai_picks": [
-        "산호세 샤크스 승",
-        "언더 6.5"
-      ],
-      "aria_label": "산호세 샤크스 vs LA 킹스 11:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "2000651412",
-      "url": "https://bbongtv4.com/premium/hockey/2000651412",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/4 (일)",
-      "time": "11:00",
-      "status": "예정",
-      "result": null,
-      "team1": "밴",
-      "team2": "밴쿠버 커넉스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "밴쿠버 커넉스, 홈에서 평균 득실차 앞서며 반등 노린다",
-      "ai_picks": [
-        "밴쿠버 커넉스 승",
-        "오버 6.5",
-        "캘거리 플레임스 +1.5 승"
-      ],
-      "aria_label": "밴쿠버 커넉스 vs 캘거리 플레임스 11:00 분석 상세",
-      "source_date": "2026-10-04"
-    },
-    {
-      "id": "16504169",
-      "url": "https://bbongtv4.com/premium/soccer/16504169",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/4 (일)",
-      "time": "11:10",
-      "status": "예정",
-      "result": null,
-      "team1": "미국",
-      "team2": "멕시코",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 20.0,
-        "away": 25.0
-      },
-      "ai_summary": "미국, 홈 3경기 평균득점 3점으로 공격력 우위 뚜렷",
-      "ai_picks": [
-        "미국 승",
-        "오버 2.5",
-        "멕시코 +0.5 승"
-      ],
-      "aria_label": "미국 vs 멕시코 11:10 분석 상세",
-      "source_date": "2026-10-04"
-    },
     {
       "id": "2001032273",
       "url": "https://bbongtv4.com/premium/basket/2001032273",
@@ -481,7 +48,8 @@
       },
       "ai_summary": "다이아몬드 돌핀스, 최근 3경기 12점 이상 격차로 연승하며 상승세",
       "ai_picks": [
-        "다이아몬드 돌핀스 승"
+        "다이아몬드 돌핀스 승",
+        "다이아몬드 돌핀스 -7.5 승"
       ],
       "aria_label": "시마네 vs 다이아몬드 돌핀스 13:10 분석 상세",
       "source_date": "2026-10-04"
@@ -683,7 +251,8 @@
       },
       "ai_summary": "알티리 치바, 최근 맞대결 99-90 승리로 분위기 반전",
       "ai_picks": [
-        "알티리 치바 승"
+        "알티리 치바 승",
+        "알티리 치바 -6.5 승"
       ],
       "aria_label": "알티리 치바 vs 브레이브 썬더스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -731,7 +300,9 @@
       },
       "ai_summary": "시호스 미카와, 최근 2연승과 맞대결 대승으로 분위기 우위",
       "ai_picks": [
-        "시호스 미카와 승"
+        "시호스 미카와 승",
+        "언더 161.5",
+        "시호스 미카와 -7.5 승"
       ],
       "aria_label": "오사카 vs 시호스 미카와 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -755,7 +326,9 @@
       },
       "ai_summary": "네오피닉스, 최근 3경기 평균득실차 +16.66으로 압도적 상승세",
       "ai_picks": [
-        "네오피닉스 승"
+        "네오피닉스 승",
+        "언더 168.5",
+        "네오피닉스 -8.5 승"
       ],
       "aria_label": "사가 vs 네오피닉스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -779,7 +352,9 @@
       },
       "ai_summary": "류큐, 최근 2연승과 원정 득실 우위로 우세 흐름",
       "ai_picks": [
-        "류큐 승"
+        "류큐 승",
+        "오버 170.5",
+        "시가 +7.5 승"
       ],
       "aria_label": "시가 vs 류큐 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -827,7 +402,9 @@
       },
       "ai_summary": "토야마, 최근 맞대결 10점 차 승리로 분위기 반전 성공",
       "ai_picks": [
-        "토야마 승"
+        "토야마 승",
+        "토야마 +5.5 승",
+        "언더 166.5"
       ],
       "aria_label": "토야마 vs 우츠노미야 브렉스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -851,7 +428,9 @@
       },
       "ai_summary": "교토, 최근 2승과 홈 평균득점 85.33으로 상승세 뚜렷",
       "ai_picks": [
-        "교토 승"
+        "교토 승",
+        "언더 162.5",
+        "교토 -3.5 승"
       ],
       "aria_label": "교토 vs 나가사키 14:35 분석 상세",
       "source_date": "2026-10-04"
@@ -924,7 +503,8 @@
       },
       "ai_summary": "군마 홈 3연승과 평균 득실차 +11.67, 홈 강세가 뚜렷하다",
       "ai_picks": [
-        "군마 승"
+        "군마 승",
+        "언더 154.5"
       ],
       "aria_label": "군마 vs 이바라키 로봇 15:05 분석 상세",
       "source_date": "2026-10-04"
@@ -948,7 +528,9 @@
       },
       "ai_summary": "요코하마, 최근 맞대결 포함 2연승과 홈 이점으로 우세 흐름",
       "ai_picks": [
-        "요코하마 승"
+        "요코하마 승",
+        "언더 166.5",
+        "요코하마 -4.5 승"
       ],
       "aria_label": "요코하마 vs 신슈 15:05 분석 상세",
       "source_date": "2026-10-04"
@@ -1620,6 +1202,439 @@
         "언더 2.5"
       ],
       "aria_label": "아틀레치쿠 미네이루 vs 브라간치노 06:30 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000367541",
+      "url": "https://bbongtv4.com/premium/baseball/2000367541",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/4 (일)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "탬파베이 레이스",
+      "team2": "NY 양키스",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "드류 라스무센의 안정감, 홈 강세와 불펜 여력에서 탬파베이 레이스 우위",
+      "ai_picks": [
+        "탬파베이 레이스 승",
+        "오버 6.5",
+        "NY 양키스 +1.5 승"
+      ],
+      "aria_label": "탬파베이 레이스 vs NY 양키스 07:30 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2001042140",
+      "url": "https://bbongtv4.com/premium/basket/2001042140",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "토",
+      "team2": "토론토 랩터스",
+      "score1": 105,
+      "score2": 129,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "1.86 대 1.94 원정 우위, 1.5점 핸디는 접전 신호",
+      "ai_picks": [
+        "마이애미 히트 승",
+        "언더 228.5",
+        "토론토 랩터스 +1.5 승"
+      ],
+      "aria_label": "토론토 랩터스 vs 마이애미 히트 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651388",
+      "url": "https://bbongtv4.com/premium/hockey/2000651388",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "버",
+      "team2": "버팔로 세이버스",
+      "score1": 4,
+      "score2": 3,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "버팔로 세이버스 홈 평균득점 3점, 시카고 블랙호크스 원정 3연패",
+      "ai_picks": [
+        "버팔로 세이버스 승",
+        "언더 6"
+      ],
+      "aria_label": "버팔로 세이버스 vs 시카고 블랙호크스 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651391",
+      "url": "https://bbongtv4.com/premium/hockey/2000651391",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "피",
+      "team2": "피츠버그 펭귄스",
+      "score1": 6,
+      "score2": 5,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "양 팀 모두 최근 득점력 상승, 피츠버그 펭귄스 홈에서 반등세",
+      "ai_picks": [
+        "피츠버그 펭귄스 승",
+        "언더 6"
+      ],
+      "aria_label": "피츠버그 펭귄스 vs 몬트리올 캐나디언스 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651392",
+      "url": "https://bbongtv4.com/premium/hockey/2000651392",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "탬",
+      "team2": "탬파베이 라이트닝",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "워싱턴 캐피털스, 최근 4경기 평균득실차 +1.75로 상승세 뚜렷",
+      "ai_picks": [
+        "워싱턴 캐피털스 승",
+        "워싱턴 캐피털스 +1.5 승"
+      ],
+      "aria_label": "탬파베이 라이트닝 vs 워싱턴 캐피털스 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651405",
+      "url": "https://bbongtv4.com/premium/hockey/2000651405",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "콜",
+      "team2": "콜럼버스 블루재킷스",
+      "score1": 1,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "콜럼버스 블루재킷스 홈 2경기 무실점, 수비 안정감이 강점",
+      "ai_picks": [
+        "콜럼버스 블루재킷스 승",
+        "오버 6"
+      ],
+      "aria_label": "콜럼버스 블루재킷스 vs 유타 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651406",
+      "url": "https://bbongtv4.com/premium/hockey/2000651406",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에",
+      "team2": "에드먼턴 오일러스",
+      "score1": 3,
+      "score2": 1,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "에드먼턴 오일러스, 홈 평균득점 4.67로 공격력에서 앞선다",
+      "ai_picks": [
+        "에드먼턴 오일러스 승",
+        "오버 6.5"
+      ],
+      "aria_label": "에드먼턴 오일러스 vs 시애틀 크라켄 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651407",
+      "url": "https://bbongtv4.com/premium/hockey/2000651407",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "필",
+      "team2": "필라델피아 플라이어스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "필라델피아 플라이어스, 최근 6경기 중 5경기에서 1득점 이하로 공격력 저하",
+      "ai_picks": [
+        "캐롤라이나 허리케인스 승",
+        "오버 5.5"
+      ],
+      "aria_label": "필라델피아 플라이어스 vs 캐롤라이나 허리케인스 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651408",
+      "url": "https://bbongtv4.com/premium/hockey/2000651408",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "토",
+      "team2": "토론토 메이플리프스",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "토론토 메이플리프스, 최근 맞대결 2연승과 홈 득실 우위로 유리한 흐름",
+      "ai_picks": [
+        "토론토 메이플리프스 승",
+        "토론토 메이플리프스 -1.5 승"
+      ],
+      "aria_label": "토론토 메이플리프스 vs 오타와 세너터스 08:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651390",
+      "url": "https://bbongtv4.com/premium/hockey/2000651390",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "08:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아",
+      "team2": "NY 아일랜더스",
+      "score1": 6,
+      "score2": 0,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "NY 아일랜더스 홈 2경기 평균득점 1, 데빌스 강한 수비력에 고전",
+      "ai_picks": [
+        "NJ 데빌스 승",
+        "언더 6",
+        "NJ 데빌스 +1.5 승"
+      ],
+      "aria_label": "NY 아일랜더스 vs NJ 데빌스 08:30 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651389",
+      "url": "https://bbongtv4.com/premium/hockey/2000651389",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미",
+      "team2": "미네소타 와일드",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "보스턴 브루인스 원정 2연패, 미네소타 와일드 홈에서 반등 가능성",
+      "ai_picks": [
+        "미네소타 와일드 승",
+        "언더 5.5"
+      ],
+      "aria_label": "미네소타 와일드 vs 보스턴 브루인스 09:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651409",
+      "url": "https://bbongtv4.com/premium/hockey/2000651409",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "09:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "내",
+      "team2": "내슈빌 프레데터스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "댈러스 스타스, 최근 4경기 연속 2실점 이하로 안정된 수비력",
+      "ai_picks": [
+        "댈러스 스타스 승",
+        "언더 6.5"
+      ],
+      "aria_label": "내슈빌 프레데터스 vs 댈러스 스타스 09:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000367576",
+      "url": "https://bbongtv4.com/premium/baseball/2000367576",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/4 (일)",
+      "time": "09:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밀워키 브루어스",
+      "team2": "샌디에이고 파드레스",
+      "score1": 3,
+      "score2": 2,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "자코브 미시오로우스키 방어율 1.80, 선발 우위가 밀워키에 힘을 실어준다",
+      "ai_picks": [
+        "밀워키 브루어스 승",
+        "오버 6.5",
+        "밀워키 브루어스 -1.5 승"
+      ],
+      "aria_label": "밀워키 브루어스 vs 샌디에이고 파드레스 09:30 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651410",
+      "url": "https://bbongtv4.com/premium/hockey/2000651410",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "10:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "콜",
+      "team2": "콜로라도 애벌런치",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "콜로라도 애벌런치, 홈 3경기 평균 5.67득점의 강력한 화력",
+      "ai_picks": [
+        "콜로라도 애벌런치 승",
+        "오버 6.5",
+        "콜로라도 애벌런치 -1.5 승"
+      ],
+      "aria_label": "콜로라도 애벌런치 vs 세인트루이스 블루스 10:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651411",
+      "url": "https://bbongtv4.com/premium/hockey/2000651411",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "산",
+      "team2": "산호세 샤크스",
+      "score1": 5,
+      "score2": 4,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "산호세 샤크스, 홈 평균실점 1점의 견고함이 승부처",
+      "ai_picks": [
+        "산호세 샤크스 승",
+        "언더 6.5"
+      ],
+      "aria_label": "산호세 샤크스 vs LA 킹스 11:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "2000651412",
+      "url": "https://bbongtv4.com/premium/hockey/2000651412",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/4 (일)",
+      "time": "11:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "밴",
+      "team2": "밴쿠버 커넉스",
+      "score1": 4,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "밴쿠버 커넉스, 홈에서 평균 득실차 앞서며 반등 노린다",
+      "ai_picks": [
+        "밴쿠버 커넉스 승",
+        "오버 6.5",
+        "캘거리 플레임스 +1.5 승"
+      ],
+      "aria_label": "밴쿠버 커넉스 vs 캘거리 플레임스 11:00 분석 상세",
+      "source_date": "2026-10-04"
+    },
+    {
+      "id": "16504169",
+      "url": "https://bbongtv4.com/premium/soccer/16504169",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/4 (일)",
+      "time": "11:10",
+      "status": "종료",
+      "result": "적중",
+      "team1": "미국",
+      "team2": "멕시코",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 55.0,
+        "draw": 20.0,
+        "away": 25.0
+      },
+      "ai_summary": "미국, 홈 3경기 평균득점 3점으로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "미국 승",
+        "오버 2.5",
+        "멕시코 +0.5 승"
+      ],
+      "aria_label": "미국 vs 멕시코 11:10 분석 상세",
       "source_date": "2026-10-04"
     }
   ]

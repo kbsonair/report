@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-04T00:24:26.203207+00:00",
+  "scraped_at": "2026-10-04T06:19:55.783872+00:00",
   "kst_yesterday": "2026-10-03",
   "kst_today": "2026-10-04",
   "kst_tomorrow": "2026-10-05",
@@ -210,7 +210,9 @@
       },
       "ai_summary": "애틀랜타 드림 여자, 최근 6연승과 홈 평균 95.18점의 강세가 변수",
       "ai_picks": [
-        "애틀랜타 드림 여자 승"
+        "애틀랜타 드림 여자 승",
+        "오버 173.5",
+        "애틀랜타 드림 여자 -3.5 승"
       ],
       "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 03:00 분석 상세",
       "source_date": "2026-10-05"
@@ -366,7 +368,9 @@
       },
       "ai_summary": "로건 헨더슨 방어율 2.47, 선발·불펜 모두 앞선 밀워키의 마운드 우위",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "오버 6.5",
+        "샌디에이고 파드레스 +1.5 승"
       ],
       "aria_label": "밀워키 브루어스 vs 샌디에이고 파드레스 05:00 분석 상세",
       "source_date": "2026-10-05"
@@ -390,7 +394,8 @@
       },
       "ai_summary": "라스베가스 에이시스 여자, 최근 맞대결 3연승과 평균 10점 차 우위",
       "ai_picks": [
-        "라스베가스 에이시스 여자 승"
+        "라스베가스 에이시스 여자 승",
+        "언더 161.5"
       ],
       "aria_label": "골든스테이트 발키리 여자 vs 라스베가스 에이시스 여자 05:00 분석 상세",
       "source_date": "2026-10-05"
@@ -1267,12 +1272,12 @@
       "league": "MLB",
       "date": "10/4 (일)",
       "time": "07:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "탬파베이 레이스",
       "team2": "NY 양키스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1293,12 +1298,12 @@
       "league": "NBA",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "토",
       "team2": "토론토 랩터스",
-      "score1": null,
-      "score2": null,
+      "score1": 105,
+      "score2": 129,
       "prob": {
         "home": 48.0,
         "away": 52.0
@@ -1319,12 +1324,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "버",
       "team2": "버팔로 세이버스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1344,12 +1349,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "피",
       "team2": "피츠버그 펭귄스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 5,
       "prob": {
         "home": 55.0,
         "away": 45.0
@@ -1369,12 +1374,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "탬",
       "team2": "탬파베이 라이트닝",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -1394,12 +1399,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "콜",
       "team2": "콜럼버스 블루재킷스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 4,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1419,12 +1424,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "에",
       "team2": "에드먼턴 오일러스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -1444,12 +1449,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "필",
       "team2": "필라델피아 플라이어스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 30.0,
         "away": 70.0
@@ -1469,12 +1474,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "토",
       "team2": "토론토 메이플리프스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -1494,12 +1499,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "08:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "아",
       "team2": "NY 아일랜더스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 0,
       "prob": {
         "home": 42.0,
         "away": 58.0
@@ -1520,12 +1525,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미",
       "team2": "미네소타 와일드",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 1,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1545,12 +1550,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "내",
       "team2": "내슈빌 프레데터스",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 1,
       "prob": {
         "home": 20.0,
         "away": 80.0
@@ -1570,12 +1575,12 @@
       "league": "MLB",
       "date": "10/4 (일)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "밀워키 브루어스",
       "team2": "샌디에이고 파드레스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 2,
       "prob": {
         "home": 60.0,
         "away": 40.0
@@ -1596,12 +1601,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "10:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "콜",
       "team2": "콜로라도 애벌런치",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 1,
       "prob": {
         "home": 75.0,
         "away": 25.0
@@ -1622,12 +1627,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "산",
       "team2": "산호세 샤크스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 4,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -1647,12 +1652,12 @@
       "league": "NHL",
       "date": "10/4 (일)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "밴",
       "team2": "밴쿠버 커넉스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 1,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -1673,12 +1678,12 @@
       "league": "INTERF",
       "date": "10/4 (일)",
       "time": "11:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미국",
       "team2": "멕시코",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "draw": 20.0,
@@ -1737,7 +1742,8 @@
       },
       "ai_summary": "다이아몬드 돌핀스, 최근 3경기 12점 이상 격차로 연승하며 상승세",
       "ai_picks": [
-        "다이아몬드 돌핀스 승"
+        "다이아몬드 돌핀스 승",
+        "다이아몬드 돌핀스 -7.5 승"
       ],
       "aria_label": "시마네 vs 다이아몬드 돌핀스 13:10 분석 상세",
       "source_date": "2026-10-04"
@@ -1939,7 +1945,8 @@
       },
       "ai_summary": "알티리 치바, 최근 맞대결 99-90 승리로 분위기 반전",
       "ai_picks": [
-        "알티리 치바 승"
+        "알티리 치바 승",
+        "알티리 치바 -6.5 승"
       ],
       "aria_label": "알티리 치바 vs 브레이브 썬더스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -1987,7 +1994,9 @@
       },
       "ai_summary": "시호스 미카와, 최근 2연승과 맞대결 대승으로 분위기 우위",
       "ai_picks": [
-        "시호스 미카와 승"
+        "시호스 미카와 승",
+        "언더 161.5",
+        "시호스 미카와 -7.5 승"
       ],
       "aria_label": "오사카 vs 시호스 미카와 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -2011,7 +2020,9 @@
       },
       "ai_summary": "네오피닉스, 최근 3경기 평균득실차 +16.66으로 압도적 상승세",
       "ai_picks": [
-        "네오피닉스 승"
+        "네오피닉스 승",
+        "언더 168.5",
+        "네오피닉스 -8.5 승"
       ],
       "aria_label": "사가 vs 네오피닉스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -2035,7 +2046,9 @@
       },
       "ai_summary": "류큐, 최근 2연승과 원정 득실 우위로 우세 흐름",
       "ai_picks": [
-        "류큐 승"
+        "류큐 승",
+        "오버 170.5",
+        "시가 +7.5 승"
       ],
       "aria_label": "시가 vs 류큐 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -2083,7 +2096,9 @@
       },
       "ai_summary": "토야마, 최근 맞대결 10점 차 승리로 분위기 반전 성공",
       "ai_picks": [
-        "토야마 승"
+        "토야마 승",
+        "토야마 +5.5 승",
+        "언더 166.5"
       ],
       "aria_label": "토야마 vs 우츠노미야 브렉스 14:05 분석 상세",
       "source_date": "2026-10-04"
@@ -2107,7 +2122,9 @@
       },
       "ai_summary": "교토, 최근 2승과 홈 평균득점 85.33으로 상승세 뚜렷",
       "ai_picks": [
-        "교토 승"
+        "교토 승",
+        "언더 162.5",
+        "교토 -3.5 승"
       ],
       "aria_label": "교토 vs 나가사키 14:35 분석 상세",
       "source_date": "2026-10-04"
@@ -2180,7 +2197,8 @@
       },
       "ai_summary": "군마 홈 3연승과 평균 득실차 +11.67, 홈 강세가 뚜렷하다",
       "ai_picks": [
-        "군마 승"
+        "군마 승",
+        "언더 154.5"
       ],
       "aria_label": "군마 vs 이바라키 로봇 15:05 분석 상세",
       "source_date": "2026-10-04"
@@ -2204,7 +2222,9 @@
       },
       "ai_summary": "요코하마, 최근 맞대결 포함 2연승과 홈 이점으로 우세 흐름",
       "ai_picks": [
-        "요코하마 승"
+        "요코하마 승",
+        "언더 166.5",
+        "요코하마 -4.5 승"
       ],
       "aria_label": "요코하마 vs 신슈 15:05 분석 상세",
       "source_date": "2026-10-04"
