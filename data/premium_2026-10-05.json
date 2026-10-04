@@ -1,190 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-05",
-  "scraped_at": "2026-10-04T17:02:07.178535+00:00",
+  "scraped_at": "2026-10-04T20:15:27.760085+00:00",
   "count": 35,
   "matches": [
-    {
-      "id": "2001049395",
-      "url": "https://bbongtv4.com/premium/basket/2001049395",
-      "sport": "basket",
-      "league": "스페인 ACB",
-      "date": "10/5 (월)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바스켓 사라고사",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "away": 62.0
-      },
-      "ai_summary": "발렌시아 배당 1.5 우세, 최근 111-88 고득점 흐름",
-      "ai_picks": [
-        "발렌시아 승",
-        "오버 180.5",
-        "발렌시아 -4.5 승"
-      ],
-      "aria_label": "바스켓 사라고사 vs 발렌시아 00:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2001049397",
-      "url": "https://bbongtv4.com/premium/basket/2001049397",
-      "sport": "basket",
-      "league": "스페인 ACB",
-      "date": "10/5 (월)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "바",
-      "team2": "바스코니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 72.0,
-        "away": 28.0
-      },
-      "ai_summary": "홈 배당 1.16 우세에도 원정 평균실점 104가 핸디 변수",
-      "ai_picks": [
-        "바스코니아 승",
-        "오버 182.5",
-        "바스켓 지로나 +10.5 승"
-      ],
-      "aria_label": "바스코니아 vs 바스켓 지로나 01:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006679296",
-      "url": "https://bbongtv4.com/premium/soccer/2006679296",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "코소보",
-      "team2": "오스트리아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 27.0,
-        "draw": 22.0,
-        "away": 51.0
-      },
-      "ai_summary": "오스트리아 최근 3경기 8득점, 공격력 우위가 승부에 영향",
-      "ai_picks": [
-        "오스트리아 승",
-        "오버 2.5"
-      ],
-      "aria_label": "코소보 vs 오스트리아 01:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2006810781",
-      "url": "https://bbongtv4.com/premium/soccer/2006810781",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/5 (월)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "몰타",
-      "team2": "안도라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 60.0,
-        "draw": 25.0,
-        "away": 15.0
-      },
-      "ai_summary": "몰타 홈 평균실점 0.5, 안도라 원정 득점 0으로 몰타 우세 흐름",
-      "ai_picks": [
-        "몰타 승",
-        "언더 2"
-      ],
-      "aria_label": "몰타 vs 안도라 01:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2001049399",
-      "url": "https://bbongtv4.com/premium/basket/2001049399",
-      "sport": "basket",
-      "league": "스페인 ACB",
-      "date": "10/5 (월)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "무",
-      "team2": "무르시아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "away": 58.0
-      },
-      "ai_summary": "원정 0승2패 바르셀로나, 1위 우위에도 2.5점 접전 구도",
-      "ai_picks": [
-        "바르셀로나 승",
-        "언더 174.5",
-        "무르시아 +2.5 승"
-      ],
-      "aria_label": "무르시아 vs 바르셀로나 02:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2000651413",
-      "url": "https://bbongtv4.com/premium/hockey/2000651413",
-      "sport": "hockey",
-      "league": "NHL",
-      "date": "10/5 (월)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디트로이트 레드윙스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "위니펙 제츠 원정 2경기 평균 실점 5, 수비 불안이 변수로 작용",
-      "ai_picks": [
-        "디트로이트 레드윙스 승",
-        "오버 5.5"
-      ],
-      "aria_label": "디트로이트 레드윙스 vs 위니펙 제츠 02:00 분석 상세",
-      "source_date": "2026-10-05"
-    },
-    {
-      "id": "2007258301",
-      "url": "https://bbongtv4.com/premium/soccer/2007258301",
-      "sport": "soccer",
-      "league": "ARG D1",
-      "date": "10/5 (월)",
-      "time": "02:45",
-      "status": "예정",
-      "result": null,
-      "team1": "우라칸",
-      "team2": "알도시비",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 25.0,
-        "away": 17.0
-      },
-      "ai_summary": "우라칸 홈 5경기 무패와 알도시비 원정 4연패, 홈 강세 뚜렷",
-      "ai_picks": [
-        "우라칸 승",
-        "언더 2"
-      ],
-      "aria_label": "우라칸 vs 알도시비 02:45 분석 상세",
-      "source_date": "2026-10-05"
-    },
     {
       "id": "2001068945",
       "url": "https://bbongtv4.com/premium/basket/2001068945",
@@ -866,6 +685,187 @@
         "마그니토고르스크 승"
       ],
       "aria_label": "마그니토고르스크 vs 블라디보스토크 23:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2001049395",
+      "url": "https://bbongtv4.com/premium/basket/2001049395",
+      "sport": "basket",
+      "league": "스페인 ACB",
+      "date": "10/5 (월)",
+      "time": "00:00",
+      "status": "예정",
+      "result": null,
+      "team1": "바",
+      "team2": "바스켓 사라고사",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "발렌시아 배당 1.5 우세, 최근 111-88 고득점 흐름",
+      "ai_picks": [
+        "발렌시아 승",
+        "오버 180.5",
+        "발렌시아 -4.5 승"
+      ],
+      "aria_label": "바스켓 사라고사 vs 발렌시아 00:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2001049397",
+      "url": "https://bbongtv4.com/premium/basket/2001049397",
+      "sport": "basket",
+      "league": "스페인 ACB",
+      "date": "10/5 (월)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "바",
+      "team2": "바스코니아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 72.0,
+        "away": 28.0
+      },
+      "ai_summary": "홈 배당 1.16 우세에도 원정 평균실점 104가 핸디 변수",
+      "ai_picks": [
+        "바스코니아 승",
+        "오버 182.5",
+        "바스켓 지로나 +10.5 승"
+      ],
+      "aria_label": "바스코니아 vs 바스켓 지로나 01:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006679296",
+      "url": "https://bbongtv4.com/premium/soccer/2006679296",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "코소보",
+      "team2": "오스트리아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 27.0,
+        "draw": 22.0,
+        "away": 51.0
+      },
+      "ai_summary": "오스트리아 최근 3경기 8득점, 공격력 우위가 승부에 영향",
+      "ai_picks": [
+        "오스트리아 승",
+        "오버 2.5"
+      ],
+      "aria_label": "코소보 vs 오스트리아 01:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2006810781",
+      "url": "https://bbongtv4.com/premium/soccer/2006810781",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/5 (월)",
+      "time": "01:00",
+      "status": "예정",
+      "result": null,
+      "team1": "몰타",
+      "team2": "안도라",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "draw": 25.0,
+        "away": 15.0
+      },
+      "ai_summary": "몰타 홈 평균실점 0.5, 안도라 원정 득점 0으로 몰타 우세 흐름",
+      "ai_picks": [
+        "몰타 승",
+        "언더 2"
+      ],
+      "aria_label": "몰타 vs 안도라 01:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2001049399",
+      "url": "https://bbongtv4.com/premium/basket/2001049399",
+      "sport": "basket",
+      "league": "스페인 ACB",
+      "date": "10/5 (월)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "무",
+      "team2": "무르시아",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "원정 0승2패 바르셀로나, 1위 우위에도 2.5점 접전 구도",
+      "ai_picks": [
+        "바르셀로나 승",
+        "언더 174.5",
+        "무르시아 +2.5 승"
+      ],
+      "aria_label": "무르시아 vs 바르셀로나 02:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2000651413",
+      "url": "https://bbongtv4.com/premium/hockey/2000651413",
+      "sport": "hockey",
+      "league": "NHL",
+      "date": "10/5 (월)",
+      "time": "02:00",
+      "status": "예정",
+      "result": null,
+      "team1": "디",
+      "team2": "디트로이트 레드윙스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "위니펙 제츠 원정 2경기 평균 실점 5, 수비 불안이 변수로 작용",
+      "ai_picks": [
+        "디트로이트 레드윙스 승",
+        "오버 5.5"
+      ],
+      "aria_label": "디트로이트 레드윙스 vs 위니펙 제츠 02:00 분석 상세",
+      "source_date": "2026-10-05"
+    },
+    {
+      "id": "2007258301",
+      "url": "https://bbongtv4.com/premium/soccer/2007258301",
+      "sport": "soccer",
+      "league": "ARG D1",
+      "date": "10/5 (월)",
+      "time": "02:45",
+      "status": "예정",
+      "result": null,
+      "team1": "우라칸",
+      "team2": "알도시비",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "draw": 25.0,
+        "away": 17.0
+      },
+      "ai_summary": "우라칸 홈 5경기 무패와 알도시비 원정 4연패, 홈 강세 뚜렷",
+      "ai_picks": [
+        "우라칸 승",
+        "언더 2"
+      ],
+      "aria_label": "우라칸 vs 알도시비 02:45 분석 상세",
       "source_date": "2026-10-05"
     },
     {
