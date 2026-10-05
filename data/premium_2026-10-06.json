@@ -1,60 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-10-06",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-06",
-  "scraped_at": "2026-10-05T09:13:55.560663+00:00",
-  "count": 30,
+  "scraped_at": "2026-10-05T18:34:36.831139+00:00",
+  "count": 44,
   "matches": [
-    {
-      "id": "2000643425",
-      "url": "https://bbongtv4.com/premium/hockey/2000643425",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/6 (화)",
-      "time": "00:00",
-      "status": "예정",
-      "result": null,
-      "team1": "라",
-      "team2": "라다",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "away": 70.0
-      },
-      "ai_summary": "라다 최근 6연패·평균 실점 5, 홈에서도 수비 불안이 두드러진다",
-      "ai_picks": [
-        "상하이 승"
-      ],
-      "aria_label": "라다 vs 상하이 00:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2007262567",
-      "url": "https://bbongtv4.com/premium/soccer/2007262567",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/6 (화)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "키프로스",
-      "team2": "라트비아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "draw": 27.0,
-        "away": 18.0
-      },
-      "ai_summary": "득3 실2 대 득1 실4, 홈 안정감과 언더 배당이 맞물린다",
-      "ai_picks": [
-        "키프로스 승",
-        "언더 2.5",
-        "키프로스 -0.5 승"
-      ],
-      "aria_label": "키프로스 vs 라트비아 01:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
     {
       "id": "2000643422",
       "url": "https://bbongtv4.com/premium/hockey/2000643422",
@@ -128,6 +77,32 @@
       "source_date": "2026-10-06"
     },
     {
+      "id": "16514976",
+      "url": "https://bbongtv4.com/premium/soccer/16514976",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "03:45",
+      "status": "예정",
+      "result": null,
+      "team1": "리히텐슈타인",
+      "team2": "지브롤터",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 32.0,
+        "away": 36.0
+      },
+      "ai_summary": "지브롤터 최근 5경기 무패, 리히텐슈타인 득점 침묵 이어져",
+      "ai_picks": [
+        "지브롤터 승",
+        "언더 1.5"
+      ],
+      "aria_label": "리히텐슈타인 vs 지브롤터 03:45 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
       "id": "2006679008",
       "url": "https://bbongtv4.com/premium/soccer/2006679008",
       "sport": "soccer",
@@ -162,8 +137,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "북",
-      "team2": "북아일랜드",
+      "team1": "북아일랜드",
+      "team2": "조지아",
       "score1": null,
       "score2": null,
       "prob": {
@@ -363,6 +338,32 @@
       "source_date": "2026-10-06"
     },
     {
+      "id": "16506055",
+      "url": "https://bbongtv4.com/premium/soccer/16506055",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/6 (화)",
+      "time": "07:00",
+      "status": "예정",
+      "result": null,
+      "team1": "마르티니크",
+      "team2": "엘살바도르",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 38.0,
+        "away": 30.0
+      },
+      "ai_summary": "양 팀 모두 최근 3경기 실점 6골 이상, 수비 불안이 오버 가능성 높인다",
+      "ai_picks": [
+        "무승부",
+        "오버 2.5"
+      ],
+      "aria_label": "마르티니크 vs 엘살바도르 07:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
       "id": "2007259643",
       "url": "https://bbongtv4.com/premium/soccer/2007259643",
       "sport": "soccer",
@@ -415,6 +416,81 @@
       "source_date": "2026-10-06"
     },
     {
+      "id": "2001040240",
+      "url": "https://bbongtv4.com/premium/basket/2001040240",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/6 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "애",
+      "team2": "애틀란타 호크스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "애틀란타 호크스, 결장자 많지만 시장 배당 1.63으로 우세 평가",
+      "ai_picks": [
+        "애틀란타 호크스 승",
+        "언더 232.5"
+      ],
+      "aria_label": "애틀란타 호크스 vs 멤피스 그리즐리스 08:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2001052131",
+      "url": "https://bbongtv4.com/premium/basket/2001052131",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/6 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "디",
+      "team2": "디트로이트 피스톤스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "센터 결장 변수와 시장 배당, 디트로이트 피스톤스 우위 반영",
+      "ai_picks": [
+        "디트로이트 피스톤스 승",
+        "오버 219.5"
+      ],
+      "aria_label": "디트로이트 피스톤스 vs 피닉스 선즈 08:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2001052133",
+      "url": "https://bbongtv4.com/premium/basket/2001052133",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/6 (화)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "필",
+      "team2": "필라델피아 76ers",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "필라델피아 76ers 센터진 결장, 닉스 핸디캡에 유리한 흐름",
+      "ai_picks": [
+        "NY 닉스 승",
+        "언더 229.5"
+      ],
+      "aria_label": "필라델피아 76ers vs NY 닉스 08:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
       "id": "2000651416",
       "url": "https://bbongtv4.com/premium/hockey/2000651416",
       "sport": "hockey",
@@ -433,7 +509,8 @@
       },
       "ai_summary": "원정 0승3패와 실점 4.33, 홈 배당 우위가 겹친 경기",
       "ai_picks": [
-        "탬파베이 라이트닝 승"
+        "탬파베이 라이트닝 승",
+        "오버 5.5"
       ],
       "aria_label": "탬파베이 라이트닝 vs 필라델피아 플라이어스 08:00 분석 상세",
       "source_date": "2026-10-06"
@@ -457,7 +534,8 @@
       },
       "ai_summary": "보스턴 홈 3경기 전승, 오타와 원정 3연패와 뚜렷한 대조",
       "ai_picks": [
-        "보스턴 브루인스 승"
+        "보스턴 브루인스 승",
+        "언더 5.5"
       ],
       "aria_label": "보스턴 브루인스 vs 오타와 세너터스 08:30 분석 상세",
       "source_date": "2026-10-06"
@@ -481,7 +559,8 @@
       },
       "ai_summary": "피츠버그 펭귄스, 최근 2연승과 홈 득점력으로 우위 점쳐진다",
       "ai_picks": [
-        "피츠버그 펭귄스 승"
+        "피츠버그 펭귄스 승",
+        "오버 6.5"
       ],
       "aria_label": "피츠버그 펭귄스 vs 위니펙 제츠 08:30 분석 상세",
       "source_date": "2026-10-06"
@@ -513,6 +592,32 @@
       "source_date": "2026-10-06"
     },
     {
+      "id": "2001052135",
+      "url": "https://bbongtv4.com/premium/basket/2001052135",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/6 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "밀",
+      "team2": "밀워키 벅스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "미네소타 팀버울브스 배당 우위, 밀워키 벅스 홈 핸디캡 변수 주목",
+      "ai_picks": [
+        "미네소타 팀버울브스 승",
+        "오버 231.5",
+        "밀워키 벅스 +5.5 승"
+      ],
+      "aria_label": "밀워키 벅스 vs 미네소타 팀버울브스 09:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
       "id": "2000651419",
       "url": "https://bbongtv4.com/premium/hockey/2000651419",
       "sport": "hockey",
@@ -531,9 +636,36 @@
       },
       "ai_summary": "댈러스 스타스, 홈 평균 실점 1.67로 수비 안정감 뚜렷",
       "ai_picks": [
-        "댈러스 스타스 승"
+        "댈러스 스타스 승",
+        "언더 6.5"
       ],
       "aria_label": "댈러스 스타스 vs 산호세 샤크스 09:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16506062",
+      "url": "https://bbongtv4.com/premium/soccer/16506062",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/6 (화)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "과테말라",
+      "team2": "수리남",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 33.0,
+        "draw": 30.0,
+        "away": 37.0
+      },
+      "ai_summary": "과테말라 홈 6-0 대승 경험, 수리남은 최근 3경기 무패로 안정감",
+      "ai_picks": [
+        "수리남 +0.5 승",
+        "언더 2.5"
+      ],
+      "aria_label": "과테말라 vs 수리남 09:00 분석 상세",
       "source_date": "2026-10-06"
     },
     {
@@ -560,6 +692,32 @@
         "언더 2.5"
       ],
       "aria_label": "반필드 vs 로사리오 센트랄 09:15 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16506067",
+      "url": "https://bbongtv4.com/premium/soccer/16506067",
+      "sport": "soccer",
+      "league": "CON  NL",
+      "date": "10/6 (화)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "온두라스",
+      "team2": "자메이카",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 44.0,
+        "draw": 30.0,
+        "away": 26.0
+      },
+      "ai_summary": "온두라스 최근 실점률 높고, 자메이카 원정 득점력도 변수로 작용",
+      "ai_picks": [
+        "온두라스 승",
+        "오버 2.5"
+      ],
+      "aria_label": "온두라스 vs 자메이카 11:00 분석 상세",
       "source_date": "2026-10-06"
     },
     {
@@ -632,7 +790,9 @@
       },
       "ai_summary": "삼성 원정 평균득점 6.55, 기아 홈 10승5패를 흔들 변수",
       "ai_picks": [
-        "삼성 라이온즈 승"
+        "삼성 라이온즈 승",
+        "오버 10.5",
+        "KIA 타이거즈 +1.5 승"
       ],
       "aria_label": "KIA 타이거즈 vs 삼성 라이온즈 18:30 분석 상세",
       "source_date": "2026-10-06"
@@ -656,7 +816,8 @@
       },
       "ai_summary": "LG 트윈스 최근 6연패, NC 다이노스도 원정 불안 지속",
       "ai_picks": [
-        "LG 트윈스 승"
+        "LG 트윈스 승",
+        "오버 9.5"
       ],
       "aria_label": "LG 트윈스 vs NC 다이노스 18:30 분석 상세",
       "source_date": "2026-10-06"
@@ -680,7 +841,8 @@
       },
       "ai_summary": "SSG 랜더스, 최근 맞대결 4연승과 시즌 득실 우위로 흐름 앞서",
       "ai_picks": [
-        "SSG 랜더스 승"
+        "SSG 랜더스 승",
+        "오버 9.5"
       ],
       "aria_label": "한화 이글스 vs SSG 랜더스 18:30 분석 상세",
       "source_date": "2026-10-06"
@@ -704,7 +866,8 @@
       },
       "ai_summary": "KT 위즈 원정 9승1무4패, 키움 히어로즈 홈 약세와 뚜렷한 대조",
       "ai_picks": [
-        "KT 위즈 승"
+        "KT 위즈 승",
+        "오버 8"
       ],
       "aria_label": "키움 히어로즈 vs KT 위즈 18:30 분석 상세",
       "source_date": "2026-10-06"
@@ -728,7 +891,8 @@
       },
       "ai_summary": "두산 베어스, 최근 6경기 4승과 시즌 득실 우위로 상승세 뚜렷",
       "ai_picks": [
-        "두산 베어스 승"
+        "두산 베어스 승",
+        "오버 9.5"
       ],
       "aria_label": "롯데 자이언츠 vs 두산 베어스 18:30 분석 상세",
       "source_date": "2026-10-06"
@@ -752,9 +916,215 @@
       },
       "ai_summary": "창원 LG, 원정 3경기 평균 득실차 +13.34로 뚜렷한 우세",
       "ai_picks": [
-        "창원 LG 승"
+        "창원 LG 승",
+        "오버 165",
+        "창원 LG -6.5 승"
       ],
       "aria_label": "수원 KT vs 창원 LG 19:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16508025",
+      "url": "https://bbongtv4.com/premium/soccer/16508025",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "20:00",
+      "status": "예정",
+      "result": null,
+      "team1": "대한민국",
+      "team2": "우즈베키스탄",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "draw": 23.0,
+        "away": 19.0
+      },
+      "ai_summary": "대한민국, 최근 홈 3경기서 9득점·4실점…공격력 앞서지만 실점 관리가 변수",
+      "ai_picks": [
+        "대한민국 승",
+        "오버 2.5",
+        "우즈베키스탄 +1.5 승"
+      ],
+      "aria_label": "대한민국 vs 우즈베키스탄 20:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16506738",
+      "url": "https://bbongtv4.com/premium/soccer/16506738",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "20:35",
+      "status": "예정",
+      "result": null,
+      "team1": "중국",
+      "team2": "타지키스탄(N)",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "draw": 28.0,
+        "away": 18.0
+      },
+      "ai_summary": "중국 최근 홈 4경기 평균득점 0.75, 공격력 부진이 변수",
+      "ai_picks": [
+        "언더 2.5",
+        "타지키스탄(N) +1.5 승"
+      ],
+      "aria_label": "중국 vs 타지키스탄(N) 20:35 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16508046",
+      "url": "https://bbongtv4.com/premium/soccer/16508046",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "22:30",
+      "status": "예정",
+      "result": null,
+      "team1": "인도",
+      "team2": "우루과이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 3.0,
+        "draw": 5.0,
+        "away": 92.0
+      },
+      "ai_summary": "우루과이 최근 4경기 6득점, 인도 홈 2경기 0.5득점에 그쳐 득점력 차이 뚜렷",
+      "ai_picks": [
+        "우루과이 승",
+        "언더 4.5"
+      ],
+      "aria_label": "인도 vs 우루과이 22:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000643428",
+      "url": "https://bbongtv4.com/premium/hockey/2000643428",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "트",
+      "team2": "트랙터 첼야빈스크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "트랙터 첼야빈스크, 홈 득점력 저조하지만 최근 3연승 상승세",
+      "ai_picks": [
+        "트랙터 첼야빈스크 승"
+      ],
+      "aria_label": "트랙터 첼야빈스크 vs 하바로프스크 23:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000643429",
+      "url": "https://bbongtv4.com/premium/hockey/2000643429",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "예",
+      "team2": "예카테린부르크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "예카테린부르크 홈 평균실점 1.8, 옴스크 원정 득점력 1.25에 그쳐",
+      "ai_picks": [
+        "예카테린부르크 승"
+      ],
+      "aria_label": "예카테린부르크 vs 아반가르드 옴스크 23:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2006679004",
+      "url": "https://bbongtv4.com/premium/soccer/2006679004",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "예정",
+      "result": null,
+      "team1": "카자흐스탄",
+      "team2": "파",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "양 팀 모두 최근 1-1 무승부 빈번, 득점력 제한 속 언더 2.5 유력",
+      "ai_picks": [
+        "언더 2.5",
+        "파로 제도 +0.5 승"
+      ],
+      "aria_label": "카자흐스탄 vs 파로 제도 23:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000643425",
+      "url": "https://bbongtv4.com/premium/hockey/2000643425",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/6 (화)",
+      "time": "00:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "라",
+      "team2": "라다",
+      "score1": 0,
+      "score2": 5,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "라다 최근 6연패·평균 실점 5, 홈에서도 수비 불안이 두드러진다",
+      "ai_picks": [
+        "상하이 승"
+      ],
+      "aria_label": "라다 vs 상하이 00:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2007262567",
+      "url": "https://bbongtv4.com/premium/soccer/2007262567",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/6 (화)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "키프로스",
+      "team2": "라트비아",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "draw": 27.0,
+        "away": 18.0
+      },
+      "ai_summary": "득3 실2 대 득1 실4, 홈 안정감과 언더 배당이 맞물린다",
+      "ai_picks": [
+        "키프로스 승",
+        "언더 2.5",
+        "키프로스 -0.5 승"
+      ],
+      "aria_label": "키프로스 vs 라트비아 01:00 분석 상세",
       "source_date": "2026-10-06"
     }
   ]
