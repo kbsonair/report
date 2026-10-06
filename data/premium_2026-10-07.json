@@ -1,373 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-07",
-  "scraped_at": "2026-10-06T19:04:32.049298+00:00",
+  "scraped_at": "2026-10-06T23:06:38.402421+00:00",
   "count": 45,
   "matches": [
-    {
-      "id": "2000643427",
-      "url": "https://bbongtv4.com/premium/hockey/2000643427",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/7 (수)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "상",
-      "team2": "SKA 상트페테르부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "away": 30.0
-      },
-      "ai_summary": "SKA 상트페테르부르크, 홈 5전 전승과 평균득점 4.8로 강한 홈 우위",
-      "ai_picks": [
-        "SKA 상트페테르부르크 승"
-      ],
-      "aria_label": "SKA 상트페테르부르크 vs 체레포베츠 01:30 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "16508035",
-      "url": "https://bbongtv4.com/premium/soccer/16508035",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/7 (수)",
-      "time": "02:00",
-      "status": "예정",
-      "result": null,
-      "team1": "요르단",
-      "team2": "베네수엘라",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 38.0,
-        "draw": 32.0,
-        "away": 30.0
-      },
-      "ai_summary": "양 팀 최근 9경기 중 7경기 득점, 오버 2.5 흐름이 뚜렷하다",
-      "ai_picks": [
-        "오버 2.5",
-        "베네수엘라 +1.5 승"
-      ],
-      "aria_label": "요르단 vs 베네수엘라 02:00 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679007",
-      "url": "https://bbongtv4.com/premium/soccer/2006679007",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "몰도바",
-      "team2": "슬로바키아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 18.0,
-        "draw": 20.0,
-        "away": 62.0
-      },
-      "ai_summary": "슬로바키아, 최근 6경기 4승과 맞대결 2-0 우위로 강세 뚜렷",
-      "ai_picks": [
-        "슬로바키아 승",
-        "언더 2.5"
-      ],
-      "aria_label": "몰도바 vs 슬로바키아 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679028",
-      "url": "https://bbongtv4.com/premium/soccer/2006679028",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스코틀랜드",
-      "team2": "슬로베니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 33.0,
-        "draw": 34.0,
-        "away": 33.0
-      },
-      "ai_summary": "양 팀 최근 3경기 모두 1득점 이하, 수비 집중 속 무승부 가능성 부각",
-      "ai_picks": [
-        "무승부",
-        "언더 2.5",
-        "슬로베니아 +0.5 승"
-      ],
-      "aria_label": "스코틀랜드 vs 슬로베니아 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679289",
-      "url": "https://bbongtv4.com/premium/soccer/2006679289",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "크로아티아",
-      "team2": "스페인",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 15.0,
-        "draw": 10.0,
-        "away": 75.0
-      },
-      "ai_summary": "스페인, 최근 3경기 10득점·무패 행진으로 공격력 우위 뚜렷",
-      "ai_picks": [
-        "스페인 승",
-        "오버 3.5"
-      ],
-      "aria_label": "크로아티아 vs 스페인 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679297",
-      "url": "https://bbongtv4.com/premium/soccer/2006679297",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "알바니아",
-      "team2": "산 마리노",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 85.0,
-        "draw": 12.0,
-        "away": 3.0
-      },
-      "ai_summary": "알바니아, 최근 3경기 6득점·2실점으로 산 마리노 압도",
-      "ai_picks": [
-        "알바니아 승",
-        "오버 4.5",
-        "알바니아 -3.5 승"
-      ],
-      "aria_label": "알바니아 vs 산 마리노 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679298",
-      "url": "https://bbongtv4.com/premium/soccer/2006679298",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "에스토니아",
-      "team2": "아이슬란드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 30.0,
-        "away": 40.0
-      },
-      "ai_summary": "아이슬란드, 3경기 7득점의 공격력과 원정 1승 흐름이 강점",
-      "ai_picks": [
-        "아이슬란드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "에스토니아 vs 아이슬란드 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679311",
-      "url": "https://bbongtv4.com/premium/soccer/2006679311",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "잉글랜드",
-      "team2": "체코",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 70.0,
-        "draw": 20.0,
-        "away": 10.0
-      },
-      "ai_summary": "잉글랜드, 최근 7-0 대승 포함 강한 득점력으로 홈 우세 뚜렷",
-      "ai_picks": [
-        "잉글랜드 승",
-        "오버 3.5",
-        "체코 +2.5 승"
-      ],
-      "aria_label": "잉글랜드 vs 체코 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2006679319",
-      "url": "https://bbongtv4.com/premium/soccer/2006679319",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "벨라루스",
-      "team2": "핀란드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "draw": 20.0,
-        "away": 55.0
-      },
-      "ai_summary": "핀란드, 득점력 앞세워 1위 유지 중…벨라루스 홈에서는 실점 억제력 변수",
-      "ai_picks": [
-        "핀란드 승",
-        "언더 2.5"
-      ],
-      "aria_label": "벨라루스 vs 핀란드 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2007290524",
-      "url": "https://bbongtv4.com/premium/soccer/2007290524",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "스위스",
-      "team2": "북마케도니아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 74.0,
-        "draw": 17.0,
-        "away": 9.0
-      },
-      "ai_summary": "득8 실1 선두 스위스, 득0 실7 북마케도니아와 전력차가 분명하다",
-      "ai_picks": [
-        "스위스 승",
-        "언더 3.5",
-        "스위스 -2.5 승"
-      ],
-      "aria_label": "스위스 vs 북마케도니아 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2007290525",
-      "url": "https://bbongtv4.com/premium/soccer/2007290525",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "룩셈부르크",
-      "team2": "불가리아",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 45.0,
-        "draw": 30.0,
-        "away": 25.0
-      },
-      "ai_summary": "룩셈부르크 최근 맞대결 승리와 원정 득점력 우위가 변수",
-      "ai_picks": [
-        "룩셈부르크 승",
-        "언더 2.5"
-      ],
-      "aria_label": "룩셈부르크 vs 불가리아 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2007325791",
-      "url": "https://bbongtv4.com/premium/soccer/2007325791",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "아",
-      "team2": "아세르턴",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 30.0,
-        "draw": 40.0,
-        "away": 30.0
-      },
-      "ai_summary": "최근 3경기 모두 2득점 이상, 양 팀 공격력에서 균형이 드러난다",
-      "ai_picks": [
-        "무승부"
-      ],
-      "aria_label": "아세르턴 vs 트래포드 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2007325792",
-      "url": "https://bbongtv4.com/premium/soccer/2007325792",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "헤",
-      "team2": "헤일스오웬",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 30.0,
-        "away": 30.0
-      },
-      "ai_summary": "양 팀 최근 3경기 모두 무패, 득실차도 동일해 접전이 예상된다",
-      "ai_picks": [
-        "헤일스오웬 승"
-      ],
-      "aria_label": "헤일스오웬 vs 스태퍼드 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
-    {
-      "id": "2007325794",
-      "url": "https://bbongtv4.com/premium/soccer/2007325794",
-      "sport": "soccer",
-      "league": "ENG FAC",
-      "date": "10/7 (수)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "윙",
-      "team2": "윙게이트 & 핀들리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 25.0,
-        "away": 43.0
-      },
-      "ai_summary": "양 팀 모두 최근 5경기 무패, 맞대결도 2-2로 접전 양상",
-      "ai_picks": [
-        "오버 2.5",
-        "베드포드 -1.5 승"
-      ],
-      "aria_label": "윙게이트 & 핀들리 vs 베드포드 03:45 분석 상세",
-      "source_date": "2026-10-07"
-    },
     {
       "id": "2000367853",
       "url": "https://bbongtv4.com/premium/baseball/2000367853",
@@ -1155,6 +791,370 @@
         "마그니토고르스크 승"
       ],
       "aria_label": "마그니토고르스크 vs 블라디보스토크 23:00 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2000643427",
+      "url": "https://bbongtv4.com/premium/hockey/2000643427",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/7 (수)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "상",
+      "team2": "SKA 상트페테르부르크",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 70.0,
+        "away": 30.0
+      },
+      "ai_summary": "SKA 상트페테르부르크, 홈 5전 전승과 평균득점 4.8로 강한 홈 우위",
+      "ai_picks": [
+        "SKA 상트페테르부르크 승"
+      ],
+      "aria_label": "SKA 상트페테르부르크 vs 체레포베츠 01:30 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "16508035",
+      "url": "https://bbongtv4.com/premium/soccer/16508035",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/7 (수)",
+      "time": "02:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "요르단",
+      "team2": "베네수엘라",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 38.0,
+        "draw": 32.0,
+        "away": 30.0
+      },
+      "ai_summary": "양 팀 최근 9경기 중 7경기 득점, 오버 2.5 흐름이 뚜렷하다",
+      "ai_picks": [
+        "오버 2.5",
+        "베네수엘라 +1.5 승"
+      ],
+      "aria_label": "요르단 vs 베네수엘라 02:00 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679007",
+      "url": "https://bbongtv4.com/premium/soccer/2006679007",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "몰도바",
+      "team2": "슬로바키아",
+      "score1": 0,
+      "score2": 4,
+      "prob": {
+        "home": 18.0,
+        "draw": 20.0,
+        "away": 62.0
+      },
+      "ai_summary": "슬로바키아, 최근 6경기 4승과 맞대결 2-0 우위로 강세 뚜렷",
+      "ai_picks": [
+        "슬로바키아 승",
+        "언더 2.5"
+      ],
+      "aria_label": "몰도바 vs 슬로바키아 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679028",
+      "url": "https://bbongtv4.com/premium/soccer/2006679028",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스코틀랜드",
+      "team2": "슬로베니아",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 33.0,
+        "draw": 34.0,
+        "away": 33.0
+      },
+      "ai_summary": "양 팀 최근 3경기 모두 1득점 이하, 수비 집중 속 무승부 가능성 부각",
+      "ai_picks": [
+        "무승부",
+        "언더 2.5",
+        "슬로베니아 +0.5 승"
+      ],
+      "aria_label": "스코틀랜드 vs 슬로베니아 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679289",
+      "url": "https://bbongtv4.com/premium/soccer/2006679289",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "크로아티아",
+      "team2": "스페인",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 15.0,
+        "draw": 10.0,
+        "away": 75.0
+      },
+      "ai_summary": "스페인, 최근 3경기 10득점·무패 행진으로 공격력 우위 뚜렷",
+      "ai_picks": [
+        "스페인 승",
+        "오버 3.5"
+      ],
+      "aria_label": "크로아티아 vs 스페인 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679297",
+      "url": "https://bbongtv4.com/premium/soccer/2006679297",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "알바니아",
+      "team2": "산 마리노",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 85.0,
+        "draw": 12.0,
+        "away": 3.0
+      },
+      "ai_summary": "알바니아, 최근 3경기 6득점·2실점으로 산 마리노 압도",
+      "ai_picks": [
+        "알바니아 승",
+        "오버 4.5",
+        "알바니아 -3.5 승"
+      ],
+      "aria_label": "알바니아 vs 산 마리노 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679298",
+      "url": "https://bbongtv4.com/premium/soccer/2006679298",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "에스토니아",
+      "team2": "아이슬란드",
+      "score1": 0,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 30.0,
+        "away": 40.0
+      },
+      "ai_summary": "아이슬란드, 3경기 7득점의 공격력과 원정 1승 흐름이 강점",
+      "ai_picks": [
+        "아이슬란드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "에스토니아 vs 아이슬란드 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679311",
+      "url": "https://bbongtv4.com/premium/soccer/2006679311",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "잉글랜드",
+      "team2": "체코",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 70.0,
+        "draw": 20.0,
+        "away": 10.0
+      },
+      "ai_summary": "잉글랜드, 최근 7-0 대승 포함 강한 득점력으로 홈 우세 뚜렷",
+      "ai_picks": [
+        "잉글랜드 승",
+        "오버 3.5",
+        "체코 +2.5 승"
+      ],
+      "aria_label": "잉글랜드 vs 체코 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2006679319",
+      "url": "https://bbongtv4.com/premium/soccer/2006679319",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "벨라루스",
+      "team2": "핀란드",
+      "score1": 1,
+      "score2": 0,
+      "prob": {
+        "home": 25.0,
+        "draw": 20.0,
+        "away": 55.0
+      },
+      "ai_summary": "핀란드, 득점력 앞세워 1위 유지 중…벨라루스 홈에서는 실점 억제력 변수",
+      "ai_picks": [
+        "핀란드 승",
+        "언더 2.5"
+      ],
+      "aria_label": "벨라루스 vs 핀란드 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2007290524",
+      "url": "https://bbongtv4.com/premium/soccer/2007290524",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "스위스",
+      "team2": "북마케도니아",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 74.0,
+        "draw": 17.0,
+        "away": 9.0
+      },
+      "ai_summary": "득8 실1 선두 스위스, 득0 실7 북마케도니아와 전력차가 분명하다",
+      "ai_picks": [
+        "스위스 승",
+        "언더 3.5",
+        "스위스 -2.5 승"
+      ],
+      "aria_label": "스위스 vs 북마케도니아 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2007290525",
+      "url": "https://bbongtv4.com/premium/soccer/2007290525",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "룩셈부르크",
+      "team2": "불가리아",
+      "score1": 0,
+      "score2": 2,
+      "prob": {
+        "home": 45.0,
+        "draw": 30.0,
+        "away": 25.0
+      },
+      "ai_summary": "룩셈부르크 최근 맞대결 승리와 원정 득점력 우위가 변수",
+      "ai_picks": [
+        "룩셈부르크 승",
+        "언더 2.5"
+      ],
+      "aria_label": "룩셈부르크 vs 불가리아 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2007325791",
+      "url": "https://bbongtv4.com/premium/soccer/2007325791",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "아",
+      "team2": "아세르턴",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 30.0,
+        "draw": 40.0,
+        "away": 30.0
+      },
+      "ai_summary": "최근 3경기 모두 2득점 이상, 양 팀 공격력에서 균형이 드러난다",
+      "ai_picks": [
+        "무승부"
+      ],
+      "aria_label": "아세르턴 vs 트래포드 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2007325792",
+      "url": "https://bbongtv4.com/premium/soccer/2007325792",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "헤",
+      "team2": "헤일스오웬",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 40.0,
+        "draw": 30.0,
+        "away": 30.0
+      },
+      "ai_summary": "양 팀 최근 3경기 모두 무패, 득실차도 동일해 접전이 예상된다",
+      "ai_picks": [
+        "헤일스오웬 승"
+      ],
+      "aria_label": "헤일스오웬 vs 스태퍼드 03:45 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2007325794",
+      "url": "https://bbongtv4.com/premium/soccer/2007325794",
+      "sport": "soccer",
+      "league": "ENG FAC",
+      "date": "10/7 (수)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "윙",
+      "team2": "윙게이트 & 핀들리",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 32.0,
+        "draw": 25.0,
+        "away": 43.0
+      },
+      "ai_summary": "양 팀 모두 최근 5경기 무패, 맞대결도 2-2로 접전 양상",
+      "ai_picks": [
+        "오버 2.5",
+        "베드포드 -1.5 승"
+      ],
+      "aria_label": "윙게이트 & 핀들리 vs 베드포드 03:45 분석 상세",
       "source_date": "2026-10-07"
     }
   ]
