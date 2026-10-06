@@ -1,135 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium",
+  "source_url": "https://bbongtv4.com/premium/2026-10-06",
   "source_date": "2026-10-06",
-  "scraped_at": "2026-10-06T13:36:48.725699+00:00",
+  "scraped_at": "2026-10-06T19:04:33.196997+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "16506738",
-      "url": "https://bbongtv4.com/premium/soccer/16506738",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/6 (화)",
-      "time": "20:35",
-      "status": "예정",
-      "result": null,
-      "team1": "중국",
-      "team2": "타지키스탄(N)",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "draw": 28.0,
-        "away": 18.0
-      },
-      "ai_summary": "중국 최근 홈 4경기 평균득점 0.75, 공격력 부진이 변수",
-      "ai_picks": [
-        "언더 2.5",
-        "타지키스탄(N) +1.5 승"
-      ],
-      "aria_label": "중국 vs 타지키스탄(N) 20:35 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "16508046",
-      "url": "https://bbongtv4.com/premium/soccer/16508046",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/6 (화)",
-      "time": "22:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인도",
-      "team2": "우루과이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 3.0,
-        "draw": 5.0,
-        "away": 92.0
-      },
-      "ai_summary": "우루과이 최근 4경기 6득점, 인도 홈 2경기 0.5득점에 그쳐 득점력 차이 뚜렷",
-      "ai_picks": [
-        "우루과이 승",
-        "언더 4.5"
-      ],
-      "aria_label": "인도 vs 우루과이 22:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000643428",
-      "url": "https://bbongtv4.com/premium/hockey/2000643428",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/6 (화)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "트",
-      "team2": "트랙터 첼야빈스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "away": 42.0
-      },
-      "ai_summary": "트랙터 첼야빈스크, 홈 득점력 저조하지만 최근 3연승 상승세",
-      "ai_picks": [
-        "트랙터 첼야빈스크 승"
-      ],
-      "aria_label": "트랙터 첼야빈스크 vs 하바로프스크 23:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000643429",
-      "url": "https://bbongtv4.com/premium/hockey/2000643429",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/6 (화)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "예",
-      "team2": "예카테린부르크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 52.0,
-        "away": 48.0
-      },
-      "ai_summary": "예카테린부르크 홈 평균실점 1.8, 옴스크 원정 득점력 1.25에 그쳐",
-      "ai_picks": [
-        "예카테린부르크 승"
-      ],
-      "aria_label": "예카테린부르크 vs 아반가르드 옴스크 23:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2006679004",
-      "url": "https://bbongtv4.com/premium/soccer/2006679004",
-      "sport": "soccer",
-      "league": "UEFA NL",
-      "date": "10/6 (화)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "카자흐스탄",
-      "team2": "파",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 32.0,
-        "draw": 40.0,
-        "away": 28.0
-      },
-      "ai_summary": "양 팀 모두 최근 1-1 무승부 빈번, 득점력 제한 속 언더 2.5 유력",
-      "ai_picks": [
-        "언더 2.5",
-        "파로 제도 +0.5 승"
-      ],
-      "aria_label": "카자흐스탄 vs 파로 제도 23:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
     {
       "id": "2000643425",
       "url": "https://bbongtv4.com/premium/hockey/2000643425",
@@ -1125,6 +999,132 @@
         "우즈베키스탄 +1.5 승"
       ],
       "aria_label": "대한민국 vs 우즈베키스탄 20:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16506738",
+      "url": "https://bbongtv4.com/premium/soccer/16506738",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "20:35",
+      "status": "종료",
+      "result": "적중",
+      "team1": "중국",
+      "team2": "타지키스탄(N)",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "draw": 28.0,
+        "away": 18.0
+      },
+      "ai_summary": "중국 최근 홈 4경기 평균득점 0.75, 공격력 부진이 변수",
+      "ai_picks": [
+        "언더 2.5",
+        "타지키스탄(N) +1.5 승"
+      ],
+      "aria_label": "중국 vs 타지키스탄(N) 20:35 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16508046",
+      "url": "https://bbongtv4.com/premium/soccer/16508046",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "22:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인도",
+      "team2": "우루과이",
+      "score1": 1,
+      "score2": 6,
+      "prob": {
+        "home": 3.0,
+        "draw": 5.0,
+        "away": 92.0
+      },
+      "ai_summary": "우루과이 최근 4경기 6득점, 인도 홈 2경기 0.5득점에 그쳐 득점력 차이 뚜렷",
+      "ai_picks": [
+        "우루과이 승",
+        "언더 4.5"
+      ],
+      "aria_label": "인도 vs 우루과이 22:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000643428",
+      "url": "https://bbongtv4.com/premium/hockey/2000643428",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "트",
+      "team2": "트랙터 첼야빈스크",
+      "score1": 1,
+      "score2": 2,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "트랙터 첼야빈스크, 홈 득점력 저조하지만 최근 3연승 상승세",
+      "ai_picks": [
+        "트랙터 첼야빈스크 승"
+      ],
+      "aria_label": "트랙터 첼야빈스크 vs 하바로프스크 23:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000643429",
+      "url": "https://bbongtv4.com/premium/hockey/2000643429",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "예",
+      "team2": "예카테린부르크",
+      "score1": 4,
+      "score2": 0,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "예카테린부르크 홈 평균실점 1.8, 옴스크 원정 득점력 1.25에 그쳐",
+      "ai_picks": [
+        "예카테린부르크 승"
+      ],
+      "aria_label": "예카테린부르크 vs 아반가르드 옴스크 23:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2006679004",
+      "url": "https://bbongtv4.com/premium/soccer/2006679004",
+      "sport": "soccer",
+      "league": "UEFA NL",
+      "date": "10/6 (화)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "카자흐스탄",
+      "team2": "파",
+      "score1": 2,
+      "score2": 2,
+      "prob": {
+        "home": 32.0,
+        "draw": 40.0,
+        "away": 28.0
+      },
+      "ai_summary": "양 팀 모두 최근 1-1 무승부 빈번, 득점력 제한 속 언더 2.5 유력",
+      "ai_picks": [
+        "언더 2.5",
+        "파로 제도 +0.5 승"
+      ],
+      "aria_label": "카자흐스탄 vs 파로 제도 23:00 분석 상세",
       "source_date": "2026-10-06"
     }
   ]
