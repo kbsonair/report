@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-07",
   "source_date": "2026-10-07",
-  "scraped_at": "2026-10-05T18:34:39.337586+00:00",
-  "count": 43,
+  "scraped_at": "2026-10-06T06:35:39.507181+00:00",
+  "count": 45,
   "matches": [
     {
       "id": "2000643427",
@@ -89,8 +89,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "스",
-      "team2": "스코틀랜드",
+      "team1": "스코틀랜드",
+      "team2": "슬로베니아",
       "score1": null,
       "score2": null,
       "prob": {
@@ -143,7 +143,7 @@
       "status": "예정",
       "result": null,
       "team1": "알바니아",
-      "team2": "산",
+      "team2": "산 마리노",
       "score1": null,
       "score2": null,
       "prob": {
@@ -222,8 +222,8 @@
       "time": "03:45",
       "status": "예정",
       "result": null,
-      "team1": "벨",
-      "team2": "벨라루스",
+      "team1": "벨라루스",
+      "team2": "핀란드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -392,6 +392,31 @@
         "애틀란타 브레이브스 +1.5 승"
       ],
       "aria_label": "애틀란타 브레이브스 vs LA 다저스 07:00 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2001052139",
+      "url": "https://bbongtv4.com/premium/basket/2001052139",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/7 (수)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "샬",
+      "team2": "샬럿 호넷츠",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "샬럿 호넷츠, 주전 3명 결장 속에서도 시장은 홈 우세 전망",
+      "ai_picks": [
+        "샬럿 호넷츠 승",
+        "언더 212.5"
+      ],
+      "aria_label": "샬럿 호넷츠 vs 브루클린 넷츠 08:00 분석 상세",
       "source_date": "2026-10-07"
     },
     {
@@ -598,6 +623,31 @@
       "source_date": "2026-10-07"
     },
     {
+      "id": "2001052141",
+      "url": "https://bbongtv4.com/premium/basket/2001052141",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/7 (수)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "썬",
+      "team2": "OKC 썬더",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 57.0,
+        "away": 43.0
+      },
+      "ai_summary": "OKC 썬더, 결장자 3명에도 홈 배당 1.68로 시장 신뢰 우위",
+      "ai_picks": [
+        "OKC 썬더 승",
+        "오버 223.5"
+      ],
+      "aria_label": "OKC 썬더 vs 뉴올리언스 펠리컨스 09:00 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
       "id": "2000651395",
       "url": "https://bbongtv4.com/premium/hockey/2000651395",
       "sport": "hockey",
@@ -693,7 +743,9 @@
       },
       "ai_summary": "상대 2연승과 시즌 105승, 밀워키 체급 우위가 보인다",
       "ai_picks": [
-        "밀워키 브루어스 승"
+        "밀워키 브루어스 승",
+        "언더 7.5",
+        "밀워키 브루어스 +1.5 승"
       ],
       "aria_label": "샌디에이고 파드레스 vs 밀워키 브루어스 10:30 분석 상세",
       "source_date": "2026-10-07"
@@ -769,7 +821,8 @@
       },
       "ai_summary": "멕시코, 최근 홈 3연승과 칠레의 원정 실점 경향이 맞물린 경기",
       "ai_picks": [
-        "멕시코 승"
+        "멕시코 승",
+        "오버 2.5"
       ],
       "aria_label": "멕시코 vs 칠레 11:30 분석 상세",
       "source_date": "2026-10-07"
