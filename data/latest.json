@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T06:35:39.569498+00:00",
+  "scraped_at": "2026-10-06T13:36:51.199947+00:00",
   "kst_yesterday": "2026-10-05",
   "kst_today": "2026-10-06",
   "kst_tomorrow": "2026-10-07",
@@ -434,8 +434,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "몬",
-      "team2": "몬트리올 캐나디언스",
+      "team1": "몬트리올 캐나디언스",
+      "team2": "캐롤라이나 허리케인스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -459,8 +459,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "디",
-      "team2": "디트로이트 레드윙스",
+      "team1": "디트로이트 레드윙스",
+      "team2": "오타와 세너터스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -484,8 +484,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "데",
-      "team2": "NJ 데빌스",
+      "team1": "NJ 데빌스",
+      "team2": "유타",
       "score1": null,
       "score2": null,
       "prob": {
@@ -510,8 +510,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "토",
-      "team2": "토론토 메이플리프스",
+      "team1": "토론토 메이플리프스",
+      "team2": "내슈빌 프레데터스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -535,8 +535,8 @@
       "time": "08:00",
       "status": "예정",
       "result": null,
-      "team1": "버",
-      "team2": "버팔로 세이버스",
+      "team1": "버팔로 세이버스",
+      "team2": "미네소타 와일드",
       "score1": null,
       "score2": null,
       "prob": {
@@ -612,8 +612,8 @@
       "time": "08:30",
       "status": "예정",
       "result": null,
-      "team1": "레",
-      "team2": "NY 레인저스",
+      "team1": "NY 레인저스",
+      "team2": "NY 아일랜더스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -662,8 +662,8 @@
       "time": "09:00",
       "status": "예정",
       "result": null,
-      "team1": "시",
-      "team2": "시카고 블랙호크스",
+      "team1": "시카고 블랙호크스",
+      "team2": "세인트루이스 블루스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -765,8 +765,8 @@
       "time": "10:40",
       "status": "예정",
       "result": null,
-      "team1": "시",
-      "team2": "시애틀 크라켄",
+      "team1": "시애틀 크라켄",
+      "team2": "베가스 골든 나이츠",
       "score1": null,
       "score2": null,
       "prob": {
@@ -791,8 +791,8 @@
       "time": "11:00",
       "status": "예정",
       "result": null,
-      "team1": "킹",
-      "team2": "LA 킹스",
+      "team1": "LA 킹스",
+      "team2": "플로리다 팬서스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1023,7 +1023,9 @@
       },
       "ai_summary": "부산 KCC 홈 3연패, 대구 한국가스공사 원정 득점력에 주목",
       "ai_picks": [
-        "대구 한국가스공사 승"
+        "대구 한국가스공사 승",
+        "대구 한국가스공사 +6.5 승",
+        "언더 168.5"
       ],
       "aria_label": "부산 KCC vs 대구 한국가스공사 19:00 분석 상세",
       "source_date": "2026-10-07"
@@ -1048,7 +1050,9 @@
       },
       "ai_summary": "세종 스포츠토토 여자, 최근 맞대결 2승1무로 우위 뚜렷",
       "ai_picks": [
-        "세종 스포츠토토 여자 승"
+        "세종 스포츠토토 여자 승",
+        "언더 2.5",
+        "인천 현대제철 여자 +1.5 승"
       ],
       "aria_label": "세종 스포츠토토 여자 vs 인천 현대제철 여자 19:00 분석 상세",
       "source_date": "2026-10-07"
@@ -1073,7 +1077,9 @@
       },
       "ai_summary": "최근 6경기 4승, 문경 상무 여자 원정 강세가 변수로 작용",
       "ai_picks": [
-        "문경 상무 여자 승"
+        "문경 상무 여자 승",
+        "언더 2.75",
+        "문경 상무 여자 +1.5 승"
       ],
       "aria_label": "FC서울 여자 vs 문경 상무 여자 19:00 분석 상세",
       "source_date": "2026-10-07"
@@ -1976,12 +1982,12 @@
       "league": "KBO",
       "date": "10/6 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "KIA 타이거즈",
       "team2": "삼성 라이온즈",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 5,
       "prob": {
         "home": 44.0,
         "away": 56.0
@@ -2002,12 +2008,12 @@
       "league": "KBO",
       "date": "10/6 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LG 트윈스",
       "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
+      "score1": 6,
+      "score2": 1,
       "prob": {
         "home": 54.0,
         "away": 46.0
@@ -2027,12 +2033,12 @@
       "league": "KBO",
       "date": "10/6 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "한화 이글스",
       "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
+      "score1": 9,
+      "score2": 2,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -2052,12 +2058,12 @@
       "league": "KBO",
       "date": "10/6 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "키움 히어로즈",
       "team2": "KT 위즈",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 10,
       "prob": {
         "home": 22.0,
         "away": 78.0
@@ -2077,12 +2083,12 @@
       "league": "KBO",
       "date": "10/6 (화)",
       "time": "18:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "롯데 자이언츠",
       "team2": "두산 베어스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 3,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -2102,12 +2108,12 @@
       "league": "KBL",
       "date": "10/6 (화)",
       "time": "19:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "수원 KT",
       "team2": "창원 LG",
-      "score1": null,
-      "score2": null,
+      "score1": 97,
+      "score2": 72,
       "prob": {
         "home": 25.0,
         "away": 75.0
@@ -2128,12 +2134,12 @@
       "league": "INTERF",
       "date": "10/6 (화)",
       "time": "20:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "대한민국",
       "team2": "우즈베키스탄",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 0,
       "prob": {
         "home": 58.0,
         "draw": 23.0,

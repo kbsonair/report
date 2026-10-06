@@ -1,239 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-06",
-  "scraped_at": "2026-10-06T06:35:37.372902+00:00",
+  "scraped_at": "2026-10-06T13:36:48.725699+00:00",
   "count": 44,
   "matches": [
-    {
-      "id": "2000355329",
-      "url": "https://bbongtv4.com/premium/baseball/2000355329",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "10/6 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "한신 타이거스",
-      "team2": "히로시마 카프",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 68.0,
-        "away": 32.0
-      },
-      "ai_summary": "한신 타이거스, 시즌 득실차와 홈 실점 억제로 우세한 흐름",
-      "ai_picks": [
-        "한신 타이거스 승",
-        "언더 5.5"
-      ],
-      "aria_label": "한신 타이거스 vs 히로시마 카프 18:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000359474",
-      "url": "https://bbongtv4.com/premium/baseball/2000359474",
-      "sport": "baseball",
-      "league": "NPB",
-      "date": "10/6 (화)",
-      "time": "18:00",
-      "status": "예정",
-      "result": null,
-      "team1": "치바 롯데 마리너스",
-      "team2": "세이부 라이온스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 43.0,
-        "away": 57.0
-      },
-      "ai_summary": "원정 평균실점 2.64, 세이부 실점 억제력이 승부의 축",
-      "ai_picks": [
-        "세이부 라이온스 승",
-        "언더 6.5",
-        "치바 롯데 마리너스 +1.5 승"
-      ],
-      "aria_label": "치바 롯데 마리너스 vs 세이부 라이온스 18:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000355413",
-      "url": "https://bbongtv4.com/premium/baseball/2000355413",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "10/6 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "KIA 타이거즈",
-      "team2": "삼성 라이온즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 44.0,
-        "away": 56.0
-      },
-      "ai_summary": "삼성 원정 평균득점 6.55, 기아 홈 10승5패를 흔들 변수",
-      "ai_picks": [
-        "삼성 라이온즈 승",
-        "오버 10.5",
-        "KIA 타이거즈 +1.5 승"
-      ],
-      "aria_label": "KIA 타이거즈 vs 삼성 라이온즈 18:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000355835",
-      "url": "https://bbongtv4.com/premium/baseball/2000355835",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "10/6 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "LG 트윈스",
-      "team2": "NC 다이노스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "LG 트윈스 최근 6연패, NC 다이노스도 원정 불안 지속",
-      "ai_picks": [
-        "LG 트윈스 승",
-        "오버 9.5"
-      ],
-      "aria_label": "LG 트윈스 vs NC 다이노스 18:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000365273",
-      "url": "https://bbongtv4.com/premium/baseball/2000365273",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "10/6 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "한화 이글스",
-      "team2": "SSG 랜더스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "SSG 랜더스, 최근 맞대결 4연승과 시즌 득실 우위로 흐름 앞서",
-      "ai_picks": [
-        "SSG 랜더스 승",
-        "오버 9.5"
-      ],
-      "aria_label": "한화 이글스 vs SSG 랜더스 18:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000365274",
-      "url": "https://bbongtv4.com/premium/baseball/2000365274",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "10/6 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "키움 히어로즈",
-      "team2": "KT 위즈",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 22.0,
-        "away": 78.0
-      },
-      "ai_summary": "KT 위즈 원정 9승1무4패, 키움 히어로즈 홈 약세와 뚜렷한 대조",
-      "ai_picks": [
-        "KT 위즈 승",
-        "오버 8"
-      ],
-      "aria_label": "키움 히어로즈 vs KT 위즈 18:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2000365275",
-      "url": "https://bbongtv4.com/premium/baseball/2000365275",
-      "sport": "baseball",
-      "league": "KBO",
-      "date": "10/6 (화)",
-      "time": "18:30",
-      "status": "예정",
-      "result": null,
-      "team1": "롯데 자이언츠",
-      "team2": "두산 베어스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 35.0,
-        "away": 65.0
-      },
-      "ai_summary": "두산 베어스, 최근 6경기 4승과 시즌 득실 우위로 상승세 뚜렷",
-      "ai_picks": [
-        "두산 베어스 승",
-        "오버 9.5"
-      ],
-      "aria_label": "롯데 자이언츠 vs 두산 베어스 18:30 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "2001048069",
-      "url": "https://bbongtv4.com/premium/basket/2001048069",
-      "sport": "basket",
-      "league": "KBL",
-      "date": "10/6 (화)",
-      "time": "19:00",
-      "status": "예정",
-      "result": null,
-      "team1": "수원 KT",
-      "team2": "창원 LG",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 25.0,
-        "away": 75.0
-      },
-      "ai_summary": "창원 LG, 원정 3경기 평균 득실차 +13.34로 뚜렷한 우세",
-      "ai_picks": [
-        "창원 LG 승",
-        "오버 165",
-        "창원 LG -6.5 승"
-      ],
-      "aria_label": "수원 KT vs 창원 LG 19:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
-    {
-      "id": "16508025",
-      "url": "https://bbongtv4.com/premium/soccer/16508025",
-      "sport": "soccer",
-      "league": "INTERF",
-      "date": "10/6 (화)",
-      "time": "20:00",
-      "status": "예정",
-      "result": null,
-      "team1": "대한민국",
-      "team2": "우즈베키스탄",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 58.0,
-        "draw": 23.0,
-        "away": 19.0
-      },
-      "ai_summary": "대한민국, 최근 홈 3경기서 9득점·4실점…공격력 앞서지만 실점 관리가 변수",
-      "ai_picks": [
-        "대한민국 승",
-        "오버 2.5",
-        "우즈베키스탄 +1.5 승"
-      ],
-      "aria_label": "대한민국 vs 우즈베키스탄 20:00 분석 상세",
-      "source_date": "2026-10-06"
-    },
     {
       "id": "16506738",
       "url": "https://bbongtv4.com/premium/soccer/16506738",
@@ -1125,6 +895,236 @@
         "오버 2.5"
       ],
       "aria_label": "온두라스 vs 자메이카 11:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000355329",
+      "url": "https://bbongtv4.com/premium/baseball/2000355329",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "10/6 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "한신 타이거스",
+      "team2": "히로시마 카프",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 68.0,
+        "away": 32.0
+      },
+      "ai_summary": "한신 타이거스, 시즌 득실차와 홈 실점 억제로 우세한 흐름",
+      "ai_picks": [
+        "한신 타이거스 승",
+        "언더 5.5"
+      ],
+      "aria_label": "한신 타이거스 vs 히로시마 카프 18:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000359474",
+      "url": "https://bbongtv4.com/premium/baseball/2000359474",
+      "sport": "baseball",
+      "league": "NPB",
+      "date": "10/6 (화)",
+      "time": "18:00",
+      "status": "예정",
+      "result": null,
+      "team1": "치바 롯데 마리너스",
+      "team2": "세이부 라이온스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 43.0,
+        "away": 57.0
+      },
+      "ai_summary": "원정 평균실점 2.64, 세이부 실점 억제력이 승부의 축",
+      "ai_picks": [
+        "세이부 라이온스 승",
+        "언더 6.5",
+        "치바 롯데 마리너스 +1.5 승"
+      ],
+      "aria_label": "치바 롯데 마리너스 vs 세이부 라이온스 18:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000355413",
+      "url": "https://bbongtv4.com/premium/baseball/2000355413",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "10/6 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "KIA 타이거즈",
+      "team2": "삼성 라이온즈",
+      "score1": 4,
+      "score2": 5,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "삼성 원정 평균득점 6.55, 기아 홈 10승5패를 흔들 변수",
+      "ai_picks": [
+        "삼성 라이온즈 승",
+        "오버 10.5",
+        "KIA 타이거즈 +1.5 승"
+      ],
+      "aria_label": "KIA 타이거즈 vs 삼성 라이온즈 18:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000355835",
+      "url": "https://bbongtv4.com/premium/baseball/2000355835",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "10/6 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "LG 트윈스",
+      "team2": "NC 다이노스",
+      "score1": 6,
+      "score2": 1,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "LG 트윈스 최근 6연패, NC 다이노스도 원정 불안 지속",
+      "ai_picks": [
+        "LG 트윈스 승",
+        "오버 9.5"
+      ],
+      "aria_label": "LG 트윈스 vs NC 다이노스 18:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000365273",
+      "url": "https://bbongtv4.com/premium/baseball/2000365273",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "10/6 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "한화 이글스",
+      "team2": "SSG 랜더스",
+      "score1": 9,
+      "score2": 2,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "SSG 랜더스, 최근 맞대결 4연승과 시즌 득실 우위로 흐름 앞서",
+      "ai_picks": [
+        "SSG 랜더스 승",
+        "오버 9.5"
+      ],
+      "aria_label": "한화 이글스 vs SSG 랜더스 18:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000365274",
+      "url": "https://bbongtv4.com/premium/baseball/2000365274",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "10/6 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "키움 히어로즈",
+      "team2": "KT 위즈",
+      "score1": 1,
+      "score2": 10,
+      "prob": {
+        "home": 22.0,
+        "away": 78.0
+      },
+      "ai_summary": "KT 위즈 원정 9승1무4패, 키움 히어로즈 홈 약세와 뚜렷한 대조",
+      "ai_picks": [
+        "KT 위즈 승",
+        "오버 8"
+      ],
+      "aria_label": "키움 히어로즈 vs KT 위즈 18:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2000365275",
+      "url": "https://bbongtv4.com/premium/baseball/2000365275",
+      "sport": "baseball",
+      "league": "KBO",
+      "date": "10/6 (화)",
+      "time": "18:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "롯데 자이언츠",
+      "team2": "두산 베어스",
+      "score1": 1,
+      "score2": 3,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "두산 베어스, 최근 6경기 4승과 시즌 득실 우위로 상승세 뚜렷",
+      "ai_picks": [
+        "두산 베어스 승",
+        "오버 9.5"
+      ],
+      "aria_label": "롯데 자이언츠 vs 두산 베어스 18:30 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "2001048069",
+      "url": "https://bbongtv4.com/premium/basket/2001048069",
+      "sport": "basket",
+      "league": "KBL",
+      "date": "10/6 (화)",
+      "time": "19:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "수원 KT",
+      "team2": "창원 LG",
+      "score1": 97,
+      "score2": 72,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "창원 LG, 원정 3경기 평균 득실차 +13.34로 뚜렷한 우세",
+      "ai_picks": [
+        "창원 LG 승",
+        "오버 165",
+        "창원 LG -6.5 승"
+      ],
+      "aria_label": "수원 KT vs 창원 LG 19:00 분석 상세",
+      "source_date": "2026-10-06"
+    },
+    {
+      "id": "16508025",
+      "url": "https://bbongtv4.com/premium/soccer/16508025",
+      "sport": "soccer",
+      "league": "INTERF",
+      "date": "10/6 (화)",
+      "time": "20:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "대한민국",
+      "team2": "우즈베키스탄",
+      "score1": 2,
+      "score2": 0,
+      "prob": {
+        "home": 58.0,
+        "draw": 23.0,
+        "away": 19.0
+      },
+      "ai_summary": "대한민국, 최근 홈 3경기서 9득점·4실점…공격력 앞서지만 실점 관리가 변수",
+      "ai_picks": [
+        "대한민국 승",
+        "오버 2.5",
+        "우즈베키스탄 +1.5 승"
+      ],
+      "aria_label": "대한민국 vs 우즈베키스탄 20:00 분석 상세",
       "source_date": "2026-10-06"
     }
   ]
