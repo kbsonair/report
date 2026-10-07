@@ -1,33 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-07",
   "source_date": "2026-10-07",
-  "scraped_at": "2026-10-07T16:38:50.230731+00:00",
+  "scraped_at": "2026-10-07T21:36:03.314990+00:00",
   "count": 61,
   "matches": [
-    {
-      "id": "2000643431",
-      "url": "https://bbongtv4.com/premium/hockey/2000643431",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/7 (수)",
-      "time": "23:00",
-      "status": "예정",
-      "result": null,
-      "team1": "마",
-      "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 82.0,
-        "away": 18.0
-      },
-      "ai_summary": "마그니토고르스크 홈 6경기 평균 실점 1.5, 수비 안정감 뚜렷",
-      "ai_picks": [
-        "마그니토고르스크 승"
-      ],
-      "aria_label": "마그니토고르스크 vs 블라디보스토크 23:00 분석 상세",
-      "source_date": "2026-10-07"
-    },
     {
       "id": "2000643427",
       "url": "https://bbongtv4.com/premium/hockey/2000643427",
@@ -1563,6 +1539,30 @@
         "살라바트 우파 승"
       ],
       "aria_label": "노보시비르스크 vs 살라바트 우파 21:30 분석 상세",
+      "source_date": "2026-10-07"
+    },
+    {
+      "id": "2000643431",
+      "url": "https://bbongtv4.com/premium/hockey/2000643431",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/7 (수)",
+      "time": "23:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "마",
+      "team2": "마그니토고르스크",
+      "score1": 3,
+      "score2": 0,
+      "prob": {
+        "home": 82.0,
+        "away": 18.0
+      },
+      "ai_summary": "마그니토고르스크 홈 6경기 평균 실점 1.5, 수비 안정감 뚜렷",
+      "ai_picks": [
+        "마그니토고르스크 승"
+      ],
+      "aria_label": "마그니토고르스크 vs 블라디보스토크 23:00 분석 상세",
       "source_date": "2026-10-07"
     }
   ]

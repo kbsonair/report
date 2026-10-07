@@ -1,57 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-08",
-  "scraped_at": "2026-10-07T16:38:48.848723+00:00",
+  "scraped_at": "2026-10-07T21:36:02.091002+00:00",
   "count": 26,
   "matches": [
-    {
-      "id": "2000643430",
-      "url": "https://bbongtv4.com/premium/hockey/2000643430",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/8 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "away": 60.0
-      },
-      "ai_summary": "상하이 최근 6경기 5승, 디나모 모스크바는 4연패로 하락세",
-      "ai_picks": [
-        "상하이 승"
-      ],
-      "aria_label": "디나모 모스크바 vs 상하이 01:30 분석 상세",
-      "source_date": "2026-10-08"
-    },
-    {
-      "id": "2000643433",
-      "url": "https://bbongtv4.com/premium/hockey/2000643433",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/8 (목)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "소",
-      "team2": "소치",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 20.0,
-        "away": 80.0
-      },
-      "ai_summary": "스파르타크 모스크바 원정 4경기 3승, 소치 홈 득점력 저조가 변수",
-      "ai_picks": [
-        "스파르타크 모스크바 승"
-      ],
-      "aria_label": "소치 vs 스파르타크 모스크바 01:30 분석 상세",
-      "source_date": "2026-10-08"
-    },
     {
       "id": "2001042793",
       "url": "https://bbongtv4.com/premium/basket/2001042793",
@@ -659,6 +611,54 @@
         "트랙터 첼야빈스크 승"
       ],
       "aria_label": "트랙터 첼야빈스크 vs 하바로프스크 23:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2000643430",
+      "url": "https://bbongtv4.com/premium/hockey/2000643430",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/8 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "디",
+      "team2": "디나모 모스크바",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 40.0,
+        "away": 60.0
+      },
+      "ai_summary": "상하이 최근 6경기 5승, 디나모 모스크바는 4연패로 하락세",
+      "ai_picks": [
+        "상하이 승"
+      ],
+      "aria_label": "디나모 모스크바 vs 상하이 01:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2000643433",
+      "url": "https://bbongtv4.com/premium/hockey/2000643433",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/8 (목)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "소",
+      "team2": "소치",
+      "score1": 2,
+      "score2": 5,
+      "prob": {
+        "home": 20.0,
+        "away": 80.0
+      },
+      "ai_summary": "스파르타크 모스크바 원정 4경기 3승, 소치 홈 득점력 저조가 변수",
+      "ai_picks": [
+        "스파르타크 모스크바 승"
+      ],
+      "aria_label": "소치 vs 스파르타크 모스크바 01:30 분석 상세",
       "source_date": "2026-10-08"
     }
   ]

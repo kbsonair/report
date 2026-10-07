@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T16:38:51.594730+00:00",
+  "scraped_at": "2026-10-07T21:36:04.680802+00:00",
   "kst_yesterday": "2026-10-07",
   "kst_today": "2026-10-08",
   "kst_tomorrow": "2026-10-09",
@@ -1133,12 +1133,12 @@
       "league": "KHL",
       "date": "10/8 (목)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "디",
       "team2": "디나모 모스크바",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 3,
       "prob": {
         "home": 40.0,
         "away": 60.0
@@ -1157,12 +1157,12 @@
       "league": "KHL",
       "date": "10/8 (목)",
       "time": "01:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "소",
       "team2": "소치",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 5,
       "prob": {
         "home": 20.0,
         "away": 80.0
@@ -3327,12 +3327,12 @@
       "league": "KHL",
       "date": "10/7 (수)",
       "time": "23:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "마",
       "team2": "마그니토고르스크",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 0,
       "prob": {
         "home": 82.0,
         "away": 18.0
