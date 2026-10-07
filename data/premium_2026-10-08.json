@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-08",
   "source_date": "2026-10-08",
-  "scraped_at": "2026-10-06T23:06:40.095624+00:00",
-  "count": 19,
+  "scraped_at": "2026-10-07T02:28:18.675570+00:00",
+  "count": 21,
   "matches": [
     {
       "id": "2000643430",
@@ -121,7 +121,8 @@
       },
       "ai_summary": "LA 다저스, 시즌 득실차 +1.55로 체급 우위 뚜렷",
       "ai_picks": [
-        "LA 다저스 승"
+        "LA 다저스 승",
+        "언더 7.5"
       ],
       "aria_label": "애틀란타 브레이브스 vs LA 다저스 07:00 분석 상세",
       "source_date": "2026-10-08"
@@ -231,6 +232,30 @@
       "source_date": "2026-10-08"
     },
     {
+      "id": "2001068947",
+      "url": "https://bbongtv4.com/premium/basket/2001068947",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/8 (목)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "애틀랜타 드림 여자",
+      "team2": "뉴욕 리버티 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "최근 6연승에 맞대결 3연승, 애틀랜타 상승세가 더 뚜렷하다",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승"
+      ],
+      "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 08:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
       "id": "2000651398",
       "url": "https://bbongtv4.com/premium/hockey/2000651398",
       "sport": "hockey",
@@ -329,6 +354,32 @@
         "언더 7"
       ],
       "aria_label": "NY 양키스 vs 탬파베이 레이스 09:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "16516107",
+      "url": "https://bbongtv4.com/premium/basket/16516107",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/8 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "골든스테이트 발키리 여자",
+      "team2": "라스베가스 에이시스 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 58.0,
+        "away": 42.0
+      },
+      "ai_summary": "홈 14승2패와 최근 71-60, 골든스테이트 안정감이 앞선 경기",
+      "ai_picks": [
+        "골든스테이트 발키리 여자 승",
+        "오버 156.5",
+        "골든스테이트 발키리 여자 -1.5 승"
+      ],
+      "aria_label": "골든스테이트 발키리 여자 vs 라스베가스 에이시스 여자 09:00 분석 상세",
       "source_date": "2026-10-08"
     },
     {
