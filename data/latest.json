@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T02:28:18.735307+00:00",
+  "scraped_at": "2026-10-07T09:14:07.554556+00:00",
   "kst_yesterday": "2026-10-06",
   "kst_today": "2026-10-07",
   "kst_tomorrow": "2026-10-08",
@@ -8,7 +8,7 @@
     "2026-10-07",
     "2026-10-08"
   ],
-  "count": 126,
+  "count": 131,
   "matches": [
     {
       "id": "2000643430",
@@ -212,6 +212,31 @@
       "source_date": "2026-10-08"
     },
     {
+      "id": "2001052145",
+      "url": "https://bbongtv4.com/premium/basket/2001052145",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/8 (목)",
+      "time": "08:00",
+      "status": "예정",
+      "result": null,
+      "team1": "인",
+      "team2": "인디애나 페이서스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 38.0,
+        "away": 62.0
+      },
+      "ai_summary": "미네소타 팀버울브스, 원정 19점차 승리로 상승세와 배당 우위 동시 확보",
+      "ai_picks": [
+        "미네소타 팀버울브스 승",
+        "언더 235.5"
+      ],
+      "aria_label": "인디애나 페이서스 vs 미네소타 팀버울브스 08:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
       "id": "2007233258",
       "url": "https://bbongtv4.com/premium/soccer/2007233258",
       "sport": "soccer",
@@ -256,7 +281,9 @@
       },
       "ai_summary": "최근 6연승에 맞대결 3연승, 애틀랜타 상승세가 더 뚜렷하다",
       "ai_picks": [
-        "애틀랜타 드림 여자 승"
+        "애틀랜타 드림 여자 승",
+        "오버 170.5",
+        "애틀랜타 드림 여자 -1.5 승"
       ],
       "aria_label": "애틀랜타 드림 여자 vs 뉴욕 리버티 여자 08:30 분석 상세",
       "source_date": "2026-10-08"
@@ -270,8 +297,8 @@
       "time": "08:30",
       "status": "예정",
       "result": null,
-      "team1": "워",
-      "team2": "워싱턴 캐피털스",
+      "team1": "워싱턴 캐피털스",
+      "team2": "피츠버그 펭귄스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -295,8 +322,8 @@
       "time": "08:30",
       "status": "예정",
       "result": null,
-      "team1": "위",
-      "team2": "위니펙 제츠",
+      "team1": "위니펙 제츠",
+      "team2": "콜로라도 애벌런치",
       "score1": null,
       "score2": null,
       "prob": {
@@ -389,6 +416,81 @@
       "source_date": "2026-10-08"
     },
     {
+      "id": "2001052147",
+      "url": "https://bbongtv4.com/premium/basket/2001052147",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/8 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시",
+      "team2": "시카고 불스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "피닉스 선즈, 마크 윌리엄스 결장에도 시장 배당 우위 유지",
+      "ai_picks": [
+        "피닉스 선즈 승",
+        "언더 228.5"
+      ],
+      "aria_label": "시카고 불스 vs 피닉스 선즈 09:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001052149",
+      "url": "https://bbongtv4.com/premium/basket/2001052149",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/8 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "멤",
+      "team2": "멤피스 그리즐리스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 52.0,
+        "away": 48.0
+      },
+      "ai_summary": "멤피스 132득점, 공격력 확인…양 팀 결장 변수로 접전 예상",
+      "ai_picks": [
+        "오버 234.5",
+        "멤피스 그리즐리스 +2.5 승"
+      ],
+      "aria_label": "멤피스 그리즐리스 vs 올랜도 매직 09:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001052151",
+      "url": "https://bbongtv4.com/premium/basket/2001052151",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/8 (목)",
+      "time": "09:00",
+      "status": "예정",
+      "result": null,
+      "team1": "썬",
+      "team2": "OKC 썬더",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "OKC 썬더, 결장자 복귀와 홈 강세 기대 속 시장은 10.5점 차 우위 전망",
+      "ai_picks": [
+        "OKC 썬더 승",
+        "오버 219.5"
+      ],
+      "aria_label": "OKC 썬더 vs 밀워키 벅스 09:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
       "id": "2007234481",
       "url": "https://bbongtv4.com/premium/soccer/2007234481",
       "sport": "soccer",
@@ -415,6 +517,31 @@
       "source_date": "2026-10-08"
     },
     {
+      "id": "2000367872",
+      "url": "https://bbongtv4.com/premium/baseball/2000367872",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/8 (목)",
+      "time": "11:00",
+      "status": "예정",
+      "result": null,
+      "team1": "샌디에이고 파드레스",
+      "team2": "밀워키 브루어스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 51.0,
+        "away": 49.0
+      },
+      "ai_summary": "홈 14승4패 강세와 4-3·3-2 맞대결, 접전 언더 구도",
+      "ai_picks": [
+        "언더 7.5",
+        "샌디에이고 파드레스 +1.5 승"
+      ],
+      "aria_label": "샌디에이고 파드레스 vs 밀워키 브루어스 11:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
       "id": "2000651427",
       "url": "https://bbongtv4.com/premium/hockey/2000651427",
       "sport": "hockey",
@@ -423,8 +550,8 @@
       "time": "11:00",
       "status": "예정",
       "result": null,
-      "team1": "애",
-      "team2": "애너하임 덕스",
+      "team1": "애너하임 덕스",
+      "team2": "에드먼턴 오일러스",
       "score1": null,
       "score2": null,
       "prob": {
@@ -1138,12 +1265,12 @@
       "league": "NHL",
       "date": "10/7 (수)",
       "time": "08:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "NY 레인저스",
       "team2": "NY 아일랜더스",
-      "score1": null,
-      "score2": null,
+      "score1": 5,
+      "score2": 2,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -1163,12 +1290,12 @@
       "league": "NBA",
       "date": "10/7 (수)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "썬",
       "team2": "OKC 썬더",
-      "score1": null,
-      "score2": null,
+      "score1": 110,
+      "score2": 116,
       "prob": {
         "home": 57.0,
         "away": 43.0
@@ -1188,12 +1315,12 @@
       "league": "NHL",
       "date": "10/7 (수)",
       "time": "09:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시카고 블랙호크스",
       "team2": "세인트루이스 블루스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 2,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1213,12 +1340,12 @@
       "league": "INTERF",
       "date": "10/7 (수)",
       "time": "09:10",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "미국",
       "team2": "캐나다",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 0,
       "prob": {
         "home": 55.0,
         "draw": 23.0,
@@ -1239,12 +1366,12 @@
       "league": "USA MLS",
       "date": "10/7 (수)",
       "time": "09:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "시카고 파이어",
       "team2": "밴쿠버 화이트캡스",
-      "score1": null,
-      "score2": null,
+      "score1": 3,
+      "score2": 1,
       "prob": {
         "home": 23.0,
         "draw": 20.0,
@@ -1265,12 +1392,12 @@
       "league": "MLB",
       "date": "10/7 (수)",
       "time": "10:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "샌디에이고 파드레스",
       "team2": "밀워키 브루어스",
-      "score1": null,
-      "score2": null,
+      "score1": 4,
+      "score2": 3,
       "prob": {
         "home": 46.0,
         "away": 54.0
@@ -1291,12 +1418,12 @@
       "league": "NHL",
       "date": "10/7 (수)",
       "time": "10:40",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "시애틀 크라켄",
       "team2": "베가스 골든 나이츠",
-      "score1": null,
-      "score2": null,
+      "score1": 2,
+      "score2": 6,
       "prob": {
         "home": 52.0,
         "away": 48.0
@@ -1317,12 +1444,12 @@
       "league": "NBA",
       "date": "10/7 (수)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "워",
       "team2": "GS 워리어스",
-      "score1": null,
-      "score2": null,
+      "score1": 124,
+      "score2": 98,
       "prob": {
         "home": 58.0,
         "away": 42.0
@@ -1343,12 +1470,12 @@
       "league": "NHL",
       "date": "10/7 (수)",
       "time": "11:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "LA 킹스",
       "team2": "플로리다 팬서스",
-      "score1": null,
-      "score2": null,
+      "score1": 1,
+      "score2": 2,
       "prob": {
         "home": 47.0,
         "away": 53.0
@@ -1368,12 +1495,12 @@
       "league": "INTERF",
       "date": "10/7 (수)",
       "time": "11:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "멕시코",
       "team2": "칠레",
-      "score1": null,
-      "score2": null,
+      "score1": 0,
+      "score2": 2,
       "prob": {
         "home": 55.0,
         "draw": 25.0,
@@ -1678,8 +1805,8 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "부",
-      "team2": "부산 KCC",
+      "team1": "부산 KCC",
+      "team2": "대구 한국가스공사",
       "score1": null,
       "score2": null,
       "prob": {
