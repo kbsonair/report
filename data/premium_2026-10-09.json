@@ -1,8 +1,8 @@
 {
   "source_url": "https://bbongtv4.com/premium/2026-10-09",
   "source_date": "2026-10-09",
-  "scraped_at": "2026-10-07T21:36:04.604837+00:00",
-  "count": 44,
+  "scraped_at": "2026-10-08T01:18:50.344717+00:00",
+  "count": 45,
   "matches": [
     {
       "id": "2001042794",
@@ -225,6 +225,30 @@
         "파르티잔 모자르트 벳 승"
       ],
       "aria_label": "레알마드리드 vs 파르티잔 모자르트 벳 03:45 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2000367873",
+      "url": "https://bbongtv4.com/premium/baseball/2000367873",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/9 (금)",
+      "time": "06:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고 화이트삭스",
+      "team2": "클리블랜드 가디언스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 44.0,
+        "away": 56.0
+      },
+      "ai_summary": "클리블랜드 가디언스, 원정 16경기 평균득점 5.56로 공격력 우위",
+      "ai_picks": [
+        "클리블랜드 가디언스 승"
+      ],
+      "aria_label": "시카고 화이트삭스 vs 클리블랜드 가디언스 06:00 분석 상세",
       "source_date": "2026-10-09"
     },
     {

@@ -1,59 +1,9 @@
 {
   "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-08",
-  "scraped_at": "2026-10-07T21:36:02.091002+00:00",
-  "count": 26,
+  "scraped_at": "2026-10-08T01:18:48.018309+00:00",
+  "count": 31,
   "matches": [
-    {
-      "id": "2001042793",
-      "url": "https://bbongtv4.com/premium/basket/2001042793",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/8 (목)",
-      "time": "03:45",
-      "status": "예정",
-      "result": null,
-      "team1": "파",
-      "team2": "파리",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 62.0,
-        "away": 38.0
-      },
-      "ai_summary": "홈 1승1패 파리, 배당 1.41 우위에도 -5.5는 부담",
-      "ai_picks": [
-        "파리 승",
-        "리옹-빌르르반 +5.5 승"
-      ],
-      "aria_label": "파리 vs 리옹-빌르르반 03:45 분석 상세",
-      "source_date": "2026-10-08"
-    },
-    {
-      "id": "2000367539",
-      "url": "https://bbongtv4.com/premium/baseball/2000367539",
-      "sport": "baseball",
-      "league": "MLB",
-      "date": "10/8 (목)",
-      "time": "05:00",
-      "status": "예정",
-      "result": null,
-      "team1": "시카고 화이트삭스",
-      "team2": "클리블랜드 가디언스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 54.0,
-        "away": 46.0
-      },
-      "ai_summary": "시카고 화이트삭스, 최근 3연승과 홈런 파워로 우세 흐름",
-      "ai_picks": [
-        "시카고 화이트삭스 승",
-        "오버 7.5"
-      ],
-      "aria_label": "시카고 화이트삭스 vs 클리블랜드 가디언스 05:00 분석 상세",
-      "source_date": "2026-10-08"
-    },
     {
       "id": "2000367865",
       "url": "https://bbongtv4.com/premium/baseball/2000367865",
@@ -77,84 +27,6 @@
         "언더 7.5"
       ],
       "aria_label": "애틀란타 브레이브스 vs LA 다저스 07:00 분석 상세",
-      "source_date": "2026-10-08"
-    },
-    {
-      "id": "2007231761",
-      "url": "https://bbongtv4.com/premium/soccer/2007231761",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "10/8 (목)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "브라간치노",
-      "team2": "미라솔",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "draw": 30.0,
-        "away": 22.0
-      },
-      "ai_summary": "브라간치노 홈 6승·미라솔 원정 2승, 홈 강세와 결장 변수 모두 변수",
-      "ai_picks": [
-        "브라간치노 승",
-        "언더 2.5"
-      ],
-      "aria_label": "브라간치노 vs 미라솔 07:30 분석 상세",
-      "source_date": "2026-10-08"
-    },
-    {
-      "id": "2007232098",
-      "url": "https://bbongtv4.com/premium/soccer/2007232098",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "10/8 (목)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "인터나시오날",
-      "team2": "코린티안스",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 42.0,
-        "draw": 33.0,
-        "away": 25.0
-      },
-      "ai_summary": "코린티안스 최근 5연패·결장자 다수, 인터나시오날 홈 약세에도 반등 기회",
-      "ai_picks": [
-        "인터나시오날 승",
-        "언더 2.5"
-      ],
-      "aria_label": "인터나시오날 vs 코린티안스 07:30 분석 상세",
-      "source_date": "2026-10-08"
-    },
-    {
-      "id": "2007232335",
-      "url": "https://bbongtv4.com/premium/soccer/2007232335",
-      "sport": "soccer",
-      "league": "BRA D1",
-      "date": "10/8 (목)",
-      "time": "07:30",
-      "status": "예정",
-      "result": null,
-      "team1": "레모",
-      "team2": "그레미우",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 40.0,
-        "draw": 32.0,
-        "away": 28.0
-      },
-      "ai_summary": "양 팀 모두 결장자 8명, 전력 누수 속 저득점 흐름이 유력하다",
-      "ai_picks": [
-        "언더 2.5",
-        "레모 승"
-      ],
-      "aria_label": "레모 vs 그레미우 07:30 분석 상세",
       "source_date": "2026-10-08"
     },
     {
@@ -572,8 +444,8 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "원",
-      "team2": "원주 DB",
+      "team1": "원주 DB",
+      "team2": "창원 LG",
       "score1": null,
       "score2": null,
       "prob": {
@@ -587,6 +459,127 @@
         "원주 DB -1.5 승"
       ],
       "aria_label": "원주 DB vs 창원 LG 19:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001037363",
+      "url": "https://bbongtv4.com/premium/basket/2001037363",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/8 (목)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "알",
+      "team2": "알바크",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 85.0,
+        "away": 15.0
+      },
+      "ai_summary": "알바크 최근 2연승, 사가 4연패와 대조적 흐름이 변수",
+      "ai_picks": [
+        "알바크 승",
+        "알바크 -12.5 승"
+      ],
+      "aria_label": "알바크 vs 사가 19:05 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001037364",
+      "url": "https://bbongtv4.com/premium/basket/2001037364",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/8 (목)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "고",
+      "team2": "고베",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "양 팀 모두 평균 득실차 -9점대, 접전 속 홈 이점이 변수",
+      "ai_picks": [
+        "고베 승"
+      ],
+      "aria_label": "고베 vs 치바 19:05 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001037365",
+      "url": "https://bbongtv4.com/premium/basket/2001037365",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/8 (목)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "나",
+      "team2": "나가사키",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 25.0,
+        "away": 75.0
+      },
+      "ai_summary": "나가사키 최근 4연패·평균 득실차 -16.25, 신슈 원정 득점력 우위",
+      "ai_picks": [
+        "신슈 승"
+      ],
+      "aria_label": "나가사키 vs 신슈 19:05 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001037366",
+      "url": "https://bbongtv4.com/premium/basket/2001037366",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/8 (목)",
+      "time": "19:30",
+      "status": "예정",
+      "result": null,
+      "team1": "아",
+      "team2": "아키타",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "양 팀 모두 최근 4경기 평균 득실차 -10점 이상, 접전보다는 한쪽 우세 흐름",
+      "ai_picks": [
+        "브레이브 썬더스 승"
+      ],
+      "aria_label": "아키타 vs 브레이브 썬더스 19:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001037367",
+      "url": "https://bbongtv4.com/premium/basket/2001037367",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/8 (목)",
+      "time": "19:35",
+      "status": "예정",
+      "result": null,
+      "team1": "류",
+      "team2": "류큐",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "군마, 최근 4연승과 +11 득실차로 상승세 뚜렷",
+      "ai_picks": [
+        "군마 승"
+      ],
+      "aria_label": "류큐 vs 군마 19:35 분석 상세",
       "source_date": "2026-10-08"
     },
     {
@@ -659,6 +652,134 @@
         "스파르타크 모스크바 승"
       ],
       "aria_label": "소치 vs 스파르타크 모스크바 01:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2001042793",
+      "url": "https://bbongtv4.com/premium/basket/2001042793",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/8 (목)",
+      "time": "03:45",
+      "status": "종료",
+      "result": "적중",
+      "team1": "파",
+      "team2": "파리",
+      "score1": 96,
+      "score2": 98,
+      "prob": {
+        "home": 62.0,
+        "away": 38.0
+      },
+      "ai_summary": "홈 1승1패 파리, 배당 1.41 우위에도 -5.5는 부담",
+      "ai_picks": [
+        "파리 승",
+        "리옹-빌르르반 +5.5 승"
+      ],
+      "aria_label": "파리 vs 리옹-빌르르반 03:45 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2000367539",
+      "url": "https://bbongtv4.com/premium/baseball/2000367539",
+      "sport": "baseball",
+      "league": "MLB",
+      "date": "10/8 (목)",
+      "time": "05:00",
+      "status": "예정",
+      "result": null,
+      "team1": "시카고 화이트삭스",
+      "team2": "클리블랜드 가디언스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 54.0,
+        "away": 46.0
+      },
+      "ai_summary": "시카고 화이트삭스, 최근 3연승과 홈런 파워로 우세 흐름",
+      "ai_picks": [
+        "시카고 화이트삭스 승",
+        "오버 7.5"
+      ],
+      "aria_label": "시카고 화이트삭스 vs 클리블랜드 가디언스 05:00 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2007231761",
+      "url": "https://bbongtv4.com/premium/soccer/2007231761",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "10/8 (목)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "브라간치노",
+      "team2": "미라솔",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 48.0,
+        "draw": 30.0,
+        "away": 22.0
+      },
+      "ai_summary": "브라간치노 홈 6승·미라솔 원정 2승, 홈 강세와 결장 변수 모두 변수",
+      "ai_picks": [
+        "브라간치노 승",
+        "언더 2.5"
+      ],
+      "aria_label": "브라간치노 vs 미라솔 07:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2007232098",
+      "url": "https://bbongtv4.com/premium/soccer/2007232098",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "10/8 (목)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "인터나시오날",
+      "team2": "코린티안스",
+      "score1": 2,
+      "score2": 1,
+      "prob": {
+        "home": 42.0,
+        "draw": 33.0,
+        "away": 25.0
+      },
+      "ai_summary": "코린티안스 최근 5연패·결장자 다수, 인터나시오날 홈 약세에도 반등 기회",
+      "ai_picks": [
+        "인터나시오날 승",
+        "언더 2.5"
+      ],
+      "aria_label": "인터나시오날 vs 코린티안스 07:30 분석 상세",
+      "source_date": "2026-10-08"
+    },
+    {
+      "id": "2007232335",
+      "url": "https://bbongtv4.com/premium/soccer/2007232335",
+      "sport": "soccer",
+      "league": "BRA D1",
+      "date": "10/8 (목)",
+      "time": "07:30",
+      "status": "종료",
+      "result": "적중",
+      "team1": "레모",
+      "team2": "그레미우",
+      "score1": 1,
+      "score2": 1,
+      "prob": {
+        "home": 40.0,
+        "draw": 32.0,
+        "away": 28.0
+      },
+      "ai_summary": "양 팀 모두 결장자 8명, 전력 누수 속 저득점 흐름이 유력하다",
+      "ai_picks": [
+        "언더 2.5",
+        "레모 승"
+      ],
+      "aria_label": "레모 vs 그레미우 07:30 분석 상세",
       "source_date": "2026-10-08"
     }
   ]
