@@ -1,133 +1,9 @@
 {
-  "source_url": "https://bbongtv4.com/premium/2026-10-09",
+  "source_url": "https://bbongtv4.com/premium",
   "source_date": "2026-10-09",
-  "scraped_at": "2026-10-08T07:34:42.728771+00:00",
+  "scraped_at": "2026-10-08T20:37:33.136312+00:00",
   "count": 50,
   "matches": [
-    {
-      "id": "2001042794",
-      "url": "https://bbongtv4.com/premium/basket/2001042794",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/9 (금)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "마",
-      "team2": "마카비 텔아비브",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 47.0,
-        "away": 53.0
-      },
-      "ai_summary": "0승3패와 득실차 -16.33, 마카비 신뢰보다 접전 경계",
-      "ai_picks": [
-        "올림피아 밀라노 승",
-        "언더 172.5",
-        "올림피아 밀라노 +1.5 승"
-      ],
-      "aria_label": "마카비 텔아비브 vs 올림피아 밀라노 01:00 분석 상세",
-      "source_date": "2026-10-09"
-    },
-    {
-      "id": "2001042799",
-      "url": "https://bbongtv4.com/premium/basket/2001042799",
-      "sport": "basket",
-      "league": "EUROLEAGUE",
-      "date": "10/9 (금)",
-      "time": "01:00",
-      "status": "예정",
-      "result": null,
-      "team1": "두",
-      "team2": "두바이",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "두바이 홈 2승0패와 원정팀 1점 패배, 우세 속 접전 구도",
-      "ai_picks": [
-        "두바이 승",
-        "언더 167.5",
-        "크르베나 즈베즈다 메리디안벳 +6.5 승"
-      ],
-      "aria_label": "두바이 vs 크르베나 즈베즈다 메리디안벳 01:00 분석 상세",
-      "source_date": "2026-10-09"
-    },
-    {
-      "id": "2000643986",
-      "url": "https://bbongtv4.com/premium/hockey/2000643986",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/9 (금)",
-      "time": "01:10",
-      "status": "예정",
-      "result": null,
-      "team1": "디",
-      "team2": "디나모 민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 48.0,
-        "away": 52.0
-      },
-      "ai_summary": "SKA 상트페테르부르크 최근 6경기 5승, 득점력에서 앞선 흐름",
-      "ai_picks": [
-        "SKA 상트페테르부르크 승"
-      ],
-      "aria_label": "디나모 민스크 vs SKA 상트페테르부르크 01:10 분석 상세",
-      "source_date": "2026-10-09"
-    },
-    {
-      "id": "2000643434",
-      "url": "https://bbongtv4.com/premium/hockey/2000643434",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/9 (금)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈니노브고로드",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 65.0,
-        "away": 35.0
-      },
-      "ai_summary": "니즈니노브고로드, 홈 3승2패와 원정 6승1패로 전방위 강세",
-      "ai_picks": [
-        "니즈니노브고로드 승"
-      ],
-      "aria_label": "니즈니노브고로드 vs 체레포베츠 01:30 분석 상세",
-      "source_date": "2026-10-09"
-    },
-    {
-      "id": "2000643435",
-      "url": "https://bbongtv4.com/premium/hockey/2000643435",
-      "sport": "hockey",
-      "league": "KHL",
-      "date": "10/9 (금)",
-      "time": "01:30",
-      "status": "예정",
-      "result": null,
-      "team1": "니",
-      "team2": "니즈네카민스크",
-      "score1": null,
-      "score2": null,
-      "prob": {
-        "home": 55.0,
-        "away": 45.0
-      },
-      "ai_summary": "니즈네카민스크 홈 평균득점 4점, 아반가르드 옴스크 원정 득점 저조",
-      "ai_picks": [
-        "니즈네카민스크 승"
-      ],
-      "aria_label": "니즈네카민스크 vs 아반가르드 옴스크 01:30 분석 상세",
-      "source_date": "2026-10-09"
-    },
     {
       "id": "2001042796",
       "url": "https://bbongtv4.com/premium/basket/2001042796",
@@ -752,7 +628,8 @@
       },
       "ai_summary": "LG 트윈스, 원정 평균득점 5.07로 롯데 자이언츠 홈 실점 약점 공략 가능성",
       "ai_picks": [
-        "LG 트윈스 승"
+        "LG 트윈스 승",
+        "오버 10.5"
       ],
       "aria_label": "롯데 자이언츠 vs LG 트윈스 14:00 분석 상세",
       "source_date": "2026-10-09"
@@ -828,7 +705,9 @@
       },
       "ai_summary": "고양 소노, 최근 4경기 3승과 평균 득실차 +7.75로 상승세 뚜렷",
       "ai_picks": [
-        "고양 소노 승"
+        "고양 소노 승",
+        "오버 166.5",
+        "고양 소노 +2.5 승"
       ],
       "aria_label": "수원 KT vs 고양 소노 14:00 분석 상세",
       "source_date": "2026-10-09"
@@ -931,7 +810,9 @@
       },
       "ai_summary": "안양 정관장, 최근 4연승과 평균 득실 +5로 상승세 뚜렷",
       "ai_picks": [
-        "안양 정관장 승"
+        "안양 정관장 승",
+        "언더 164",
+        "안양 정관장 -2.5 승"
       ],
       "aria_label": "서울 삼성 vs 안양 정관장 16:30 분석 상세",
       "source_date": "2026-10-09"
@@ -1270,6 +1151,130 @@
         "오버 3.5"
       ],
       "aria_label": "알 파테흐 vs 알 아흘리 23:55 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001042794",
+      "url": "https://bbongtv4.com/premium/basket/2001042794",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/9 (금)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "마",
+      "team2": "마카비 텔아비브",
+      "score1": 97,
+      "score2": 79,
+      "prob": {
+        "home": 47.0,
+        "away": 53.0
+      },
+      "ai_summary": "0승3패와 득실차 -16.33, 마카비 신뢰보다 접전 경계",
+      "ai_picks": [
+        "올림피아 밀라노 승",
+        "언더 172.5",
+        "올림피아 밀라노 +1.5 승"
+      ],
+      "aria_label": "마카비 텔아비브 vs 올림피아 밀라노 01:00 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001042799",
+      "url": "https://bbongtv4.com/premium/basket/2001042799",
+      "sport": "basket",
+      "league": "EUROLEAGUE",
+      "date": "10/9 (금)",
+      "time": "01:00",
+      "status": "종료",
+      "result": "적중",
+      "team1": "두",
+      "team2": "두바이",
+      "score1": 58,
+      "score2": 77,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "두바이 홈 2승0패와 원정팀 1점 패배, 우세 속 접전 구도",
+      "ai_picks": [
+        "두바이 승",
+        "언더 167.5",
+        "크르베나 즈베즈다 메리디안벳 +6.5 승"
+      ],
+      "aria_label": "두바이 vs 크르베나 즈베즈다 메리디안벳 01:00 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2000643986",
+      "url": "https://bbongtv4.com/premium/hockey/2000643986",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/9 (금)",
+      "time": "01:10",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "디",
+      "team2": "디나모 민스크",
+      "score1": 4,
+      "score2": 2,
+      "prob": {
+        "home": 48.0,
+        "away": 52.0
+      },
+      "ai_summary": "SKA 상트페테르부르크 최근 6경기 5승, 득점력에서 앞선 흐름",
+      "ai_picks": [
+        "SKA 상트페테르부르크 승"
+      ],
+      "aria_label": "디나모 민스크 vs SKA 상트페테르부르크 01:10 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2000643434",
+      "url": "https://bbongtv4.com/premium/hockey/2000643434",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/9 (금)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "니",
+      "team2": "니즈니노브고로드",
+      "score1": 2,
+      "score2": 3,
+      "prob": {
+        "home": 65.0,
+        "away": 35.0
+      },
+      "ai_summary": "니즈니노브고로드, 홈 3승2패와 원정 6승1패로 전방위 강세",
+      "ai_picks": [
+        "니즈니노브고로드 승"
+      ],
+      "aria_label": "니즈니노브고로드 vs 체레포베츠 01:30 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2000643435",
+      "url": "https://bbongtv4.com/premium/hockey/2000643435",
+      "sport": "hockey",
+      "league": "KHL",
+      "date": "10/9 (금)",
+      "time": "01:30",
+      "status": "종료",
+      "result": "미적중",
+      "team1": "니",
+      "team2": "니즈네카민스크",
+      "score1": 0,
+      "score2": 1,
+      "prob": {
+        "home": 55.0,
+        "away": 45.0
+      },
+      "ai_summary": "니즈네카민스크 홈 평균득점 4점, 아반가르드 옴스크 원정 득점 저조",
+      "ai_picks": [
+        "니즈네카민스크 승"
+      ],
+      "aria_label": "니즈네카민스크 vs 아반가르드 옴스크 01:30 분석 상세",
       "source_date": "2026-10-09"
     }
   ]
