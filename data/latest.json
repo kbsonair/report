@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T20:37:35.394427+00:00",
+  "scraped_at": "2026-10-09T00:39:31.222104+00:00",
   "kst_yesterday": "2026-10-08",
   "kst_today": "2026-10-09",
   "kst_tomorrow": "2026-10-10",
@@ -8,7 +8,7 @@
     "2026-10-09",
     "2026-10-10"
   ],
-  "count": 174,
+  "count": 182,
   "matches": [
     {
       "id": "2000643438",
@@ -188,6 +188,31 @@
         "알 디리야 +1.5 승"
       ],
       "aria_label": "알 나스르 vs 알 디리야 03:00 분석 상세",
+      "source_date": "2026-10-10"
+    },
+    {
+      "id": "2007222306",
+      "url": "https://bbongtv4.com/premium/soccer/2007222306",
+      "sport": "soccer",
+      "league": "HOL D1",
+      "date": "10/10 (토)",
+      "time": "03:00",
+      "status": "예정",
+      "result": null,
+      "team1": "PSV",
+      "team2": "헤이렌베인",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 65.0,
+        "draw": 17.0,
+        "away": 18.0
+      },
+      "ai_summary": "홈팀 PSV 에인트호번 승리",
+      "ai_picks": [
+        "PSV 승"
+      ],
+      "aria_label": "PSV vs 헤이렌베인 03:00 분석 상세",
       "source_date": "2026-10-10"
     },
     {
@@ -551,6 +576,30 @@
         "오버 5.5"
       ],
       "aria_label": "워싱턴 캐피털스 vs NY 레인저스 08:00 분석 상세",
+      "source_date": "2026-10-10"
+    },
+    {
+      "id": "2001068948",
+      "url": "https://bbongtv4.com/premium/basket/2001068948",
+      "sport": "basket",
+      "league": "WNBA",
+      "date": "10/10 (토)",
+      "time": "08:30",
+      "status": "예정",
+      "result": null,
+      "team1": "뉴욕 리버티 여자",
+      "team2": "애틀랜타 드림 여자",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 42.0,
+        "away": 58.0
+      },
+      "ai_summary": "상대전적 4연패와 원정 평균득점 87.15, 애틀랜타 흐름 우세",
+      "ai_picks": [
+        "애틀랜타 드림 여자 승"
+      ],
+      "aria_label": "뉴욕 리버티 여자 vs 애틀랜타 드림 여자 08:30 분석 상세",
       "source_date": "2026-10-10"
     },
     {
@@ -2515,12 +2564,12 @@
       "league": "EUROLEAGUE",
       "date": "10/9 (금)",
       "time": "03:00",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "바",
       "team2": "바이에른",
-      "score1": null,
-      "score2": null,
+      "score1": 87,
+      "score2": 94,
       "prob": {
         "home": 59.0,
         "away": 41.0
@@ -2540,12 +2589,12 @@
       "league": "EUROLEAGUE",
       "date": "10/9 (금)",
       "time": "03:15",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "파",
       "team2": "파나티나이코스",
-      "score1": null,
-      "score2": null,
+      "score1": 92,
+      "score2": 74,
       "prob": {
         "home": 62.0,
         "away": 38.0
@@ -2565,12 +2614,12 @@
       "league": "EUROLEAGUE",
       "date": "10/9 (금)",
       "time": "03:30",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "적중",
       "team1": "발",
       "team2": "발렌시아",
-      "score1": null,
-      "score2": null,
+      "score1": 93,
+      "score2": 82,
       "prob": {
         "home": 51.0,
         "away": 49.0
@@ -2590,12 +2639,12 @@
       "league": "EUROLEAGUE",
       "date": "10/9 (금)",
       "time": "03:45",
-      "status": "예정",
-      "result": null,
+      "status": "종료",
+      "result": "미적중",
       "team1": "레",
       "team2": "레알마드리드",
-      "score1": null,
-      "score2": null,
+      "score1": 86,
+      "score2": 76,
       "prob": {
         "home": 35.0,
         "away": 65.0
@@ -3114,6 +3163,31 @@
       "source_date": "2026-10-09"
     },
     {
+      "id": "2001052158",
+      "url": "https://bbongtv4.com/premium/basket/2001052158",
+      "sport": "basket",
+      "league": "NBA",
+      "date": "10/9 (금)",
+      "time": "11:30",
+      "status": "예정",
+      "result": null,
+      "team1": "레",
+      "team2": "LA 레이커스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 72.0,
+        "away": 28.0
+      },
+      "ai_summary": "직전 맞대결 127-103 우위, 홈 1.24 배당도 기운 경기",
+      "ai_picks": [
+        "LA 레이커스 승",
+        "LA 레이커스 -10.5 승"
+      ],
+      "aria_label": "LA 레이커스 vs 새크라멘토 킹스 11:30 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
       "id": "2000355995",
       "url": "https://bbongtv4.com/premium/baseball/2000355995",
       "sport": "baseball",
@@ -3199,8 +3273,8 @@
       "time": "14:00",
       "status": "예정",
       "result": null,
-      "team1": "수",
-      "team2": "수원 KT",
+      "team1": "수원 KT",
+      "team2": "고양 소노",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3304,8 +3378,8 @@
       "time": "16:30",
       "status": "예정",
       "result": null,
-      "team1": "서",
-      "team2": "서울 삼성",
+      "team1": "서울 삼성",
+      "team2": "안양 정관장",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3459,8 +3533,8 @@
       "time": "19:00",
       "status": "예정",
       "result": null,
-      "team1": "가",
-      "team2": "가시마앤틀러스",
+      "team1": "가시마앤틀러스",
+      "team2": "감바 오사카",
       "score1": null,
       "score2": null,
       "prob": {
@@ -3501,6 +3575,133 @@
         "비셀 고베 +0.5 승"
       ],
       "aria_label": "카시와 레이솔 vs 비셀 고베 19:00 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001037368",
+      "url": "https://bbongtv4.com/premium/basket/2001037368",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/9 (금)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "알",
+      "team2": "알티리 치바",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 66.0,
+        "away": 34.0
+      },
+      "ai_summary": "알티리 치바 홈 득점력, 오사카 최근 3경기 60점 미만 부진과 대비",
+      "ai_picks": [
+        "알티리 치바 승",
+        "알티리 치바 -4.5 승",
+        "언더 157.5"
+      ],
+      "aria_label": "알티리 치바 vs 오사카 19:05 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001037369",
+      "url": "https://bbongtv4.com/premium/basket/2001037369",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/9 (금)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "이",
+      "team2": "이바라키 로봇",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 30.0,
+        "away": 70.0
+      },
+      "ai_summary": "홈 0승3패와 원정 득실차 +4.75, 흐름은 브렉스 쪽",
+      "ai_picks": [
+        "우츠노미야 브렉스 승",
+        "오버 160.5",
+        "우츠노미야 브렉스 -5.5 승"
+      ],
+      "aria_label": "이바라키 로봇 vs 우츠노미야 브렉스 19:05 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001037370",
+      "url": "https://bbongtv4.com/premium/basket/2001037370",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/9 (금)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "센",
+      "team2": "센다이",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 35.0,
+        "away": 65.0
+      },
+      "ai_summary": "시호스 미카와, 원정 4경기 평균득점 88점으로 공격력 우위",
+      "ai_picks": [
+        "시호스 미카와 승",
+        "오버 163.5"
+      ],
+      "aria_label": "센다이 vs 시호스 미카와 19:05 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001037371",
+      "url": "https://bbongtv4.com/premium/basket/2001037371",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/9 (금)",
+      "time": "19:05",
+      "status": "예정",
+      "result": null,
+      "team1": "도",
+      "team2": "도쿄 선로커스",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 75.0,
+        "away": 25.0
+      },
+      "ai_summary": "도쿄 선로커스, 최근 4연승과 홈 평균득점 90.75로 공격력 앞선다",
+      "ai_picks": [
+        "도쿄 선로커스 승"
+      ],
+      "aria_label": "도쿄 선로커스 vs 토야마 19:05 분석 상세",
+      "source_date": "2026-10-09"
+    },
+    {
+      "id": "2001037372",
+      "url": "https://bbongtv4.com/premium/basket/2001037372",
+      "sport": "basket",
+      "league": "일본 B리그",
+      "date": "10/9 (금)",
+      "time": "19:15",
+      "status": "예정",
+      "result": null,
+      "team1": "교",
+      "team2": "교토",
+      "score1": null,
+      "score2": null,
+      "prob": {
+        "home": 60.0,
+        "away": 40.0
+      },
+      "ai_summary": "홈 3승1패 교토, 원정 평균득점 72.67 요코하마와 접전",
+      "ai_picks": [
+        "교토 승",
+        "언더 159.5",
+        "요코하마 +4.5 승"
+      ],
+      "aria_label": "교토 vs 요코하마 19:15 분석 상세",
       "source_date": "2026-10-09"
     },
     {
